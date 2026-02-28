@@ -1,0 +1,10 @@
+pandas
+tqdm
+google
+protobuf
+python-dotenv
+requests
+beautifulsoup4
+google-generativeai
+lxml
+openpyxl
