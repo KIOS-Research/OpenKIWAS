@@ -1,0 +1,891 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_57</p>
+<p>TITLE: Data from: Convergence of fish community structure between a newly deployed and an established artificial reef along a five-month trajectory</p>
+<p>ID: waste water_57</p>
+<p>Dataset Page: https://zenodo.org/records/15554828</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554828</p>
+<p>Title: Data from: Convergence of fish community structure between a newly deployed and an established artificial reef along a five-month trajectory</p>
+<p>DOI: 10.5281/zenodo.15554828</p>
+<p>Description:</p>
+<p>Data from:</p>
+<p>Paxton, A.B., L.W. Revels, R.C. Rosemond, R.V. Van Hoeck, H.R. Lemoine, J.C. Taylor, and C.H. Peterson. 2018. Convergence of fish community structure between a newly deployed and an established artificial reef along a five-month trajectory. Ecological Engineering 123: 185-192. DOI: 10.1016/j.ecoleng.2018.09.012 <a href="https://doi.org/10.1016/j.ecoleng.2018.09.012">https://doi.org/10.1016/j.ecoleng.2018.09.012</a>.</p>
+<p>Creators: Paxton, Avery B, Revels, Locke W., Rosemond, R. Claire, Van Hoeck, Rebecca V, Lemoine, Hayley R., Taylor, J. Christopher, Peterson, Charles H.</p>
+<p>Publication Date: 2018</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_58</p>
+<p>TITLE: Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</p>
+<p>ID: waste water_58</p>
+<p>Dataset Page: https://zenodo.org/records/15553663</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15553663</p>
+<p>Title: Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</p>
+<p>DOI: 10.5281/zenodo.15553663</p>
+<p>Description:</p>
+<p>The depletion of clean water resources and the consequent accumulation of contaminants in aquatic systems must be urgently addressed by means of innovative solutions. Electro-oxidation (EO) is considered a promising technology, prized for its versatility and eco-friendliness. However, the excessively high prices and the toxicity associated with some of the materials currently employed for EO impede its broader application. This study introduces cost-effective Ni-Mn binary oxide anodes prepare</p>
+<p>Creators: Mirehbar, Keyvan, Sanchez, Jaime, Pinilla, Sergio, Oropeza, Freddy E., Sires, Ignasi, de la Peña O&#39;Shea, Víctor A., Palma, Jesús, Lado, Julio</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Electrochemical advanced oxidation processes (EAOPs), Electrochemical oxidation (EO), High oxidation power anode, Multi-metal oxides, Organic contaminant</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_59</p>
+<p>TITLE: 4. Wet torrefaction of biomass waste into value-added liquid product (5-HMF) and high quality solid fuel (hydrochar) in a nitrogen atmosphere</p>
+<p>ID: waste water_59</p>
+<p>Dataset Page: https://zenodo.org/records/15554554</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554554</p>
+<p>Title: 4. Wet torrefaction of biomass waste into value-added liquid product (5-HMF) and high quality solid fuel (hydrochar) in a nitrogen atmosphere</p>
+<p>DOI: 10.5281/zenodo.15554554</p>
+<p>Description:</p>
+<p>This file reports on non-catalytic wet torrefaction in a nitrogen atmosphere with a focus on producing 5-HMF. Data include 5-HMF selectivity and yield (%) at temperatures of 180-260°C over reaction times from 15 to 60 min. The maximum 5-HMF selectivity achieved was 73.3%. Solid fuel yield and its HHV (higher heating value) are also reported, along with a carbon mass balance and GC-MS data for product identification.</p>
+<p>Creators: Kostyniuk, Andrii</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_60</p>
+<p>TITLE: 3. Wet torrefaction of biomass waste into levulinic acid and high-quality hydrochar using H-beta zeolite catalyst</p>
+<p>ID: waste water_60</p>
+<p>Dataset Page: https://zenodo.org/records/15554547</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554547</p>
+<p>Title: 3. Wet torrefaction of biomass waste into levulinic acid and high-quality hydrochar using H-beta zeolite catalyst</p>
+<p>DOI: 10.5281/zenodo.15554547</p>
+<p>Description:</p>
+<p>This file presents the torrefaction of biomass using only H-beta zeolite, focusing on LA formation. Product selectivity data indicate that levulinic acid reached a maximum yield, while hydrochar yield decreased with increasing temperature. The dataset includes carbon content of the hydrochar, total organic carbon conversion, and the impact of reaction time on LA production. Additional data include the GC-MS analysis of the aqueous phase.</p>
+<p>Creators: Kostyniuk, Andrii</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_61</p>
+<p>TITLE: 2. Wet torrefaction of biomass waste into high quality hydrochar and value-added liquid products using different zeolite catalysts</p>
+<p>ID: waste water_61</p>
+<p>Dataset Page: https://zenodo.org/records/15554490</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554490</p>
+<p>Title: 2. Wet torrefaction of biomass waste into high quality hydrochar and value-added liquid products using different zeolite catalysts</p>
+<p>DOI: 10.5281/zenodo.15554490</p>
+<p>Description:</p>
+<p>This file contains comparative experimental results for wet torrefaction of biomass using multiple zeolite catalysts (H-ZSM-5, H-Beta, USY). It includes detailed tables of liquid product selectivity (e.g., acetic acid, LA, furfural), hydrochar yield (%), and conversion at three temperatures and reaction times ranging from 15 to 60 min. GC-MS and elemental analysis data are included to characterize the liquid and solid products.</p>
+<p>Creators: Kostyniuk, Andrii</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_62</p>
+<p>TITLE: Plastic Pirates - Go Europe!: Floating macro-, meso- and microlitter data collected by citizens in rivers in Europe between 2022 and 2024</p>
+<p>ID: waste water_62</p>
+<p>Dataset Page: https://zenodo.org/records/15535538</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535538</p>
+<p>Title: Plastic Pirates - Go Europe!: Floating macro-, meso- and microlitter data collected by citizens in rivers in Europe between 2022 and 2024</p>
+<p>DOI: 10.5281/zenodo.15535538</p>
+<p>Description:</p>
+<p>Floating macro-, meso- and microlitter data collected by school children from the surface water of European rivers and streams in the period 2022-2024 for the Plastic Pirates – Go Europe! project. (Micro)litter particles have been analysed in the lab by experts to assess their characteristics. The data have been validated by experts of the Plastic Pirates partner institutes according to a data verification protocol. After validation of the data by the partner institutes, further quality</p>
+<p>Creators: Dhondt, Charlotte A.L., Grego, Mateja, Adamopoulou, Argyro, Andriopoulou, Roula, Angelov, Plamen, Antunes, Joana C., Bajt, Oliver, Baltov, Milen, Batista de Carvalho, Luís A.E., Bessa, Filipa, Bonifacio, Larissa, Burdukovska, Valentīna, Byčenkienė, Steigvilė, Catarino, Ana I., Chu, Chia-Yu, Consoli, Gloria, Costa, Elisa, Debaveye, Line, Dimante-Deimantovica, Inta, Dimitriou, Elias, Doró, Viktória, Everaert, Gert, Ferreira, Gabriella, Francocci, Fedra, Gyalai-Korpos, Miklós, Heller, Balázs, Idini, Evelina, Jecheva, Veselina, Kraml, Magdalena, Lenz, Sabine, Lopes, Carla, Ludvik, Noemi, Marín-Beltrán, Isabel, Markevičiūtė, Radvilė, Marques, Maria Paula M., Molnár, Attila Dávid, Nitschke, Therese, Noichl, Anna, Obersteiner, Gudrun, Ottner, Reinhold, Pocius, Tomas, Rondelez, Jelle, Šablevičiūtė-Visockienė, Ieva, Schmied, Elisabeth, Scocchera, Elisa, Seys, Jan, Soares, Sandra S., Sobral, Paula, Stonkus, Tomas, Trdan, Štefan, Turmanova, Sevdalina, Uogintė, Ieva, Varga, Csilla, Visconti, Giulia, Zanetti, Lisa, Zeri, Christina, Ackermann, Philip</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: riverine litter, citizen science, plastic litter, particle analysis, polymer type</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 2.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_63</p>
+<p>TITLE: Plastic Pirates - Go Europe!: Macrolitter data collected by citizens on riverbanks in Europe between 2022 and 2024</p>
+<p>ID: waste water_63</p>
+<p>Dataset Page: https://zenodo.org/records/15535434</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535434</p>
+<p>Title: Plastic Pirates - Go Europe!: Macrolitter data collected by citizens on riverbanks in Europe between 2022 and 2024</p>
+<p>DOI: 10.5281/zenodo.15535434</p>
+<p>Description:</p>
+<p>Macrolitter data collected by school children on riverbanks in several European countries in the period 2022-2024 for the Plastic Pirates – Go Europe! project. The data have been validated by experts of the Plastic Pirates partner institutes according to a data verification protocol. After validation of the data by the partner institutes, further quality control was done by VLIZ and NIB. Data harmonisation, standardisation and publication was done by VLIZ.</p>
+<p>Acknowledgement:</p>
+<p>Creators: Dhondt, Charlotte A.L., Grego, Mateja, Abril Cuevas, Meritxell, Andriopoulou, Roula, Angelov, Plamen, Baltov, Milen, Bonifacio, Larissa, Burdukovska, Valentīna, Byčenkienė, Steigvilė, Canepa-Oneto, Antonio Jesús, Catarino, Ana I., Consoli, Gloria, De La Fuente Gamero, Patricia, Debaveye, Line, Dimante-Deimantovica, Inta, Dimitriou, Elias, Dittmann, Sinja, Doró, Viktória, Everaert, Gert, Ferreira, Gabriella, Francocci, Fedra, Gignac, Florence, Gyalai-Korpos, Miklós, Idini, Evelina, Jecheva, Veselina, Kiessling, Tim, Kraml, Magdalena, Lenz, Sabine, Lopes, Carla, López-Doval, Julio C., Marín-Beltrán, Isabel, Markevičiūtė, Radvilė, Molnár, Attila Dávid, Nitschke, Therese, Noichl, Anna, Obersteiner, Gudrun, Ottner, Reinhold, Pocius, Tomas, Rondelez, Jelle, Šablevičiūtė-Visockienė, Ieva, Schmied, Elisabeth, Schönberg, Janto, Scocchera, Elisa, Seys, Jan, Soares, Sandra S., Soria Extremera, Maria, Trdan, Štefan, Turmanova, Sevdalina, Uogintė, Ieva, Visconti, Giulia, Zeri, Christina, Ackermann, Philip</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: riverine litter, plastic litter, macrolitter, citizen science</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 2.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_64</p>
+<p>TITLE: 1. Catalytic wet torrefaction of biomass waste into bio-ethanol, levulinic acid, and high-quality solid fuel</p>
+<p>ID: waste water_64</p>
+<p>Dataset Page: https://zenodo.org/records/15554281</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554281</p>
+<p>Title: 1. Catalytic wet torrefaction of biomass waste into bio-ethanol, levulinic acid, and high-quality solid fuel</p>
+<p>DOI: 10.5281/zenodo.15554281</p>
+<p>Description:</p>
+<p>This file contains experimental data showing the catalytic conversion of biomass into bio-ethanol, levulinic acid (LA), and hydrochar using H-ZSM-5 under a nitrogen atmosphere. The dataset includes product selectivity (%) for ethanol and LA, biomass conversion efficiency (%), and solid fuel yield at varying reaction temperatures and times. The file also provides carbon recovery analysis and mass balances for each experimental condition.</p>
+<p>Creators: Kostyniuk, Andrii</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_65</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Salids</p>
+<p>ID: waste water_65</p>
+<p>Dataset Page: https://zenodo.org/records/15481519</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481519</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Salids</p>
+<p>DOI: 10.5281/zenodo.15481519</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Salids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_66</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustalfs</p>
+<p>ID: waste water_66</p>
+<p>Dataset Page: https://zenodo.org/records/15481417</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481417</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustalfs</p>
+<p>DOI: 10.5281/zenodo.15481417</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustalfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_67</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Fluvents</p>
+<p>ID: waste water_67</p>
+<p>Dataset Page: https://zenodo.org/records/15481501</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481501</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Fluvents</p>
+<p>DOI: 10.5281/zenodo.15481501</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Fluvents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_68</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udepts</p>
+<p>ID: waste water_68</p>
+<p>Dataset Page: https://zenodo.org/records/15481445</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481445</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udepts</p>
+<p>DOI: 10.5281/zenodo.15481445</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_69</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Calcids</p>
+<p>ID: waste water_69</p>
+<p>Dataset Page: https://zenodo.org/records/15481409</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481409</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Calcids</p>
+<p>DOI: 10.5281/zenodo.15481409</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Calcids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_70</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustolls</p>
+<p>ID: waste water_70</p>
+<p>Dataset Page: https://zenodo.org/records/15481493</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481493</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustolls</p>
+<p>DOI: 10.5281/zenodo.15481493</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_71</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Rendolls</p>
+<p>ID: waste water_71</p>
+<p>Dataset Page: https://zenodo.org/records/15481441</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481441</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Rendolls</p>
+<p>DOI: 10.5281/zenodo.15481441</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Rendolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_72</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerands</p>
+<p>ID: waste water_72</p>
+<p>Dataset Page: https://zenodo.org/records/15481411</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481411</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerands</p>
+<p>DOI: 10.5281/zenodo.15481411</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_73</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerepts</p>
+<p>ID: waste water_73</p>
+<p>Dataset Page: https://zenodo.org/records/15481487</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481487</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerepts</p>
+<p>DOI: 10.5281/zenodo.15481487</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_74</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerults</p>
+<p>ID: waste water_74</p>
+<p>Dataset Page: https://zenodo.org/records/15481451</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481451</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerults</p>
+<p>DOI: 10.5281/zenodo.15481451</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerults Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_75</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Saprists</p>
+<p>ID: waste water_75</p>
+<p>Dataset Page: https://zenodo.org/records/15481523</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481523</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Saprists</p>
+<p>DOI: 10.5281/zenodo.15481523</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Saprists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_76</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udalfs</p>
+<p>ID: waste water_76</p>
+<p>Dataset Page: https://zenodo.org/records/15481423</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481423</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udalfs</p>
+<p>DOI: 10.5281/zenodo.15481423</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udalfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_77</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryands</p>
+<p>ID: waste water_77</p>
+<p>Dataset Page: https://zenodo.org/records/15481415</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481415</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryands</p>
+<p>DOI: 10.5281/zenodo.15481415</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_78</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Folists</p>
+<p>ID: waste water_78</p>
+<p>Dataset Page: https://zenodo.org/records/15481525</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481525</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Folists</p>
+<p>DOI: 10.5281/zenodo.15481525</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Folists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_79</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Fibrists</p>
+<p>ID: waste water_79</p>
+<p>Dataset Page: https://zenodo.org/records/15481453</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481453</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Fibrists</p>
+<p>DOI: 10.5281/zenodo.15481453</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Fibrists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_80</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Albolls</p>
+<p>ID: waste water_80</p>
+<p>Dataset Page: https://zenodo.org/records/15481517</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481517</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Albolls</p>
+<p>DOI: 10.5281/zenodo.15481517</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Albolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_81</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Boralfs</p>
+<p>ID: waste water_81</p>
+<p>Dataset Page: https://zenodo.org/records/15481431</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481431</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Boralfs</p>
+<p>DOI: 10.5281/zenodo.15481431</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Boralfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_82</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryods</p>
+<p>ID: waste water_82</p>
+<p>Dataset Page: https://zenodo.org/records/15481491</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481491</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryods</p>
+<p>DOI: 10.5281/zenodo.15481491</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryods Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_83</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ochrepts</p>
+<p>ID: waste water_83</p>
+<p>Dataset Page: https://zenodo.org/records/15481529</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481529</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ochrepts</p>
+<p>DOI: 10.5281/zenodo.15481529</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ochrepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_84</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Hemists</p>
+<p>ID: waste water_84</p>
+<p>Dataset Page: https://zenodo.org/records/15481513</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481513</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Hemists</p>
+<p>DOI: 10.5281/zenodo.15481513</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Hemists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_85</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Orthents</p>
+<p>ID: waste water_85</p>
+<p>Dataset Page: https://zenodo.org/records/15481413</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481413</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Orthents</p>
+<p>DOI: 10.5281/zenodo.15481413</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Orthents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_86</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Orthids</p>
+<p>ID: waste water_86</p>
+<p>Dataset Page: https://zenodo.org/records/15481433</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481433</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Orthids</p>
+<p>DOI: 10.5281/zenodo.15481433</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Orthids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_87</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Orthels</p>
+<p>ID: waste water_87</p>
+<p>Dataset Page: https://zenodo.org/records/15481511</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481511</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Orthels</p>
+<p>DOI: 10.5281/zenodo.15481511</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Orthels Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_88</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Turbels</p>
+<p>ID: waste water_88</p>
+<p>Dataset Page: https://zenodo.org/records/15481469</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481469</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Turbels</p>
+<p>DOI: 10.5281/zenodo.15481469</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Turbels Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_89</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustults</p>
+<p>ID: waste water_89</p>
+<p>Dataset Page: https://zenodo.org/records/15481459</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481459</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustults</p>
+<p>DOI: 10.5281/zenodo.15481459</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustults Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_90</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Humults</p>
+<p>ID: waste water_90</p>
+<p>Dataset Page: https://zenodo.org/records/15481503</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481503</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Humults</p>
+<p>DOI: 10.5281/zenodo.15481503</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Humults Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_91</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryalfs</p>
+<p>ID: waste water_91</p>
+<p>Dataset Page: https://zenodo.org/records/15481419</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481419</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryalfs</p>
+<p>DOI: 10.5281/zenodo.15481419</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryalfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_92</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Tropepts</p>
+<p>ID: waste water_92</p>
+<p>Dataset Page: https://zenodo.org/records/15481467</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481467</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Tropepts</p>
+<p>DOI: 10.5281/zenodo.15481467</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Tropepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_93</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Durids</p>
+<p>ID: waste water_93</p>
+<p>Dataset Page: https://zenodo.org/records/15481427</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481427</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Durids</p>
+<p>DOI: 10.5281/zenodo.15481427</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Durids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_94</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryolls</p>
+<p>ID: waste water_94</p>
+<p>Dataset Page: https://zenodo.org/records/15481425</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481425</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryolls</p>
+<p>DOI: 10.5281/zenodo.15481425</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_95</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustox</p>
+<p>ID: waste water_95</p>
+<p>Dataset Page: https://zenodo.org/records/15481477</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481477</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustox</p>
+<p>DOI: 10.5281/zenodo.15481477</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustox Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-t</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_96</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Vitrands</p>
+<p>ID: waste water_96</p>
+<p>Dataset Page: https://zenodo.org/records/15481505</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481505</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Vitrands</p>
+<p>DOI: 10.5281/zenodo.15481505</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Vitrands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_97</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Usterts</p>
+<p>ID: waste water_97</p>
+<p>Dataset Page: https://zenodo.org/records/15481429</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481429</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Usterts</p>
+<p>DOI: 10.5281/zenodo.15481429</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Usterts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_98</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryepts</p>
+<p>ID: waste water_98</p>
+<p>Dataset Page: https://zenodo.org/records/15481521</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481521</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryepts</p>
+<p>DOI: 10.5281/zenodo.15481521</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_99</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aqualfs</p>
+<p>ID: waste water_99</p>
+<p>Dataset Page: https://zenodo.org/records/15481443</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481443</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aqualfs</p>
+<p>DOI: 10.5281/zenodo.15481443</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aqualfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: waste water_100</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udands</p>
+<p>ID: waste water_100</p>
+<p>Dataset Page: https://zenodo.org/records/15481435</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481435</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udands</p>
+<p>DOI: 10.5281/zenodo.15481435</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_1</p>
+<p>TITLE: Beyond meteorological data: Modelling Tree Growth with ERA5-Land - Data</p>
+<p>ID: precipitation_1</p>
+<p>Dataset Page: https://zenodo.org/records/15592062</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15592062</p>
+<p>Title: Beyond meteorological data: Modelling Tree Growth with ERA5-Land - Data</p>
+<p>DOI: 10.5281/zenodo.15592062</p>
+<p>Description:</p>
+<p><em>Data used by</em></p>
+<p>Marian Schönauer, Christoph Pucher, Jan Altman, Josef Weißbacher, Lars Sprengel, Boris Rewald (2025), Agricultural and Forest Meteorology, DOI: 1</p>
+<p>Creators: Marian, Schönauer</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Climate reanalysis data, Climate-vegetation interactions, Forest growth modelling, Tree-ring width</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_2</p>
+<p>TITLE: Updated Estimates of the Sputtering Contributions to the Exosphere of Mercury from Magnetospheric Ion Precipitation (Dataset)</p>
+<p>ID: precipitation_2</p>
+<p>Dataset Page: https://zenodo.org/records/15484571</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15484571</p>
+<p>Title: Updated Estimates of the Sputtering Contributions to the Exosphere of Mercury from Magnetospheric Ion Precipitation (Dataset)</p>
+<p>DOI: 10.5281/zenodo.15484571</p>
+<p>Description:</p>
+<p>This repository includes supplementary data for the publication &quot;Updated Estimates of the Sputtering contributions to the Exosphere of Mercury from Magnetospheric Ion Precipitation&quot;.</p>
+<p>Creators: Szabo, Paul Stefan</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Revision 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_3</p>
+<p>TITLE: The evolution of cheaper workers facilitated larger societies and accelerated diversification in ants</p>
+<p>ID: precipitation_3</p>
+<p>Dataset Page: https://zenodo.org/records/15546461</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15546461</p>
+<p>Title: The evolution of cheaper workers facilitated larger societies and accelerated diversification in ants</p>
+<p>DOI: 10.5281/zenodo.15546461</p>
+<p>Description:</p>
+<p>*Supplementary material related to the manuscript: &quot;The evolution of cheaper workers facilitated larger societies and accelerated diversification in ants&quot;. *</p>
+<p>Python scripts. Automated segmentation and data extraction scripts for processing 3D µ-CT scans.</p>
+<p>R scripts. Statistical and phylogenetic comparative analysis scripts used in this study.</p>
+<p>Dataset S1. Extracted cuticle and body volume measurements for all scanned specimens.</p>
+<p>Dataset S2. Manually</p>
+<p>Creators: Matte, Arthur, Guénard, Benoit, Gautam, Shubham, Azuma, Fumika, Hita Garcia, Francisco, van de Kamp, Thomas, Economo, Evan</p>
+<p>Publication Date: 2025-06-01 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_4</p>
+<p>TITLE: A new dataset of rain cell generated from observations of the Tropical Rainfall Measuring Mission (TRMM) precipitation radar and visible and infrared scanner and microwave imager</p>
+<p>ID: precipitation_4</p>
+<p>Dataset Page: https://zenodo.org/records/15387988</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15387988</p>
+<p>Title: A new dataset of rain cell generated from observations of the Tropical Rainfall Measuring Mission (TRMM) precipitation radar and visible and infrared scanner and microwave imager</p>
+<p>DOI: 10.5281/zenodo.15387988</p>
+<p>Description:</p>
+<p>This new dataset (M.TRMM-1B01-1B11-2A25-PMD-Rain) contains orbit-level data with 5 km spatial resolution and 0.25 km vertical resolution. It is produced by merging TRMM PR, VIRS and TMI measurements at PR pixel resolution combined with rain cell identification. The near-surface rain rate, profiles of rain rate and precipitation reflectivity factor, visible and infrared signals and microwave signals can be obtained in the dataset. The dataset provides new important data for in-depth research o</p>
+<p>Creators: Wu Zhenhao, Fu YunFei</p>
+<p>Publication Date: 2025-05-18 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_5</p>
+<p>TITLE: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>ID: precipitation_5</p>
+<p>Dataset Page: https://zenodo.org/records/15576077</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15576077</p>
+<p>Title: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>DOI: 10.5281/zenodo.15576077</p>
+<p>Description: Data Documentation for Permafrost Distribution and Probability (Northeast China, 2000–2020) 1. Overview</p>
+<p>This dataset presents the spatial distribution and occurrence probability of permafrost in Northeast China from 2000 to 2020, generated using machine learning models driven by multi-source environmental and meteorological variables. The dataset includes two GeoTIFF files at 1 km spatial resolution</p>
+<p>Creators: Huang, Shuai, Jin, Huijun</p>
+<p>Publication Date: 2025-06-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_6</p>
+<p>TITLE: Labelled dataset to classify direct deforestation drivers in Cameroon: NIR-R-G bands</p>
+<p>ID: precipitation_6</p>
+<p>Dataset Page: https://zenodo.org/records/15538497</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15538497</p>
+<p>Title: Labelled dataset to classify direct deforestation drivers in Cameroon: NIR-R-G bands</p>
+<p>DOI: 10.5281/zenodo.15538497</p>
+<p>Description:</p>
+<p><em>Overview</em></p>
+<p>This dataset includes the images (NIR-R-G bands for Landsat-8 or NICFI PlanetScope), auxiliary data (infrared, NCEP, forest gain, OpenStreetMap, SRTM, GFW), and data about forest loss (Global Forest Change) used to train, validate and test a model to classify direct deforestation drivers in Cameroon. The creation of this dataset follows the same structure as: Labelled dataset to classify direct deforestation drivers</p>
+<p>Creators: Debus, Amandine, Beauchamp, Emilie, Acworth, James, Ewolo, Achille, Kamga, Justin, Verhegghen, Astrid, Zébazé, Christiane, Lines, Emily R.</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Deforestation drivers, Central Africa, Cameroon, Landsat-8, NICFI PlanetScope</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_7</p>
+<p>TITLE: The anatomy of Green AI technologies: structure, evolution, and impact - Dataset and Replicability Material</p>
+<p>ID: precipitation_7</p>
+<p>Dataset Page: https://zenodo.org/records/15545361</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15545361</p>
+<p>Title: The anatomy of Green AI technologies: structure, evolution, and impact - Dataset and Replicability Material</p>
+<p>DOI: 10.5281/zenodo.15545361</p>
+<p>Description:</p>
+<p>Accompanying material for the paper &quot;The anatomy of Green AI technologies: structure, evolution, and impact&quot; (2025).</p>
+<p>Dataset Construction</p>
+<p>The <em>Green AI Patent Dataset</em> comprises 63 326 unique U.S. patents that intersect environmental (“green”) technologies with artificial‐intelligence components, spanning from 1976 to 2023. It was assembled by combining:</p>
+<p>1.</p>
+<p><em>PatentsView (USPTO)</em> – U.S. patents (sn</p>
+<p>Creators: Emer, Lorenzo, Mina, Andrea, Vandin, Andrea</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: precipitation_8</p>
+<p>TITLE: MODIS Crops Only NDVI data Karamoja 2000 to 2015</p>
+<p>ID: precipitation_8</p>
+<p>Dataset Page: https://zenodo.org/records/15545940</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15545940</p>
+<p>Title: MODIS Crops Only NDVI data Karamoja 2000 to 2015</p>
+<p>DOI: 10.5281/zenodo.15545940</p>
+<p>Description:</p>
+<p><em>MODIS NDVI Drought Risk Forecasting Dataset for Karamoja Region, Uganda (2000-2016)</em></p>
+<p>This dataset contains processed MODIS Normalized Difference Vegetation Index (NDVI) data and derived drought indicators for six districts in the Karamoja region of Uganda. The data was used to trigger alerts in the Drought Risk Forecasting (DRF) program, providing early warning capabilities for drought conditions affecting this semi-arid pastoral region.</p>

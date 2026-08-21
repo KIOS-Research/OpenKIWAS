@@ -1,0 +1,303 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_32</p>
+<p>TITLE: Bejay / weaving patterns for a Tsombiach on the theme of water translated into Spanish, Kämentza and Englis</p>
+<p>ID: underground water_32</p>
+<p>Dataset Page: https://zenodo.org/records/15570275</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15570275</p>
+<p>Title: Bejay / weaving patterns for a Tsombiach on the theme of water translated into Spanish, Kämentza and Englis</p>
+<p>DOI: 10.5281/zenodo.15570275</p>
+<p>Description: No Description</p>
+<p>Creators: Chicunque Agreda, Susana, Botero, Andrea, Sánchez-Aldana, Eliana, Cuarana Jamioy, Alexandra</p>
+<p>Publication Date: 2025-06-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_33</p>
+<p>TITLE: Supplementary dataset for &quot;Global multi-model assessment of energy, costs, and emissions trade-offs associated with reserve osmosis desalination under future water scarcity&quot;</p>
+<p>ID: underground water_33</p>
+<p>Dataset Page: https://zenodo.org/records/15569107</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15569107</p>
+<p>Title: Supplementary dataset for &quot;Global multi-model assessment of energy, costs, and emissions trade-offs associated with reserve osmosis desalination under future water scarcity&quot;</p>
+<p>DOI: 10.5281/zenodo.15569107</p>
+<p>Description:</p>
+<p>The folder contains the source data relative to the paper:</p>
+<p>Rosa, L., Gabrielli, P., and Sangiorgio, M. Global multi-model assessment of energy, costs, and emissions trade-offs associated with reserve osmosis desalination under future water scarcity</p>
+<p>source_data (.xlsx)</p>
+<p>sheet &quot;Figure 1&quot;: Energy [kWh/m3], Cost [USD/m3], and Emission [gCO2/m3] of reverse osmosis desalination for different Salinity of feed wat</p>
+<p>Creators: Rosa, Lorenzo, Gabrielli, Paolo, Sangiorgio, Matteo</p>
+<p>Publication Date: 2025-06-01 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_34</p>
+<p>TITLE: TRIPLE IceCraft NM Salinity Metadata</p>
+<p>ID: underground water_34</p>
+<p>Dataset Page: https://zenodo.org/records/15568649</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15568649</p>
+<p>Title: TRIPLE IceCraft NM Salinity Metadata</p>
+<p>DOI: 10.5281/zenodo.15568649</p>
+<p>Description:</p>
+<p>Before diving into the metadata, please refer to the description of the IceCraft <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html">https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html</a> system and the TRIPLE <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/">https://mbd.pages.rwth-aachen.de/dlr_rdm/</a> project.</p>
+<p>The metadata uploaded here accompanies the variation of salinity with depth. The salinity was measured using a conductivity meter. As the salinity of water increases, so as the conductivity of water. The conductivity meter</p>
+<p>Creators: Bhattacharya, Dipankul</p>
+<p>Publication Date: 2025-06-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_35</p>
+<p>TITLE: TRIPLE IceCraft NM Salinity Data</p>
+<p>ID: underground water_35</p>
+<p>Dataset Page: https://zenodo.org/records/15568646</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15568646</p>
+<p>Title: TRIPLE IceCraft NM Salinity Data</p>
+<p>DOI: 10.5281/zenodo.15568646</p>
+<p>Description:</p>
+<p>Before diving into the data, please refer to the description of the IceCraft <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html">https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html</a> system and the TRIPLE <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/">https://mbd.pages.rwth-aachen.de/dlr_rdm/</a> project.</p>
+<p>The data uploaded here describes the variation of salinity with depth. The salinity was measured using a conductivity meter. As the salinity of water increases, so does the conductivity of water. The conductivity meter was imm</p>
+<p>Creators: Bhattacharya, Dipankul</p>
+<p>Publication Date: 2025-06-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_36</p>
+<p>TITLE: Water potential data of native Northeastern conifers under poly-stress conditions</p>
+<p>ID: underground water_36</p>
+<p>Dataset Page: https://zenodo.org/records/15566069</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15566069</p>
+<p>Title: Water potential data of native Northeastern conifers under poly-stress conditions</p>
+<p>DOI: 10.5281/zenodo.15566069</p>
+<p>Description:</p>
+<p>This dataset includes partial water potential (WP) data from an ongoing, year-long study on four native conifer species in the northeastern United States: <em>Pinus strobus</em>, <em>Tsuga canadensis</em>, <em>Thuja occidentalis</em>, and <em>Juniperus virginiana</em>. The current dataset includes WP measurements at turgor loss point from both adult trees and seedlings, collected across seasons from summer through winter. This study investigates how these species respond to poly-stress c</p>
+<p>Creators: Muthu Karpagam, Malini, Gersony, Jessica</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: water potential, turgor loss point, conifers, drought stress, cold stress, poly-stress, northeastern US, plant physiology, forest ecology, seedlings, climate resilience</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_37</p>
+<p>TITLE: Water quality during and after the climate disaster of May 2024 in southern Brazil</p>
+<p>ID: underground water_37</p>
+<p>Dataset Page: https://zenodo.org/records/15566197</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15566197</p>
+<p>Title: Water quality during and after the climate disaster of May 2024 in southern Brazil</p>
+<p>DOI: 10.5281/zenodo.15566197</p>
+<p>Description:</p>
+<p>This is the dataset from the CLIMASANO project.</p>
+<p>Note: this dataset is under development. Please check the latest version.</p>
+<p><em>Available files</em></p>
+<ul>
+<li>
+<p>climasano_db_report.pdf -- report of database</p>
+</li>
+<li>
+<p>climasano_db.gpkg -- database</p>
+</li>
+</ul>
+<p><em>Source layers in database</em></p>
+<ul>
+<li>
+<p>glossary -- glossary table</p>
+</li>
+<li>
+<p>data -- main data table</p>
+</li>
+<li>
+<p>points -- sampling points table</p>
+</li>
+<li>
+<p>campaigns -- sampling campaigns table</p>
+</li>
+<li>
+<p>hex</p>
+</li>
+</ul>
+<p>Creators: Wohlmuth da Silva, Salatiel, Albornoz, Louidi, Possantti, Iporã, Ribeiro Rodrigues, Lucia Helena, Corrêa Magalhães Filho, Fernando Jorge, Morais da Rosa, Luana, da Motta Marques, David</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 0.0.3</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_38</p>
+<p>TITLE: TRIPLE IceCraft Abisko Salinity Metadata</p>
+<p>ID: underground water_38</p>
+<p>Dataset Page: https://zenodo.org/records/15565821</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15565821</p>
+<p>Title: TRIPLE IceCraft Abisko Salinity Metadata</p>
+<p>DOI: 10.5281/zenodo.15565821</p>
+<p>Description:</p>
+<p>Before diving into the metadata, please refer to the description of the IceCraft <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html">https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html</a> system and the TRIPLE <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/">https://mbd.pages.rwth-aachen.de/dlr_rdm/</a> project.</p>
+<p>The metadata uploaded here accompanies the variation of salinity with depth. The salinity was measured using a conductivity meter. As the salinity of water increases, so as the conductivity of water. The conductivity meter was immer</p>
+<p>Creators: Bhattacharya, Dipankul</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_39</p>
+<p>TITLE: TRIPLE IceCraft Abisko Salinity Data</p>
+<p>ID: underground water_39</p>
+<p>Dataset Page: https://zenodo.org/records/15565817</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15565817</p>
+<p>Title: TRIPLE IceCraft Abisko Salinity Data</p>
+<p>DOI: 10.5281/zenodo.15565817</p>
+<p>Description:</p>
+<p>Before diving into the data, please refer to the description of the IceCraft <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html">https://mbd.pages.rwth-aachen.de/dlr_rdm/data/IceCraft/intro.html</a> system and the TRIPLE <a href="https://mbd.pages.rwth-aachen.de/dlr_rdm/">https://mbd.pages.rwth-aachen.de/dlr_rdm/</a> project.</p>
+<p>The data uploaded here describes the variation of salinity with depth. The salinity was measured using a conductivity meter. As the salinity of water increases, so as the conductivity of water. The conductivity meter was immer</p>
+<p>Creators: Bhattacharya, Dipankul</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_40</p>
+<p>TITLE: Watersurface cover estimates for sodapans and lakes in the Seewinkel region, Austria</p>
+<p>ID: underground water_40</p>
+<p>Dataset Page: https://zenodo.org/records/15565085</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15565085</p>
+<p>Title: Watersurface cover estimates for sodapans and lakes in the Seewinkel region, Austria</p>
+<p>DOI: 10.5281/zenodo.15565085</p>
+<p>Description: Description</p>
+<p>This upload describes remote-sensing derived water surface estimates for a set of sodapans and lakes in the Seewinkel region in Austria. Pannonic salt steppes and salt marshes (EUNIS code 1530 <a href="https://eunis.eea.europa.eu/habitats/10029">https://eunis.eea.europa.eu/habitats/10029</a>) are among the rarest habitat types in Europe and typically characterized by halophytic vegetation and periodically reoccurring water surface and it is not untypical for them t</p>
+<p>Creators: Martin, Jung</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 2025_05</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_41</p>
+<p>TITLE: Open FLS Acoustic Vision</p>
+<p>ID: underground water_41</p>
+<p>Dataset Page: https://zenodo.org/records/15558568</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15558568</p>
+<p>Title: Open FLS Acoustic Vision</p>
+<p>DOI: 10.5281/zenodo.15558568</p>
+<p>Description:</p>
+<p><em>Coming soon...</em></p>
+<p>This dataset contains high-resolution 2D acoustic images captured using Forward-Looking Sonar (ARIS EXPLORER 3000) in a controlled water tank environment. The dataset features a variety of commonly encountered man-made structures and placement objects observed from underwater perspectives. It is intended for use in research areas such as underwater perception, sonar image analysis, acoustic SLAM, and machine learning-based sonar scene under</p>
+<p>Creators: The University of Tokyo</p>
+<p>Publication Date: 2025-06-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Forward-Looking Sonar, Underwater Acoustics, Sonar Imaging</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_42</p>
+<p>TITLE: Observations of a sample of land and water birds in the California Delta</p>
+<p>ID: underground water_42</p>
+<p>Dataset Page: https://zenodo.org/records/15558542</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15558542</p>
+<p>Title: Observations of a sample of land and water birds in the California Delta</p>
+<p>DOI: 10.5281/zenodo.15558542</p>
+<p>Description:</p>
+<p>Observations of a sample of land and water birds in the California Delta. To be used in a project to create a predictive model of Delta bird presence</p>
+<p>Creators: Abel, Christopher</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_43</p>
+<p>TITLE: Hui o ka Wai Ola Water Quality Data</p>
+<p>ID: underground water_43</p>
+<p>Dataset Page: https://zenodo.org/records/15558447</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15558447</p>
+<p>Title: Hui o ka Wai Ola Water Quality Data</p>
+<p>DOI: 10.5281/zenodo.15558447</p>
+<p>Description:</p>
+<p>This dataset is the quarterly report for the Hui o Ka Wai Ola citizen-science based water quality program. Included are physical and chemical data that were collected and analyzed every two or three weeks beginning from June 6, 2016 to March 31, 2025. New results will be posted as available. Please see huiokawaiola.com for more information.</p>
+<p>The goal of the Hui o Ka Wai Ola program is to increase the capacity for monitoring water quality in Maui coastal waters by generating r</p>
+<p>Creators: Falinski, Kim, Reed, Dana, Callender, Tova, Fielding, Emily, Newbold, Robin, Yurkanin, Alana</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: citizen science, water quality monitoring, coral reef</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_44</p>
+<p>TITLE: Los Penasquitos Lagoon bivalve shell gape data 2023-02 to 2024-01</p>
+<p>ID: underground water_44</p>
+<p>Dataset Page: https://zenodo.org/records/15557937</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557937</p>
+<p>Title: Los Penasquitos Lagoon bivalve shell gape data 2023-02 to 2024-01</p>
+<p>DOI: 10.5281/zenodo.15557937</p>
+<p>Description:</p>
+<p>Groups of Magallana [Crassostrea] gigas oysters obtained from the Los Penasquitos Lagoon near the railroad bridge were outfitted with Hall effect sensors and a magnet, glued to the exterior of the shell near the shell valve margin, in order to record opening and closing of the shell valves. A floating mooring was deployed in Los Penasquitos Lagoon southwest of the railroad bridge, near the center of the channel. A group of oysters, and later Mytilus galloprovincialis mussels, was suspended fr</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Magallana gigas, Pacific oyster, Los Penasquitos Lagoon, shell opening, valve gape</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_45</p>
+<p>TITLE: CR2WU: Water use dataset for the period 1950-2020 in continental Chile</p>
+<p>ID: underground water_45</p>
+<p>Dataset Page: https://zenodo.org/records/15557929</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557929</p>
+<p>Title: CR2WU: Water use dataset for the period 1950-2020 in continental Chile</p>
+<p>DOI: 10.5281/zenodo.15557929</p>
+<p>Description:</p>
+<p>The CR2WU dataset includes consumptive and non-consumptive water uses as volumetric fluxes (m3/s) from various sectors at the commune level (the smallest administrative unit in Chile), with annual resolution from 1960 to 2020. The computation involves two distinct methodologies: one for sectors encompassing land use, land-use change, and forestry (LULUCF,  v1.1) and another for other water-consuming sectors (v1.0).</p>
+<p>This dataset been developed within the framework of the Center for</p>
+<p>Creators: Boisier, Juan Pablo, Marinao, Rodrigo, Alvarez Garreton, Camila</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1.1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_46</p>
+<p>TITLE: FLUPSY dissolved oxygen and temperature data, 2024-01 to 2025-04</p>
+<p>ID: underground water_46</p>
+<p>Dataset Page: https://zenodo.org/records/15557794</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557794</p>
+<p>Title: FLUPSY dissolved oxygen and temperature data, 2024-01 to 2025-04</p>
+<p>DOI: 10.5281/zenodo.15557794</p>
+<p>Description:</p>
+<p>Dissolved oxygen and water temperature data are provided from two sensor locations on hanging rope lines from the FLUPSY (floating upwelling system) platform docked at Tuna Harbor, San Diego Bay, off the bay-side of platform. The Surface sensor was hung from a line at a depth of 30 cm below the water surface. The Bottom sensor was suspended from the mooring line near the bottom at a depth of approximately 3 meters. Data were collected using MiniDOT sensor from Precision Measurement Engineerin</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: dissolved oxygen, water temperature</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: underground water_47</p>
+<p>TITLE: THE IMPORTANCE OF CROTALARIA JUNCEA L.</p>
+<p>ID: underground water_47</p>
+<p>Dataset Page: https://zenodo.org/records/15557765</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557765</p>
+<p>Title: THE IMPORTANCE OF CROTALARIA JUNCEA L.</p>
+<p>DOI: 10.5281/zenodo.15557765</p>
+<p>Description:</p>
+<p><em>In this article, the increase of salinity and salt residues as a result of a sharp decrease in water resources in the coastal areas and the role of the drought- and salt-resistant tropical plant Crotalaria (Crotalaria juncea L.) in reducing salt residues, as well as the effect of the use of stimulants on the level of salinity and the use of fertilizers as a solution to these problems, are described.</em></p>

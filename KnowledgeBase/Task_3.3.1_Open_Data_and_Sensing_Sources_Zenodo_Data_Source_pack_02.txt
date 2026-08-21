@@ -1,0 +1,94 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: reservoir_76</p>
+<p>TITLE: Self-organized criticality in neuromorphic nanowire networks with tunable and local dynamics - Dataset</p>
+<p>ID: reservoir_76</p>
+<p>Dataset Page: https://zenodo.org/records/14938156</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14938156</p>
+<p>Title: Self-organized criticality in neuromorphic nanowire networks with tunable and local dynamics - Dataset</p>
+<p>DOI: 10.5281/zenodo.14938156</p>
+<p>Description:</p>
+<p>This is the dataset of &quot;Self-organized criticality in neuromorphic nanowire networks with tunable and local dynamics&quot; by Fabio Michieletti, Davide Pilati, Gianluca Milano and Carlo Ricciardi, Advanced Functional Materials (2025), DOI: 10.1002/adfm.202423903.</p>
+<p>Part of this work was supported by the European project MEMQuD, code 20FUN06. This project (EMPIR 20FUN06 MEMQuD) has received funding from the EMPIR programme co-financed by the Participating States and from the European Union&amp;rsq</p>
+<p>Creators: Michieletti, Fabio, Pilati, Davide, Milano, Gianluca, Ricciardi, Carlo</p>
+<p>Publication Date: 2025-02-27 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Neuromorphic Nanowire Networks, Self-organizing Systems, Emerging Dynamics, Self-organized Criticality, Reservoir Computing, Nonlinear Transformations</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: reservoir_77</p>
+<p>TITLE: A hybrid origin for the Martian atmosphere</p>
+<p>ID: reservoir_77</p>
+<p>Dataset Page: https://zenodo.org/records/14947895</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14947895</p>
+<p>Title: A hybrid origin for the Martian atmosphere</p>
+<p>DOI: 10.5281/zenodo.14947895</p>
+<p>Description:</p>
+<p>The Martian isotopic record displays a dichotomy in volatile compositions. Interior volatiles from the mantle record a chondritic heritage (<em>e.g.</em>, H, N, Kr, Xe) whereas the atmospheric reservoir of Kr and Xe – which do not currently experience escape – record heritage from a solar-like source. Motivated by disparate inferences on the source of Martian atmospheric volatiles (outgassed versus nebular captured), we consider hybrid-source accretionary atmospheres in whic</p>
+<p>Creators: Pahlevan, Kaveh, Schaefer, Laura, Porcelli, Don</p>
+<p>Publication Date: 2025-02-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: reservoir_78</p>
+<p>TITLE: Model weights and training, validation, and test set images and masks for &quot;Uncovering a million small dams in Brazil using deep learning&quot;</p>
+<p>ID: reservoir_78</p>
+<p>Dataset Page: https://zenodo.org/records/14927197</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14927197</p>
+<p>Title: Model weights and training, validation, and test set images and masks for &quot;Uncovering a million small dams in Brazil using deep learning&quot;</p>
+<p>DOI: 10.5281/zenodo.14927197</p>
+<p>Description:</p>
+<p>Annotated masks and Sentinel-1/-2 images split into training, validation, and test sets. Used for training convolutional neural network for small reservoir mapping.</p>
+<ul>
+<li>
+<p>manet_sentinel.ckpt: PyTorch model checkpoint file containing model weights.</p>
+</li>
+<li>
+<p>annotations.zip:  Contains binary reservoir masks (0 is non-reservoir, 1 is reservoir) split into training, validation, and test sets.</p>
+</li>
+<li>
+<p>images.zip: Contains Sentinel-1/-2 images split into training, validation, and tes</p>
+</li>
+</ul>
+<p>Creators: Solvik, Kylen, Truelove, Yaffa, BALCH, JENNIFER, Lathuilliere, Michael, Fontenelle, Thiago, Castanho, Andrea, Coe, Michael, Shintani, Christina, Souza Jr, CARLOS, Nunes Macedo, Marcia</p>
+<p>Publication Date: 2025-02-28 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: reservoir_79</p>
+<p>TITLE: Code regarding the article &quot;Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network&quot;</p>
+<p>ID: reservoir_79</p>
+<p>Dataset Page: https://zenodo.org/records/14886953</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14886953</p>
+<p>Title: Code regarding the article &quot;Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network&quot;</p>
+<p>DOI: 10.5281/zenodo.14886953</p>
+<p>Description:</p>
+<p>This is the Python code used to achieve the results published in the article &quot;Reservoir computing with all-optical non-fading memory in a self-pulsing microresonator network&quot;, which was posted as a preprint on arXiv (https://doi.org/10.48550/arXiv.2411.17272) and is currently under review at the journal <em>Advanced Optical Materials.</em></p>
+<p>The files whose name starts with &quot;AWGpattern_&quot;, were employed to generate the input time series used to drive the AWG and thus the optical modulator</p>
+<p>Creators: Lugnan, Alessio</p>
+<p>Publication Date: 2025-02-18 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: apache2.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: reservoir_80</p>
+<p>TITLE: Global Well Testing Services Market 2025 To 2034</p>
+<p>ID: reservoir_80</p>
+<p>Dataset Page: https://zenodo.org/records/14881043</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14881043</p>
+<p>Title: Global Well Testing Services Market 2025 To 2034</p>
+<p>DOI: 10.5281/zenodo.14881043</p>
+<p>Description:</p>
+<p>Well Testing Services Market Size, Trends and Insights By Well Type (Horizontal Wells, Vertical Wells), By Service (Downhole Well Testing, Surface Well Testing, Reservoir Sampling, Real Time Well Testing, Hydraulic Fracturing Method Testing), By Application (Onshore, Offshore), and By Region - Global Industry Overview, Statistical Data, Competitive Analysis, Share, Outlook, and Forecast 2024–2033.</p>
+<p><em>Reports Description</em></p>
+<p>Global</p>

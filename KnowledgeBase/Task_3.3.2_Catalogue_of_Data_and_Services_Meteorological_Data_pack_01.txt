@@ -1,0 +1,965 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 1</p>
+<p>TITLE: Alaro</p>
+<p>ID: 1</p>
+<p>Source Organisation: Royal Meteorological Institute of Belgium (Koninklijk Meteorologisch Instituut van België/Institut royal météorologique de Belgique, KMI-IRM)</p>
+<p>Name: Alaro</p>
+<p>Type: data (format: TIFF, geoTIFF), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual</p>
+<p>Description : Alaro is anumerical forecast model that simulates the evolution of the atmosphere.</p>
+<p>Variable(s): Atmospheric (complete list at the resource URL)</p>
+<p>Spatial coverage: Belgium</p>
+<p>Spatial resolution: 4 km</p>
+<p>Temporal coverage: 2010 - present</p>
+<p>Temporal resolution: N.A.</p>
+<p>Resource: https://opendata.meteo.be/geonetwork/srv/eng/catalog.search#/metadata/RMI_DATASET_ALARO</p>
+<p>API Protocol: WCS, WMS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 2</p>
+<p>TITLE: INCA</p>
+<p>ID: 2</p>
+<p>Source Organisation: Royal Meteorological Institute of Belgium (Koninklijk Meteorologisch Instituut van België/Institut royal météorologique de Belgique, KMI-IRM)</p>
+<p>Name: INCA</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual</p>
+<p>Description : INCA (Integrated Nowcasting through Comprehensive Analysis) is a nowcasting system for the analysis and nowcasts of several meteorological fields. For the calculation of these fields, INCA ingests a wide range of observational and model data:</p>
+<p>Variable(s): Atmospheric (complete list at the resource URL)</p>
+<p>Spatial coverage: Belgium</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: 2011 (oct) - present</p>
+<p>Temporal resolution: N.A.</p>
+<p>Resource: https://opendata.meteo.be/geonetwork/srv/eng/catalog.search#/metadata/RMI_DATASET_INCA</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 3</p>
+<p>TITLE: Gridded observational data</p>
+<p>ID: 3</p>
+<p>Source Organisation: Royal Meteorological Institute of Belgium (Koninklijk Meteorologisch Instituut van België/Institut royal météorologique de Belgique, KMI-IRM)</p>
+<p>Name: Gridded observational data</p>
+<p>Type: data (format: csv, grid)</p>
+<p>Area: climate data</p>
+<p>Quality: N.A.</p>
+<p>Availability: It will be publically available soon</p>
+<p>Update frequency: Daily</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : The climate grids result from the spatial interpolation of observations. The interpolation method is adapted to each variable and temporal resolution. When possible, the involved statistical procedures integrate highly correlated ancillary data in addition to the observations. T</p>
+<p>Variable(s): Atmospheric (complete list at the resource URL)</p>
+<p>Spatial coverage: Belgium</p>
+<p>Spatial resolution: 5 km</p>
+<p>Temporal coverage: 1961 - present for most variables</p>
+<p>Temporal resolution: daily, monthly, seasonal, annual values as well as long-term climate averages</p>
+<p>Resource: https://opendata.meteo.be/geonetwork/srv/eng/catalog.search#/metadata/RMI_DATASET_GRIDDEDOBS</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 4</p>
+<p>TITLE: Daily observations in 1km*1km grid</p>
+<p>ID: 4</p>
+<p>Source Organisation: Finnish Meteorological Institute (Ilmatieteen laitos, FMI)</p>
+<p>Name: Daily observations in 1km*1km grid</p>
+<p>Type: data (format: netCDF)</p>
+<p>Area: climate data</p>
+<p>Quality: See reference list in the resource URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Once a year until Jan 2022 and after 8.2.2022 once a month (day number 8 each month)</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Daily weather station observations that have been interpolated into 1km*1km grid using external predictors (e.g., elevation) as covariates.</p>
+<p>Variable(s): Atmospheric (complete list at the resource URL)</p>
+<p>Spatial coverage: Finland</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://en.ilmatieteenlaitos.fi/gridded-observations-on-aws-s3</p>
+<p>API Protocol: AWS S3 Bucket</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 5</p>
+<p>TITLE: FMI Open data WFS services</p>
+<p>ID: 5</p>
+<p>Source Organisation: Finnish Meteorological Institute (Ilmatieteen laitos, FMI)</p>
+<p>Name: FMI Open data WFS services</p>
+<p>Type: N.A.</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : The Finnish Meteorological Institute has decided to publish a major part of it&#39;s meteorological and oceanographic data sets as Open Data using open standard web service interfaces for geospatial data.</p>
+<p>Variable(s): Various (complete list at the resource URL)</p>
+<p>Spatial coverage: Finland</p>
+<p>Spatial resolution: N.A.</p>
+<p>Temporal coverage: N.A.</p>
+<p>Temporal resolution: N.A.</p>
+<p>Resource: https://en.ilmatieteenlaitos.fi/open-data-manual-fmi-wfs-services</p>
+<p>API Protocol: WFS https://en.ilmatieteenlaitos.fi/open-data-manual-accessing-data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 6</p>
+<p>TITLE: AROME, AROME overseas</p>
+<p>ID: 6</p>
+<p>Source Organisation: MeteoFrance</p>
+<p>Name: AROME, AROME overseas</p>
+<p>Type: data (format: GRIB2, geoTIFF), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: 6-12 h depending on area</p>
+<p>Description : AROME model and AROME overseas. The AROME regional numerical weather prediction system was developed thanks to collaboration with national (CNRS) and international (ECMMT, Aladin, Hirlam) research groups.</p>
+<p>Variable(s): Atmospheric, ocean and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: France, West Europe, Antilles, Guyane, Réunion-Mayotte, Polynésie, Nouvelle-Calédonie</p>
+<p>Spatial resolution: 0.01° or 0.025°</p>
+<p>Temporal coverage: 2008 - present or 2010 - present or 2015 - present depending on area</p>
+<p>Temporal resolution: 6 minutes, hourly, daily, 10-days, monthly</p>
+<p>Resource: https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=131&amp;id_rubrique=51 and https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=241&amp;id_rubrique=51</p>
+<p>API Protocol: https://portail-api.meteofrance.fr/web/en/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 7</p>
+<p>TITLE: ARPEGE</p>
+<p>ID: 7</p>
+<p>Source Organisation: MeteoFrance</p>
+<p>Name: ARPEGE</p>
+<p>Type: data (format: GRIB2, geoTIFF), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: 6 h</p>
+<p>Description : The ARPEGE numerical planetary prediction system is an essential element for forecasting operational weather at Météo-France. It is an integral part of the ARPEGE-IFS software designed, developed and maintained in cooperation with ECMWF.</p>
+<p>Variable(s): Atmospheric, ocean and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.1° (Europe), 0.25° (global)</p>
+<p>Temporal coverage: 2002 - present</p>
+<p>Temporal resolution: 6 minutes</p>
+<p>Resource: https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=130&amp;id_rubrique=51</p>
+<p>API Protocol: https://portail-api.meteofrance.fr/web/en/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 8</p>
+<p>TITLE: Grid fields for Germany</p>
+<p>ID: 8</p>
+<p>Source Organisation: German Meteorological Service (Deutscher Wetterdienst, DWD)</p>
+<p>Name: Grid fields for Germany</p>
+<p>Type: data (format: asc)</p>
+<p>Area: climate data</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily</p>
+<p>Legal restrictions: None</p>
+<p>Description : The range of spatial data offered on the DWD&#39;s Open Data Server (https://opendata.dwd.de) is wide and includes model forecasts, radar data, current measurements and observations, a large amount of different types of climate data and many more.</p>
+<p>Variable(s): Atmospheric, ocean and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Germany</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: 1991-present or 2001-present</p>
+<p>Temporal resolution: daily, monthly, seasonal, annual values as well as long-term climate averages</p>
+<p>Resource: https://www.dwd.de/EN/ourservices/cdc/cdc_ueberblick-klimadaten_en.html</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 9</p>
+<p>TITLE: MÉRA (Met Éireann ReAnalysis) Climate Reanalysis</p>
+<p>ID: 9</p>
+<p>Source Organisation: The Irish Meteorological Service (MET éireann)</p>
+<p>Name: MÉRA (Met Éireann ReAnalysis) Climate Reanalysis</p>
+<p>Type: data (format: GRIB1)</p>
+<p>Area: climate data</p>
+<p>Quality: https://edepositireland.ie/handle/2262/81711</p>
+<p>Availability: Open</p>
+<p>Update frequency: Monthly</p>
+<p>Legal restrictions: CC BY 4.0</p>
+<p>Description : Met Éireann has carried out a multi-year very high resolution regional climate reanalysis for Ireland using the ALADIN-HIRLAM numerical weather prediction system (www.hirlam.org). This reanalysis includes surface, near-surface and atmospheric parameters.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Ireland, the United Kingdom, and an area of northern France</p>
+<p>Spatial resolution: 2.5 km</p>
+<p>Temporal coverage: 1981-present</p>
+<p>Temporal resolution: Monthly</p>
+<p>Resource: https://data.gov.ie/dataset/m-ra-met-ireann-reanalysis-climate-reanalysis</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 10</p>
+<p>TITLE: Met Éireann IREPS</p>
+<p>ID: 10</p>
+<p>Source Organisation: The Irish Meteorological Service (MET éireann)</p>
+<p>Name: Met Éireann IREPS</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Hourly</p>
+<p>Legal restrictions: CC BY 4.1</p>
+<p>Description : Real-time meteorological products from the Harmonie atmospheric model produced using the Irish Regional Ensemble Prediction System Model data are available. Forecasts are produced by using Harmonie-Arome ensemble developed by Met Éireann (know as IREPS) four times per day (0000/0600/1200/1800 UTC) at hourly frequency out to 54 hours with a delivery time of two hours.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Ireland</p>
+<p>Spatial resolution: 2.5 km</p>
+<p>Temporal coverage: 54 hours ahead</p>
+<p>Temporal resolution: hourly</p>
+<p>Resource: https://data.gov.ie/dataset/met-eireann-ireps</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 11</p>
+<p>TITLE: Several: COSMO, GLOBO, ICON, MOLOCH etc.</p>
+<p>ID: 11</p>
+<p>Source Organisation: Meteo-Hub MISTRAL</p>
+<p>Name: Several: COSMO, GLOBO, ICON, MOLOCH etc.</p>
+<p>Type: data (format: various), service (forecast)</p>
+<p>Area: climate data, oceanic data, weather forecast</p>
+<p>Quality: https://www.mistralportal.it/user-guide/</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on the product</p>
+<p>Legal restrictions: https://meteohub.mistralportal.it/app/license</p>
+<p>Description : The goal of the MISTRAL portal is to facilitate and foster the re-user of the datasets by the weather community, as well as by its cross-area communities, to provide value services through the use of HPC resources, turning it into the level of new business opportunities.</p>
+<p>Variable(s): Depending on the product</p>
+<p>Spatial coverage: Italy or Italian regions</p>
+<p>Spatial resolution: Depending on the product</p>
+<p>Temporal coverage: Depending on the product</p>
+<p>Temporal resolution: Depending on the product</p>
+<p>Resource: https://www.mistralportal.it/it/</p>
+<p>API Protocol: see documentation</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 12</p>
+<p>TITLE: KNMI Data Platform</p>
+<p>ID: 12</p>
+<p>Source Organisation: Royal Netherlands Meteorological Institute (Koninklijk Nederlands Meteorologisch Instituut, KNMI)</p>
+<p>Name: KNMI Data Platform</p>
+<p>Type: data (format: several)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: Depending on specific dataset</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : The Met Office Climate Data Portal offers several datasets of interpolated observations, reanalysis and projections at different spatiotemporal resolution and coverage. Built using ESRI&#39;s ArcGIS Hub, the Climate Data Portal is accessible to GIS and non-GIS users, making it easier for organisations to view climate data geospatially and also analyse climate change projections alongside their own data. This site also features the beta* Local Authority Climate Service (LACS), which provides tools and resources specifically designed to assist Local Authorities and other local groups in understanding the impacts on climate change in their area.</p>
+<p>Variable(s): Atmospheric</p>
+<p>Spatial coverage: The Netherlands</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://dataplatform.knmi.nl/</p>
+<p>API Protocol: Info at: https://developer.dataplatform.knmi.nl/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 13</p>
+<p>TITLE: Several: COSMO, ALARO, AROME</p>
+<p>ID: 13</p>
+<p>Source Organisation: Polish Institute of Meteorology and Water Management (Instytut Meteorologiii Gospodarki Wodnej, IMGW)</p>
+<p>Name: Several: COSMO, ALARO, AROME</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: To check at the resource URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on the product</p>
+<p>Legal restrictions: To check at the resource URL</p>
+<p>Description : Data archive with some weather and forecast models.</p>
+<p>Variable(s): Depending on the product</p>
+<p>Spatial coverage: Depending on the product</p>
+<p>Spatial resolution: Depending on the product</p>
+<p>Temporal coverage: Depending on the product</p>
+<p>Temporal resolution: Depending on the product</p>
+<p>Resource: https://danepubliczne.imgw.pl/</p>
+<p>API Protocol: see documentation</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 14</p>
+<p>TITLE: Daily gridded precipitation dataset over mainland Portugal</p>
+<p>ID: 14</p>
+<p>Source Organisation: Portuguese Institute of the Sea and Atmosphere (Instituto Português do Mar e da Atmosfera, IPMA)</p>
+<p>Name: Daily gridded precipitation dataset over mainland Portugal</p>
+<p>Type: data (format: ASCII, NetCDF)</p>
+<p>Area: climate data</p>
+<p>Quality: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD015481</p>
+<p>Availability: Open</p>
+<p>Legal restrictions: Free for non-commercial research and education projects only. For commercial applications you should contact IPMA, I.P. ( info @ ipma.pt ).</p>
+<p>Description : The dataset PT02 is based on 806 stations, 188 meteorological stations from Portuguese Meteorological Service (IM) and 618 rain gauges from the National Water Institute (INAG). Most of these (726) stations have at least 10 years of data. The interpolation method applied to create the PT02 dataset was the ordinary kriging.</p>
+<p>Variable(s): Precipitation</p>
+<p>Spatial coverage: Portugal</p>
+<p>Spatial resolution: 0.2°</p>
+<p>Temporal coverage: 1950 - 2003</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://www.ipma.pt/en/produtoseservicos/index.jsp?page=dataset.pt02.xml</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 15</p>
+<p>TITLE: Climate Data Portal</p>
+<p>ID: 15</p>
+<p>Source Organisation: UK Meteorological Office (Met Office)</p>
+<p>Name: Climate Data Portal</p>
+<p>Type: data (format: several)</p>
+<p>Area: climate data</p>
+<p>Quality: Depending on specific dataset</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Description : The Met Office Climate Data Portal offers several datasets of interpolated observations, reanalysis and projections at different spatiotemporal resolution and coverage. Built using ESRI&#39;s ArcGIS Hub, the Climate Data Portal is accessible to GIS and non-GIS users, making it easier for organisations to view climate data geospatially and also analyse climate change projections alongside their own data. This site also features the beta* Local Authority Climate Service (LACS), which provides tools and resources specifically designed to assist Local Authorities and other local groups in understanding the impacts on climate change in their area.</p>
+<p>Variable(s): Atmospheric</p>
+<p>Spatial coverage: Depending on specific dataset</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://climatedataportal.metoffice.gov.uk/</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 16</p>
+<p>TITLE: Met Office Weather DataHub</p>
+<p>ID: 16</p>
+<p>Source Organisation: UK Meteorological Office (Met Office)</p>
+<p>Name: Met Office Weather DataHub</p>
+<p>Type: data (format: GRIB2), service (forecast)</p>
+<p>Area: climate data, weather forecast</p>
+<p>Quality: Depending on specific dataset</p>
+<p>Availability: With fees</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Description : This service offers access to Met Office data through a ‘self-serve’ portal via API. Users have the ability to ‘subset’ data by geographical region, time step, model run and parameter for bespoke consumption. This API data channel will ultimately become the single point of access for all Met Office Public Task weather data, replacing both Met Office DataPoint and our Wholesale Data Services. Available models: Global deterministic 10km, UK deterministic 2km (standard lat-long projection), Met Office Global Ensemble Prediction System (MOGREPS-G) 20km (global ensemble - probabilistic), MOGREPS-UK 2km (UK ensemble - probabilistic).</p>
+<p>Variable(s): Atmospheric</p>
+<p>Spatial coverage: Depending on specific dataset</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://www.metoffice.gov.uk/services/data/met-office-weather-datahub</p>
+<p>API Protocol: API</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 17</p>
+<p>TITLE: ERA5 (reanalysis)</p>
+<p>ID: 17</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: ERA5 (reanalysis)</p>
+<p>Type: data (format: GRIB1 (some GRIB2)/NetCDF-3)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: daily</p>
+<p>Description : ERA5 is the fifth generation ECMWF reanalysis for the global climate and weather for the past 8 decades. ERA5 provides hourly estimates for a large number of atmospheric, ocean-wave and land-surface quantities. An uncertainty estimate is sampled by an underlying 10-member ensemble at three-hourly intervals. Ensemble mean and spread have been pre-computed for convenience.</p>
+<p>Variable(s): Atmospheric, ocean-wave and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.25°, native 31 km</p>
+<p>Temporal coverage: 1940-present</p>
+<p>Temporal resolution: hourly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 18</p>
+<p>TITLE: ERA5-Land (reanalysis)</p>
+<p>ID: 18</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: ERA5-Land (reanalysis)</p>
+<p>Type: data (format: GRIB1 (some GRIB2)/NetCDF-3)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: daily</p>
+<p>Description : ERA5-Land is a reanalysis dataset providing a consistent view of the evolution of land variables over several decades at an enhanced resolution compared to ERA5.</p>
+<p>Variable(s): Atmospheric, ocean-wave and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global land</p>
+<p>Spatial resolution: 0.1°, native 9 km</p>
+<p>Temporal coverage: 1950-present</p>
+<p>Temporal resolution: hourly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 19</p>
+<p>TITLE: UERRA (reanalysis)</p>
+<p>ID: 19</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: UERRA (reanalysis)</p>
+<p>Type: data (format: GRIB2/NetCDF-3)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/reanalysis-uerra-europe-single-levels?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Not expected.</p>
+<p>Description : This UERRA dataset contains analyses of surface and near-surface essential climate variables from UERRA-HARMONIE and MESCAN-SURFEX systems. UERRA-HARMONIE is a 3-dimensional variational data assimilation system, while MESCAN-SURFEX is a complementary surface analysis system.</p>
+<p>Variable(s): Atmospheric, ocean-wave and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 5.5 km or 11 km based on the reanalysis system</p>
+<p>Temporal coverage: 1961-2019 (jul)</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/reanalysis-uerra-europe-single-levels?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 20</p>
+<p>TITLE: CERRA (reanalysis)</p>
+<p>ID: 20</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: CERRA (reanalysis)</p>
+<p>Type: data (format: GRIB2/NetCDF-3)</p>
+<p>Area: climate data and forecast</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/reanalysis-cerra-single-levels?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Expected by the end of 2024</p>
+<p>Description : The Copernicus European Regional ReAnalysis (CERRA) datasets provide spatially and temporally consistent historical reconstructions of meteorological variables in the atmosphere and at the surface. Several atmospheric parameters are common to both reanalysis and forecast (e.g. temperature, wind), whilst others are produced only by the forecast model (e.g. 10m wind gust, radiative fluxes). The CERRA dataset was produced using the HARMONIE-ALADIN limited-area numerical weather prediction and data assimilation system. The uncertainty estimates for reanalysis variables are provided by the CERRA-EDA, a 10-member ensemble of data assimilation system.</p>
+<p>Variable(s): Atmospheric, ocean-wave and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 5.5 km (reanalysis), 11 km (ensemble members)</p>
+<p>Temporal coverage: 1984 (sep) - 2021 (jun)</p>
+<p>Temporal resolution: Analysis data: 3-hourly for high-resolution, 6-hourly for ensemble members Forecast data: hourly for forecast range 1 - 6 (high-resolution and ensemble members), 3-hourly for forecast range 6 - 30 (high-resolution only)</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/reanalysis-cerra-single-levels?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 21</p>
+<p>TITLE: LAPrec - Alpine gridded monthly precipitation data since 1871 derived from in-situ observations</p>
+<p>ID: 21</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: LAPrec - Alpine gridded monthly precipitation data since 1871 derived from in-situ observations</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-alpine-precipitation?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Every second year</p>
+<p>Description : This dataset, also known as the Long-term Alpine Precipitation Reconstruction (LAPrec), provides gridded fields of monthly precipitation for the Alpine region (eight countries).</p>
+<p>Variable(s): Precipitation</p>
+<p>Spatial coverage: Alpine region (approximately 43–49°N, 4–17.5°E, land area only)</p>
+<p>Spatial resolution: 5 km</p>
+<p>Temporal coverage: 1971 - 2020</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-alpine-precipitation?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 22</p>
+<p>TITLE: E-OBS (interpolation)</p>
+<p>ID: 22</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: E-OBS (interpolation)</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-europe?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: 6 months</p>
+<p>Legal restrictions: To use in non-commercial research and education projects only</p>
+<p>Description : E-OBS is a daily gridded land-only observational dataset over Europe. The blended time series from the station network of the European Climate Assessment &amp; Dataset (ECA&amp;D) project form the basis for the E-OBS gridded dataset. All station data are sourced directly from the European National Meteorological and Hydrological Services (NMHSs) or other data holding institutions.</p>
+<p>Variable(s): Atmospheric, ocean-wave and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 0.10° or 0.25°</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-europe?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 23</p>
+<p>TITLE: Nordic gridded temperature and precipitation data from 1961 to present derived from in-situ observations (interpolation)</p>
+<p>ID: 23</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Nordic gridded temperature and precipitation data from 1961 to present derived from in-situ observations (interpolation)</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-nordic?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: 6 months</p>
+<p>Description : The Nordic Gridded Climate Dataset (NGCD) is a high resolution, observational, gridded dataset of daily minimum, maximum and mean temperatures and daily precipitation totals, covering Finland, Sweden and Norway. Spatial interpolation methods are applied to observational datasets to create gridded datasets.</p>
+<p>Variable(s): Temperature and precipitation</p>
+<p>Spatial coverage: Fennoscandia (Finland, Norway, Sweden)</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: 1961 - present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/insitu-gridded-observations-nordic?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 24</p>
+<p>TITLE: Essential climate variables for water sector applications derived from climate projections</p>
+<p>ID: 24</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Essential climate variables for water sector applications derived from climate projections</p>
+<p>Type: data (format: NetCDF)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/sis-ecv-cmip5-bias-corrected?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: All model output in the CMIP5 archive is available for &quot;non-commercial research and**educational purposes.&quot; A subset (about three-quarters of the models) of the data has also been released for &quot;unrestricted&quot; use.</p>
+<p>Description : This dataset contains 4 Essential Climate Variables (ECV) for the 18 bias adjusted Global Climate Models (GCM) from CMIP5:</p>
+<p>Variable(s): Temperature and precipitation</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.5°</p>
+<p>Temporal coverage: 1978 - 2100</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/sis-ecv-cmip5-bias-corrected?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 25</p>
+<p>TITLE: Climate extreme indices and heat stress indicators derived from CMIP6 global climate projections</p>
+<p>ID: 25</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Climate extreme indices and heat stress indicators derived from CMIP6 global climate projections</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/sis-extreme-indices-cmip6?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: No expected updates</p>
+<p>Legal restrictions: These data are strictly for use in non-commercial research and education projects only. Scientific results based on these data must be submitted for publication in the open literature without delay.</p>
+<p>Description : he dataset provides climate extreme indices related to temperature and precipitation as defined by the Expert Team on Climate Change Detection and Indices (ETCCDI), as well as selected heat stress indicators (HSI). The indices are provided for historical and future climate projections (SSP1-2.6, SSP2-4.5, SSP3-7.0, SSP5-8.5) included in the Coupled Model Intercomparison Project Phase 6 (CMIP6) and used in the 6th Assessment Report of the Intergovernmental Panel on Climate Change (IPCC). This dataset provides a comprehensive source of pre-calculated and consistent ETCCDI and heat stress indicators commonly used by the climate science and impact communities.</p>
+<p>Variable(s): Temperature, precipitation and related variables</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: From 0.5° x 0.5° to 2.8125° x 2.8125° depending on the model</p>
+<p>Temporal coverage: From 1850 to 2300 for the whole dataset. Shorter for most of the models and products.</p>
+<p>Temporal resolution: Yearly, monthly, daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/sis-extreme-indices-cmip6?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 26</p>
+<p>TITLE: Precipitation monthly and daily gridded data from 1979 to present derived from satellite measurements</p>
+<p>ID: 26</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Precipitation monthly and daily gridded data from 1979 to present derived from satellite measurements</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/satellite-precipitation?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Quarterly</p>
+<p>Description : Precipitation estimates from the analysis of the Global PRecipitation Climatology Project (GPCP).</p>
+<p>Variable(s): Precipitation</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 1° (daily), 2.5° (monthly)</p>
+<p>Temporal coverage: 1996-present (daily), 1979-present (monthly)</p>
+<p>Temporal resolution: monthly, daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/satellite-precipitation?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 27</p>
+<p>TITLE: Daily and monthly Global Interpolated RAinFall Estimation (GIRAFE) data derived from satellite observations</p>
+<p>ID: 27</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Daily and monthly Global Interpolated RAinFall Estimation (GIRAFE) data derived from satellite observations</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: climate data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/satellite-precipitation-microwave-infrared?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: No updates</p>
+<p>Legal restrictions: All intellectual property rights of the CM SAF products belong to EUMETSAT</p>
+<p>Description : GIRAFE provides global estimates of precipitation based on satellite observations.</p>
+<p>Variable(s): Precipitation</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 1°</p>
+<p>Temporal coverage: 2002-2022</p>
+<p>Temporal resolution: daily, monthly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/satellite-precipitation-microwave-infrared?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 28</p>
+<p>TITLE: Artificial Intelligence Forecasting System (AIFS) Machine Learning data</p>
+<p>ID: 28</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Artificial Intelligence Forecasting System (AIFS) Machine Learning data</p>
+<p>Type: data (format: GRIB2), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Quality: https://doi.org/10.48550/arXiv.2406.01465</p>
+<p>Availability: open</p>
+<p>Update frequency: 6 hours. The data are released 1 hour after the real-time dissemination schedule.</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : The AIFS consists of a deterministic model and an ensemble model.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 0.25°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: 6 hours (deterministic model); 12 hours (ensemble model)</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/dataset/aifs-machine-learning-data</p>
+<p>API Protocol: https://confluence.ecmwf.int/display/DAC/ECMWF+open+data%3A+real-time+forecasts+from+IFS+and+AIFS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 29</p>
+<p>TITLE: MARS Catalogue</p>
+<p>ID: 29</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: MARS Catalogue</p>
+<p>Type: data (format: various), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Quality: Depending on specific dataset</p>
+<p>Availability: open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : The MARS catalogue contains several prediction datasets, like COSMO-LEPS, Limited Area Ensemble Forecasting (ALADIN-LAEF), Sub-seasonal to seasonal prediction (S2S), THORPEX Interactive Grand Global Ensemble (TIGGE), output from the ENSEMBLES project, and hydrological data like European Land Data Assimilation System to predict Floods and Droughts (ELDAS) .</p>
+<p>Variable(s): Depending on specific dataset</p>
+<p>Spatial coverage: Depending on specific dataset</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://confluence.ecmwf.int/display/UDOC/MARS+user+documentation</p>
+<p>API Protocol: https://www.ecmwf.int/en/forecasts/access-forecasts/access-archive-datasets</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 30</p>
+<p>TITLE: Set I: Atmospheric Model high resolution 10-day forecast (HRES)</p>
+<p>ID: 30</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Set I: Atmospheric Model high resolution 10-day forecast (HRES)</p>
+<p>Type: data (format: GRIB1), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Availability: Open/for a fee</p>
+<p>Update frequency: 6 hours</p>
+<p>Legal restrictions: Depending on user type</p>
+<p>Description : Single prediction that uses observations, prior information about the Earth-system, and ECMWF&#39;s highest-resolution model.</p>
+<p>Variable(s): Atmospheric and hydrological variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.1°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: 1, 6,12 hours depending on variable</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/datasets/set-iii</p>
+<p>API Protocol: https://products.ecmwf.int/shopping-cart/orders/new</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 31</p>
+<p>TITLE: Set III - Atmospheric model Ensemble 15-day forecast (ENS)</p>
+<p>ID: 31</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Set III - Atmospheric model Ensemble 15-day forecast (ENS)</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Availability: Open/for a fee</p>
+<p>Update frequency: 7 hours</p>
+<p>Legal restrictions: Depending on user type</p>
+<p>Description : Ensemble of forecasts providing an estimate of the reliability of a single forecast.</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.1°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: 1,3,6 hours depending on variable</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/datasets/set-iii</p>
+<p>API Protocol: https://products.ecmwf.int/shopping-cart/orders/new</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 32</p>
+<p>TITLE: Set VI - Atmospheric Model Ensemble extended forecast (ENS extended)</p>
+<p>ID: 32</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Set VI - Atmospheric Model Ensemble extended forecast (ENS extended)</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Availability: Open/for a fee</p>
+<p>Update frequency: daily</p>
+<p>Legal restrictions: Depending on user type</p>
+<p>Description : ENS extended comprises ensembles of individual forecasts up to 46 days as well as post-processed products of average conditions (e.g. weekly averages) and the associated uncertainty.</p>
+<p>Variable(s): Atmospheric and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.4°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: sub-daily, weekly</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/datasets/set-vi</p>
+<p>API Protocol: https://products.ecmwf.int/shopping-cart/orders/new</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 33</p>
+<p>TITLE: Set V - Seasonal 7-month forecast (SEAS)</p>
+<p>ID: 33</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Set V - Seasonal 7-month forecast (SEAS)</p>
+<p>Type: data (format: GRIB), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Availability: Open/for a fee</p>
+<p>Update frequency: monthly</p>
+<p>Legal restrictions: Depending on user type</p>
+<p>Description : SEAS comprises ensembles of individual forecasts coupled to an ocean model and post-processed products of average conditions (e.g. monthly averages) with the associated uncertainty. Products are available up to 7 months ahead.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.4° or 0.75°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/datasets/set-v</p>
+<p>API Protocol: https://products.ecmwf.int/shopping-cart/orders/new</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 34</p>
+<p>TITLE: Open data</p>
+<p>ID: 34</p>
+<p>Source Organisation: European Centre for Medium-Range Weather Forecasts (ECMWF)</p>
+<p>Name: Open data</p>
+<p>Type: data (format: GRIB2), service (forecast)</p>
+<p>Area: weather forecast</p>
+<p>Availability: Open</p>
+<p>Update frequency: 6-12 hours depending on variable</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : A subset of ECMWF real-time forecast data are made available to the public free of charge.</p>
+<p>Variable(s): Atmospheric and land-surface variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.25°</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: 12 hours</p>
+<p>Resource: https://www.ecmwf.int/en/forecasts/datasets/open-data</p>
+<p>API Protocol: https://confluence.ecmwf.int/display/DAC/ECMWF+open+data%3A+real-time+forecasts+from+IFS+and+AIFS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 35</p>
+<p>TITLE: Open Government Data</p>
+<p>ID: 35</p>
+<p>Source Organisation: MeteoSwiss (Swiss Federal Office for Meteorology and Climatology)</p>
+<p>Name: Open Government Data</p>
+<p>Type: data (format: station data in tables, gridded data in HDF5)</p>
+<p>Area: meteorological data (station observations and numerical weather forecast)</p>
+<p>Quality: depending on product, see documentation for more details</p>
+<p>Availability: Open (starting 1 April 2025)</p>
+<p>Update frequency: 5min to daily depending on product category</p>
+<p>Legal restrictions: https://meteoswiss.github.io/opendata-terms-of-use/</p>
+<p>Description : Public access to all data MeteoSwiss produces and/or manages, including monitoring data from a range of automatic and manual station networks, the entire suite of numberical weather predictions products of it&#39;s own model instances, and climatological data products. More info: https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html</p>
+<p>Variable(s): a large range of meteorological variables (see documentation for complete list)</p>
+<p>Spatial coverage: Switzerland + buffer</p>
+<p>Spatial resolution: 1km for most gridded products</p>
+<p>Temporal coverage: depending on product, see documentation for more details</p>
+<p>Temporal resolution: 1 minute to 1 year, depending on product</p>
+<p>Resource: https://github.com/MeteoSwiss/opendata/blob/main/README.md</p>
+<p>API Protocol: https://github.com/MeteoSwiss/opendata-api/blob/main/README.md</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 36</p>
+<p>TITLE: Open Government Data</p>
+<p>ID: 36</p>
+<p>Source Organisation: SLF (WSL Institute for Snow and Avalanche Research SLF)</p>
+<p>Name: Open Government Data</p>
+<p>Type: data (format: csv or json)</p>
+<p>Area: snow monitoring data (automatic stations or manual observers)</p>
+<p>Quality: depending on product, see documentation for more details</p>
+<p>Availability: Open</p>
+<p>Update frequency: daily</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : Public access to all snow data SLF produces and/or manages, including monitoring data from a range of automatic and manual station networks. More info: https://www.slf.ch/en/services-and-products/slf-data-service/</p>
+<p>Variable(s): a large range of snow related variables (see documentation for complete list)</p>
+<p>Spatial coverage: Switzerland</p>
+<p>Spatial resolution: station locations</p>
+<p>Temporal coverage: depending on product, see documentation for more details</p>
+<p>Temporal resolution: 30 min, hourly, daily, or bi-weekly depending on product</p>
+<p>Resource: https://www.slf.ch/en/services-and-products/slf-data-service/</p>
+<p>API Protocol: https://measurement-api.slf.ch/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 37</p>
+<p>TITLE: Gridded 1 x 1 km climate and hydrological projections for Norway</p>
+<p>ID: 37</p>
+<p>Source Organisation: Norwegian Meteorological Institute (Meteorologisk institutt)</p>
+<p>Name: Gridded 1 x 1 km climate and hydrological projections for Norway</p>
+<p>Type: data (format: netCDF)</p>
+<p>Area: Climate data and forecast; Hydrological data and forecast</p>
+<p>Quality: https://publikasjoner.nve.no/rapport/2016/rapport2016_59.pdf</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: Norwegian license for public data (NLOD) and CC-4.0-BY</p>
+<p>Description : An ensemble of ten EURO-CORDEX GCM/RCM simulations, each representing two alternative emission pathways (RCP4.5 and RCP8.5), were bias-corrected using an empirical quantile mapping method. These corrected datasets covering the period 1971-2100 were then forced with a spatially distributed, gridded version of the HBV model to generate daily time series of different hydrological components.</p>
+<p>Variable(s): Atmospheric and hydrological variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Norway</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: 1971-2100</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://thredds.met.no/thredds/catalog/KSS/Klima_i_Norge/utgave2015/TX/MPI_RCA/hist/catalog.html</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 38</p>
+<p>TITLE: Application-ready gridded (5 km) datasets</p>
+<p>ID: 38</p>
+<p>Source Organisation: Climate Change in Australia</p>
+<p>Name: Application-ready gridded (5 km) datasets</p>
+<p>Type: data (format: netCDF and netCDF4)</p>
+<p>Area: climate forecast</p>
+<p>Quality: https://www.climatechangeinaustralia.gov.au/en/obtain-data/application-ready-data/</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : This collection of application-ready datasets combine gridded observed data with gridded climate projections to produce plausible future climate data at daily, monthly, seasonal and annual time steps on the high-resolution 5 km grid.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Australia</p>
+<p>Spatial resolution: 5 km</p>
+<p>Temporal coverage: 2016-2104</p>
+<p>Temporal resolution: daily (soon also monthly, seasonal and annual aggregation)</p>
+<p>Resource: https://www.climatechangeinaustralia.gov.au/en/obtain-data/download-datasets/#Change</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 39</p>
+<p>TITLE: Daymet</p>
+<p>ID: 39</p>
+<p>Source Organisation: Oak Ridge National Laboratory</p>
+<p>Name: Daymet</p>
+<p>Type: data (format: netCDF)</p>
+<p>Area: meteorological data</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Gridded 1 x 1 km daily weather dataset for North American and Hawaii. Daymet uses statistical modeling techniques to provide long-term, continuous, gridded estimates of daily weather and climatology variables from ground-based observations.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: North America + Hawaii</p>
+<p>Spatial resolution: 1 km</p>
+<p>Temporal coverage: 1980 - present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://daymet.ornl.gov/</p>
+<p>API Protocol: https://daymet.ornl.gov/web_services</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 40</p>
+<p>TITLE: Canadian Downscaled Climate Scenarios - Univariate (CMIP5): CanDCS-U5</p>
+<p>ID: 40</p>
+<p>Source Organisation: Pacific Climate Impacts Consortium</p>
+<p>Name: Canadian Downscaled Climate Scenarios - Univariate (CMIP5): CanDCS-U5</p>
+<p>Type: data (format: netCDF and ASCII)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Statistically downscaled climate scenarios based on model output from the Coupled Model Intercomparison Project Phase 5 (CMIP5). Downscaled scenarios were constructed from 27 Global Climate Models (GCMs) and 3 Representative Concentration Pathways (RCPs) from CMIP5, using the BCCAQv2 downscaling method described below. The RCPs represent low (RCP2.6), intermediate (RCP4.5) and high (RCP8.5) rates of greenhouse gas emissions added to the atmosphere between 2006 and 2100. Projections can be selected for any combination of model, RCP, and time period.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 10 km</p>
+<p>Temporal coverage: 1950-2100</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://data.pacificclimate.org/portal/downscaled_gcms/map/</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 41</p>
+<p>TITLE: Canadian Downscaled Climate Scenarios - Univariate (CMIP6): CanDCS-U6</p>
+<p>ID: 41</p>
+<p>Source Organisation: Pacific Climate Impacts Consortium</p>
+<p>Name: Canadian Downscaled Climate Scenarios - Univariate (CMIP6): CanDCS-U6</p>
+<p>Type: data (format: netCDF and ASCII)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Statistically downscaled climate scenarios based on model output from the Coupled Model Intercomparison Project Phase 5 (CMIP6). Downscaled scenarios were constructed from 26 GCMs and 3 Shared Socioeconomic Pathways (SSPs) from CMIP6, using the two distinct statistical downscaling methods described below. The SSPs represent low (SSP1-2.6), intermediate (SSP2-4.5) and high (SSP5-8.5) rates of greenhouse gas emissions added to the atmosphere between 2013 and 2100. Projections can be selected for any combination of model, SSP, and time period.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 10 km</p>
+<p>Temporal coverage: 1950-2100</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://data.pacificclimate.org/portal/downscaled_cmip6/map/</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 42</p>
+<p>TITLE: Canadian Downscaled Climate Scenarios - Multivariate (CMIP6): CanDCS-U6</p>
+<p>ID: 42</p>
+<p>Source Organisation: Pacific Climate Impacts Consortium</p>
+<p>Name: Canadian Downscaled Climate Scenarios - Multivariate (CMIP6): CanDCS-U6</p>
+<p>Type: data (format: netCDF and ASCII)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Statistically downscaled climate scenarios based on model output from the Coupled Model Intercomparison Project Phase 5 (CMIP6). Downscaled scenarios were constructed from 26 GCMs and 3 Shared Socioeconomic Pathways (SSPs) from CMIP6, using the two distinct statistical downscaling methods described below. The SSPs represent low (SSP1-2.6), intermediate (SSP2-4.5) and high (SSP5-8.5) rates of greenhouse gas emissions added to the atmosphere between 2013 and 2100. Projections can be selected for any combination of model, SSP, and time period.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 10 km</p>
+<p>Temporal coverage: 1950-2100</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://data.pacificclimate.org/portal/downscaled_cmip6_multi/map/</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 43</p>
+<p>TITLE: Canadian Downscaled Climate Scenarios - Multivariate (CanESM5): CanDCS-M6</p>
+<p>ID: 43</p>
+<p>Source Organisation: Pacific Climate Impacts Consortium</p>
+<p>Name: Canadian Downscaled Climate Scenarios - Multivariate (CanESM5): CanDCS-M6</p>
+<p>Type: data (format: netCDF and ASCII)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: N.A.</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: N.A.</p>
+<p>Description : Statistically downscaled climate scenarios based on model output from the Coupled Model Intercomparison Project Phase 5 (CMIP6). Downscaled scenarios were also constructed from 10 distinct realizations of the Canadian Earth System Model Version 5 (CanESM5) running all three SSPs. CanESM5, a CMIP6 model included in CanDCS-M6, was downscaled using the same two downscaling methods described below. This dataset may be useful for those interested in studying the effect of internal climate variability on projected climate change.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 11 km</p>
+<p>Temporal coverage: 1950-2101</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://data.pacificclimate.org/portal/downscaled_canesm5_multi/map/</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 44</p>
+<p>TITLE: High Resolution Deterministic Prediction System - Continental</p>
+<p>ID: 44</p>
+<p>Source Organisation: Environment and Climate Change Canada</p>
+<p>Name: High Resolution Deterministic Prediction System - Continental</p>
+<p>Type: data (format: GRIB)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_en/</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual (up to 4 times a day)</p>
+<p>Legal restrictions: MSC Open Data Service Usage Policy</p>
+<p>Description : The High Resolution Deterministic Prediction System (HRDPS) carries out physics calculations to arrive at deterministic predictions of atmospheric elements from the current day out to 48 hours into the future. Atmospheric elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage of the system is most of Canada. Data is available over specific areas in the MSC Datamart and the whole coverage is available in the MSC GeoMet web services. Data is available at a horizontal resolution of about 2.5 km up to 31 vertical levels. Predictions are performed up to four times a day.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 2.5 km</p>
+<p>Temporal coverage: 2014-11-18 - present</p>
+<p>Temporal resolution: up to 48 hours ahead</p>
+<p>Resource: https://open.canada.ca/data/en/dataset/5b401fa0-6c29-57f0-b3d5-749f301d829d</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 45</p>
+<p>TITLE: High Resolution Ensemble Precipitation Analysis [experimental]</p>
+<p>ID: 45</p>
+<p>Source Organisation: Environment and Climate Change Canada</p>
+<p>Name: High Resolution Ensemble Precipitation Analysis [experimental]</p>
+<p>Type: data (format: GRIB2)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps_en/</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual (up to 4 times a day)</p>
+<p>Legal restrictions: MSC Open Data Service Usage Policy</p>
+<p>Description : HREPA is part of the NSRPS (National Surface and River Prediction System) experimental system dependent on two other systems. It uses surface station observations and radar QPEs pre-processed by HRDPA and disturbed trial fields generated by the Canadian Land Data Assimilation System (CaLDAS). HREPA produces four precipitation analyses per day on 6-hour accumulations valid at synoptic times (00, 06, 12, and 18 UTC). Each analysis set contains 24 members plus the control member. A quality index (confidence index) is also available on the same grid as the precipitation fields. Finally, two percentiles, 25th and 75th, estimated on these sets are also provided for each synoptic hour. Currently, there is only a high-resolution version of the system, whose domain covers Canada and the northern United States with a horizontal resolution of about 2.5km.</p>
+<p>Variable(s): Precipitation</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 2.5 km</p>
+<p>Temporal coverage: 2019-04-15 - present</p>
+<p>Temporal resolution: up to 48 hours ahead</p>
+<p>Resource: https://open.canada.ca/data/en/dataset/62c5f03f-8f03-466a-960a-88fbc5882c11</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 46</p>
+<p>TITLE: Canadian Seasonal to Inter-annual Prediction System Seasonal Forecasts</p>
+<p>ID: 46</p>
+<p>Source Organisation: Environment and Climate Change Canada</p>
+<p>Name: Canadian Seasonal to Inter-annual Prediction System Seasonal Forecasts</p>
+<p>Type: data (format: GRIB2)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: https://eccc-msc.github.io/open-data/msc-data/nwp_cansips/readme_cansips_en/</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual</p>
+<p>Legal restrictions: MSC Open Data Service Usage Policy</p>
+<p>Description : The Canadian Seasonal to Inter-annual Prediction System (CanSIPS) carries out physics calculations to arrive at probabilistic predictions of atmospheric elements from the beginning of a month out to up to 12 months into the future, resulting in seasonal forecasts. Atmospheric elements include temperature, precipitation, wind speed and direction and others. This product contains raw numerical results of these calculations. Geographical coverage is global. Data is available on a grid at a horizontal resolution of 2.5 degrees and 1 degree and for a few selected vertical levels. In addition, forecast probabilities for below, near, and above normal temperature and precipitation are available at both resolutions. Predictions and corresponding hindcast are made available monthly.</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 2.5°</p>
+<p>Temporal coverage: 2004-01-01 - present</p>
+<p>Temporal resolution: monthly, up to 12 month ahead</p>
+<p>Resource: https://open.canada.ca/data/en/dataset/922781a9-bfef-56b9-a438-493ada629d47</p>
+<p>API Protocol: N.A.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Meteorological_Data</p>
+<p>ID: 47</p>
+<p>TITLE: Weather Elements on Grid based on the High Resolution Deterministic Prediction System</p>
+<p>ID: 47</p>
+<p>Source Organisation: Environment and Climate Change Canada</p>
+<p>Name: Weather Elements on Grid based on the High Resolution Deterministic Prediction System</p>
+<p>Type: data (format: GRIB2)</p>
+<p>Area: Climate data and forecast</p>
+<p>Quality: https://eccc-msc.github.io/open-data/msc-data/nwp_hrdps/readme_hrdps-datamart_en/</p>
+<p>Availability: Open</p>
+<p>Update frequency: Continual</p>
+<p>Legal restrictions: MSC Open Data Service Usage Policy</p>
+<p>Description : Weather Elements on Grid (WEonG) based on the High Resolution Deterministic Prediction System (HRDPS) is a post-processing system designed to compute the weather elements required by different forecast programs (public, marine, aviation, air quality, etc.). This system amalgamates numerical and post-processed data using various diagnostic approaches. Hourly concepts are produced from different algorithms using outputs from the pan-Canadian High Resolution Deterministic Prediction System (HRDPS-NAT).</p>
+<p>Variable(s): Atmospheric variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Canada</p>
+<p>Spatial resolution: 2.5 km</p>
+<p>Temporal coverage: 2022-08-29 - present</p>
+<p>Temporal resolution: hourly, up to 48 hours ahead</p>
+<p>Resource: https://open.canada.ca/data/en/dataset/9eaf8b65-a734-432e-925c-7fbe8fc65670</p>
+<p>API Protocol: N.A.</p>

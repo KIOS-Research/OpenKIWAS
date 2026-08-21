@@ -1,0 +1,492 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 1</p>
+<p>TITLE: GLOBAL_ANALYSISFORECAST_PHY_001_024</p>
+<p>ID: 1</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_ANALYSISFORECAST_PHY_001_024</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Physics Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 12:00 UTC; 15th day of month at 12:00 UTC Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The global ocean analysis and forecast system provides 10 days of 3D global ocean forecasts updated daily global ocean at 1/12 degree.</p>
+<p>Variable(s): Temperature, salinity, currents, sea level, mixed layer depth and ice parameters (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90° Lon -180° to 179.92°</p>
+<p>Spatial resolution: 0.083° × 0.083°</p>
+<p>Temporal coverage: 1 Nov 2020 to up to present+10d forecast</p>
+<p>Temporal resolution: Hourly/Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_PHY_001_024/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 2</p>
+<p>TITLE: GLOBAL_ANALYSISFORECAST_WAV_001_027</p>
+<p>ID: 2</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_ANALYSISFORECAST_WAV_001_027</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Waves Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 00:00 UTC; 12:00 UTC</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The operational global ocean analysis and forecast system provides daily analyses and 10 days forecasts for the global ocean sea surface waves at 1/12 degree.</p>
+<p>Variable(s): Integrated wave parameters from the total spectrum (significant height, period, direction, Stokes drift,...etc), wind wave, primary and secondary swell waves (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90° Lon -180° to 179.92°</p>
+<p>Spatial resolution: 0.083° × 0.083°</p>
+<p>Temporal coverage: 1 Nov 2022 to up to present+10d forecast</p>
+<p>Temporal resolution: Hourly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_WAV_001_027/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 3</p>
+<p>TITLE: GLOBAL_ANALYSISFORECAST_BGC_001_028</p>
+<p>ID: 3</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_ANALYSISFORECAST_BGC_001_028</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Biogeochemistry Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Weekly – Thursdays at 12:00 UTC; 15th day of month at 12:00 UTC Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The biogeochemical global ocean analysis and forecast system provides 10 days of 3D global ocean forecasts updated weekly at 1/4 degree.</p>
+<p>Variable(s): Chlorophyll, nitrate, phosphate, silicate, dissolved oxygen, dissolved iron, primary production, phytoplankton, zooplankton, PH, and surface partial pressure of carbon dioxyde (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90°Lon -180° to 179.75°</p>
+<p>Spatial resolution: 0.25° × 0.25°</p>
+<p>Temporal coverage: 1 Oct 2021 to up to present+10d forecast</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_ANALYSISFORECAST_BGC_001_028/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 4</p>
+<p>TITLE: GLOBAL_MULTIYEAR_PHY_001_030</p>
+<p>ID: 4</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_MULTIYEAR_PHY_001_030</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Physics Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Annually/Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The GLORYS12V1 product is the CMEMS global ocean eddy-resolving (1/12 degree horizontal resolution, 50 vertical levels) reanalysis covering the altimetry (1993 onward).</p>
+<p>Variable(s): Temperature, salinity, currents, sea level, mixed layer depth and ice parameters from the top to the bottom. (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90° Lon -180° to 179.92°</p>
+<p>Spatial resolution: 0.083° × 0.083°</p>
+<p>Temporal coverage: 1 Jan 1993 to 22 Apr 2025</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 5</p>
+<p>TITLE: GLOBAL_MULTIYEAR_PHY_ENS_001_031</p>
+<p>ID: 5</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_MULTIYEAR_PHY_ENS_001_031</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Ensemble Physics Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Annually</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : Global ocean reanalyses are homogeneous 3D gridded descriptions of the physical state of the ocean covering several decades. The multi-model ensemble approach allows uncertainties or error bars in the ocean state to be estimated.</p>
+<p>Variable(s): Temperature, Salinity, Currents and Ice variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90°Lon -180° to 179.75°</p>
+<p>Spatial resolution: 0.25° × 0.25°</p>
+<p>Temporal coverage: 1 Jan 1993 to 31 Dec 2023</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_ENS_001_031/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 6</p>
+<p>TITLE: GLOBAL_MULTIYEAR_WAV_001_032</p>
+<p>ID: 6</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_MULTIYEAR_WAV_001_032</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Waves Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : Global wave reanalysis describing past sea states since years 1980</p>
+<p>Variable(s): Wave parameters (complete list at the resource URL)</p>
+<p>Spatial coverage: Global Ocean Lat -89.8° to 89.8°Lon -180° to 179.8°</p>
+<p>Spatial resolution: 0.2° × 0.2°</p>
+<p>Temporal coverage: 1 Jan 1980 to 31 Mar 2025</p>
+<p>Temporal resolution: Hourly/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_WAV_001_032/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 7</p>
+<p>TITLE: GLOBAL_MULTIYEAR_BGC_001_029</p>
+<p>ID: 7</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: GLOBAL_MULTIYEAR_BGC_001_029</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Global Ocean Biogeochemistry Hindcast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Annually/Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The biogeochemical hindcast model provides 3D biogeochemical fields since year 1993 at 1/4 degree and on 75 vertical levels.</p>
+<p>Variable(s): Daily (chlorophyll,nitrate, phosphate, silicate, dissolved oxygen, primary production) and monthly (chlorophyll, nitrate, phosphate, silicate, dissolved oxygen, primary production, iron, phytoplankton in carbon) 3D mean fields</p>
+<p>Spatial coverage: Global Ocean Lat -80° to 90° Lon -180° to 179.75°</p>
+<p>Spatial resolution: 0.25° × 0.25°</p>
+<p>Temporal coverage: 1 Jan 1993 to 31 Mar 2025</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_BGC_001_029/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 8</p>
+<p>TITLE: MEDSEA_ANALYSISFORECAST_PHY_006_013</p>
+<p>ID: 8</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_ANALYSISFORECAST_PHY_006_013</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Physics Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 16:00; 20th of each month at 16UTC Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The Mediterranean Sea Analysis and Forecast system comprises a coupled wave-current system composed by an Ocean General Circulation Model based on NEMO v4.2 and a Wave Model based on WW3 v6.07 with a variational data assimilation scheme (OceanVar) for temperature and salinity vertical profiles and satellite SLA along track data.</p>
+<p>Variable(s): Temperature, salinity, currents, sea level, mixed layer depth (complete list at the resource URL)</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -17.29° to 36.29°</p>
+<p>Spatial resolution: 0.042° × 0.042°</p>
+<p>Temporal coverage: 1 Nov 2022 to present+10d forecast</p>
+<p>Temporal resolution: Sub-hourly/Hourly/Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_PHY_006_013/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 9</p>
+<p>TITLE: MEDSEA_ANALYSISFORECAST_WAV_006_017</p>
+<p>ID: 9</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_ANALYSISFORECAST_WAV_006_017</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Waves Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 06:00; 20:00</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : This product is the nominal wave product of the Mediterranean Sea Forecasting system, composed by hourly wave parameters at 1/24º horizontal resolution covering the Mediterranean Sea and extending up to 18.125W into the Atlantic Ocean.</p>
+<p>Variable(s): Wave parameters (complete list at the resource URL)</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -17.29° to 36.29°</p>
+<p>Spatial resolution: 0.042° × 0.042°</p>
+<p>Temporal coverage: 30 Nov 2021 to present+10d forecast</p>
+<p>Temporal resolution: Hourly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_WAV_006_017/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 10</p>
+<p>TITLE: MEDSEA_ANALYSISFORECAST_BGC_006_014</p>
+<p>ID: 10</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_ANALYSISFORECAST_BGC_006_014</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Biogeochemistry Analysis and Forecast</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 22:00; 20th of each month at 16UTC Monthly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The biogeochemical ocean analysis and forecast system produces one day of hindcast and ten days of forecast (every day) and seven days of analysis (weekly on Tuesday) for the Mediterranea Sea at 1/24 degree of horizontal resolution</p>
+<p>Variable(s): Chlorophyll, phytoplankton, zooplankton, primary production, nitrate, phosphate, silicate, dissolved oxygen, pH, and surface partial pressure of carbon dioxyde (complete list at the resource URL)</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -17.29° to 36.29°</p>
+<p>Spatial resolution: 0.042° × 0.042°</p>
+<p>Temporal coverage: 1 Oct 2022 to present+10d forecast</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_BGC_006_014/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 11</p>
+<p>TITLE: MEDSEA_MULTIYEAR_PHY_006_004</p>
+<p>ID: 11</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_MULTIYEAR_PHY_006_004</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Physics Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Monthly – 20th of each month at 16UTC; Daily; Annually</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : It contains a reanalysis dataset and an interim dataset which covers the period after the reanalysis until 1 month before present. The model horizontal grid resolution is 1/24˚ (ca. 4-5 km) and the unevenly spaced vertical levels are 141.</p>
+<p>Variable(s): Temperature, salinity, currents, sea level, mixed layer depth, from the top to the bottom. (complete list at the resource URL)</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -6° to 36.29°</p>
+<p>Spatial resolution: 0.042° × 0.042°</p>
+<p>Temporal coverage: 1 Jan 1987 to 1 month before present</p>
+<p>Temporal resolution: Hourly/Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_PHY_006_004/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 12</p>
+<p>TITLE: MEDSEA_MULTIYEAR_WAV_006_012</p>
+<p>ID: 12</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_MULTIYEAR_WAV_006_012</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Waves Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -6° to 36.29°</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 13</p>
+<p>TITLE: MEDSEA_MULTIYEAR_BGC_006_008</p>
+<p>ID: 13</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: MEDSEA_MULTIYEAR_BGC_006_008</p>
+<p>Type: numerical model data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Biogeochemistry Reanalysis</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Biannually – 28th of each month at 16UTC; Monthly; Annually</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The product is composed by 3D daily and monthly mean concentration of chlorophyll, nitrate, phosphate, ammonium, primary production, oxygen, phytoplankton carbon biomass, pH, dissolved inorganic carbon, alkalinity, and 2D daily and monthly mean of surface partial pressure of CO2 and surface flux of CO2.</p>
+<p>Variable(s): Chlorophyll, Phytoplankton, Net primary production, nitrate, phosphate, ammonium, dissolved oxygen, dissolved inorganic carbon, pH, CO2, alkalinity.</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.19° to 45.98° Lon -6° to 36.29°</p>
+<p>Spatial resolution: 0.042° × 0.042°</p>
+<p>Temporal coverage: 1 Jan 1999 to 1 Jul 2025</p>
+<p>Temporal resolution: Daily/Monthly/Yearly/Multi-yearly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/MEDSEA_MULTIYEAR_BGC_006_008/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 14</p>
+<p>TITLE: OCEANCOLOUR_MED_BGC_L4_MY_009_144</p>
+<p>ID: 14</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: OCEANCOLOUR_MED_BGC_L4_MY_009_144</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Biogeochemical Satellite Observation</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Irregular</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : It provides multi-years biogeochemical datasets for the Mediterranean Sea</p>
+<p>Variable(s): Chlorophyll, Primary production</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30° to 46° Lon -6° to 36.5°</p>
+<p>Spatial resolution: 0.01° × 0.01°</p>
+<p>Temporal coverage: 1 Sep 1997 to 10 days before present</p>
+<p>Temporal resolution: Daily/Monthly/Multi-yearly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/OCEANCOLOUR_MED_BGC_L4_MY_009_144/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 15</p>
+<p>TITLE: SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012</p>
+<p>ID: 15</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: Mediterranean Sea Ultra High Resolution Sea Surface Temperature</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Daily – 12:00; 15:00</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : This product provides merged multi-sensor (L3S) and optimally interpolated SST fields covering the Mediterranean Sea. These data are provided at high (HR, 1/16°) and ultra-high (UHR, 1/100°) spatial resolution, and are representative of nighttime SST values (00:00 UTC).</p>
+<p>Variable(s): Sea Surface Temperature</p>
+<p>Spatial coverage: Mediterranean Sea Lat 30.25° to 46°Lon -18.12° to 36.25°</p>
+<p>Spatial resolution: 0.01° × 0.01°</p>
+<p>Temporal coverage: 1 Jan 2008 to present</p>
+<p>Temporal resolution: Daily</p>
+<p>Resource: https://data.marine.copernicus.eu/product/SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 16</p>
+<p>TITLE: SEALEVEL_EUR_PHY_L4_MY_008_068</p>
+<p>ID: 16</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: SEALEVEL_EUR_PHY_L4_MY_008_068</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: European Seas Gridded L 4 Sea Surface Heights And Derived Variables Reprocessed 1993 Ongoing</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Several-time-yearly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : Sea Level Anomalies (SLA) computed with respect to a twenty-year [1993, 2012] mean. The SLA is estimated by Optimal Interpolation, merging the L3 along-track measurement from the different altimeter missions available.</p>
+<p>Variable(s): Sea Surface Height above geoid (SSH), velocity</p>
+<p>Spatial coverage: Europe Lat 19.97° to 66.03°Lon -30.03° to 42.03°</p>
+<p>Spatial resolution: 0.0625° × 0.0625°</p>
+<p>Temporal coverage: 1 Jan 1993 to 19 Nov 2024</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/SEALEVEL_EUR_PHY_L4_MY_008_068/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 17</p>
+<p>TITLE: SEALEVEL_GLO_PHY_L4_MY_008_047</p>
+<p>ID: 17</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: SEALEVEL_GLO_PHY_L4_MY_008_047</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: Global Ocean Gridded L 4 Sea Surface Heights And Derived Variables Reprocessed 1993 Ongoing</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Several-time-yearly</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : Sea Level Anomalies (SLA) computed with respect to a twenty-year [1993, 2012] mean. The SLA is estimated by Optimal Interpolation, merging the L3 along-track measurement from the different altimeter missions available.</p>
+<p>Variable(s): Sea Surface Height above geoid (SSH), velocity</p>
+<p>Spatial coverage: Global Ocean Lat -89.94° to 89.94°Lon -179.94° to 179.94°</p>
+<p>Spatial resolution: 0.125° × 0.125°</p>
+<p>Temporal coverage: 1 Jan 1993 to 19 Nov 2024</p>
+<p>Temporal resolution: Daily</p>
+<p>Resource: https://data.marine.copernicus.eu/product/SEALEVEL_GLO_PHY_L4_MY_008_047/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 18</p>
+<p>TITLE: SST_GLO_SST_L4_REP_OBSERVATIONS_010_024</p>
+<p>ID: 18</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: SST_GLO_SST_L4_REP_OBSERVATIONS_010_024</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: ESA SST CCI and C3S reprocessed sea surface temperature analyses</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: N.A.</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : The C3S global Sea Surface and Sea Ice Temperature Reprocessed product provides gap-free maps of daily average SST at 20 cm depth and IST skin at 0.05 x 0.05° horizontal grid resolution.</p>
+<p>Variable(s): Sea Surface Temperature</p>
+<p>Spatial coverage: Global Ocean Lat -89.97° to 89.98° Lon -179.98° to 179.98°</p>
+<p>Spatial resolution: 0.05° × 0.05°</p>
+<p>Temporal coverage: 1 Sep 1981 to 31 Dec 2024</p>
+<p>Temporal resolution: Daily</p>
+<p>Resource: https://data.marine.copernicus.eu/product/SST_GLO_SST_L4_REP_OBSERVATIONS_010_024/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 19</p>
+<p>TITLE: OCEANCOLOUR_GLO_BGC_L4_MY_009_104</p>
+<p>ID: 19</p>
+<p>Source Organisation: Copernicus Marine Service</p>
+<p>Name: OCEANCOLOUR_GLO_BGC_L4_MY_009_104</p>
+<p>Type: Remote sensing data (format: netCDF-4)</p>
+<p>Area: Global Ocean Colour Bio-Geo-Chemical from Satellite Observations (1997-ongoing)</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Monthly – 22:00; Daily</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : It provides multi-years biogeochemical datasets for the Global Ocean</p>
+<p>Variable(s): Chlorophyll, Primary production</p>
+<p>Spatial coverage: Global Ocean Lat -90° to 90°Lon -180° to 180°</p>
+<p>Temporal coverage: 1 Sep 1997 to 15 days before present</p>
+<p>Temporal resolution: Daily/Monthly</p>
+<p>Resource: https://data.marine.copernicus.eu/product/OCEANCOLOUR_GLO_BGC_L4_MY_009_104/description</p>
+<p>API Protocol: WMTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 20</p>
+<p>TITLE: EMODnet Physics - In Situ data from operational platforms and research projects</p>
+<p>ID: 20</p>
+<p>Source Organisation: European Marine Observation and Data Network (EMODnet)</p>
+<p>Name: EMODnet Physics - In Situ data from operational platforms and research projects</p>
+<p>Type: In situ data</p>
+<p>Area: Oceanographic in situ data</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : EMODnet Physics collects in situ data (time-series, profiles and datasets) as recorded by platforms (tide gauge, river stations, CTDs, etc.). The product offers near real time and delayed mode data. It integrates data from major marine and oceanographic initiatives and data repositories (EuroGOOS ROOS, CMS INSTAC, SeaDataNet NODCs, ICES, PANGAEA, etc.)</p>
+<p>Variable(s): Oceanographic data</p>
+<p>Spatial coverage: Global Ocean Lat -90° to 90°Lon -180° to 180°</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: 1 Jan 2000 to present</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/be371427-4de5-4cea-9fec-e4fb0c0c749d</p>
+<p>API Protocol: WMS; ERDDAP</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 21</p>
+<p>TITLE: EMODnet Chemistry</p>
+<p>ID: 21</p>
+<p>Source Organisation: European Marine Observation and Data Network (EMODnet)</p>
+<p>Name: EMODnet Chemistry</p>
+<p>Type: In situ data</p>
+<p>Area: Marine chemical data</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : EMODnet Chemistry publishes standardised, harmonised and quality-controlled data collections and derived data products. These are all relevant for the implementation of European Union (EU) marine policies such as the Marine Strategy Framework Directive (MSFD), Water Framework Directive, and Maritime Spatial Planning Directive. Specifically, EMODnet Chemistry contributes to Descriptors 5 (eutrophication), 8 (chemical pollution), 9 (contaminants in seafood) and 10 (marine litter) of the MSFD</p>
+<p>Variable(s): Eutrophication; Ocean acidification; Contaminants; Marine litter.</p>
+<p>Spatial coverage: Arctic Ocean, North East Atlantic Ocean, Baltic Sea, Black Sea, Mediterranean Sea, North Sea</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22sourceCatalogue%22:%7B%22a2bd6187-eed3-4ade-964f-aa33dde2b904%22:true%7D%7D&amp;from=1&amp;to=30</p>
+<p>API Protocol: WMS; ERDDAP</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 22</p>
+<p>TITLE: EMODnet Biology</p>
+<p>ID: 22</p>
+<p>Source Organisation: European Marine Observation and Data Network (EMODnet)</p>
+<p>Name: EMODnet Biology</p>
+<p>Type: In situ data</p>
+<p>Area: Marine biological data</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: Depending on specific dataset</p>
+<p>Legal restrictions: See documention at resouce URL</p>
+<p>Description : EMODnet Biology provides open and free access to interoperable data and data products on temporal and spatial distribution of marine speciesfrom European regional seas, as defined by the EEA’s &#39;Europe’s seas’ dataset (Arctic Ocean, (North) Atlantic Ocean, Baltic Sea, Black Sea, Mediterranean Sea and North Sea).</p>
+<p>Variable(s): (angiosperms, benthos, birds, fish, macroalgae, mammals, phytoplankton, reptiles, zooplankton</p>
+<p>Spatial coverage: Arctic Ocean, North East Atlantic Ocean, Baltic Sea, Black Sea, Mediterranean Sea, North Sea</p>
+<p>Spatial resolution: Depending on specific dataset</p>
+<p>Temporal coverage: Depending on specific dataset</p>
+<p>Temporal resolution: Depending on specific dataset</p>
+<p>Resource: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/search?query_string=%7B%22sourceCatalogue%22:%7B%22deaefff1-78c7-47f0-82de-c42fe9aac659%22:true%7D%7D&amp;from=1&amp;to=30</p>
+<p>API Protocol: WMS; ERDDAP</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 23</p>
+<p>TITLE: Waves</p>
+<p>ID: 23</p>
+<p>Source Organisation: MeteoFrance</p>
+<p>Name: Waves</p>
+<p>Type: data (format: GRIB2, geoTIFF), service (forecast)</p>
+<p>Area: oceanic data</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: 3 h</p>
+<p>Description : MFWAM is a sea state forecasting model (wind and swell) derived from the third-generation WAM code (WAMDI Group, 1988). Depending on its different regional or global configurations, this model is ‘forced’ at input by 10 m winds from the numerical weather prediction models ARPEGE and AROME. Spatial, altimetric and spectral observation data, via satellite-borne radars, are assimilated by global and regional (large-scale) MFWAM models. Wave physics is taken into account in order to model the waves as accurately as possible.</p>
+<p>Variable(s): Wave height, swell</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.025° to 0.05° depending on the coupled atmospheric model. High resolution (200m to 5km) available for Mediterranean Sea and Atlantic Ocean.</p>
+<p>Temporal coverage: N.A.</p>
+<p>Temporal resolution: 0, 06, 12, 18 hours</p>
+<p>Resource: https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=132&amp;id_rubrique=51 and https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=239&amp;id_rubrique=51</p>
+<p>API Protocol: https://portail-api.meteofrance.fr/web/en/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Oceanographic_Data</p>
+<p>ID: 24</p>
+<p>TITLE: Storm surge</p>
+<p>ID: 24</p>
+<p>Source Organisation: MeteoFrance</p>
+<p>Name: Storm surge</p>
+<p>Type: data (format: GRIB2), service (forecast)</p>
+<p>Area: oceanic data</p>
+<p>Quality: See documention at resouce URL</p>
+<p>Availability: Open</p>
+<p>Update frequency: 4 h</p>
+<p>Description : The surge model used by Météo-France since 14 January 2014 is a model developed by SHOM, in collaboration with Météo-France as part of the HOMONIM project (Historique, Observation, MOdélisation des NIveaux Marins), under the project management of the Direction Générale pour la Prévention des Risques (DGPR) and to meet the needs of the Plan interministériel Submersions Rapides on ‘improving knowledge of hazards and monitoring, forecasting, vigilance and warning systems’.</p>
+<p>Variable(s): Surge</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.04°</p>
+<p>Temporal coverage: 2014 - present</p>
+<p>Temporal resolution: 0, 06, 12, 18 hours</p>
+<p>Resource: https://donneespubliques.meteofrance.fr/?fond=produit&amp;id_produit=133&amp;id_rubrique=51</p>
+<p>API Protocol: https://portail-api.meteofrance.fr/web/en/</p>

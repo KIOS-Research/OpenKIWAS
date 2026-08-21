@@ -1,0 +1,1504 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000001</p>
+<p>TITLE: Parameter</p>
+<p>Parameter change rate assumption: Parameter</p>
+<p>Unnamed: 10: Change rate</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000002</p>
+<p>TITLE: EU, International organisations, Nations</p>
+<p>Issuing organisation: EU, International organisations, Nations</p>
+<p>Type: Legislative, Directive, ISO/CEN standards, UN/WHO recommendations, etc.</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: monitoring, forecasting, projection, simulation, management</p>
+<p>Parameter change rate assumption: e.g., flow, level, pressure, quality, etc.</p>
+<p>Unnamed: 10: static, slowly changing, dynamic</p>
+<p>Status: upcoming, effective, non effective</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000003</p>
+<p>TITLE: The Water Framework Directive</p>
+<p>Name: The Water Framework Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: groundwater and surface waters (rivers, lakes, transitional waters, and coastal waters), marine waters</p>
+<p>Water management focus: monitoring, management</p>
+<p>Parameter change rate assumption: Specifies the criteria for evaluating water status, including Biological quality, Hydromorphological quality, Physical-chemical quality and Chemical quality</p>
+<p>Description: The WFD creates a framework for water policies, objectives and deadlines for enhancing the status of water bodies.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2000-12-22 00:00:00</p>
+<p>Resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02000L0060-20141120</p>
+<p>Recommendations: The Water Framework Directive protects and improves all water bodies in the EU by achieving &quot;good status&quot; through integrated river basin management and regular monitoring. It promotes sustainable water use, cost recovery through pricing, and the prevention of further water deterioration. Public participation and coordination with other environmental directives are essential to its implementation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000004</p>
+<p>TITLE: The Urban Wastewater Treatment Directive</p>
+<p>Name: The Urban Wastewater Treatment Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry and biology</p>
+<p>Type of water: wastewater</p>
+<p>Water management focus: management</p>
+<p>Description: The UWWTD ensures proper treatment of urban wastewater to protect human health and the environment. It sets standards for wastewater treatment plants.</p>
+<p>Status: effective</p>
+<p>Effect Date: 1991</p>
+<p>Resource: https://environment.ec.europa.eu/topics/water/urban-wastewater_en</p>
+<p>Recommendations: Recommends the collection and treatment of wastewater in urban areas to reduce pollution in the environment, especially in sensitive areas.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000005</p>
+<p>TITLE: The Marine Strategy Framework Directive</p>
+<p>Name: The Marine Strategy Framework Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: marine water</p>
+<p>Water management focus: management</p>
+<p>Description: The MSFD establishes marine regions according to geographical and environmental criteria. Member states within a marine region are required to develop strategies to protect their marine waters.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2008</p>
+<p>Resource: https://research-and-innovation.ec.europa.eu/research-area/environment/oceans-and-seas/eu-marine-strategy-framework-directive_en</p>
+<p>Recommendations: To achieve &quot;Good Environmental Status&quot; of marine waters by 2020 through ecosystem-based management and protection of marine biodiversity.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000006</p>
+<p>TITLE: The Floods Directive</p>
+<p>Name: The Floods Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states</p>
+<p>Type of water: surface water and coastal</p>
+<p>Water management focus: management</p>
+<p>Description: The FD requires member states to carry out flood risk assessments, create maps of flood risk and develop flood risk management plans.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2007</p>
+<p>Resource: https://environment.ec.europa.eu/topics/water/floods_en</p>
+<p>Recommendations: Encourages flood risk assessment and management planning, with a focus on prevention, protection, and preparedness at river basin level.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000007</p>
+<p>TITLE: The Drinking Water Directive</p>
+<p>Name: The Drinking Water Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry and biology</p>
+<p>Type of water: drinking water</p>
+<p>Water management focus: management</p>
+<p>Description: The DWD sets quality standards for drinking water and requires drinking water quality to be monitored and reported.</p>
+<p>Status: effective</p>
+<p>Effect Date: 1998 (revised 2021)</p>
+<p>Resource: https://environment.ec.europa.eu/topics/water/drinking-water_en</p>
+<p>Recommendations: Ensures safe and clean drinking water for human consumption by setting quality standards and improving access, particularly for vulnerable groups.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000008</p>
+<p>TITLE: The Bathing Water Directive</p>
+<p>Name: The Bathing Water Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Type of water: bathing water</p>
+<p>Water management focus: management</p>
+<p>Description: The BWD aims to protect public health and the environment by keeping coastal and inland bathing waters free from pollution.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2006</p>
+<p>Resource: https://environment.ec.europa.eu/topics/water/bathing-water_en</p>
+<p>Recommendations: Requires regular monitoring of bathing water quality and public information to protect public health and maintain clean, safe recreational waters.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000009</p>
+<p>TITLE: The Sewage Sludge Directive</p>
+<p>Name: The Sewage Sludge Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Type of water: wastewater</p>
+<p>Water management focus: management</p>
+<p>Description: The SSD aims to encourage the use of sewage sludge in agriculture and to regulate its use in in such a way as to prevent harmful effects on soil, vegetation, animals and man.</p>
+<p>Status: effective</p>
+<p>Effect Date: 1986</p>
+<p>Resource: https://environment.ec.europa.eu/topics/waste-and-recycling/sewage-sludge_en</p>
+<p>Recommendations: Regulates the use of sewage sludge in agriculture to protect soil, vegetation, animals, and humans from harmful contaminants.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000010</p>
+<p>TITLE: The Water Resources Act 1991</p>
+<p>Name: The Water Resources Act 1991</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry and biology</p>
+<p>Description: The Water Act 1989 provided for the privatisation of the former water authorities. Water related legislation (including the Water Act 1989) was subsequently consolidated into new Acts of Parliament. These included: The Water Industry Act 1991, which sets out the main powers and duties of the water and sewerage companies, thus replacing those set out in the Water Act 1989, and defined the powers of the Director General of Water Services (now the Water Services Regulation Authority (Ofwat)). The Water Resources Act 1991, which set out the functions of the National Rivers Authority (now the Environment Agency) and introduced water quality classifications and objectives for the first time.</p>
+<p>Status: effective</p>
+<p>Effect Date: 25th July 1991</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/1991/57/contents</p>
+<p>Recommendations: Establishes legal controls over water pollution, abstraction, and discharge in England and Wales, supporting sustainable water resource management</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000011</p>
+<p>TITLE: The Water Supply (Water Quality) Regulations 2016</p>
+<p>Name: The Water Supply (Water Quality) Regulations 2016</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry, and biology</p>
+<p>Type of water: drinking water</p>
+<p>Water management focus: management</p>
+<p>Description: The instrument provides the legislative framework for drinking water quality in England in respect of public supplies provided by water companies and licensed water suppliers. This is water intended for human consumption including cooking, drinking, food preparation and other domestic purposes as well as water used in food production undertakings. The Drinking Water Inspectorate, acting on behalf of the Secretary of State, enforces the legislation.</p>
+<p>Status: effective</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2016/614/contents</p>
+<p>Recommendations: Sets strict standards for drinking water quality, requiring regular monitoring and action to ensure safety for public health.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000012</p>
+<p>TITLE: The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017</p>
+<p>Name: The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface water and groundwater</p>
+<p>Water management focus: monitoring, management</p>
+<p>Description: Establishes a framework for water environment management in the UK, setting up the river basin management plan for each river basin.</p>
+<p>Status: effective</p>
+<p>Effect Date: 10th April 2017</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2017/407/contents/made</p>
+<p>Recommendations: Implements the EU Water Framework Directive into UK law, promoting integrated water resource management and ecological protection of water bodies.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000013</p>
+<p>TITLE: The Competition and Service (Utilities) Act 1992</p>
+<p>Name: The Competition and Service (Utilities) Act 1992</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Description: The Competition and Service (Utilities) Act 1992 increased Ofwat’s powers to determine disputes and increased the limited opportunities for competition in the industry.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/1992/43/contents</p>
+<p>Recommendations: Introduced consumer rights and performance standards for utility companies, including the water sector, to improve service and transparency.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000014</p>
+<p>TITLE: The Environment Act 1995</p>
+<p>Name: The Environment Act 1995</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Description: The Environment Act 1995 led to restructuring of environmental regulation and placed a duty on the companies to promote the efficient use of water by customers. It created a new body, the Environment Agency, which took over the functions of the National Rivers Authority, Her Majesty’s Inspectorate of Pollution, the waste regulation functions of local authorities and certain elements of the Department of the Environment. Natural Resources Wales now exercises the functions of the Environment Agency in Wales.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/1995/25/contents</p>
+<p>Recommendations: Established the Environment Agency and introduced new frameworks for pollution control, sustainable development, and environmental protection.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000015</p>
+<p>TITLE: The Environment Act 2021</p>
+<p>Name: The Environment Act 2021</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Natural environment</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/2021/30/contents</p>
+<p>Recommendations: Sets legally binding environmental targets, strengthens regulation of water companies, and enhances water quality and biodiversity protections post-Brexit.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000016</p>
+<p>TITLE: The Competition Act 1998</p>
+<p>Name: The Competition Act 1998</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Description: The Competition Act 1998 prohibits any agreements between businesses that prevent, restrict or distort competition. It also prohibits any abuse of a dominant market position. Ofwat shares enforcement powers in relation to the water and sewerage sectors with the Competition and Markets Authority (CMA).</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/1998/41/contents</p>
+<p>Recommendations: Prohibits anti-competitive agreements and abuse of market dominance, encouraging fair competition in sectors including water services.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000017</p>
+<p>TITLE: Water Industry Act 1991</p>
+<p>Name: Water Industry Act 1991</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/1991/56/contents</p>
+<p>Recommendations: Consolidates laws on the supply of water and sewerage services, setting duties for water companies and enabling regulation of prices and performance.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000018</p>
+<p>TITLE: Water Industry Act 1999</p>
+<p>Name: Water Industry Act 1999</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Type of water: Drinking water; wastewater</p>
+<p>Water management focus: monitoring; management</p>
+<p>Description: The Water Industry Act 1999 made several important amendments to the Water Industry Act 1991. These included: removing a company’s right to disconnect domestic customers for non-payment of bills, limiting the circumstances in which companies can starting charging domestic customers on a metered basis, securing that companies could continue to charge customers on the basis of rateable value.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/1999/9/contents</p>
+<p>Recommendations: Enhanced consumer protections, including banning disconnections for non-payment and introducing debt recovery safeguards.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000019</p>
+<p>TITLE: Water Act 2003</p>
+<p>Name: Water Act 2003</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry</p>
+<p>Type of water: Drinking water; wastewater</p>
+<p>Water management focus: monitoring; management</p>
+<p>Description: The Water Act 2003 amended the framework for abstraction licensing, made changes to the corporate structure of economic regulation, and extended the scope for competition in the industry to large users.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/2003/37/contents</p>
+<p>Recommendations: Promotes sustainable water use, streamlines abstraction licensing, and strengthens the powers of the regulator (Ofwat).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000020</p>
+<p>TITLE: Enterprise Act 2002</p>
+<p>Name: Enterprise Act 2002</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Description: The Enterprise Act 2002 amended the Water Industry Act 1991 to update the regime for the compulsory reference of certain mergers between water companies to the Competition Commission (now the CMA).</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/2002/40/contents</p>
+<p>Recommendations: Provides tools to investigate and remedy anti-competitive practices and promotes consumer interests, applying also to the water industry.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000021</p>
+<p>TITLE: Flood and Water Management Act 2010</p>
+<p>Name: Flood and Water Management Act 2010</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Description: The Flood and Water Management Act 2010 encouraged the use of sustainable urban drainage systems (SUDs), amended the Water Industry Act to modernise the list of activities that can be restricted by water companies in a drought, and made it easier for water companies to offer lower tariffs to certain groups.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/2010/29/contents</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000022</p>
+<p>TITLE: Water Act 2014</p>
+<p>Name: Water Act 2014</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Description: The Water Act 2014 enables greater competition for non-household customers (expected to be limited to customers of English water companies) and gives Ofwat new powers to make rules about charges and charges schemes, as well as making provisions for flood insurance and drainage boards.</p>
+<p>Resource: http://www.legislation.gov.uk/ukpga/2014/21/introduction</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000023</p>
+<p>TITLE: Drinking Water Standards and Regulations</p>
+<p>Name: Drinking Water Standards and Regulations</p>
+<p>Issuing organisation: Drinking Water Inspectorate</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Unnamed: 4: #ERROR!</p>
+<p>Type: standards</p>
+<p>Scientific domain: chemistry</p>
+<p>Parameter change rate assumption: Microbiological and chemical parameters, national requirements</p>
+<p>Resource: https://www.dwi.gov.uk/drinking-water-standards-and-regulations/</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000024</p>
+<p>TITLE: Pollution Prevention and Control Act 1999</p>
+<p>Name: Pollution Prevention and Control Act 1999</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: chemistry, biology</p>
+<p>Type of water: surface and groundwater; treated water</p>
+<p>Water management focus: monitoring</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: key piece of environmental legislation in the United Kingdom designed to control and regulate pollution from industrial and other commercial activities. It aims to reduce pollution to air, water, and land, ensuring that industries and facilities are operated in a way that minimizes their environmental impact.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1999-11-15 00:00:00</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/1999/24/contents</p>
+<p>Recommendations: Purpose: Control pollution from industrial activities and implement the EU IPPC Directive. Permitting system: Industrial facilities must be permitted and meet environmental standards for emissions. Integrated approach: Emphasis on using Best Available Techniques (BAT) to reduce pollution. Monitoring and enforcement: Includes inspection, monitoring, and public transparency. Penalties: Fines and sanctions for non-compliance.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000025</p>
+<p>TITLE: Waste Framework Directive</p>
+<p>Name: Waste Framework Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: Chemistry; biology</p>
+<p>Type of water: surface and groundwater; treated water</p>
+<p>Water management focus: monitoring</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008, commonly referred to as the Waste Framework Directive, is a key piece of European Union (EU) legislation that sets out the framework for waste management across EU member states. Its primary purpose is to ensure that waste is managed in a way that protects the environment, human health, and promotes resource efficiency. The Directive aims to minimize the environmental impact of waste, promote recycling, and encourage the transition towards a circular economy.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2008-11-19 00:00:00</p>
+<p>Resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098</p>
+<p>Recommendations: Waste hierarchy: Prevention, preparation for reuse, recycling, other recovery, disposal. Recycling and recovery targets: Specific targets for recycling municipal waste, packaging waste, and others. Extended producer responsibility (EPR): Producers are responsible for their products’ end-of-life management. Waste management plans: Member States must prepare national and regional plans for waste management and prevention. End-of-waste criteria: Defines when waste ceases to be waste and becomes a resource. Hazardous waste: Stricter controls on hazardous waste. Waste shipment: Regulations for shipping waste within the EU and abroad.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000026</p>
+<p>TITLE: Environment Agency enforcement and sanctions policy</p>
+<p>Name: Environment Agency enforcement and sanctions policy</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater; treated water</p>
+<p>Water management focus: monitoring</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Environment Agency&#39;s Enforcement and Sanctions Policy is a framework that guides the enforcement actions and sanctions that the Environment Agency (EA) in England, and its counterparts in Wales and Northern Ireland, can use to address non-compliance with environmental laws and regulations. The policy ensures that the EA uses a consistent, transparent, and proportionate approach when dealing with environmental offences, whether they relate to pollution, waste management, water quality, or other environmental concerns.</p>
+<p>Status: Effective</p>
+<p>Effect Date: last updated 12 December 2024</p>
+<p>Resource: https://www.gov.uk/government/publications/environment-agency-enforcement-and-sanctions-policy/environment-agency-enforcement-and-sanctions-policy</p>
+<p>Recommendations: Key Objectives of the Policy Deterrence: Ensure that those who breach environmental laws are effectively deterred from doing so in the future. Restoration: Hold offenders accountable and ensure they take the necessary steps to restore the environment and remedy any damage caused. Public Confidence: Reinforce public confidence in environmental protection by demonstrating that the Environment Agency takes action against those who harm the environment.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000027</p>
+<p>TITLE: Habitats Directive (Council Directive 92/43/EEC)</p>
+<p>Name: Habitats Directive (Council Directive 92/43/EEC)</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater; treated water</p>
+<p>Water management focus: monitoring; management; protection</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Habitats Directive aims to protect over a thousand species, including mammals, reptiles, amphibians, fish invertebrates, and plants, and 230 characteristic habitat types. The overall objective is to ensure that these species and habitat types are maintained, or restored, to a favourable conservation status within the EU. In addition to halting the further decline or disappearance of these species and habitats, the Directive aims to allow them to recover and thrive over the long-term.</p>
+<p>Status: Effective</p>
+<p>Resource: https://environment.ec.europa.eu/topics/nature-and-biodiversity/habitats-directive_en</p>
+<p>Recommendations: Key Objectives Protection of Natural Habitats: The directive provides for the protection of a wide range of natural habitats, particularly those that are vulnerable or rare in Europe. These include habitats such as wetlands, forests, grasslands, and marine ecosystems. Conservation of Species: It aims to protect species of wild fauna and flora that are at risk, threatened, or endangered across Europe, including mammals, birds, amphibians, fish, reptiles, plants, and insects. Establishment of Natura 2000 Network: One of the most important aspects of the directive is the creation of the Natura 2000 network of protected areas. These are areas designated as being of European importance for the conservation of specific habitats and species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000028</p>
+<p>TITLE: Environmental Liability Directive 2003/35/EC</p>
+<p>Name: Environmental Liability Directive 2003/35/EC</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: monitoring, forecasting, projection, simulation, management</p>
+<p>Parameter change rate assumption: Flow, level, pressure, quality, etc.</p>
+<p>Unnamed: 10: static, slowly changing, dynamic</p>
+<p>Description: Directive 2003/35/EC of the European Parliament and of the Council, dated 26 May 2003, is a key piece of European Union (EU) legislation aimed at enhancing public participation in environmental decision-making processes. It specifically addresses public participation in the development of certain plans and programmes relating to the environment and introduces modifications to existing environmental assessment directives to improve access to justice.</p>
+<p>Status: Effective</p>
+<p>Resource: https://eur-lex.europa.eu/resource.html?uri=cellar:4a80a6c9-cdb3-4e27-a721-d5df1a0535bc.0004.02/DOC_1&amp;format=PDF</p>
+<p>Recommendations: Key Takeaways from the Directive: 1. Public participation is a right for citizens, NGOs, and other stakeholders in the development of plans and programmes relating to the environment. 2. It amends two key EU environmental directives (EIA and IPPC) to ensure public consultation and access to justice in environmental matters. 3. It reflects the EU’s commitment to transparency and accountability in environmental decision-making, in line with the Aarhus Convention. 4. It ensures that decisions affecting the environment can be challenged in court if public participation was inadequate or the decision violates environmental law.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000029</p>
+<p>TITLE: Directive on corporate sustainability due diligence (Directive 2024/1760)</p>
+<p>Name: Directive on corporate sustainability due diligence (Directive 2024/1760)</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: monitoring, forecasting, projection, simulation, management</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Directive on Corporate Sustainability Due Diligence (Directive 2024/1760) is a proposed piece of European Union (EU) legislation aimed at enhancing corporate responsibility in relation to human rights and environmental sustainability across global supply chains. This directive is part of the EU&#39;s broader efforts to ensure that companies operating within the EU take responsibility for the impact their activities have on both people and the environment, both within the EU and abroad.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2024-07-25 00:00:00</p>
+<p>Resource: https://commission.europa.eu/business-economy-euro/doing-business-eu/sustainability-due-diligence-responsible-business/corporate-sustainability-due-diligence_en</p>
+<p>Recommendations: The Directive on Corporate Sustainability Due Diligence (Directive 2024/1760) is a groundbreaking piece of legislation that seeks to hold EU companies accountable for their human rights and environmental impacts across global supply chains. It is part of the EU&#39;s broader push towards corporate responsibility and sustainability, helping to align business practices with environmental protection and human rights objectives. With the increasing importance of sustainable finance, ethical sourcing, and supply chain transparency, this directive will likely shape the future of corporate governance in the EU and beyond.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000030</p>
+<p>TITLE: The Agriculture Act 2020</p>
+<p>Name: The Agriculture Act 2020</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater; treated water</p>
+<p>Water management focus: monitoring; management; protection</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: This regulation transposes the EU Habitats Directive and Birds Directive into UK law, protecting habitats and species of European importance.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 11 November 0202</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/2020/21/contents</p>
+<p>Recommendations: Key Provisions: Protects designated Sites of Special Scientific Interest (SSSIs), Special Areas of Conservation (SACs), and Special Protection Areas (SPAs). Farmers must ensure their activities do not harm protected sites or species, which may include restrictions on agricultural practices, such as land drainage or the use of pesticides.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000031</p>
+<p>TITLE: The Conservation of Habitats and Species Regulations 2017</p>
+<p>Name: The Conservation of Habitats and Species Regulations 2017</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater;</p>
+<p>Water management focus: monitoring; management; protection</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Conservation of Habitats and Species Regulations 2017 (commonly referred to as the Habitats Regulations 2017) are a key piece of UK legislation aimed at protecting biodiversity by safeguarding important habitats and species. These regulations were introduced to implement the European Union Habitats Directive (92/43/EEC) and the Birds Directive (2009/147/EC), which are key components of EU environmental law, into UK law. After the UK left the EU, these regulations were retained under the European Union (Withdrawal) Act 2018, and they continue to provide a robust legal framework for the conservation of biodiversity. The primary aim of the regulations is to protect and conserve natural habitats and species of wild flora and fauna, particularly those of European significance.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2018-01-30 00:00:00</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2017/1012/contents</p>
+<p>Recommendations: Key Protected Species and Habitats: The regulations protect a wide variety of species and habitats, including: European Protected Species (e.g., bats, otters, great crested newts, some species of orchids). Marine habitats such as reefs and mudflats. Freshwater and terrestrial habitats like heathlands, wetlands, and peat bogs. Specific bird species like the Hen Harrier, Red Kite, and various seabird species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000032</p>
+<p>TITLE: The Wildlife and Countryside Act 1981</p>
+<p>Name: The Wildlife and Countryside Act 1981</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater;</p>
+<p>Water management focus: monitoring; management; protection</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Wildlife and Countryside Act 1981 (WCA) is a key piece of environmental legislation in the UK designed to protect wildlife, their habitats, and the countryside. It consolidates and strengthens earlier wildlife protection laws, setting out the legal framework for nature conservation, including the protection of species and habitats, regulation of land use, and the management of wildlife in the UK. The Act was amended by subsequent legislation, notably the Countryside and Rights of Way Act 2000 and the Natural Environment and Rural Communities Act 2006, to reflect evolving environmental policies. It is regarded as one of the central pieces of legislation for wildlife protection in the UK.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1981-05-30 00:00:00</p>
+<p>Resource: https://www.legislation.gov.uk/ukpga/1981/69</p>
+<p>Recommendations: Key Species Protected under the Act The Wildlife and Countryside Act 1981 provides protection to many species, including but not limited to: Birds: All wild birds (except for a few specific species) are protected, and certain species, such as the Golden Eagle, Peregrine Falcon, and Corncrake, are specially protected. Mammals: Species like otters, bats, badgers, and the water vole. Plants: Rare plants such as Lady’s Slipper Orchid and Marsh Saxifrage. Amphibians and Reptiles: For example, great crested newts, adders, and slow worms.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000033</p>
+<p>TITLE: Climate Change Act 2008</p>
+<p>Name: Climate Change Act 2008</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater;</p>
+<p>Water management focus: monitoring; management; protection; forecasting</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Climate Change Act 2008 is a landmark piece of legislation in the UK, which establishes a legally binding framework for reducing greenhouse gas emissions and addressing the challenges of climate change. It is the first such law of its kind in the world, setting out long-term, legally binding targets for carbon emissions reductions and providing a structure for developing and implementing policies to meet those targets. The Act represents the UK’s commitment to addressing climate change and is seen as a significant step towards achieving global climate goals, such as those outlined in the Paris Agreement.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2008-11-26 00:00:00</p>
+<p>Recommendations: Global Leadership: The Climate Change Act was a pioneering piece of legislation, making the UK the first country to introduce legally binding targets for greenhouse gas reductions. Commitment to Sustainability: The Act places long-term climate goals at the heart of UK policy, providing a clear framework for future governments to follow. Encouraging Innovation: The requirement for carbon reductions and the pursuit of net-zero emissions by 2050 stimulates investment in green technologies, renewable energy, and energy efficiency measures, fostering a transition to a low-carbon economy. Public Accountability: The independent role of the Climate Change Committee (CCC) ensures that the government is held accountable for its progress on climate action, contributing to transparency and public trust.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000034</p>
+<p>TITLE: The Pesticides (Maximum Residue Levels) Regulations 2008</p>
+<p>Name: The Pesticides (Maximum Residue Levels) Regulations 2008</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater;</p>
+<p>Water management focus: monitoring; management; protection;</p>
+<p>Description: The Pesticides (Maximum Residue Levels) Regulations 2008 is a piece of legislation in the UK designed to control the levels of pesticide residues that can remain on food and animal feed products after they have been treated with pesticides. These regulations are crucial for protecting human health, ensuring food safety, and aligning with international standards on pesticide use.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2008-10-01 00:00:00</p>
+<p>Recommendations: The Pesticides (Maximum Residue Levels) Regulations 2008 provide a robust framework for regulating pesticide residues in food and animal feed in the UK. The recommendations under these regulations focus on ensuring public health protection, maintaining food safety, and aligning with international standards. These include establishing scientifically backed MRLs, enforcing compliance, monitoring food products, and adapting to new information and technologies in pesticide use. Through periodic reviews, transparency, and collaboration with international bodies, these regulations aim to safeguard the public from pesticide-related health risks and ensure that the UK&#39;s food supply remains safe and reliable.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000035</p>
+<p>TITLE: The Nitrates Directive (EC Directive 91/676/EEC)</p>
+<p>Name: The Nitrates Directive (EC Directive 91/676/EEC)</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, projection, simulation, management</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Nitrates Directive (Council Directive 91/676/EEC), adopted in 1991, is a key environmental policy of the European Union aimed at reducing water pollution caused by nitrates from agricultural sources and promoting the sustainable use of fertilizers. It forms part of the EU&#39;s broader Water Framework Directive, addressing water quality and protecting ecosystems.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1991-12-12 00:00:00</p>
+<p>Resource: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A31991L0676</p>
+<p>Recommendations: The Nitrates Directive seeks to: 1. Prevent water pollution by nitrates from agricultural sources. 2. Promote sustainable agricultural practices to reduce environmental harm. 3. Ensure good water quality for drinking and ecological health.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000036</p>
+<p>TITLE: Common Agricultural Policy (CAP)</p>
+<p>Name: Common Agricultural Policy (CAP)</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, management</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The CAP is designed to support agriculture, ensure a stable food supply, promote rural development, and protect the environment. Established in 1962, it has undergone numerous reforms to align with changing priorities, including sustainability and global trade rules.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1962-01-14 00:00:00</p>
+<p>Resource: https://agriculture.ec.europa.eu/common-agricultural-policy/cap-overview/cap-glance_en</p>
+<p>Recommendations: The Common Agricultural Policy (CAP) has evolved to include a wide range of recommendations aimed at balancing agricultural productivity, environmental protection, rural development, and sustainability. These recommendations are implemented through its two main pillars: Direct Payments and Market Support (Pillar 1) and Rural Development (Pillar 2).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000037</p>
+<p>TITLE: Agricultural Transition Plan 2021 to 2024</p>
+<p>Name: Agricultural Transition Plan 2021 to 2024</p>
+<p>Issuing organisation: UK Parliament</p>
+<p>Geographical Scope: England and Wales</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater;</p>
+<p>Water management focus: monitoring, forecasting, management</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The UK farming policy has undergone significant changes since the country’s exit from the European Union and the Common Agricultural Policy (CAP). Post-Brexit, the UK has developed its own agricultural policies, which focus on sustainability, productivity, and environmental stewardship. While agricultural policy frameworks vary slightly across the devolved nations (England, Scotland, Wales, and Northern Ireland), they share common themes</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2021-01-01 00:00:00</p>
+<p>Resource: https://www.gov.uk/government/publications/agricultural-transition-plan-2021-to-2024</p>
+<p>Recommendations: The UK’s farming policy continues to evolve, emphasizing environmental stewardship, resilience to climate change, and sustainable food production. The success of these policies will depend on collaboration between farmers, policymakers, and stakeholders, as well as adequate funding and support mechanisms.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000038</p>
+<p>TITLE: Critical Entities Resilience Directive</p>
+<p>Name: Critical Entities Resilience Directive</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Critical Entities Resilience Directive (CER Directive), formally adopted by the European Union (EU) in 2022, aims to strengthen the resilience of critical entities against physical and cyber threats. It replaces the previous European Critical Infrastructure Directive (ECI Directive) and reflects the growing complexity of risks facing critical sectors in an interconnected and digitalized world.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2022-12-14 00:00:00</p>
+<p>Resource: https://www.critical-entities-resilience-directive.com/#:~:text=The%20Critical%20Entities%20Resilience%20Directive%20(CER)%20aims%20to%20reduce%20the,of%20the%20internal%20market%20depend.</p>
+<p>Recommendations: Purpose The CER Directive ensures that critical entities in key sectors can: 1.Resist Disruptions: Prevent and respond to incidents that may disrupt services essential to public safety, health, and economic stability. 2. Enhance Cooperation: Foster collaboration between Member States and across sectors. 3. Adapt to Emerging Threats: Address risks from climate change, cyber-attacks, pandemics, and geopolitical tensions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000039</p>
+<p>TITLE: Network and Information Systems Directive (NIS Directive)</p>
+<p>Name: Network and Information Systems Directive (NIS Directive)</p>
+<p>Issuing organisation: European Parliament &amp; Council</p>
+<p>Geographical Scope: EU</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Network and Information Systems Directive (NIS Directive), formally known as Directive (EU) 2016/1148, is the first EU-wide legislation on cybersecurity. Adopted in July 2016, the directive aims to improve the cybersecurity capabilities of Member States, enhance cooperation between them, and increase the security of critical digital infrastructure and essential services across the EU.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2016-07-01 00:00:00</p>
+<p>Resource: https://ec.europa.eu/commission/presscorner/detail/el/memo_16_2422</p>
+<p>Recommendations: The NIS Directive seeks to ensure a high common level of security of network and information systems within the EU by: Enhancing Cyber Resilience: Protecting critical infrastructure from cyber threats. Fostering Cooperation: Improving information sharing and response coordination among Member States. Strengthening Incident Reporting: Ensuring that essential service providers and digital service providers report significant cybersecurity incidents.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000040</p>
+<p>TITLE: Federal Act on the Protection of Waters (GSchG)</p>
+<p>Name: Federal Act on the Protection of Waters (GSchG)</p>
+<p>Issuing organisation: Swiss Parliament</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Federal Act on the Protection of Waters (GSchG), enacted in 1991, is a cornerstone of Switzerland&#39;s water legislation. It aims to safeguard the quality and availability of the country&#39;s water resources through a comprehensive framework that emphasizes sustainability and ecological balance.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1991-01-24 00:00:00</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/en</p>
+<p>Recommendations: Prevent Pollution: Protect surface and groundwater from contamination caused by industrial, agricultural, and domestic activities. Ensure Sustainable Use: Regulate the use of water resources to meet current and future needs. Protect Ecosystems: Maintain and enhance aquatic ecosystems and their biodiversity. Promote Water Recycling: Encourage the treatment and reuse of wastewater to minimize resource wastage.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000041</p>
+<p>TITLE: Waters Protection Ordinance (GSchV),</p>
+<p>Name: Waters Protection Ordinance (GSchV),</p>
+<p>Issuing organisation: Swiss Parliament</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, wastewater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality</p>
+<p>Description: The Waters Protection Ordinance (GSchV), enacted on October 28, 1998, complements the Federal Act on the Protection of Waters (GSchG). It provides detailed regulations for the practical implementation of the GSchG, focusing on the protection of surface water and groundwater, the management of wastewater, and the prevention of water pollution.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1998-10-28 00:00:00</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/en</p>
+<p>Recommendations: Prevent Water Pollution: Set specific standards and regulations to safeguard the quality of water resources in Switzerland. Ensure Sustainable Water Management: Promote effective management practices for wastewater, groundwater, and surface water to protect aquatic ecosystems. Establish Protective Zones: Regulate the use of land and activities near water bodies to ensure water quality and prevent contamination.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000042</p>
+<p>TITLE: Water Resources Act (Act No. 82 of 2000)</p>
+<p>Name: Water Resources Act (Act No. 82 of 2000)</p>
+<p>Issuing organisation: Norwegian Parliament</p>
+<p>Geographical Scope: Norway</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The main goal of the Water Resources Act is to ensure sustainable and environmentally sound management of water resources, including rivers, lakes, groundwater, and other parts of the water system. It seeks to balance ecological, economic, and social interests, and to preserve water resources for future generations.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2001-01-01 00:00:00</p>
+<p>Resource: https://www.regjeringen.no/en/dokumenter/Acts-and-Regulations-/id106724/</p>
+<p>Recommendations: 1) Promote sustainable and environmentally sound use, 2) Maintain natural flow conditons, 3) Prevent harm and precautionary principle, 4) Protect biodiversity and ecological integrity, 5) Encourage efficient and equitable water use, 6) Require licensing and impact assessment for major interventions, 7) Ensure public participation and transparency, 8) Polluter pays principle, 9) promote coordination across sectors and scales</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000043</p>
+<p>TITLE: Regulations governing internal quality control to comply with water watercourse legislation</p>
+<p>Name: Regulations governing internal quality control to comply with water watercourse legislation</p>
+<p>Issuing organisation: Norwegian Parliament</p>
+<p>Geographical Scope: Norway</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Regulations Governing Internal Quality Control to Comply with Water and Watercourse Legislation in Norway are a specialized set of rules that support the implementation of the Norwegian Water Resources Act and related legislation. These regulations are designed to ensure that activities affecting watercourses (such as hydropower operations, construction, and water diversion) are conducted safely, responsibly, and in full legal compliance.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2025-01-01 00:00:00</p>
+<p>Resource: https://leap.unep.org/en/countries/no/national-legislation/regulations-governing-internal-quality-control-comply-water?utm_source=chatgpt.com</p>
+<p>Recommendations: Ensure that operators and permit holders systematically plan, implement, monitor, and improve their compliance with laws and permits related to water and watercourse management. This includes activities that 1) Affect rivers, lakes, and groundwater, 2) Involve construction or operation of hydropower plants, dams, or water diversion structures, 3)Pose environmental or safety risks</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000044</p>
+<p>TITLE: Environmental Impact Assessment Act No. 106/2000</p>
+<p>Name: Environmental Impact Assessment Act No. 106/2000</p>
+<p>Issuing organisation: Icelandic parliament</p>
+<p>Geographical Scope: Iceland</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: Water is a core environmental factor considered under Iceland’s Environmental Impact Assessment Act No. 106/2000. The Act ensures that any proposed project which might affect water resources—including rivers, lakes, groundwater, and coastal waters—is carefully evaluated for potential environmental impacts before approval.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2001-01-01 00:00:00</p>
+<p>Resource: https://www.fao.org/faolex/results/details/en/c/LEX-FAOC043486/</p>
+<p>Recommendations: The Act does not focus solely on water, but it requires water-related impacts to be assessed as part of a broader Environmental Impact Assessment (EIA).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000045</p>
+<p>TITLE: Nature Conservation Act</p>
+<p>Name: Nature Conservation Act</p>
+<p>Issuing organisation: Icelandic parliament</p>
+<p>Geographical Scope: Iceland</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: Objective: Aims to protect Iceland&#39;s natural environment, including its inland waters, by regulating activities that could harm ecosystems.​ Provisions: Establishes protected areas and sets guidelines for sustainable interaction with natural resources.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1999-03-22 00:00:00</p>
+<p>Resource: https://www.fao.org/faolex/results/details/en/c/LEX-FAOC199801/</p>
+<p>Recommendations: To promote responsible travel and nature conservation in Iceland, the Icelandic Nature Conservation Act, which allows access to nature, encourages consideration, adherence to the conservation code, and respect for private property, while also emphasizing the need for organized development of infrastructure in areas with increased traffic.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000046</p>
+<p>TITLE: Canada Water Agency Act</p>
+<p>Name: Canada Water Agency Act</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Canada Water Agency Act, passed in 2023 and receiving royal assent in June 2024, establishes the Canada Water Agency as a standalone agency to modernize the Canada Water Act and implement the Freshwater Ecosystem Initiative, focusing on managing, restoring, and protecting freshwater resources.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2023-11-21 00:00:00</p>
+<p>Resource: https://www.parl.ca/DocumentViewer/en/44-1/bill/C-59/royal-assent</p>
+<p>Recommendations: Modernization of the Canada Water Act: The agency will lead the process of updating the 1970 legislation to reflect current challenges and priorities. Implementation of the Freshwater Ecosystem Initiative: The agency will play a key role in implementing this initiative, which focuses on managing, restoring, and protecting freshwater resources. Freshwater Action Plan: The agency will be responsible for delivering program activities through the Freshwater Action Plan, a signature federal program to manage, restore, and protect fresh water.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000047</p>
+<p>TITLE: Canada Water Act</p>
+<p>Name: Canada Water Act</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Canada Water Act is a federal statute that outlines the framework for cooperation between the provinces and territories of Canada for the development and use of Canada&#39;s water resources, including research, planning, and implementing programs for water conservation</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1970-09-30 00:00:00</p>
+<p>Resource: https://laws-lois.justice.gc.ca/eng/acts/c-11/index.html</p>
+<p>Recommendations: The recommendations of the Canada Water Act revolve around the Sustainable Development Goals (SDGs) related to water, emphasizing universal access to safe water and sanitation, improving water quality, and promoting sustainable water management practices</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000048</p>
+<p>TITLE: Department of the Environment Act</p>
+<p>Name: Department of the Environment Act</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Department of the Environment Act, identifies ECCC as the lead department within the federal government on water issues in areas not designated to other departments, boards, or agencies (including the Canada Water Agency).</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2000-03-31 00:00:00</p>
+<p>Resource: https://laws-lois.justice.gc.ca/eng/acts/E-10/index.html</p>
+<p>Recommendations: Pollution Prevention,Toxic Substances: It addresses the assessment and management of risks from chemicals, polymers, and living organisms. Environmental Emergencies: It deals with environmental emergencies and other related issues. Air and Water Quality: The Act addresses air and water pollution, including hazardous waste and greenhouse gas emissions. Waste Management: It includes provisions for the handling, storage, transportation, and disposal of controlled waste. Right to a Healthy Environment: The Act recognizes the right of every individual in Canada to a healthy environment.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000049</p>
+<p>TITLE: Canadian Environmental Protection Act, 1999</p>
+<p>Name: Canadian Environmental Protection Act, 1999</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: Chemistry and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, forecasting, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: ​The Canadian Environmental Protection Act, provides tools to help prevent freshwater pollution through its provisions to protect the environment from the environmental and human health impacts of a wide range of pollution sources, such as chemicals, animate products of biotechnology, vehicles, engines, equipment, hazardous waste and environmental emergencies.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1999-09-14 00:00:00</p>
+<p>Resource: https://laws-lois.justice.gc.ca/eng/acts/E-10/index.html</p>
+<p>Recommendations: Under CEPA, ECCC develops guidelines and objectives to protect water quality, addressing issues such as pollution prevention and the management of toxic substances. It provides a framework for collaboration between federal, provincial, and territorial governments on water resource management. It facilitates agreements on water quality and quantity, enabling ECCC to conduct research and monitor Canada&#39;s water resources. ​</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000050</p>
+<p>TITLE: Lake of the Woods Control Board Act</p>
+<p>Name: Lake of the Woods Control Board Act</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: Chemistry and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Lake of the Woods Control Board Act defines the purpose and powers of the Lake of the Woods Control Board to regulate water levels in the Ontario, Manitoba, and US water system, including Lake of the Woods, Lac Seul, and the Winnipeg and English Rivers.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1958-03-27 00:00:00</p>
+<p>Resource: https://laws-lois.justice.gc.ca/eng/acts/T-10.4/page-1.html</p>
+<p>Recommendations: Regulate outflows from the Lake of the Woods, manage outflows from Lac Seul, Control flow into Lac Seul via Lake St. Joseph diversion, and oversee flows in the Winnipeg and English Rivers</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000051</p>
+<p>TITLE: Environmental Emergency Regulations, 1999</p>
+<p>Name: Environmental Emergency Regulations, 1999</p>
+<p>Issuing organisation: Canadian Parliament</p>
+<p>Geographical Scope: Canada</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: Chemistry and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Environmental Emergency Regulations, 1999 require facilities to prevent, plan, respond, and recover from environmental emergencies, including those with significant risks to fresh water.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1999-10-01 00:00:00</p>
+<p>Resource: https://laws-lois.justice.gc.ca/eng/regulations/sor-2003-307/index.html</p>
+<p>Recommendations: Substance management, environmental emergency plans, regular simulation exercises, and reporting obligations</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000052</p>
+<p>TITLE: Water Act 2007</p>
+<p>Name: Water Act 2007</p>
+<p>Issuing organisation: Australian Parlimanet</p>
+<p>Geographical Scope: Australia</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Water Act 2007 is a federal legislation that provides the framework for managing the water resources of the Murray–Darling Basin. It aims to ensure the Basin&#39;s water resources are managed in an integrated and sustainable manner.​</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2007-09-03 00:00:00</p>
+<p>Resource: https://www.legislation.gov.au/C2007A00137/latest/versions</p>
+<p>Recommendations: The Act led to the establishment of the Murray–Darling Basin Authority (MDBA), tasked with developing and implementing the Basin Plan. This plan sets sustainable limits on water diversions, ensures water security for users, and aims to protect and restore the Basin&#39;s environmental assets.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000053</p>
+<p>TITLE: Murray–Darling Basin Plan 2012</p>
+<p>Name: Murray–Darling Basin Plan 2012</p>
+<p>Issuing organisation: Australian Parlimanet</p>
+<p>Geographical Scope: Australia</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: Developed under the Water Act 2007, the Basin Plan provides a coordinated approach to water use across the Murray–Darling Basin&#39;s states and territories. It sets sustainable diversion limits to balance environmental, social, and economic needs</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2012-11-22 00:00:00</p>
+<p>Resource: https://www.dcceew.gov.au/water/policy/mdb-plan</p>
+<p>Recommendations: The Plan recommends reducing water extraction to sustainable levels, restoring over-allocated rivers and wetlands, and improving water quality. It emphasizes adaptive management and regular reviews to respond to new information and changing conditions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000054</p>
+<p>TITLE: Wild Rivers Act 2005 (Queensland)</p>
+<p>Name: Wild Rivers Act 2005 (Queensland)</p>
+<p>Issuing organisation: Australian Parlimanet</p>
+<p>Geographical Scope: Australia</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: This legislation was enacted to preserve the natural values of rivers that remain in near-pristine condition. It aimed to protect these rivers by regulating development activities within declared wild river areas.​</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2005-08-31 00:00:00</p>
+<p>Resource: https://www.legislation.qld.gov.au/view/pdf/asmade/act-2005-042</p>
+<p>Recommendations: The Act recommended establishing buffer zones around wild rivers, restricting certain types of development, and implementing management plans to maintain the ecological integrity of these waterways.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000055</p>
+<p>TITLE: Environmental Protection and Biodiversity Conservation Act 1999 (EPBC Act)</p>
+<p>Name: Environmental Protection and Biodiversity Conservation Act 1999 (EPBC Act)</p>
+<p>Issuing organisation: Australian Parlimanet</p>
+<p>Geographical Scope: Australia</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The EPBC Act is the Australian Government&#39;s central piece of environmental legislation. It provides a legal framework to protect and manage nationally and internationally significant flora, fauna, ecological communities, and heritage places, including inland waters.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2000-07-16 00:00:00</p>
+<p>Resource: https://www.dcceew.gov.au/environment/epbc</p>
+<p>Recommendations: The Act recommends assessing and approving actions that may have a significant impact on protected matters, implementing recovery plans for threatened species and ecological communities, and establishing conservation agreements with landholders.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000056</p>
+<p>TITLE: National Water Initiative (NWI) 2004</p>
+<p>Name: National Water Initiative (NWI) 2004</p>
+<p>Issuing organisation: Australian Parlimanet</p>
+<p>Geographical Scope: Australia</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The NWI is an intergovernmental agreement between the Australian Government and all states and territories. It outlines objectives and commitments for water reform, aiming to achieve a nationally consistent approach to water management.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2004-06-01 00:00:00</p>
+<p>Resource: https://www.dcceew.gov.au/water/policy/policy/nwi</p>
+<p>Recommendations: The NWI recommends actions such as returning over-allocated systems to sustainable levels, improving water planning and management, enhancing water markets and trading, and ensuring water accounting and measurement are robust and transparent.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000057</p>
+<p>TITLE: Resource Management Act 1991 (RMA)</p>
+<p>Name: Resource Management Act 1991 (RMA)</p>
+<p>Issuing organisation: New Zealand Parliament</p>
+<p>Geographical Scope: New Zealand</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The RMA is New Zealand&#39;s principal environmental legislation, aiming to promote the sustainable management of natural and physical resources, including land, air, and water. It integrates various resource management laws into a unified framework.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1991-10-01 00:00:00</p>
+<p>Resource: https://www.legislation.govt.nz/act/public/1991/0069/latest/DLM230265.html</p>
+<p>Recommendations: The Act emphasizes sustainable management, requiring that activities affecting water resources avoid, remedy, or mitigate adverse environmental effects. It mandates regional councils to develop regional plans and policies for water management, ensuring public participation in decision-making processes.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000058</p>
+<p>TITLE: National Policy Statement for Freshwater Management 2020 (NPS-FM 2020)</p>
+<p>Name: National Policy Statement for Freshwater Management 2020 (NPS-FM 2020)</p>
+<p>Issuing organisation: New Zealand Parliament</p>
+<p>Geographical Scope: New Zealand</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The NPS-FM 2020 provides updated direction to local authorities on managing freshwater resources under the RMA. It introduces the concept of Te Mana o te Wai, prioritizing the health and well-being of water bodies.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2020-09-03 00:00:00</p>
+<p>Resource: https://environment.govt.nz/publications/national-policy-statement-for-freshwater-management-2020-amended-january-2024/</p>
+<p>Recommendations: The policy requires regional councils to set objectives, policies, and limits for freshwater management that prioritize:​ 1. The health and well-being of water bodies and freshwater ecosystems., 2.The essential health needs of people (such as drinking water)., 3. The ability of people and communities to provide for their social, economic, and cultural well-being. It also emphasizes the involvement of iwi and hapū in freshwater management and the protection of wetlands and streams.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000059</p>
+<p>TITLE: National Environmental Standards for Freshwater 2020 (NES-F)</p>
+<p>Name: National Environmental Standards for Freshwater 2020 (NES-F)</p>
+<p>Issuing organisation: New Zealand Parliament</p>
+<p>Geographical Scope: New Zealand</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The NES-F sets out technical standards and requirements for specific activities that pose risks to freshwater and freshwater ecosystems. It aims to protect and improve the health of freshwater bodies.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2020-09-03 00:00:00</p>
+<p>Resource: https://www.legislation.govt.nz/regulation/public/2020/0174/latest/LMS364099.html</p>
+<p>Recommendations: The standards regulate activities such as intensive winter grazing, feedlots, and the use of synthetic nitrogen fertilizers. They require farmers and landowners to adopt practices that minimize environmental impacts on freshwater systems.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000060</p>
+<p>TITLE: Water Law, 1959</p>
+<p>Name: Water Law, 1959</p>
+<p>Issuing organisation: Israeli parliament</p>
+<p>Geographical Scope: ​Israel</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: The Water Law of 1959 is the cornerstone of Israel&#39;s water legislation, establishing that all water resources within the country are public property managed by the state. The law provides a framework for the control, protection, and allocation of water resources to meet the needs of the population and support national development.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1959-08-03 00:00:00</p>
+<p>Resource: https://www.gov.il/en/pages/water_law_1959</p>
+<p>Recommendations: The law emphasizes sustainable management and equitable distribution of water resources. It mandates the prevention of water pollution and the maintenance of water quality. Additionally, it led to the establishment of regulatory bodies responsible for overseeing water resource management and enforcing water-related policies</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000061</p>
+<p>TITLE: Water and Sewage Corporations Law, 2001</p>
+<p>Name: Water and Sewage Corporations Law, 2001</p>
+<p>Issuing organisation: Israeli parliament</p>
+<p>Geographical Scope: ​Israel</p>
+<p>Type: Legistlation</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Wastewater</p>
+<p>Water management focus: monitoring, management, simulation,</p>
+<p>Parameter change rate assumption: Quality, flow, level, pressure</p>
+<p>Unnamed: 10: dynamic</p>
+<p>Description: This law restructured the management of water and sewage services by transferring responsibilities from local authorities to newly established municipal water corporations. The aim was to enhance efficiency, professionalism, and financial stability in water service provision.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 2007-07-31 00:00:00</p>
+<p>Resource: https://www.gov.il/en/pages/water_sewage_corporation</p>
+<p>Recommendations: The law advocates for the corporatization of water services to improve operational efficiency and service quality. It recommends clear delineation of responsibilities between municipalities and water corporations, along with the establishment of regulatory oversight to ensure accountability.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000062</p>
+<p>TITLE: Water Protection Act (GSchG)</p>
+<p>Name: Water Protection Act (GSchG)</p>
+<p>Issuing organisation: Switzerland</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: physical states, chemistry, biology</p>
+<p>Type of water: Surface and groundwater</p>
+<p>Water management focus: monitoring and management</p>
+<p>Parameter change rate assumption: Water quality</p>
+<p>Description: This Act aims to protect waters by safeguarding human, animal, and plant health; ensuring sustainable drinking and agricultural water use; preserving aquatic ecosystems, biodiversity, landscapes, fisheries, and natural hydrological functions; and supporting irrigation and recreational use.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 24-Jan-91</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/cc/1992/1860_1860_1860/en</p>
+<p>Recommendations: In particular it aims: a. to preserve the health of people, animals and plants; b. to guarantee the supply and economic use of drinking water and water required for other purposes; c. to preserve the natural habitats of indigenous fauna and flora; d. to preserve waters suitable as a habitat for fish; e. to preserve waters as an element of the landscape; f. to ensure the irrigation of agricultural land; g. to permit the use of waters for leisure purposes; h. to ensure the natural functioning of the hydrological cycle</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000063</p>
+<p>TITLE: Waters Protection Ordinance</p>
+<p>Name: Waters Protection Ordinance</p>
+<p>Issuing organisation: Switzerland</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: Physical states, chemistry, and biology</p>
+<p>Type of water: Surface, groundwaters, wastewater, treated water</p>
+<p>Water management focus: Management, Monitoring</p>
+<p>Parameter change rate assumption: Water quality</p>
+<p>Description: This Ordinance supports the protection and sustainable use of surface and groundwater by setting ecological objectives, water quality standards, wastewater and sludge disposal rules, requirements for animal farms and spatial planning, residual flow maintenance, measures to prevent and remedy water pollution, and provisions for federal contributions</p>
+<p>Status: Effective</p>
+<p>Effect Date: 28-Oct-98</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/cc/1998/2863_2863_2863/en</p>
+<p>Recommendations: In Particular its aims: a. the ecological goals for waters; b. the requirements on water quality; c. the disposal of wastewater; d. the disposal of sewage sludge; e. the requirements for animal husbandry farms; f. the protection of waters in terms of area planning; g. the maintenance of appropriate residual flow; h. the prevention and remediation of other harmful effects on waters; i. the payment of federal contributions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000064</p>
+<p>TITLE: Flood Protection Act</p>
+<p>Name: Flood Protection Act</p>
+<p>Issuing organisation: Switzerland</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: Physical, Geology</p>
+<p>Type of water: Surface Water, Groundwater</p>
+<p>Water management focus: Monitoring, Forecasting, Projection, Management</p>
+<p>Parameter change rate assumption: Water quanity, Flow</p>
+<p>Description: This law is intended to protect people and significant property from the damaging effects of water on the earth&#39;s surface, in particular from flooding, erosion and sediment deposits (flood protection).</p>
+<p>Status: Effective</p>
+<p>Effect Date: 21-Jun-21</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/cc/1993/234_234_234/de</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000065</p>
+<p>TITLE: Energy Act</p>
+<p>Name: Energy Act</p>
+<p>Issuing organisation: Switzerland</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: Physical, Biology</p>
+<p>Type of water: Suface Water</p>
+<p>Water management focus: monitoring, forecasting, projection, simulation, management</p>
+<p>Parameter change rate assumption: Water quanity, Flow</p>
+<p>Description: Energy Act (including Water rights) - this focus on Hydropower which is highly important for Switzerland</p>
+<p>Status: Effective</p>
+<p>Effect Date: 20-Sep-16</p>
+<p>Resource: https://www.fedlex.admin.ch/eli/oc/2022/729/de</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000066</p>
+<p>TITLE: Federal Act on Agriculture (Agriculture Act, AIA)</p>
+<p>Name: Federal Act on Agriculture (Agriculture Act, AIA)</p>
+<p>Issuing organisation: Switzerland</p>
+<p>Geographical Scope: Switzerland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: Geology</p>
+<p>Type of water: Surface Water, Groundwater</p>
+<p>Water management focus: Management</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: Supports: a. the following structural improvement measures in civil engineering: 1. Land reclamation, 2. Agricultural transport infrastructure, 3. Facilities and measures in the area of ​​soil improvement and water management, 4. Basic infrastructure in rural areas;</p>
+<p>Status: Effective</p>
+<p>Effect Date: 29-Apr-98</p>
+<p>Resource: BBl 2023 1527 - Bundesgesetz über die Landwirtschaft (Landwirtschaftsgesetz, LwG) | Fedlex</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000067</p>
+<p>TITLE: Water Environment and Water Services (Scotland) Act 2003</p>
+<p>Name: Water Environment and Water Services (Scotland) Act 2003</p>
+<p>Issuing organisation: Scottish Parliament</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: monitoring, management</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: This Act provides for the protection of Scotland’s water environment, implements EU Water Framework Directive 2000/60/EC, and amends existing water and sewerage legislation. It aims to prevent deterioration of aquatic, terrestrial, and wetland ecosystems; promote sustainable long-term water use; reduce and phase out harmful discharges and hazardous substances; reduce and prevent groundwater pollution; and mitigate floods and droughts. The Act seeks to ensure sufficient high-quality surface and groundwater, significantly reduce pollution, protect marine waters, and fulfil relevant international environmental obligations</p>
+<p>Status: effective</p>
+<p>Effect Date: 5th March 2003 Modified 14th September 2015</p>
+<p>Resource: https://www.legislation.gov.uk/asp/2003/3/contents</p>
+<p>Recommendations: In this Part “protection of the water environment” includes, in particular— (a)preventing further deterioration of, and protecting and enhancing, the status of aquatic ecosystems and, with regard to their water needs, terrestrial ecosystems and wetlands directly depending on those aquatic ecosystems, (b)promoting sustainable water use based on the long-term protection of available water resources, (c) aiming at enhancing protection and improvement of the aquatic environment through, amongst other things, specific measures for the progressive reduction of discharges, emissions and losses of priority substances and the cessation or phasing out of discharges, emissions and losses of the priority hazardous substances, (d)ensuring the progressive reduction of pollution of groundwater and preventing further pollution of it, and (e)contributing to mitigating the effects of floods and droughts, with a view to contributing to the achievement of the aims specified in subsection (3). (3)Those aims are— (a)the provision of a sufficient supply of good quality surface water and groundwater as needed for sustainable, balanced and equitable water use, (b)a significant reduction in pollution of groundwater, (c)the protection of territorial and other marine waters, and (d)achieving the objectives of international agreements, including those which aim to prevent and eliminate pollution of the marine environment, in relation to which measures are adopted under paragraph 1 of Article 16 of the Directive in pursuance of a proposal under paragraph 3 of that Article.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000068</p>
+<p>TITLE: Reservoirs (Scotland) Act 2011</p>
+<p>Name: Reservoirs (Scotland) Act 2011</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Surface, drinking water</p>
+<p>Water management focus: Monitoring, Management</p>
+<p>Parameter change rate assumption: Flow Level, Volume</p>
+<p>Description: An Act of the Scottish Parliament to make provision about the regulation of the construction, alteration and management of certain reservoirs, in particular in relation to the risk of flooding from such reservoirs, for the repeal and replacement of the Reservoirs Act 1975, about offences to facilitate the achievement of the environmental objectives set out in river basin management plans; and for connected purposes.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 12-Apr-11</p>
+<p>Resource: https://www.legislation.gov.uk/asp/2011/9/contents</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000069</p>
+<p>TITLE: The Water Environment (Controlled Activities) (Scotland) Regulations 2011</p>
+<p>Name: The Water Environment (Controlled Activities) (Scotland) Regulations 2011</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legislative</p>
+<p>Scientific domain: Chemical</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Pollutants: Organohalogen compounds and substances which may form such compounds in the aquatic environment. 2. Organophosphorous compounds. 3. Organotin compounds. 4. Substances and preparations, with carcinogenic or mutagenic properties or properties which may affect steroidogenic, thyroid, reproduction or other endocrine-related functions 5. Persistent hydrocarbons and persistent and bioaccumulable organic toxic substances. 6. Cyanides. 7. Metals and their compounds. 8. Arsenic and its compounds. 9. Biocides and plant protection products. 10. Materials in suspension. 11. Substances which contribute to eutrophication (in particular, nitrates and phosphates). 12. biochemical oxygen demand (BOD), and chemical oxygen demand (COD) etc.).</p>
+<p>Description: These Regulations, made under the Water Environment and Water Services (Scotland) Act 2003, implement key requirements of the EU Water Framework Directive and related groundwater and water quality directives. They establish a regulatory framework for protecting and sustainably managing the water environment by controlling activities that may affect surface water and groundwater. The Regulations set out a system of authorisations administered by SEPA, including general binding rules, registrations, and licences; procedures for applications, consultations, decisions, variations, and appeals; and powers for enforcement, monitoring, information gathering, and public registers. They also provide for offences, penalties, and remediation, replace the 2005 Controlled Activities Regulations, and integrate water protection with wider environmental and planning controls.</p>
+<p>Status: Non Effective</p>
+<p>Effect Date: 31/03/2011 - 01/11/2025 Amended in 2013 and again in 2021</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2011/209/contents</p>
+<p>Recommendations: These Regulations apply to— (a)activities liable to cause pollution of the water environment; (b)abstraction of water from the water environment; (c)construction or alteration of impounding works in inland water (other than groundwater) or wetlands, (cc)operation of impounding works in surface water or wetlands]; (d)carrying out building or engineering works, or works other than those referred in paragraph (c) or (cc) (i)in inland water (other than groundwater) or wetlands; or (ii)in the vicinity of inland water or wetlands and having or likely to have a significant adverse impact on the water environment; (e)artificial recharge or augmentation of groundwater; (f)the direct or indirect discharge, and any activity likely to cause a direct or indirect discharge, into groundwater of any hazardous substance or other pollutant; and (g)any other activity which directly or indirectly has or is likely to have a significant adverse impact on the water environment. (2) These Regulations do not apply to the discharge of any reagent or chemical or particle tracer used in connection with any scientific experiment or survey in transitional waters or coastal waters</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000070</p>
+<p>TITLE: Water Industry (Scotland) Act 2002</p>
+<p>Name: Water Industry (Scotland) Act 2002</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistatitve, Recommendations, Standards</p>
+<p>Type of water: Drinking Water, Wastewater</p>
+<p>Water management focus: Monitoring, Mangement</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: This Act provides for the regulation and oversight of Scotland’s water industry by strengthening the role of the Water Industry Commissioner, establishing Water Customer Consultation Panels, regulating drinking water quality, creating Scottish Water and transferring functions from former water and sewerage authorities, amending water and sewerage law, and addressing related matters.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 14-Feb-02</p>
+<p>Resource: https://www.legislation.gov.uk/asp/2002/3/contents</p>
+<p>Recommendations: An Act of the Scottish Parliament to make further provision in relation to the Water Industry Commissioner for Scotland and to provide for the establishment of Water Customer Consultation Panels; to make further provision in relation to the regulation of the quality of drinking water; to make provision for the establishment of Scottish Water, the transfer to Scottish Water of the functions of the water and sewerage authorities established by section 62(1) of the Local Government etc. (Scotland) Act 1994 and the dissolution of those authorities and in relation to the functions of Scottish Water; to make further amendments of the law relating to water and sewerage; and for connected purposes.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000071</p>
+<p>TITLE: The Public Water Supplies (Scotland) Regulations 2014</p>
+<p>Name: The Public Water Supplies (Scotland) Regulations 2014</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistative. Standards, Recommendations</p>
+<p>Scientific domain: physical states, chemistry, and biology</p>
+<p>Type of water: Drinking Water, Groundwater, Surfacewater</p>
+<p>Water management focus: Monitoring, Management</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: Scottish Water must annually designate water supply zones, each covering no more than 100,000 people and with no significant variations in water quality. Public water supplies must be wholesome, posing no risk to human health, meeting prescribed microbiological and chemical standards, and complying with nitrate and nitrite limits. Compliance is assessed at defined points depending on the supply method. Water transferred from service reservoirs is not deemed unwholesome for coliform presence if at least 95% of annual samples show no coliform bacteria.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 01-Jan-15</p>
+<p>Resource: https://www.legislation.gov.uk/sdsi/2014/9780111024782/contents</p>
+<p>Recommendations: Water supply zones: (1) Before the beginning of each year in which it intends to supply water for human consumption purposes, Scottish Water must designate and name the areas within its area of supply that are to be water supply zones for that year. (2) A water supply zone may not comprise an area whose population immediately before the beginning of the year in question is estimated by Scottish Water to exceed 100,000. (3) A water supply zone may not comprise an area with significant variations in water quality. Wholesomeness: public water supplies The requirements are that the water— (a)does not contain— (i)any micro-organism; (ii)any substance; or (iii)any parasite, at a concentration or value which would (whether in conjunction with another parameter in the water or otherwise) constitute a potential danger to human health; (b)does not contain a parameter in highlighted in regulation at a concentration or value in excess of or, as the case may be, less than the prescribed concentration or value for that parameter; and (c)satisfies the formula “[nitrate]/50 + [nitrite]/3 ≤ 1”, where the square brackets signify the concentrations in mg/l for nitrate (NO3) and nitrite (NO2) respectively. (3) The point (“point of compliance”) at which the requirements in paragraph (2), in so far as they relate to a parameter in Table A or Table B, are to be complied with is— (a)in the case of water supplied from a tanker, the point at which the water emerges from the tanker; (b)in the case of water supplied in bottles or containers, the point at which the water first emerges from any bottle or container collected from a local distribution point; and (c)in any other case, the point or points specified for that parameter in Table A or Table B. (4) Water that— (a)is transferred from a service reservoir; (b)is intended for supply by Scottish Water for human consumption purposes; and (c)exceeds the prescribed concentration or value for coliform bacteria (item 3) in Table A, is not to be regarded as unwholesome for the purposes of Part VIA of the 1980 Act if, in at least 95% of samples taken in any year in which the reservoir in question is in use, coliforms were absent.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000072</p>
+<p>TITLE: Flood Risk Management (Scotland) Act 2009</p>
+<p>Name: Flood Risk Management (Scotland) Act 2009</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: Physical States</p>
+<p>Type of water: Surface Water, Groundwater</p>
+<p>Water management focus: Monitoring, Management, projection, forecasting</p>
+<p>Parameter change rate assumption: Water Quanity</p>
+<p>Description: An Act of the Scottish Parliament to make provision about the assessment and sustainable management of flood risks, including provision for implementing European Parliament and Council Directive 2007/60/EC; to make provision about local authorities&#39; and the Scottish Environment Protection Agency&#39;s functions in relation to flood risk management; to amend the Reservoirs Act 1975; and for connected purposes.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 13-May-09</p>
+<p>Resource: https://www.legislation.gov.uk/asp/2009/6/contents</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000073</p>
+<p>TITLE: Water Resources (Scotland) Act 2013</p>
+<p>Name: Water Resources (Scotland) Act 2013</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type of water: Surfacewater, Groundwater</p>
+<p>Water management focus: Monitoring, Management, projection, forecasting</p>
+<p>Parameter change rate assumption: Water Quanity</p>
+<p>Description: An Act of the Scottish Parliament to make provision for the development of Scotland&#39;s water resources; to bring large-scale water abstraction under Ministerial control; to extend Scottish Water&#39;s functions and to authorise grants and loans in favour of related bodies; to permit the taking of steps for the sake of water quality; to create contracts for certain non-domestic water and sewerage services; to protect the public sewerage network from harm and to allow for maintenance of private sewage works; to enable the making of water shortage orders; and for connected purposes.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 27th-Feb-2013</p>
+<p>Resource: https://www.legislation.gov.uk/asp/2013/5</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000074</p>
+<p>TITLE: The Water Environment (Miscellaneous) (Scotland) Regulations 2017</p>
+<p>Name: The Water Environment (Miscellaneous) (Scotland) Regulations 2017</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: Chemical</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water quality: Water Pollutants</p>
+<p>Description: Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011 (See above)</p>
+<p>Status: effective</p>
+<p>Effect Date: 1st-jan-2018</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2017/389/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000075</p>
+<p>TITLE: The Water Environment (Remedial Measures) (Scotland) Regulations 2016</p>
+<p>Name: The Water Environment (Remedial Measures) (Scotland) Regulations 2016</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Type of water: Surface and Groundwater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: Has links and aligns to the EU WFD.</p>
+<p>Status: effective</p>
+<p>Effect Date: 1st-april-2016</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2016/19/contents/made</p>
+<p>Recommendations: “remedial measures” means action (which may include the carrying out of operations or works in relation to any land or body of water) with a view to— (a) improving the hydromorphological characteristics of a body of water; or (b) restoring (in full or in part) the hydromorphological characteristics that, in the opinion of SEPA, a body of water (other than an artificial water body) would have if those characteristics had not been changed as a result of physical alterations by human activity;</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000076</p>
+<p>TITLE: The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003</p>
+<p>Name: The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland and Great Britain (England and Wales)</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: These Regulations implement the EU Water Framework Directive for the Northumbria River Basin District, which spans both England and Scotland. They adapt and apply existing England and Wales regulations and Scottish water legislation to ensure coordinated management of the district. The Regulations require comprehensive monitoring, economic analysis, identification of drinking water abstraction sources, and the establishment of a register of protected waters and areas.. The Directive is accessible by using the weblink http://europa.eu.int/eur-lex/en.</p>
+<p>Status: effective</p>
+<p>Effect Date: 2nd-Jan-2004</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2003/3245/contents</p>
+<p>Recommendations: The Northumbria River Basin District (“the district”; identified by regulation 3) is partly in England and partly in Scotland because a number of tributaries of the River Tyne extend into Scotland. The Regulations therefore adapt and apply the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 (S.I. 2003/3242; “the principal Regulations”) and the Water Environment and Water Services (Scotland) Act 2003 (2003 asp 3; “the Scottish Act”) in relation to the district to ensure that the Directive’s requirements are met for the district as a whole. The principal Regulations otherwise apply to river basin districts that are wholly in England, wholly in Wales, or partly in England and partly in Wales; the Scottish Act otherwise applies to river basin districts that are wholly in Scotland. The main elements of the principal Regulations are applied in relation to the Northumbria River Basin District. The Agency is therefore required to carry out detailed monitoring and analysis in relation to each river basin district, and the Secretary of State must ensure that appropriate economic analysis is also carried out . Certain waters used for the abstraction of drinking water must be identified and a register must be established of those waters and certain other protected areas.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000077</p>
+<p>TITLE: The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004</p>
+<p>Name: The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland and Great Britain (England and Wales)</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, coastal water, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: These Regulations implement the EU Water Framework Directive for the Solway Tweed River Basin District, which spans England and Scotland. They apply and adapt existing England and Wales regulations and the Water Environment and Water Services (Scotland) Act 2003 to ensure coordinated, cross-border management. The Regulations establish a strategic planning framework to manage, protect, and improve water quality across the entire district. The Directive is accessible by using the weblink http://europa.eu.int/eur-lex/en.</p>
+<p>Status: effective</p>
+<p>Effect Date: 10th Feb 2004</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2004/99/contents</p>
+<p>Recommendations: The Solway Tweed River Basin District (“the district”; identified in regulation is partly in England and partly in Scotland. These Regulations give effect to the Directive’s requirements in respect of the district as a whole, and do so in part by applying with modifications provisions of the Water Environment and Water Services (Scotland) Act 2003 (2003 asp 3; “the Scottish Act”). The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003 (S.I. 2003/3242) make provision in relation to river basin districts that are wholly in England, wholly in Wales, or partly in England and partly in Wales; the Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 (S.I. 2003/3245) do the same for the Northumbria River Basin District (which includes a small area of Scotland); and the Scottish Act otherwise applies in relation to river basin districts that are wholly in Scotland. These Regulations require a new strategic planning process to be established for the purposes of managing, protecting and improving the quality of water resources in the whole district. That process mirrors the process set out in the principal Regulations and in the Scottish Act, with adaptations to accommodate the district’s cross-border character.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000078</p>
+<p>TITLE: The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016</p>
+<p>Name: The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland, and Great Britain</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: surface and groundwater, coastal water, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: These Regulations, cited as the Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016, came into force on 3 March 2016, immediately following related England and Wales amendments, and apply across Great Britain.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 3rd-march-2016</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2016/139/contents</p>
+<p>Recommendations: (1) These Regulations may be cited as the Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016. (2) These Regulations come into force on 3rd March 2016 immediately after the commencement of the Water Environment (Water Framework Directive) (England and Wales) (Amendment) Regulations 2016(1). (3) These Regulations extend to Great Britain.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000079</p>
+<p>TITLE: The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008</p>
+<p>Name: The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemistry, and biology</p>
+<p>Type of water: Surface water, groundwater, wastewater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Nitrogen, Nitrate</p>
+<p>Description: These Regulations apply to farms in nitrate vulnerable zones and require occupiers to maintain manure, slurry, silage effluent, and fertiliser management and storage plans. Annual nitrogen from livestock manure must not exceed 170 kg per hectare of utilisable agricultural land. Organic manure application is prohibited within 10 m of surface waters and 50 m of wells or boreholes used for water supply.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1st-Jan-2009 Amended 15th-may-2013</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2008/298/contents</p>
+<p>Recommendations: The fram must have (i) Fertiliser and manure management plan, (ii) Storgae of livestock manure and silage effluent plan (iii) Storage of livestock manure and silage effluent plan (iv) Storage of slurry from housed pigs and housed cattle and manure from housed poultry plan, (v) Storage of livestock manure (other than slurry), (vi) Temporary storage of solid manure. In any year the total nitrogen in livestock manure applied to the utilisable agricultural land area of the whole farm, whether directly by an animal or by spreading, must not exceed 170 kg per hectare (“ha”) of that area. Application of organic manure Organic manure must not be applied to any land which is situated within– (a)10 metres of any surface water; or (b)50 metres of any well, borehole or similar work sunk into underground strata for the purposes of any water supply.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000080</p>
+<p>TITLE: Council Directive of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources (91/676/EEC)</p>
+<p>Name: Council Directive of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources (91/676/EEC)</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemistry, and biology</p>
+<p>Type of water: Surface water, groundwater, wastewater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Nitrogen, Nitrate</p>
+<p>Description: This Directive has the objective of: reducing water pollution caused or induced by nitrates from agricultural sources and preventing further such pollution.</p>
+<p>Status: Non Effective</p>
+<p>Effect Date: 11/12/2008--&gt;31/12/2020</p>
+<p>Resource: https://www.legislation.gov.uk/eudr/1991/676/contents</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000081</p>
+<p>TITLE: The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015</p>
+<p>Name: The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemistry, and biology</p>
+<p>Type of water: Surface water, groundwater, wastewater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Nitrogen, Nitrate</p>
+<p>Description: These Regulations further implement in Scotland the requirements of Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources. This regulation applies to any area of land designated under regulation AND which has not previously been designated before 1st January 2016.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1st -Jan-2016</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2015/376/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000082</p>
+<p>TITLE: The Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013</p>
+<p>Name: The Water Environment (Shellfish Water Protected Areas: Environmental Objectives etc.) (Scotland) Regulations 2013</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, and biology</p>
+<p>Type of water: Coastal Water or Transitional Water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Description: This Order designates 84 coastal or transitional water areas in the Scottish River Basin District as “shellfish water protected areas” under the Water Environment and Water Services (Scotland) Act 2003. The areas are identified on maps laid before the Scottish Parliament and published by the Scottish Ministers (www.scotland.gov.uk). The Regulations aim to support shellfish life and growth and ensure high-quality shellfish suitable for human consumption. Objectives under section 9(1)(a)(ii) of the Act are to: (a) prevent deterioration of shellfish water quality; and (b) protect and improve each area to achieve good shellfish water quality by 22 December 2015.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 22nd-Dec-2013 Amended 4th-Oct-2016</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2013/325/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000083</p>
+<p>TITLE: The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013</p>
+<p>Name: The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Surface Waters and Groundwaters</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: These Regulations require the protection and improvement of surface water and groundwater, aiming to prevent deterioration, restore and enhance ecological and chemical quality, reduce pollution from priority substances, and ensure compliance with EU standards in protected areas, with the overall goal of achieving good water status by 22 December 2015.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 22nd-Dec-2013</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2013/323/contents/made</p>
+<p>Recommendations: For surface water: (i)prevent deterioration of the status of each body of surface water; (ii)protect, enhance and restore each body of surface water (other than an artificial or heavily modified body of surface water) with the aim of achieving good surface water status by 22nd December 2015; (iii)protect and enhance each artificial or heavily modified body of surface water with the aim of achieving good ecological potential and good surface water chemical status by 22nd December 2015; and (iv)aim to progressively reduce pollution from priority substances and aim to cease or phase out emissions, discharges and losses of priority hazardous substances; For groundwater: (i)prevent the deterioration of the status of each body of groundwater; (ii)prevent or limit the input of pollutants into groundwater; (iii)enhance and restore each body of groundwater, and ensure a balance between abstraction and recharge of groundwater, with the aim of achieving good groundwater status by 22nd December 2015; and (iv)reverse any significant and sustained upward trend in the concentration of any pollutant resulting from the impact of human activity in order to progressively reduce pollution of groundwater; and In addition, for each area and body of water falling within a section of an protected area, to achieve compliance with any standards and objectives required by or under any EU instrument described in that section by 22nd December 2015, unless otherwise specified in the EU legislation by virtue of which the area or body of water is protected.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000084</p>
+<p>TITLE: The Bathing Waters (Scotland) Regulations 2008</p>
+<p>Name: The Bathing Waters (Scotland) Regulations 2008</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Surface Waters, Inland Waters, Coastal Waters</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: These Regulations make provision for the purpose of implementing, in Scotland, Directive 2006/7/EC of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive 76/160/EEC (O.J. L 64, 4.3.2006, p.37).</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1st May 2008 Amended on 2nd Oct 2012</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2008/170/contents/made</p>
+<p>Recommendations: These Regulations implement Directive 2006/7/EC in Scotland, managing bathing water quality and repealing Directive 76/160/EEC. They require: identifying bathing waters and seasons (Reg. 3); duties on Scottish Ministers, SEPA, and local authorities to ensure compliance and public participation (Regs. 4–5); SEPA to establish water profiles and monitor quality (Regs. 6–7, Schedules 1–2); public information provision (Reg. 8); classification of water quality as “poor” to “excellent” (Regs. 9–10, Schedule 3); management measures for polluted waters (Regs. 11–16); provisions on authority functions and consultation (Regs. 17–19); and amending, transitional, and revoking provisions (Regs. 20–22).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000085</p>
+<p>TITLE: The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011</p>
+<p>Name: The Chemical Analysis of Water Status (Technical Specifications) Regulations (Northern Ireland) 2011</p>
+<p>Issuing organisation: Northern Ireland</p>
+<p>Geographical Scope: Northern Ireland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemical</p>
+<p>Type of water: Surface waters</p>
+<p>Water management focus: Monitoring</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Unnamed: 10: Pysico=chemical and chemical measurments</p>
+<p>Description: These Regulations implement in Northern Ireland Council Directive 2009/90/EC of 31 July 2009 laying down, pursuant to Directive 2000/60/EC of the European Parliament and of the Council, technical specifications for chemical analysis and monitoring of water status.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 20th Aug 2011</p>
+<p>Resource: https://www.legislation.gov.uk/nisr/2011/238/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000086</p>
+<p>TITLE: The Waste Management Licensing (Water Environment) (Scotland) Regulations 2006</p>
+<p>Name: The Waste Management Licensing (Water Environment) (Scotland) Regulations 2006</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical, chemistry, biology</p>
+<p>Type of water: Surface Waters, Inland Waters, Coastal Waters, Groundwater, Waste water, drinking water</p>
+<p>Water management focus: Monitoring, Management</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: Attached to the Water Environment and Water Services (Scotland) Act 2003 and an amendment to Waste Management Licensing Regulations 1994. these regulations amend the Waste Management Licensing Regulations 1994 (“the 1994 Regulations”) to make provision for the interaction between the waste management licensing regime under those Regulations and the regime under the Water Environment (Controlled Activities) (Scotland) Regulations 2005 (S.S.I. 2005/348) (“the 2005 Regulations”). The 2005 Regulations were made under the 2003 Act and provide the mechanism by which activities which impact on the water environment are authorised and regulated in Scotland.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 1st April 2006</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2006/128/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000087</p>
+<p>TITLE: The Water Environment (Controlled Activities) (Scotland) Regulations 2005 (Notices in the Interests of National Security) Order 2006</p>
+<p>Name: The Water Environment (Controlled Activities) (Scotland) Regulations 2005 (Notices in the Interests of National Security) Order 2006</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical, chemistry, biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality - Water pollutants</p>
+<p>Description: This Order makes provision consequential on the Water Environment (Controlled Activities) (Scotland) Regulations 2005 (“the 2005 Regulations”), made under the Water Environment and Water Services (Scotland) Act 2003. The 2005 Regulations provide the mechanism by which activities which impact on the water environment are authorised and regulated in Scotland. The 2005 Regulations apply to “controlled activities” as defined in regulation 2 of the Regulations.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 5th April 2006</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/2006/661/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000088</p>
+<p>TITLE: The Protection of Water Against Agricultural Nitrate Pollution (Scotland) Regulations 1996</p>
+<p>Name: The Protection of Water Against Agricultural Nitrate Pollution (Scotland) Regulations 1996</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemistry, and biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality - Nitrates in particular</p>
+<p>Description: These Regulations transpose for Scotland the requirements of Council Directive 91/676/EEC concerning the protection of waters against pollution caused by nitrates from agricultural sources. The objective of the Directive is to ensure that measures are taken to reduce and prevent nitrate pollution from agricultural sources. It provides a framework for action to reduce nitrate levels in the catchments of rivers and groundwater sources affected by such pollution, and to reduce eutrophication of freshwater bodies, estuaries, and coastal waters.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 22nd-July-1996 Amendment 20th Dec2005</p>
+<p>Resource: https://www.legislation.gov.uk/uksi/1996/1564/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000089</p>
+<p>TITLE: The Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005</p>
+<p>Name: The Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: chemistry, biology</p>
+<p>Type of water: surface and groundwater, drinking water, wastewater and treated water</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality - Nitogen and Phosporous</p>
+<p>Description: This Order approves the 2005 Code of Good Practice for the Prevention of Environmental Pollution from Agricultural Activity, replacing the 1997 Code and its supplements. The Code provides practical guidance to farmers on activities affecting water and promotes practices to prevent or minimize water pollution.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 11th-March-2005</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2005/63/contents/made</p>
+<p>Recommendations: Purpose of (a)giving practical guidance to persons engaged in agriculture with respect to activities that may affect controlled waters; and (b)promoting what appears to them to be desirable practices by such persons for avoiding or minimising the pollution of any such waters,</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000090</p>
+<p>TITLE: The Water Environment (Register of Protected Areas) (Scotland) Regulations 2004</p>
+<p>Name: The Water Environment (Register of Protected Areas) (Scotland) Regulations 2004</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: Biology</p>
+<p>Type of water: Surface Waters, Coastal waters, Bathing Waters</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality</p>
+<p>Description: These Regulations set out requirements relating to the register of protected areas to be prepared and maintained by the Scottish Environment Protection Agency (“SEPA”) under section 7 of the Water Environment and Water Services (Scotland) Act 2003 (“the Act”).</p>
+<p>Status: Effective</p>
+<p>Effect Date: 22nd-Dec-2004</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2004/516/contents/made</p>
+<p>Recommendations: Specifically aimed at: for the protection of economically significant aquatic species; as recreational waters; as nutrient sensitive areas; and for the protection of habitats and species where the maintenance or improvement of the status of the water is an important factor in the protection of those habitats or species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000091</p>
+<p>TITLE: The Urban Waste Water Treatment (Scotland) Amendment Regulations 2003</p>
+<p>Name: The Urban Waste Water Treatment (Scotland) Amendment Regulations 2003</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: Surface Water, WasteWater, TreatedWater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: These Regulations amend the Urban Waste Water Treatment (Scotland) Regulations 1994, which implement Council Directive 91/271/EEC on urban waste water treatment, and require the Scottish Ministers to review the identification of “sensitive areas” and “high natural dispersion areas.”</p>
+<p>Status: Effective</p>
+<p>Effect Date: 27th June 2003</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2003/273/contents/made</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.1.1_Policies</p>
+<p>ID: T31_000092</p>
+<p>TITLE: The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2013</p>
+<p>Name: The Water Environment (Drinking Water Protected Areas) (Scotland) Order 2013</p>
+<p>Issuing organisation: Scotland</p>
+<p>Geographical Scope: Scotland</p>
+<p>Type: Legistrative</p>
+<p>Scientific domain: physical states, chemistry, geology, and biology</p>
+<p>Type of water: DrinkingWater, Surface Water, Groundwater</p>
+<p>Water management focus: Mangement, Monitoring</p>
+<p>Parameter change rate assumption: Water Quality, Quanity</p>
+<p>Description: This Order identifies those bodies of water used for the abstraction of drinking water, as required by section 6(1) of the Water Environment and Water Services (Scotland) Act 2003 (“the Act”). In doing so, it implements the Scottish Ministers’ obligation to identify such bodies of water as set out in paragraph 1 of Article 7 of Directive 2000/60/EC of the European Parliament and of the Council establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p.1). This is done by reference to maps prepared for the purposes of this Order and laid before the Scottish Parliament in accordance with section 6(2) of the Act.</p>
+<p>Status: Effective</p>
+<p>Effect Date: 11th March 2013</p>
+<p>Resource: https://www.legislation.gov.uk/ssi/2013/29/contents/made</p>
+<p>Recommendations: The maps collectively identify the bodies of surface water and groundwater in the Scotland River Basin District which are: (a) used for the abstraction of drinking water and either provide more than 10 cubic metres per day or serve more than 50 persons; or (b) intended for such use. This Order (article 3) revokes the Water Environment (Drinking Water Protected Areas) (Scotland) Order 2007. The maps have been published by the Scottish Ministers and are available on their website at www.scotland.gov.uk.</p>

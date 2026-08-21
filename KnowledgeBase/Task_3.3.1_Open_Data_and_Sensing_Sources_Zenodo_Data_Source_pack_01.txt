@@ -1,0 +1,385 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_1</p>
+<p>TITLE: ResearchData for Article &quot;A new calculation method for dynamic adjustment of bed material gradation in a sand-bed river&quot;</p>
+<p>ID: river_1</p>
+<p>Dataset Page: https://zenodo.org/records/15583425</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15583425</p>
+<p>Title: ResearchData for Article &quot;A new calculation method for dynamic adjustment of bed material gradation in a sand-bed river&quot;</p>
+<p>DOI: 10.5281/zenodo.15583425</p>
+<p>Description:</p>
+<p>This database contains the raw data and figures for Original Reseaech Paper &quot;A new calculation method for dynamic adjustment of bed material gradation in a sand-bed river&quot;, as fully described in the manuscript submitted to CATENA:</p>
+<p>Cao, Y.Q., Xia, J.Q., Cheng, Y.F., Chen, J.G., 2025. A new calculation method for dynamic adjustment of bed material gradation in a sand-bed river. (in Submission)</p>
+<p>This database  mainly includes:</p>
+<p>--framework of the section-scale morph</p>
+<p>Creators: Cao, Yuqin, Xia, Junqiang, Cheng, Yifei, Chen, Jianguo</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_2</p>
+<p>TITLE: Data from: The ecological memory of landscape complexity shapes diversity of freshwater communities</p>
+<p>ID: river_2</p>
+<p>Dataset Page: https://zenodo.org/records/15584199</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15584199</p>
+<p>Title: Data from: The ecological memory of landscape complexity shapes diversity of freshwater communities</p>
+<p>DOI: 10.5281/zenodo.15584199</p>
+<p>Description:</p>
+<p>Data from the publication:</p>
+<p>A Tabi, E Pereira Santos, G Brejão, T Siqueira, 2025. The ecological memory of landscape complexity shapes diversity of freshwater communities. Oikos.</p>
+<p>The dataset contains the shapefiles of the 26 tropical catchment areas of the Corumbatai river basin with land cover types and the data of 101 sampling sites and final calculations of landscape complexity metrics.</p>
+<p>Creators: Tabi, Andrea, Pereira Santos, Edineusa, Brejão, Gabriel, Siqueira, Tadeu</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_3</p>
+<p>TITLE: TABLE 2 in Pristolepis pentacantha Plamoottil 2015, and Catopra tetracanthus Günther 1862: two junior synonyms of Pristolepis marginata Jerdon 1849</p>
+<p>ID: river_3</p>
+<p>Dataset Page: https://zenodo.org/records/15584569</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15584569</p>
+<p>Title: TABLE 2 in Pristolepis pentacantha Plamoottil 2015, and Catopra tetracanthus Günther 1862: two junior synonyms of Pristolepis marginata Jerdon 1849</p>
+<p>DOI: 10.5281/zenodo.15584569</p>
+<p>Description:</p>
+<p><em>TABLE 2.</em> Details for COI gene sequences of <em>Pristolepis marginata</em> and <em>P. pentacantha</em> from the Kabini tributary of Cauvery River generated for this study.</p>
+<p>Species Locations Coordinates GenBank accession number</p>
+<p><em>Pristolepis pentacantha</em> Bavali 11.850°N 76.122°E PQ857739</p>
+<p><em>Pristolepis pentacantha</em> Vythiri 11.534°N 76.02</p>
+<p>Creators: Prakash, Anjana Preetha, Raghavan, Rajeev, Dahanukar, Neelesh, Anoop, V. K., Thampy, Dencin Rons, Britz, Ralf, Ali, Anvar</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: notspecified</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_4</p>
+<p>TITLE: Scenario-Based GLOF Modelling and Flood Routing Analysis for the Gurudongmar Lake Complex, Eastern Himalayas</p>
+<p>ID: river_4</p>
+<p>Dataset Page: https://zenodo.org/records/15582352</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15582352</p>
+<p>Title: Scenario-Based GLOF Modelling and Flood Routing Analysis for the Gurudongmar Lake Complex, Eastern Himalayas</p>
+<p>DOI: 10.5281/zenodo.15582352</p>
+<p>Description:</p>
+<p>The Gurudongmar Lake Complex has been analyzed through five Glacial Lake Outburst Flood (GLOF) scenarios to assess potential dam breach impacts and downstream flood routing along the upper Tista River (see <em>Excel Datasheet</em>). <em>Scenarios 1 to 3</em> simulate individual dam breaches at GL-1, GL-2, and GL-3, respectively, each with three breach magnitudes: 20%, 50%, and 80% of dam height (denoted as A, B, and C). These scenarios evaluate the standalon</p>
+<p>Creators: Begam, Sazeda, Kroczek, Tomas</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_5</p>
+<p>TITLE: Vandal Fire Intelligence - Columbia River Basin</p>
+<p>ID: river_5</p>
+<p>Dataset Page: https://zenodo.org/records/15580220</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15580220</p>
+<p>Title: Vandal Fire Intelligence - Columbia River Basin</p>
+<p>DOI: 10.5281/zenodo.15580220</p>
+<p>Description:</p>
+<p>Vandal Fire Intelligence (VFI) : Introduction and Milestones (2025)</p>
+<p>VFI is a high‐performance, Dask powered platform developed to deliver dynamic, scalable flammability predictions to serve hyperlocal needs and global flammability analyses (Logan, Smith 2024). VFI informs fire managers, climate researchers, and NASA/NSF-aligned programs about evolving flammability risk patterns under changing environmental conditions. This builds on other documented efforts to explore single climate va</p>
+<p>Creators: Logan, J</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Columbia River Basin, flammability, wildfire</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_6</p>
+<p>TITLE: Thermo-hydrological observatory in a permafrost river valley landscape in Syrdakh, Central Yakutia</p>
+<p>ID: river_6</p>
+<p>Dataset Page: https://zenodo.org/records/15565433</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15565433</p>
+<p>Title: Thermo-hydrological observatory in a permafrost river valley landscape in Syrdakh, Central Yakutia</p>
+<p>DOI: 10.5281/zenodo.15565433</p>
+<p>Description:</p>
+<p>These are the files for a paper submitted to ESSD with the title &quot;Thermo-hydrological observatory in a permafrost river valley landscape in Syrdakh, Central Yakutia&quot;. The corresponding link will be provided once the dataset is accepted for publishing.</p>
+<p>The database is split into three groups to allow for a small data volume download without the ortho-mosaic and digital surface model. The latter two can be downloaded separately as Syrdakh-DB_imagery.zip (ortho-mosaic) and Syrdakh-DB_dem.</p>
+<p>Creators: Pohl, Eric, Grenier, Christophe, Séjourné, Antoine, Bouchard, Frédéric, Leger, Emmanuel, Saintenoy, Albane, Konstantinov, Pavel, Cuynet, Amélie, Ottlé, Catherine, Hatté, Christine, Noret, Aurelie, Danilov, Kensheri, Bazhin, Kirill, Khristoforov, Ivan, Fortier, Daniel, Fedorov, Alexander, Mouche, Emmanuel</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_7</p>
+<p>TITLE: Los Penasquitos Lagoon bivalve shell gape data 2023-02 to 2024-01</p>
+<p>ID: river_7</p>
+<p>Dataset Page: https://zenodo.org/records/15557937</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557937</p>
+<p>Title: Los Penasquitos Lagoon bivalve shell gape data 2023-02 to 2024-01</p>
+<p>DOI: 10.5281/zenodo.15557937</p>
+<p>Description:</p>
+<p>Groups of Magallana [Crassostrea] gigas oysters obtained from the Los Penasquitos Lagoon near the railroad bridge were outfitted with Hall effect sensors and a magnet, glued to the exterior of the shell near the shell valve margin, in order to record opening and closing of the shell valves. A floating mooring was deployed in Los Penasquitos Lagoon southwest of the railroad bridge, near the center of the channel. A group of oysters, and later Mytilus galloprovincialis mussels, was suspended fr</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Magallana gigas, Pacific oyster, Los Penasquitos Lagoon, shell opening, valve gape</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_8</p>
+<p>TITLE: FLUPSY dissolved oxygen and temperature data, 2024-01 to 2025-04</p>
+<p>ID: river_8</p>
+<p>Dataset Page: https://zenodo.org/records/15557794</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15557794</p>
+<p>Title: FLUPSY dissolved oxygen and temperature data, 2024-01 to 2025-04</p>
+<p>DOI: 10.5281/zenodo.15557794</p>
+<p>Description:</p>
+<p>Dissolved oxygen and water temperature data are provided from two sensor locations on hanging rope lines from the FLUPSY (floating upwelling system) platform docked at Tuna Harbor, San Diego Bay, off the bay-side of platform. The Surface sensor was hung from a line at a depth of 30 cm below the water surface. The Bottom sensor was suspended from the mooring line near the bottom at a depth of approximately 3 meters. Data were collected using MiniDOT sensor from Precision Measurement Engineerin</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: dissolved oxygen, water temperature</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_9</p>
+<p>TITLE: Los Penasquitos Lagoon bivalve shell gape data 2024-10 to 2025-05</p>
+<p>ID: river_9</p>
+<p>Dataset Page: https://zenodo.org/records/15551033</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15551033</p>
+<p>Title: Los Penasquitos Lagoon bivalve shell gape data 2024-10 to 2025-05</p>
+<p>DOI: 10.5281/zenodo.15551033</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels and Crassostrea gigas oysters obtained from the Los Penasquitos Lagoon near the railroad bridge were outfitted with Hall effect sensors and a magnet, glued to the exterior of the shell near the shell valve margin, in order to record opening and closing of the shell valves. A floating mooring was deployed in Los Penasquitos Lagoon southwest of the railroad bridge, near the center of the channel. A group of mussels and oysters was suspended from the u</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, Magallana gigas, shell opening, Los Penasquitos Lagoon</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_10</p>
+<p>TITLE: Data from: Transformation of social-ecological systems in the Songhua River Basin, Northeast China: lessons for a more sustainable development</p>
+<p>ID: river_10</p>
+<p>Dataset Page: https://zenodo.org/records/15555274</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15555274</p>
+<p>Title: Data from: Transformation of social-ecological systems in the Songhua River Basin, Northeast China: lessons for a more sustainable development</p>
+<p>DOI: 10.5281/zenodo.15555274</p>
+<p>Description: No Description</p>
+<p>Creators: Sa, Na, Zhao, Jinyu, Kou, Xuyang, Sang, Weiguo</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_11</p>
+<p>TITLE: TABLE 2 in Redescription of Austrolebias accorsii (Cyprinodontiformes: Rivulidae) and description of a new species of the genus from the upper Paraguay River basin</p>
+<p>ID: river_11</p>
+<p>Dataset Page: https://zenodo.org/records/15554856</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554856</p>
+<p>Title: TABLE 2 in Redescription of Austrolebias accorsii (Cyprinodontiformes: Rivulidae) and description of a new species of the genus from the upper Paraguay River basin</p>
+<p>DOI: 10.5281/zenodo.15554856</p>
+<p>Description:</p>
+<p><em>TABLE 2 |</em> Morphometric and meristic data of <em>Austrolebias ayoreode</em>. 1: MNKP 16612; 2: MNKP 16587 (n = 12), MNKP 16590 (n = 2); 3: MNKP 16587 (n = 9), MNKP 16590 (n = 1); 4: Holotype and paratypes; 5: Females n = 9.</p>
+<p><em>Holotype</em> <em>Paratypes</em></p>
+<p><em>Male</em> <em>1</em> <em>Males</em> <em>2</em> <em>Females</em> <em>3</em> <em>Males</em> <em>4</em> *(n = 15)*Creators: Drawert, Heinz Arno, Ergueta, Carlos</p>
+<p>Publication Date: 2024-06-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_12</p>
+<p>TITLE: TABLE 1 in Redescription of Austrolebias accorsii (Cyprinodontiformes: Rivulidae) and description of a new species of the genus from the upper Paraguay River basin</p>
+<p>ID: river_12</p>
+<p>Dataset Page: https://zenodo.org/records/15554854</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15554854</p>
+<p>Title: TABLE 1 in Redescription of Austrolebias accorsii (Cyprinodontiformes: Rivulidae) and description of a new species of the genus from the upper Paraguay River basin</p>
+<p>DOI: 10.5281/zenodo.15554854</p>
+<p>Description:</p>
+<p><em>TABLE 1 |</em> Morphometric and meristic data of <em>Austrolebias accorsii</em>. 1: MNKP 16552 (topotypes, n = 5), MNKP 16556 (n = 6), MNKP 16584 (n = 2); 2: MNKP 16552 (topotypes, n = 5), MNKP 16556 (n = 5), MNKP 16584 (n = 1).</p>
+<p><em>Austrolebias accorsii</em></p>
+<p><em>Min–Max</em> <em>Males</em> <em>1</em> <em>(n = 13) Median (IQR)</em> <em>Mean (SD)</em> <em>Min–Max</em> <em>Females</em> <em>2</em> &lt;</p>
+<p>Creators: Drawert, Heinz Arno, Ergueta, Carlos</p>
+<p>Publication Date: 2024-06-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_13</p>
+<p>TITLE: Temperature, Salinity and Ecosystem Parameters for the Black Sea under climate change scenarios</p>
+<p>ID: river_13</p>
+<p>Dataset Page: https://zenodo.org/records/15537197</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15537197</p>
+<p>Title: Temperature, Salinity and Ecosystem Parameters for the Black Sea under climate change scenarios</p>
+<p>DOI: 10.5281/zenodo.15537197</p>
+<p>Description:</p>
+<p>This dataset contains yearly averaged physical and ecological parameters (temperature, salinity, oxygen, nutrients and chlorophyll concentrations) across the entire Black Sea simulated with the modeling system NEMO-TURSEM circulation model NEMO coupled to the ecosystem model TURSEM provided by the Middle East Technical University, Institute of Marine Sciences (METU-IMS) in Turkey.</p>
+<p>The historical simulation during 1995-2014 and climate change projection under SSP245 during 2080-2100 wer</p>
+<p>Creators: Acar, Ali Osman, Arkin, Sinan, Fach, Bettina</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_14</p>
+<p>TITLE: Los Penasquitos Lagoon bivalve heart rate estimates 2024-10 to 2025-05</p>
+<p>ID: river_14</p>
+<p>Dataset Page: https://zenodo.org/records/15550435</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15550435</p>
+<p>Title: Los Penasquitos Lagoon bivalve heart rate estimates 2024-10 to 2025-05</p>
+<p>DOI: 10.5281/zenodo.15550435</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels and Magallana [Crassostrea] gigas oysters obtained from Los Penasquitos Lagoon near the railroad bridge were outfitted with a MAX30101 pulse oximeter, glued to the exterior of the shell over the approximate location of the heart, in order to record opening movement of the heart using reflected infrared light. A floating mooring was deployed in Los Penasquitos Lagoon southwest of the railroad bridge on 2024-10-08 near the center of the channel. A gro</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, Magallana gigas, heart rate, Pacific oyster, Crassostrea gigas</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_15</p>
+<p>TITLE: FLUPSY bivalve gape data 2024-01 to 2025-05</p>
+<p>ID: river_15</p>
+<p>Dataset Page: https://zenodo.org/records/15549937</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15549937</p>
+<p>Title: FLUPSY bivalve gape data 2024-01 to 2025-05</p>
+<p>DOI: 10.5281/zenodo.15549937</p>
+<p>Description:</p>
+<p>Mytilus galloprovincialis mussels and Magallana [Crassostrea] gigas oysters were obtained from Tuna Harbor in San Diego Bay. A Hall effect sensor and magnet were attached to the exterior of the shell at the posterior end of the shell margin. Raw data were recorded on an 8-channel data logger as voltage read by an analog-to-digital converter and recorded as counts. The raw gape values were quality checked and then converted into a 0-100 percent scale where 0 represents a fully-closed shell and</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_16</p>
+<p>TITLE: FLUPSY bivalve heart rates 2024-01 to 2024-12</p>
+<p>ID: river_16</p>
+<p>Dataset Page: https://zenodo.org/records/15549839</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15549839</p>
+<p>Title: FLUPSY bivalve heart rates 2024-01 to 2024-12</p>
+<p>DOI: 10.5281/zenodo.15549839</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels and Magallana [Crassostrea] gigas oysters obtained from San Diego Bay at the Tuna Harbor site were outfitted with a MAX30101 pulse oximeter, glued to the exterior of the shell near the shell valve margin, in order to record movement of the heart using reflected infrared light. Groups of mussels and oysters were suspended on rope lines from the FLUPSY (floating upwelling system) at a depth of 30 cm (surface group) and 3 meters (bottom group). The sur</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, Magallana gigas, Crassostrea gigas, heart rate, San Diego Bay</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_17</p>
+<p>TITLE: Tijuana River mussel and oyster shell gape data 2024-01 to 2024-09</p>
+<p>ID: river_17</p>
+<p>Dataset Page: https://zenodo.org/records/15549121</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15549121</p>
+<p>Title: Tijuana River mussel and oyster shell gape data 2024-01 to 2024-09</p>
+<p>DOI: 10.5281/zenodo.15549121</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels and Magallana [Crassostrea] gigas oysters obtained from the Tijuana River Estuary at the Boca Rio site were outfitted with Hall effect sensors and a magnet, glued to the exterior of the shell near the shell valve margin, in order to record opening and closing of the shell valves. A floating mooring was deployed at the Boca Rio site on 2024-01-31 near the center of the channel. A group of mussels and oysters was suspended from the underside of</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, Magallana gigas, Crassostrea gigas, shell gape, Tijuana River Estuary</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_18</p>
+<p>TITLE: Tijuana River mussel heart rate estimates 2025-02 to 2025-04</p>
+<p>ID: river_18</p>
+<p>Dataset Page: https://zenodo.org/records/15549056</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15549056</p>
+<p>Title: Tijuana River mussel heart rate estimates 2025-02 to 2025-04</p>
+<p>DOI: 10.5281/zenodo.15549056</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels obtained from the Tijuana River Estuary at the Boca Rio site were outfitted with a MAX30101 pulse oximeter, glued to the exterior of the shell near the shell valve margin, in order to record opening movement of the heart using reflected infrared light. A floating mooring was deployed at the Boca Rio site on 2025-02-25 near the center of the channel. A group of mussels was suspended from the line near the channel bottom, approximately 50 cm abo</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, mussel, Tijuana River</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_19</p>
+<p>TITLE: Tijuana River mussel shell gape data 2025-02 to 2025-04</p>
+<p>ID: river_19</p>
+<p>Dataset Page: https://zenodo.org/records/15548966</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15548966</p>
+<p>Title: Tijuana River mussel shell gape data 2025-02 to 2025-04</p>
+<p>DOI: 10.5281/zenodo.15548966</p>
+<p>Description:</p>
+<p>Groups of Mytilus galloprovincialis mussels obtained from the Tijuana River Estuary at the Boca Rio site were outfitted with Hall effect sensors and a magnet, glued to the exterior of the shell near the shell valve margin, in order to record opening and closing of the shell valves. A floating mooring was deployed at the Boca Rio site on 2025-02-25 near the center of the channel. A group of mussels was suspended from the underside of the mooring float approximately 5cm beneath the water</p>
+<p>Creators: Miller, Luke, Giddings, Sarah, Crooks, Jeffrey, Goodrich, Kristen</p>
+<p>Publication Date: 2025-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Mytilus galloprovincialis, Tijuana River Estuary</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_20</p>
+<p>TITLE: TABLE 1 in Integrative diagnosis and review of the conservation status of a Near Threatened species of the &quot; Psalidodon scabripinnis complex &quot;</p>
+<p>ID: river_20</p>
+<p>Dataset Page: https://zenodo.org/records/15546518</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15546518</p>
+<p>Title: TABLE 1 in Integrative diagnosis and review of the conservation status of a Near Threatened species of the &quot; Psalidodon scabripinnis complex &quot;</p>
+<p>DOI: 10.5281/zenodo.15546518</p>
+<p>Description:</p>
+<p><em>TABLE 1 |</em> Meristic data of <em>Psalidodon cremnobates</em> from Mampituba River drainage. UFRGS 16286 (10 of 22), 16290 (2 of 4), 16294 (4 of 8), 17203 (4 of 7), 17205 (3), 17212 (3 of 14). N = 26 specimens.</p>
+<p><em>Minimum</em> <em>Maximum</em> <em>Mode</em></p>
+<p>Unbranched anal-fin rays 3 4 3</p>
+<p>Branched anal-fin rays 13 17 16</p>
+<p>Unbranched dors</p>
+<p>Creators: Silva, Priscilla Caroline, Bonato, Karine Orlandi, Bertaco, Vinícius A., Malabarba, Luiz Roberto</p>
+<p>Publication Date: 2025-01-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_21</p>
+<p>TITLE: Defining river regional landscape classifications for implementing spatially extensive Brazilian stream assessments</p>
+<p>ID: river_21</p>
+<p>Dataset Page: https://zenodo.org/records/15538948</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15538948</p>
+<p>Title: Defining river regional landscape classifications for implementing spatially extensive Brazilian stream assessments</p>
+<p>DOI: 10.5281/zenodo.15538948</p>
+<p>Description:</p>
+<p>Data files of draft &quot;Defining river regional landscape classifications for  implementing spatially extensive Brazilian stream assessments&quot;.</p>
+<p>Creators: Cordeiro, Pedro, Linares, Marden, Pujoni, Diego, Feio, Maria João, Callisto, Marcos, HUGHES, ROBERT M., Macedo, Diego</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: river_22</p>
+<p>TITLE: TABLE 4 in Dams and agricultural lands affect energy sources and the trophic position of fish in a floodplain</p>
+<p>ID: river_22</p>
+<p>Dataset Page: https://zenodo.org/records/15538903</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15538903</p>
+<p>Title: TABLE 4 in Dams and agricultural lands affect energy sources and the trophic position of fish in a floodplain</p>
+<p>DOI: 10.5281/zenodo.15538903</p>
+<p>Description:</p>
+<p><em>TABLE 4 |</em> Results of the SIMMr comparison, showing the probability (%) that the riverine source will be greater than the pelagic source (riverine × pelagic) and the probability (%) that the autochthonous contribution will be greater than the allochthonous contribution (autochthonous × allochthonous) for each fish species at each site Herbivore: <em>Schizodon borellii</em>; detritivore: <em>Prochilodus lineatus</em>; omnivore: <em>Pterodoras granulosus</em>, and piscivore:</p>

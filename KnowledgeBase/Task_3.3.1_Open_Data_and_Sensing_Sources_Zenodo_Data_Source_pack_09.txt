@@ -1,0 +1,102 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_7</p>
+<p>TITLE: PreserVamos - Ecological data on aquatic ecosystems in Argentina collected through citizen science monitoring</p>
+<p>ID: lagoon_7</p>
+<p>Dataset Page: https://zenodo.org/records/15530251</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15530251</p>
+<p>Title: PreserVamos - Ecological data on aquatic ecosystems in Argentina collected through citizen science monitoring</p>
+<p>DOI: 10.5281/zenodo.15530251</p>
+<p>Description:</p>
+<p>The dataset is a collection of citizen-generated ecological assessments from aquatic environments across Argentina, recorded via a standardized mobile application from the project PreserVamos. Covering the period from 2016 to 2025, the dataset captures spatially explicit, semi-quantitative ecological indices along with descriptors of habitat structure, surrounding land use, exotic species presence, wildlife sightings, and human use patterns. The ecological index (‘Habitat_index’ f</p>
+<p>Creators: Cochero, Joaquin, Bonifacio, Alejo Fabian, Pecile, María Agostina, Zambrano, Micaela, Sathicq, María Belén, Nicolosi Gelis, Maria Mercedes, Mujica, Micaela Ailén, Bengolea, Milagros, Tagliaferro, Marina, Brito, Juan Manuel, Ballesteros, María Laura, HUED, ANDREA, Halac, Silvana Raquel, Pazos, Rocio Soledad, Albarrán, Katya Karla, Herbert, Lucila, Fernández, José Carlos, Laffitte, Lorena Noemi, Kuroda, Jorge Ariel, Demicheli, Mariela Ana, Castiñeira, Leandro Manuel, Novarese, Daiana Pamela</p>
+<p>Publication Date: 2025-05-27 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: Habitat quality</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_8</p>
+<p>TITLE: Dimethylsulfoniopropionate-derived compound concentrations, volatile organic compound concentrations, nutrient and organic matter concentrations, microorganism abundances and activity, and bromoperoxidase activity along a transect from the tropical ocean into the coral back reef lagoon of Moorea (French Polynesia). Production and loss rates of volatile organic compounds by photochemistry, microbial plankton, Turbinaria ornata, carbonate sediment, and ventilation to the atmosphere in the back-reef lagoon.</p>
+<p>ID: lagoon_8</p>
+<p>Dataset Page: https://zenodo.org/records/15355713</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15355713</p>
+<p>Title: Dimethylsulfoniopropionate-derived compound concentrations, volatile organic compound concentrations, nutrient and organic matter concentrations, microorganism abundances and activity, and bromoperoxidase activity along a transect from the tropical ocean into the coral back reef lagoon of Moorea (French Polynesia). Production and loss rates of volatile organic compounds by photochemistry, microbial plankton, Turbinaria ornata, carbonate sediment, and ventilation to the atmosphere in the back-reef lagoon.</p>
+<p>DOI: 10.5281/zenodo.15355713</p>
+<p>Description:</p>
+<p>These data belong in the paper:</p>
+<p>Marta Masdeu-Navarro, Miguel Cabrera-Brufau, Lei Xue, Pablo Rodríguez-Ros, Stephanie G. Gardner, Kristin Bergauer, Kevin M. Posman, Stephen D. Archer, Gerhard J. Herndl, Celia Marrasé, David J. Kieber, Rafel Simó. The seascape of VOC production ans cycling in a tropical coral reef. Elementa -Science of the Anthro</p>
+<p>Creators: Simó, Rafel, Masdeu-Navarro, Marta</p>
+<p>Publication Date: 2025-05-07 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v01</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_9</p>
+<p>TITLE: Acoustic Monitoring of a Thalassia testudinum seagrass meadow in a shallow sub-tropical lagoon</p>
+<p>ID: lagoon_9</p>
+<p>Dataset Page: https://zenodo.org/records/15304007</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15304007</p>
+<p>Title: Acoustic Monitoring of a Thalassia testudinum seagrass meadow in a shallow sub-tropical lagoon</p>
+<p>DOI: 10.5281/zenodo.15304007</p>
+<p>Description:</p>
+<p>This dataset contains data from both active and passive acoustical methods for ecosystem monitoring in seagrass meadows. From a propagation perspective, gas bodies contained within the seagrass tissue as well as photosynthetic-driven bubble production result in attenuation, dispersion, and scattering of sound that produce increased transmission loss. For the passive approach, the detachment of gas bubbles from the plants is an important component of the ambient soundscape. Data</p>
+<p>Creators: Capistrant-Fossa, Kyle, Ballard, Megan, Lee, Kevin, Cushing, Colby, McNeese, Andrew, Jerome, Thomas, Wilson, Preston, Dunton, Kenneth</p>
+<p>Publication Date: 2025</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_10</p>
+<p>TITLE: Coral thermotolerance retained following year-long exposure to a novel environment</p>
+<p>ID: lagoon_10</p>
+<p>Dataset Page: https://zenodo.org/records/15208057</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15208057</p>
+<p>Title: Coral thermotolerance retained following year-long exposure to a novel environment</p>
+<p>DOI: 10.5281/zenodo.15208057</p>
+<p>Description:</p>
+<p>Description of datasets:</p>
+<p>HTSeqCounts</p>
+<p>Raw HTSeq count data used for downstream RNA sequencing analyses and visualisations including Principal Component Analysis and Differential Gene Expression analysis of the four habitat groups (mangrove to reef, reef to reef, wild mangrove and wild reef).</p>
+<p>GO enriched gene results:</p>
+<p>GO enriched genes summarised by broad categories of GO Slims for <em>Pocillopora acuta</em> corals originating from a mangrove system vs</p>
+<p>Creators: Roper, Christine</p>
+<p>Publication Date: 2025-04-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Coral reefs, Gene expression, Extreme systems, Reef restoration, Thermal tolerance</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_11</p>
+<p>TITLE: Carbon chemistry observations in tropical coastal waters</p>
+<p>ID: lagoon_11</p>
+<p>Dataset Page: https://zenodo.org/records/15173472</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15173472</p>
+<p>Title: Carbon chemistry observations in tropical coastal waters</p>
+<p>DOI: 10.5281/zenodo.15173472</p>
+<p>Description:</p>
+<p>The dataset reports field observations of the carbon composition of seawater at a coral reef lagoon and a mangrove tidal creek in Nusa Penida, Indonesia. Observations include high temporal resolution time series of radon, CO2, and ancillary parameters. Time series observations of radon (30 min intervals) and carbon dioxide (1 min) were performed using automated analysers powered with 12 V batteries. The calibrated radon (RAD-7 Durridge Company) and CO2</p>
+<p>Creators: Santos, Isaac R.</p>
+<p>Publication Date: 2025-04-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: lagoon_12</p>
+<p>TITLE: Table 1 in Sub-Antarctic Freshwater Invertebrate Thermal Tolerances: An Assessment of Critical Thermal Limits and Behavioral Responses</p>
+<p>ID: lagoon_12</p>
+<p>Dataset Page: https://zenodo.org/records/15160698</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15160698</p>
+<p>Title: Table 1 in Sub-Antarctic Freshwater Invertebrate Thermal Tolerances: An Assessment of Critical Thermal Limits and Behavioral Responses</p>
+<p>DOI: 10.5281/zenodo.15160698</p>
+<p>Description:</p>
+<p><em>Table 1.</em> Number of individuals per tested taxon and their collection sites within the Róbalo river watershed on Navarino Island, southern Chile. CL = Castor Lagoon, ESL = el Salto Lagoon, BL = Bandera Lagoon.</p>
+<p><em>Macroinvertebrate Taxa</em> <em>Taxon Elevation Range</em> <em>n CTmax</em> <em>n CTmin</em> <em>Site</em> <em>Lat/Long</em> <em>Elevation (m a.s.l.)</em></p>

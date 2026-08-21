@@ -1,0 +1,1687 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_82</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Fluvents</p>
+<p>ID: water quality_82</p>
+<p>Dataset Page: https://zenodo.org/records/15481501</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481501</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Fluvents</p>
+<p>DOI: 10.5281/zenodo.15481501</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Fluvents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_83</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udepts</p>
+<p>ID: water quality_83</p>
+<p>Dataset Page: https://zenodo.org/records/15481445</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481445</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udepts</p>
+<p>DOI: 10.5281/zenodo.15481445</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_84</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Calcids</p>
+<p>ID: water quality_84</p>
+<p>Dataset Page: https://zenodo.org/records/15481409</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481409</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Calcids</p>
+<p>DOI: 10.5281/zenodo.15481409</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Calcids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_85</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustolls</p>
+<p>ID: water quality_85</p>
+<p>Dataset Page: https://zenodo.org/records/15481493</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481493</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustolls</p>
+<p>DOI: 10.5281/zenodo.15481493</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_86</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Rendolls</p>
+<p>ID: water quality_86</p>
+<p>Dataset Page: https://zenodo.org/records/15481441</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481441</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Rendolls</p>
+<p>DOI: 10.5281/zenodo.15481441</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Rendolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_87</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerands</p>
+<p>ID: water quality_87</p>
+<p>Dataset Page: https://zenodo.org/records/15481411</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481411</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerands</p>
+<p>DOI: 10.5281/zenodo.15481411</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_88</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerepts</p>
+<p>ID: water quality_88</p>
+<p>Dataset Page: https://zenodo.org/records/15481487</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481487</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerepts</p>
+<p>DOI: 10.5281/zenodo.15481487</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_89</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerults</p>
+<p>ID: water quality_89</p>
+<p>Dataset Page: https://zenodo.org/records/15481451</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481451</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerults</p>
+<p>DOI: 10.5281/zenodo.15481451</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerults Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_90</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Saprists</p>
+<p>ID: water quality_90</p>
+<p>Dataset Page: https://zenodo.org/records/15481523</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481523</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Saprists</p>
+<p>DOI: 10.5281/zenodo.15481523</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Saprists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_91</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udalfs</p>
+<p>ID: water quality_91</p>
+<p>Dataset Page: https://zenodo.org/records/15481423</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481423</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udalfs</p>
+<p>DOI: 10.5281/zenodo.15481423</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udalfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_92</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryands</p>
+<p>ID: water quality_92</p>
+<p>Dataset Page: https://zenodo.org/records/15481415</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481415</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryands</p>
+<p>DOI: 10.5281/zenodo.15481415</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_93</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Folists</p>
+<p>ID: water quality_93</p>
+<p>Dataset Page: https://zenodo.org/records/15481525</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481525</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Folists</p>
+<p>DOI: 10.5281/zenodo.15481525</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Folists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_94</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Fibrists</p>
+<p>ID: water quality_94</p>
+<p>Dataset Page: https://zenodo.org/records/15481453</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481453</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Fibrists</p>
+<p>DOI: 10.5281/zenodo.15481453</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Fibrists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_95</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Albolls</p>
+<p>ID: water quality_95</p>
+<p>Dataset Page: https://zenodo.org/records/15481517</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481517</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Albolls</p>
+<p>DOI: 10.5281/zenodo.15481517</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Albolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_96</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Boralfs</p>
+<p>ID: water quality_96</p>
+<p>Dataset Page: https://zenodo.org/records/15481431</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481431</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Boralfs</p>
+<p>DOI: 10.5281/zenodo.15481431</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Boralfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_97</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cryods</p>
+<p>ID: water quality_97</p>
+<p>Dataset Page: https://zenodo.org/records/15481491</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481491</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cryods</p>
+<p>DOI: 10.5281/zenodo.15481491</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cryods Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_98</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ochrepts</p>
+<p>ID: water quality_98</p>
+<p>Dataset Page: https://zenodo.org/records/15481529</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481529</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ochrepts</p>
+<p>DOI: 10.5281/zenodo.15481529</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ochrepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_99</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Hemists</p>
+<p>ID: water quality_99</p>
+<p>Dataset Page: https://zenodo.org/records/15481513</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481513</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Hemists</p>
+<p>DOI: 10.5281/zenodo.15481513</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Hemists Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water quality_100</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Orthents</p>
+<p>ID: water quality_100</p>
+<p>Dataset Page: https://zenodo.org/records/15481413</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481413</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Orthents</p>
+<p>DOI: 10.5281/zenodo.15481413</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Orthents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_1</p>
+<p>TITLE: Beyond meteorological data: Modelling Tree Growth with ERA5-Land - Data</p>
+<p>ID: snow_1</p>
+<p>Dataset Page: https://zenodo.org/records/15592062</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15592062</p>
+<p>Title: Beyond meteorological data: Modelling Tree Growth with ERA5-Land - Data</p>
+<p>DOI: 10.5281/zenodo.15592062</p>
+<p>Description:</p>
+<p><em>Data used by</em></p>
+<p>Marian Schönauer, Christoph Pucher, Jan Altman, Josef Weißbacher, Lars Sprengel, Boris Rewald (2025), Agricultural and Forest Meteorology, DOI: 1</p>
+<p>Creators: Marian, Schönauer</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Climate reanalysis data, Climate-vegetation interactions, Forest growth modelling, Tree-ring width</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_2</p>
+<p>TITLE: Sea ice bulk density estimates during the MOSAiC freezing season from October 2019 to April 2020</p>
+<p>ID: snow_2</p>
+<p>Dataset Page: https://zenodo.org/records/15588787</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15588787</p>
+<p>Title: Sea ice bulk density estimates during the MOSAiC freezing season from October 2019 to April 2020</p>
+<p>DOI: 10.5281/zenodo.15588787</p>
+<p>Description: <em>MOSAiC: the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) expedition.</em></p>
+<p>Assuming hydrostatic equilibrium, we integrated and adjusted sea ice thickness and snow depth data from an IMB array (comprising 15 buoys), high-resolution along-track freeboard data from airborne laser scanning (ALS) and the Ice, Cloud, and land Elevation Satellite-2 (ICESat-2) measurements, as well as snow bulk density data from snow pits, to estimate th</p>
+<p>Creators: Yi Zhou, Xianwei Wang, Ruibo Lei, Yu Zhang</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_3</p>
+<p>TITLE: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>ID: snow_3</p>
+<p>Dataset Page: https://zenodo.org/records/15587084</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15587084</p>
+<p>Title: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>DOI: 10.5281/zenodo.15587084</p>
+<p>Description:</p>
+<p>This dataset utilizes data from the Western Regional Climate Center <a href="https://wrcc.dri.edu/GBtransect/">https://wrcc.dri.edu/GBtransect/</a> for the Nevada Climate-ecohydrological Assessment Network (NevCAN) <a href="https://nevcan.dri.edu/">https://nevcan.dri.edu/</a> transect in the Snake Range for water years 2012-2022. The list of parameters and other metadata can be found in the README.txt.</p>
+<p>This data implements 3 levels of quality control, each level can be requested b</p>
+<p>Creators: Heggli, Anne, Strachan, Scotty, Greg, McCrudy</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Great Basin, Ecology, Meteorology, Energy Balance, Snow</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_4</p>
+<p>TITLE: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>ID: snow_4</p>
+<p>Dataset Page: https://zenodo.org/records/15576077</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15576077</p>
+<p>Title: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>DOI: 10.5281/zenodo.15576077</p>
+<p>Description: Data Documentation for Permafrost Distribution and Probability (Northeast China, 2000–2020) 1. Overview</p>
+<p>This dataset presents the spatial distribution and occurrence probability of permafrost in Northeast China from 2000 to 2020, generated using machine learning models driven by multi-source environmental and meteorological variables. The dataset includes two GeoTIFF files at 1 km spatial resolution</p>
+<p>Creators: Huang, Shuai, Jin, Huijun</p>
+<p>Publication Date: 2025-06-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_5</p>
+<p>TITLE: Ecological connectivity importance score</p>
+<p>ID: snow_5</p>
+<p>Dataset Page: https://zenodo.org/records/15564227</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15564227</p>
+<p>Title: Ecological connectivity importance score</p>
+<p>DOI: 10.5281/zenodo.15564227</p>
+<p>Description:</p>
+<p>This repository contains the input and output data associated with the GitHub repository https://github.com/vboussange/CH_connectivity_analysis/. A description of the dataset can be found on the GitHub repository readme file.</p>
+<p>Creators: Boussange, Victor, Zimmermann, Niklaus</p>
+<p>Publication Date: 2025-05-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v0.0.6</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_6</p>
+<p>TITLE: Supplementary material 7 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_6</p>
+<p>Dataset Page: https://zenodo.org/records/15560488</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560488</p>
+<p>Title: Supplementary material 7 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl7</p>
+<p>Description: List of non-native species with larval trophic groups</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_7</p>
+<p>TITLE: Supplementary material 6 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_7</p>
+<p>Dataset Page: https://zenodo.org/records/15560484</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560484</p>
+<p>Title: Supplementary material 6 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl6</p>
+<p>Description: R script</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_8</p>
+<p>TITLE: Supplementary material 5 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_8</p>
+<p>Dataset Page: https://zenodo.org/records/15560481</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560481</p>
+<p>Title: Supplementary material 5 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl5</p>
+<p>Description: Data for Fig. 5</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_9</p>
+<p>TITLE: Supplementary material 4 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_9</p>
+<p>Dataset Page: https://zenodo.org/records/15560479</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560479</p>
+<p>Title: Supplementary material 4 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl4</p>
+<p>Description: Data for Fig. 4</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_10</p>
+<p>TITLE: Supplementary material 3 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_10</p>
+<p>Dataset Page: https://zenodo.org/records/15560475</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560475</p>
+<p>Title: Supplementary material 3 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl3</p>
+<p>Description: Data for Fig. 1</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_11</p>
+<p>TITLE: Supplementary material 2 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_11</p>
+<p>Dataset Page: https://zenodo.org/records/15560473</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560473</p>
+<p>Title: Supplementary material 2 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl2</p>
+<p>Description: Families of non-native insects with larval trophic groups</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_12</p>
+<p>TITLE: Supplementary material 1 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>ID: snow_12</p>
+<p>Dataset Page: https://zenodo.org/records/15560471</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15560471</p>
+<p>Title: Supplementary material 1 from: Mally R, Turner RM, Nahrung HF, Yamanaka T, Fenn-Moltu G, Bertelsmeier C, Roques A, Brockerhoff EG, Pureswaran DS, Liebhold AM (2025) Insect invasion success depends on taxon and trophic group. NeoBiota 99: 19-43. https://doi.org/10.3897/neobiota.99.151227</p>
+<p>DOI: 10.3897/neobiota.99.151227.suppl1</p>
+<p>Description: World insect families with larval trophic groups</p>
+<p>Creators: Mally, Richard, Turner, Rebecca M., Nahrung, Helen F., Yamanaka, Takehiko, Fenn-Moltu, Gyda, Bertelsmeier, Cleo, Roques, Alain, Brockerhoff, Eckehard G., Pureswaran, Deepa S., Liebhold, Andrew M.</p>
+<p>Publication Date: 2025-05-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Brood carer, detritivore, feeding guild, herbivore, invasion disharmony, non-native species, parasite, predator</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_13</p>
+<p>TITLE: Spectral Surface Albedo Observations from NOAA GML/GRAD and CIRES during the SPLASH Campaign</p>
+<p>ID: snow_13</p>
+<p>Dataset Page: https://zenodo.org/records/15531692</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15531692</p>
+<p>Title: Spectral Surface Albedo Observations from NOAA GML/GRAD and CIRES during the SPLASH Campaign</p>
+<p>DOI: 10.5281/zenodo.15531692</p>
+<p>Description: Overview</p>
+<p>The NOAA Global Monitoring Laboratory (GML), Radiation, Aerosols, and Cloud Division (G-RAD), in collaboration with the Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder, conducted spectral surface albedo measurements at two field sites — Kettle Ponds (CKP) and Brush Creek (CBC) — as part of the NOAA Study of Precipitation, the Lower Atmosphere, and Surface for Hydrometeorology (SPLASH) campaign.&lt;</p>
+<p>Creators: Telg, Hagen, Sedlar, Joseph, Riihimaki, Laura, Soldo, Logan, Stierle, Scott, Hall, Emiel, Hodges, Gary, Lantz, Kathleen</p>
+<p>Publication Date: 2025-05-27 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_14</p>
+<p>TITLE: SDCLIREFv2</p>
+<p>ID: snow_14</p>
+<p>Dataset Page: https://zenodo.org/records/15533000</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15533000</p>
+<p>Title: SDCLIREFv2</p>
+<p>DOI: 10.5281/zenodo.15533000</p>
+<p>Description:</p>
+<p>The intensity and frequency of hydrometeorological extreme events are expected to increase due to climate change. Accurate analysis of precipitation and temperature, particularly for low-flow assessments, requires high spatial and sub-daily resolution data, which is often insufficient in density and duration. The ClimEx-II project (Climate Change and Hydrological Extreme Events 2nd Phase) focuses on understanding these changes in hydrological extremes.</p>
+<p>CRCM5-LE, a Single-Model Regional</p>
+<p>Creators: Lehr- und Forschungseinheit für physische Geographie und komplexe Umweltsysteme, Wood, Raul R.</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-sa-4.0</p>
+<p>Version: 2 Step upscaling by aggregation and projection.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_15</p>
+<p>TITLE: Contributions of the Liquid and Ice Phases to Global Surface Precipitation: Observations and Global Climate Modeling</p>
+<p>ID: snow_15</p>
+<p>Dataset Page: https://zenodo.org/records/15501159</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15501159</p>
+<p>Title: Contributions of the Liquid and Ice Phases to Global Surface Precipitation: Observations and Global Climate Modeling</p>
+<p>DOI: 10.5065/vm6a-0g11</p>
+<p>Description: This study is the first to reach a global view of the precipitation process partitioning, using a combination of satellite and global climate modeling data. The pathways investigated are (1) precipitating ice (ice/snow/graupel) that forms above the freezing level and melts to produce rain (S) followed by additional condensation and collection as the melted precipitating ice falls to the surface (R); (2) growth completely through condensation and collection (coalescence), warm rain (W); and (3) p</p>
+<p>Creators: Heymsfield, Andrew, Schmitt, Carl, Chen, Chih-Chieh-Jack, Bansemer, Aaron, Gettelman, Andrew, Field, Paul R, Liu, Chuntao</p>
+<p>Publication Date: 2020-04-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: EARTH SCIENCE &gt; ATMOSPHERE &gt; PRECIPITATION &gt; LIQUID PRECIPITATION &gt; RAIN</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_16</p>
+<p>TITLE: HOSS: Input data for the homogenisation of Swiss snow series</p>
+<p>ID: snow_16</p>
+<p>Dataset Page: https://zenodo.org/records/15386645</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15386645</p>
+<p>Title: HOSS: Input data for the homogenisation of Swiss snow series</p>
+<p>DOI: 10.5281/zenodo.15386645</p>
+<p>Description:</p>
+<p>Input data for the homogenisation of Swiss snow depth series</p>
+<p>The data consists of daily manual snow depth and height of new snow data collected from SLF and MeteoSwiss. Data is present from November to April for each hydrological year.</p>
+<p>Creators: Buchmann, Moritz, Marty, Christoph, Begert, Michael</p>
+<p>Publication Date: 2025-05-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 0.1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_17</p>
+<p>TITLE: Homogenised Swiss snow depth series</p>
+<p>ID: snow_17</p>
+<p>Dataset Page: https://zenodo.org/records/15473785</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15473785</p>
+<p>Title: Homogenised Swiss snow depth series</p>
+<p>DOI: 10.5281/zenodo.15473785</p>
+<p>Description:</p>
+<p>Output files from the break detection and subsequent homogenisation stages.</p>
+<p>Figures (mean, max, media original vs homogenised) are in plots.</p>
+<p>The batch _i directories contain the reference series for that particular homogenisation batch.</p>
+<p>The batches are explained in the technical report with is currently under revision.</p>
+<p>Homogenised series are in the combined file: ho_data.rda</p>
+<p>Creators: Buchmann, Moritz, Begert, Michael, Marty, Christoph</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 0.1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_18</p>
+<p>TITLE: GLIMS-RGI Lake-terminating glaciers: v1.0-subm</p>
+<p>ID: snow_18</p>
+<p>Dataset Page: https://zenodo.org/records/15524734</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15524734</p>
+<p>Title: GLIMS-RGI Lake-terminating glaciers: v1.0-subm</p>
+<p>DOI: 10.5281/zenodo.15524734</p>
+<p>Description: Global mapping of lake-terminating glaciers</p>
+<p>A community mapping effort to classify lake-terminating levels for RGI v7.0 glacier outlines.</p>
+<p>Creators: Steiner, Jakob, Armstrong, William, Kochtitzky, Will, McNabb, Robert, Aguayo, Rodrigo, Bolch, Tobias, Maussion, Fabien, Agarwal, Vibhor, Barr, Iestyn, Baurley, Nathaniel, Cloutier, Mike, DeWater, Katelyn, Donachie, Frank, Drocourt, Yoann, Garg, Siddhi, Joshi, Gunjan, Guzman, Byron, Kutuzov, Stanislav, Loriaux, Thomas, Mathias, Caleb, Menounos, Brian, Miles, Evan, Osika, Aleksandra, Potter, Kaleigh, Racoviteanu, Adina, Rick, Brianna, Sterner, Miles, Tallentire, Guy, Tielidze, Levan, White, Rebecca M, Wu, Kunpeng, Zheng, Whyjay</p>
+<p>Publication Date: 2025-05-27 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1.0-subm</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_19</p>
+<p>TITLE: Hydrogeological control of groundwater variations in the Congo River Basin revealed by GRACE water storage change decomposition</p>
+<p>ID: snow_19</p>
+<p>Dataset Page: https://zenodo.org/records/15512149</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15512149</p>
+<p>Title: Hydrogeological control of groundwater variations in the Congo River Basin revealed by GRACE water storage change decomposition</p>
+<p>DOI: 10.5281/zenodo.15512149</p>
+<p>Description:</p>
+<p><em>1. Summary</em></p>
+<p>The Congo basin’s Groundwater Storage Anomaly (GWSA) datasets are generated by Benjamin M. Kitambo, Sly Wongchuig, Raphael M. Tshimanga, Adrien Paris, Alejandro Blazquez, Daniel Moreira, Frederic Frappart, Ayan Santos Fleischmann, Jean-Marie O. Kileshye , Mohammad J. Tourian, Fabrice Papa in the article entitled &quot;Hydrogeological control of groundwater variations in the Congo River Basin revealed by GRACE water storage change decomposition&quot;,</p>
+<p>Creators: Kitambo, Benjamin M., Wongchuig, Sly, Tshimanga, Raphael M., Paris, Adrien, Blazquez, Alejandro, Moreira, Daniel, Frappart, Frederic, Fleischmann, Ayan Santos, Kileshye, Jean-Marie O., Tourian, Mohammad J., Papa, Fabrice</p>
+<p>Publication Date: 2025-05-25 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Congo River Basin, Groundwater storage anomaly, Hydrogeological control, Total water storage anomaly</p>
+<p>License: cc-by-4.0</p>
+<p>Version: V1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_20</p>
+<p>TITLE: Pan-Arctic weather data set from publicly available in situ measurements from 1990-2023</p>
+<p>ID: snow_20</p>
+<p>Dataset Page: https://zenodo.org/records/15388336</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15388336</p>
+<p>Title: Pan-Arctic weather data set from publicly available in situ measurements from 1990-2023</p>
+<p>DOI: 10.17894/ucph.7e5e38a5-eaa0-49d1-a8fc-77486a36d73a</p>
+<p>Description:</p>
+<p>These datasets are collected from publicly available in situ measurements of 36 ground and surface climatic variables from 16 different data sources, focusing on the period 1990-2023, but with some sources providing data much further back in time (early 1900s). The variables collected are: Air temperature, Snow depth, Precipitation, Longwave Incoming radiation, Longwave Outgoing Radiation, Shortwave Incoming Radiation, Shortwave outgoing radiation, Relative Humidity, Surface temperature (b</p>
+<p>Creators: Rasmussen, Laura Helene, Markussen, Bo, Ditlevsen, Susanne</p>
+<p>Publication Date: 2025-02-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_21</p>
+<p>TITLE: Sounding dataset for MWR publication - Simulation of wet snow during winter orographic precipitation using the Predicted Particle Properties (P3) microphysics scheme</p>
+<p>ID: snow_21</p>
+<p>Dataset Page: https://zenodo.org/records/15499777</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15499777</p>
+<p>Title: Sounding dataset for MWR publication - Simulation of wet snow during winter orographic precipitation using the Predicted Particle Properties (P3) microphysics scheme</p>
+<p>DOI: 10.5281/zenodo.15499777</p>
+<p>Description:</p>
+<p>This archive contains the atmospheric sounding measurements used in the MWR paper &quot;Simulation of wet snow during winter orographic precipitation using the Predicted Particle Properties (P3) microphysics scheme.&quot;</p>
+<p>Creators: Kim, Kwonil, LEE, GYUWON</p>
+<p>Publication Date: 2025-01-24 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_22</p>
+<p>TITLE: Standardized Labeling Guidelines and Quantitative Content Analysis of New York State Mesonet Daytime Camera Images</p>
+<p>ID: snow_22</p>
+<p>Dataset Page: https://zenodo.org/records/15482632</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15482632</p>
+<p>Title: Standardized Labeling Guidelines and Quantitative Content Analysis of New York State Mesonet Daytime Camera Images</p>
+<p>DOI: 10.5281/zenodo.15482632</p>
+<p>Description:</p>
+<p>The New York State Mesonet (NYSM, nysmesonet.org) captures and archives images every 5 minutes during the daytime from a suite of 127 surface-based cameras. The images are used to create a hand-labeled dataset of current precipitation conditions visible within the image: 1) Clear, 2) Rain, 3) Snow, or 4) Obstructed. Five Labelers (authors Horan, Wirz, Sutter, Evans, and Radford) performed a series of 2 labeling trials where reliability was assessed using the metric Krippendorff’s alpha</p>
+<p>Creators: Horan, Brian T., Sulia, Kara, Bassill, Nick P., Thorncroft, Christopher D., Sutter, Carly, Evans, Aaron, Wirz, Christopher, Radford, Jacob</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Hand-labeled Dataset, Inter-Coder Reliability, Artificial Intelligence, Trustworty Artificial Intelligence, Supervised Machine Learning Classification, Winter Precipitation</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_23</p>
+<p>TITLE: Evaluation of Atmospheric Visibility by Neural Network Using Multimodal Dataset</p>
+<p>ID: snow_23</p>
+<p>Dataset Page: https://zenodo.org/records/15494899</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15494899</p>
+<p>Title: Evaluation of Atmospheric Visibility by Neural Network Using Multimodal Dataset</p>
+<p>DOI: 10.5281/zenodo.15494899</p>
+<p>Description:</p>
+<p>Dataset contains multimodal data used for training and evaluation of deep learning models for atmospheric visibility estimation, as described in the article &quot;Estimation of Atmospheric Visibility by Deep Learning Model Using Multimodal Dataset&quot;.</p>
+<p>The dataset consists of RGB images captured by a fixed-position surveillance camera and corresponding meteorological measurements obtained from a professional meteorological station.. The data were collected over the course of one calendar year</p>
+<p>Creators: Kopecká, Jitka, Dolezel, Petr, Kopecký, Dušan, Štursa, Dominik, Rácová, Zuzana</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: deep learning; atmospheric visibility; visibility estimation; meteorological data; image processing; multimodal dataset</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_24</p>
+<p>TITLE: Model outputs for publication &#39;Thin and ephemeral snow shapes melt and runoff dynamics in the Peruvian Andes &#39;</p>
+<p>ID: snow_24</p>
+<p>Dataset Page: https://zenodo.org/records/15297284</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15297284</p>
+<p>Title: Model outputs for publication &#39;Thin and ephemeral snow shapes melt and runoff dynamics in the Peruvian Andes &#39;</p>
+<p>DOI: 10.5281/zenodo.15297284</p>
+<p>Description:</p>
+<p>These are the outputs of the TOPKAPI-ETH model associated with the publication &#39;Thin and ephemeral snow shapes melt and runoff dynamics in the Peruvian Andes&#39;.</p>
+<p>The main folders are MB_26, which contains the model outputs for the majority of the analysis, and MB_27 which contains the daily snow grids for the analysis of the snow cover only. They were produced by seperate model runs with the same set-up.</p>
+<p>These files were created by running the TOPAKPI-ETH set-up which is sav</p>
+<p>Creators: Fyffe, Catriona, Potter, Emily, Miles, Evan, Shaw, Thomas, McCarthy, Michael, Orr, Andrew, LOARTE CADENAS, EDWIN ANIBAL, Medina Marcos, Katy Damacia, Fatichi, Simone, Hellstrom, Robert, Baraer, Michel, Mateo, Emilio, Cochachin, Alejo, Westoby, Matthew, Pellicciotti, Francesca</p>
+<p>Publication Date: 2025-04-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Peru, Peruvian Andes, snow, glaciers, Rio Santa, runoff</p>
+<p>License: cc-by-4.0</p>
+<p>Version: V1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_25</p>
+<p>TITLE: Estimating changes in extreme snow load conditionally to global warming levels</p>
+<p>ID: snow_25</p>
+<p>Dataset Page: https://zenodo.org/records/15190216</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15190216</p>
+<p>Title: Estimating changes in extreme snow load conditionally to global warming levels</p>
+<p>DOI: 10.5281/zenodo.15190216</p>
+<p>Description:</p>
+<p><em>Codes.zip</em></p>
+<p>The codes process and produce the figures of the paper &quot;G. Evin, E. Le Roux, E. Kamir, and S. Morin. Estimating changes in extreme snow load in Europe as a function of global warming levels. Cold Regions Science and Technology, 231:104424, March 2025. ISSN 0165-232X. doi: 10.1016/j.coldregions.2025.104424. URL https://www.sciencedirect.com/science/article/pii/S0165232X25000072&quot;. The results shown in this study rely on the annual maxima of</p>
+<p>Creators: Evin, Guillaume, Morin, Samuel, Samacoïts, Raphaëlle, Kamir, Elisa</p>
+<p>Publication Date: 2025-04-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_26</p>
+<p>TITLE: Thawing Mountains Project - remote sensing of snow cover</p>
+<p>ID: snow_26</p>
+<p>Dataset Page: https://zenodo.org/records/15478157</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15478157</p>
+<p>Title: Thawing Mountains Project - remote sensing of snow cover</p>
+<p>DOI: 10.5281/zenodo.15478157</p>
+<p>Description:</p>
+<p>Extent of snow cover from remote sensing</p>
+<p>Creators: Vandecrux, Baptiste</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_27</p>
+<p>TITLE: Snow-Induced Perturbations in Nitrous Acid (HONO) Levels: Insights into Heterogeneous Reactions During Wintertime in Mid-Latitude Regions</p>
+<p>ID: snow_27</p>
+<p>Dataset Page: https://zenodo.org/records/15473255</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15473255</p>
+<p>Title: Snow-Induced Perturbations in Nitrous Acid (HONO) Levels: Insights into Heterogeneous Reactions During Wintertime in Mid-Latitude Regions</p>
+<p>DOI: 10.5281/zenodo.15473255</p>
+<p>Description:</p>
+<ol>
+<li>
+<p>Variations in HONO, PM2.5, NO2, and HONO/NO2 concentrations data</p>
+</li>
+<li>
+<p>Daily Pun variation data</p>
+</li>
+<li>
+<p>Time series data of pollutants</p>
+</li>
+</ol>
+<p>Creators: Cheng, peng, Ma, WenBin</p>
+<p>Publication Date: 2024-10-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_28</p>
+<p>TITLE: Supplementary material for: &quot;LiDAR-derived high resolution vegetation structure and selection patterns of the Common Nightingale (Luscinia megarhynchos) in riparian habitats&quot;</p>
+<p>ID: snow_28</p>
+<p>Dataset Page: https://zenodo.org/records/15409534</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15409534</p>
+<p>Title: Supplementary material for: &quot;LiDAR-derived high resolution vegetation structure and selection patterns of the Common Nightingale (Luscinia megarhynchos) in riparian habitats&quot;</p>
+<p>DOI: 10.5281/zenodo.15409534</p>
+<p>Description:</p>
+<p><em>Abstract</em></p>
+<p>Human-induced alterations in natural water flow have seriously impaired the integrity of riverine ecosystems. Nonetheless, even in human-altered riverine and adjacent terrestrial habitats, there is considerable potential for the protection of rare species if management practices prioritize biodiversity conservation. However, the management of such areas often presents complex challenges. On the one hand, efforts to mitigate na</p>
+<p>Creators: Pradervand, Jean-Nicolas, Zellweger, Florian, Gremion, Jérémy, Parisod, Aristide, Posse, Bertrand, Revaz, Emmanuel, Jacot, Alain</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: LiDAR, Riparian habitat, Nightingale, Habitat preference</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_29</p>
+<p>TITLE: Natural history specimens collected and/or identified and deposited.</p>
+<p>ID: snow_29</p>
+<p>Dataset Page: https://zenodo.org/records/15468054</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15468054</p>
+<p>Title: Natural history specimens collected and/or identified and deposited.</p>
+<p>DOI: 10.5281/zenodo.15468054</p>
+<p>Description: Natural history specimen data collected and/or identified by Francis Huntington Snow, http://www.wikidata.org/entity/Q15462285. Claims or attributions were made on Bionomia, https://bionomia.net using specimen data from the Global Biodiversity Information Facility, https://gbif.org.</p>
+<p>Creators: Francis Huntington Snow</p>
+<p>Publication Date: 2025-05-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: specimen, natural history, taxonomy</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_30</p>
+<p>TITLE: Data from: Normalized tree water deficit: An automated dendrometer signal to quantify drought stress in trees</p>
+<p>ID: snow_30</p>
+<p>Dataset Page: https://zenodo.org/records/15463588</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15463588</p>
+<p>Title: Data from: Normalized tree water deficit: An automated dendrometer signal to quantify drought stress in trees</p>
+<p>DOI: 10.5281/zenodo.15463588</p>
+<p>Description:</p>
+<p>This dataset accompanies the manuscript <em>&quot;A normalized dendrometer-based index to detect drought stress across temperate tree species&quot;</em>. The study addresses a central challenge in tree ecophysiology: identifying the timing and intensity of drought stress in mature trees using continuous, non-invasive measurements. Trees regularly experience periods of low soil water availability and high atmospheric demand, which can impair physiological processes such as stomatal conductance, lea</p>
+<p>Creators: Peters, Richard L., Basler, David, Zweifel, Roman, Steger, David N., Zhorzel, Tobias, Zahnd, Cedric, Hoch, Günter, Kahmen, Ansgar</p>
+<p>Publication Date: 2025-05-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Point dendrometer, Temperate forests, Tree water deficit, Maximum daily shrinkage, Stomatal conductance, Turgor loss point</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_31</p>
+<p>TITLE: A West Antarctic grounding zone environment shaped by episodic water flow</p>
+<p>ID: snow_31</p>
+<p>Dataset Page: https://zenodo.org/records/14942664</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14942664</p>
+<p>Title: A West Antarctic grounding zone environment shaped by episodic water flow</p>
+<p>DOI: 10.5281/zenodo.14942664</p>
+<p>Description:</p>
+<p>These data support the following publication: https://doi.org/10.1038/s41561-025-01687-3</p>
+<p>Creators: Horgan, Huw, Stewart, Craig, Werder, Mauro, Stevens, Craig, Sauthoff, Wilson, Washam, Peter, Siegfried, Matthew, Schmidt, Britney Elyce</p>
+<p>Publication Date: 2025-02-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_32</p>
+<p>TITLE: Table 2 in Moss flora of the Ust-Nera region in the upper course of Indigirka River, East Yakutia</p>
+<p>ID: snow_32</p>
+<p>Dataset Page: https://zenodo.org/records/15441891</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15441891</p>
+<p>Title: Table 2 in Moss flora of the Ust-Nera region in the upper course of Indigirka River, East Yakutia</p>
+<p>DOI: 10.5281/zenodo.15441891</p>
+<p>Description:</p>
+<p>Table 2. Meteorological data for Ust-Nera and neighboring meteostations for 1987–1990 (Meteorological annual, 1987-1990).</p>
+<p>Meteostations t ann t max t min t January t July Annual precipitation, mm Days with snow cover Maximal depth of snow cover, cm</p>
+<p>Ust-Nera –14.6 33.9 –57.3 –48.6 16.9 230.0 213&lt;</p>
+<p>Creators: Ivanova, Elena I., Ignatova, Elena A., Isakova, Vera G., Balakirev, Ilya A., Kuznetsova, Oxana I., Ignatov, Michael S.</p>
+<p>Publication Date: 2018-12-31 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: notspecified</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_33</p>
+<p>TITLE: DebDaB: A database of supraglacial debris thickness and physical properties</p>
+<p>ID: snow_33</p>
+<p>Dataset Page: https://zenodo.org/records/15441000</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15441000</p>
+<p>Title: DebDaB: A database of supraglacial debris thickness and physical properties</p>
+<p>DOI: 10.5281/zenodo.15441000</p>
+<p>Description:</p>
+<p><em>DebDaB: A database of supraglacial debris thickness and physical properties</em></p>
+<p>DebdaB is a database of measured and reported physical properties and thickness of supraglacial debris that is openly available and open to community submissions.</p>
+<p>The majority of the database (90%) is compiled from 172 sources in the literature, and the remaining 10% has not been published before. DebDaB contains 8,286 data entries for supraglacial debris thickness, of which 1,852 entrie</p>
+<p>Creators: Groeneveld, Lars, Fontrodona-Bach, Adrià, Miles, Evan, McCarthy, Michael, Melo Velasco, Vicente, Shaw, Thomas, Buri, Pascal, Petersen, Lene, Mishra, Aditya, Pellicciotti, Francesca</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: glaciers, debris properties, debris-covered glaciers, debris thickness, thermal conductivity, surface roughness, emissivity, porosity, albedo</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v2</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_34</p>
+<p>TITLE: Physioclimatic clusters of Austria</p>
+<p>ID: snow_34</p>
+<p>Dataset Page: https://zenodo.org/records/15430371</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15430371</p>
+<p>Title: Physioclimatic clusters of Austria</p>
+<p>DOI: 10.5281/zenodo.15430371</p>
+<p>Description:</p>
+<p><em>physioclimatic_features_grid_AT_average_1992-2021.nc</em></p>
+<p>A netcdf dataset on a 1 km grid covering Austria and it&#39;s associated catchment areas. The spatial dimensions are 329 by 584 gridpoints in the projection ETRS89 / Austria Lambert (EPSG:3416 <a href="https://epsg.io/3416">https://epsg.io/3416</a>). The data consist of 176 different climatological and geomorphometric indices, which are calculated for each gridpoint and then averaged across the climatological normal 01-01-1992 to 3</p>
+<p>Creators: Lehner, Sebastian, Enigl, Katharina, Schlögl, Matthias</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: climatology, climate indices, geomorphometric indices, physioclimatic clusters</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_35</p>
+<p>TITLE: High Resolution Melt Electro-Written Scaffolds Promote Alignment of Human Skeletal Muscle Cells</p>
+<p>ID: snow_35</p>
+<p>Dataset Page: https://zenodo.org/records/15400298</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15400298</p>
+<p>Title: High Resolution Melt Electro-Written Scaffolds Promote Alignment of Human Skeletal Muscle Cells</p>
+<p>DOI: 10.5281/zenodo.15400298</p>
+<p>Description: No Description</p>
+<p>Creators: Snow, Finn</p>
+<p>Publication Date: 2025-05-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_36</p>
+<p>TITLE: Code and Data for: Calving-driven fjord dynamics resolved by seafloor fiber sensing</p>
+<p>ID: snow_36</p>
+<p>Dataset Page: https://zenodo.org/records/15353304</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15353304</p>
+<p>Title: Code and Data for: Calving-driven fjord dynamics resolved by seafloor fiber sensing</p>
+<p>DOI: 10.5281/zenodo.15353304</p>
+<p>Description:</p>
+<p>This repository supports the study <em>“Calving-driven fjord dynamics resolved by seafloor fiber sensing”</em> (Gräff et al., 2025) and contains data and code for figure generation and analysis. It includes Distributed Acoustic Sensing (DAS) and Distributed Temperature Sensing (DTS) data collected via a seafloor fiber-optic cable along the calving front of Eqalorutsit Kangilliit Sermiat (Qajuuttap Sermia), as well as conductivity-temperature-depth (CTD) profiles, terrestrial</p>
+<p>Creators: Gräff, Dominik, Lipovsky, Bradley, Vieli, Andreas, Dachauer, Armin, Jackson, Rebecca H., Farinotti, Daniel, Schmale, Julia, Ampuero, Jean Paul, Eric, Berg, Dannowski, Anke, Kneib-Walter, Andrea, Köpfli, Manuela, Kopp, Heidrun, van der Loo, Enrico, Mata Flores, Daniel, Mercerat, Diego, Moser, Raphael, Sladen, Anthony, Walter, Fabian, Diego, Wasser, Welty, Ethan, Wetter, Selina, Williams, Ethan</p>
+<p>Publication Date: 2025-05-06 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: ice-ocean interactions, fiber-optic sensing</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_37</p>
+<p>TITLE: Dataset for Snow Transport Modeling in the Northern Wind River Range</p>
+<p>ID: snow_37</p>
+<p>Dataset Page: https://zenodo.org/records/15381404</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15381404</p>
+<p>Title: Dataset for Snow Transport Modeling in the Northern Wind River Range</p>
+<p>DOI: 10.5281/zenodo.15381404</p>
+<p>Description:</p>
+<p>This dataset includes materials related to research on snow transport distances in alpine terrain. The project used a simple process-based snow model (modified version of DHSVM snow sub-model) and a differentiable network to constrain the minimum transport distances and source areas required to explain deep snow accumulation zones assuming a relatively smoother snowfall pattern.</p>
+<p>This dataset includes:</p>
+<ol>
+<li>
+<p>Scripts for processing workflow and figure generation</p>
+</li>
+<li>
+<p>Spatial i</p>
+</li>
+</ol>
+<p>Creators: Boardman, Elijah</p>
+<p>Publication Date: 2025-05-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-nc-nd-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_38</p>
+<p>TITLE: Monthly gridded summer Arctic sea ice thickness from ICESat-2, v1</p>
+<p>ID: snow_38</p>
+<p>Dataset Page: https://zenodo.org/records/15375597</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15375597</p>
+<p>Title: Monthly gridded summer Arctic sea ice thickness from ICESat-2, v1</p>
+<p>DOI: 10.5281/zenodo.15375597</p>
+<p>Description:</p>
+<p>Monthly gridded summer Arctic sea ice thickness from ICESat-2. Produced by combining Release 006 ATL10 freeboards with SnowModel-LG snow loading, processed as in the IS2SITMOGR4 winter Arctic thickness dataset (https://nsidc.org/data/IS2SITMOGR4). Associated paper is currently under review in Journal of Glaciology.</p>
+<p>May through August, 2019 (July 2019 missing due to ICESat-2 safehold/pointing issues)</p>
+<p>May through August, 2020</p>
+<p>Creators: Petty, Alek</p>
+<p>Publication Date: 2025-05-09 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: sea ice</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_39</p>
+<p>TITLE: Lidar-derived Grain Size: Place Glacier (2021-05-15)</p>
+<p>ID: snow_39</p>
+<p>Dataset Page: https://zenodo.org/records/15367907</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15367907</p>
+<p>Title: Lidar-derived Grain Size: Place Glacier (2021-05-15)</p>
+<p>DOI: 10.5281/zenodo.15367907</p>
+<p>Description:</p>
+<p>This lidar dataset originates from the Airborne Coastal Observatory (ACO), an airborne remote sensing platform operated by the Hakai Institute and the University of Northern British Columbia. Data were collected using a Riegl Q780 lidar (1064 nm; 60° scan angle). The flight area selected for this study encompasses Place Glacier in British Columbia, Canada (50.42°N, 123.60°W) a predominantly north facing glacier with an elevation that ra</p>
+<p>Creators: Airborne Coastal Observatory (ACO)</p>
+<p>Publication Date: 2025-05-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_40</p>
+<p>TITLE: TreeAI Global Initiative - Advancing tree species identification from aerial images with deep learning</p>
+<p>ID: snow_40</p>
+<p>Dataset Page: https://zenodo.org/records/15351054</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15351054</p>
+<p>Title: TreeAI Global Initiative - Advancing tree species identification from aerial images with deep learning</p>
+<p>DOI: 10.5281/zenodo.15351054</p>
+<p>Description: <em>TreeAI - Advancing Tree Species Identification from Aerial Images with Deep Learning</em></p>
+<p>Data Structure for the TreeAI Database Used in the TreeAI4Species Competition</p>
+<p>The dataset is organized into two distinct challenges: Object Detection and Semantic Segmentation. Below is a more detailed description of the data for each challenge:</p>
+<p>Object detection</p>
+<p>The data are in the COCO format, each folder contains training and valida</p>
+<p>Creators: Beloiu Schwenke, Mirela, Xia, Zhongyu, Novoselova, Iaroslava, Gessler, Arthur, Kattenborn, Teja, Mosig, Clemens, Puliti, Stefano, Waser, Lars, Rehush, Nataliia, Cheng, Yan, Xinliang, Liang, Griess, Verena C., Mokroš, Martin</p>
+<p>Publication Date: 2025-05-07 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-nc-nd-4.0</p>
+<p>Version: TreeAI.V1.2</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_41</p>
+<p>TITLE: Global Amusement Park Market 2025 To 2034</p>
+<p>ID: snow_41</p>
+<p>Dataset Page: https://zenodo.org/records/15340644</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15340644</p>
+<p>Title: Global Amusement Park Market 2025 To 2034</p>
+<p>DOI: 10.5281/zenodo.15340644</p>
+<p>Description:</p>
+<p>Amusement Park Market Size, Trends and Insights By Type (Theme Park, Water Park, Others (Family Entertainment Centers, Children&#39;s Parks, Snow Park)), By Audience (Below 15, 15 - 30, 31 - 40, 41 - 55, Above 56), By Ticket Revenue (Tickets, Non-tickets), By Group Category (Group, Non-group), and By Region - Global Industry Overview, Statistical Data, Competitive Analysis, Share, Outlook, and Forecast 2025–2034.</p>
+<p><em>Reports Description</em></p>
+<p>As per the , where we explore the ability of lumped and semi-distributed estimates of the day of snow onset and disappearance to forecast April through July total streamflow volume (i.e., seasonal water supply).</p>
+<p>Gridded data is calculated from the UCLA Western U.S. Snow Reanalysis</p>
+<p>Creators: Bishay, Kaitlyn, Livneh, Ben</p>
+<p>Publication Date: 2025-04-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: gpl-3.0-or-later</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_46</p>
+<p>TITLE: Precipitation-Corrected Surface Radiation Components in the Arctic Polar Urals from CNR4 Radiometer Measurements</p>
+<p>ID: snow_46</p>
+<p>Dataset Page: https://zenodo.org/records/15083964</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15083964</p>
+<p>Title: Precipitation-Corrected Surface Radiation Components in the Arctic Polar Urals from CNR4 Radiometer Measurements</p>
+<p>DOI: 10.5281/zenodo.15083964</p>
+<p>Description:</p>
+<p>This repository provides reconstructed radiation data from CNR4 radiometers, originally affected by precipitation events (rain or snow). The reconstruction process aims to correct corrupted radiation values and ensure data quality for long-term environmental monitoring.</p>
+<p>The dataset covers three main sites in the Polar Urals region (66°48’-66°53’N, 65°33’-66°45’E): ENGAYU, LPTEG, and RAI_IZ. Each site includes multiple plots, classified by dominan</p>
+<p>Creators: Kim, Taeho, Ivanov, Valeriy</p>
+<p>Publication Date: 2025-04-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Arctic, Net Radiation, Radiometer, Polar Urals, Tundra, Arctic greening, Precipitation effects, Data reconstruction, Forest-tundra Ecotone</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_47</p>
+<p>TITLE: Precipitation of totalizer gauges in Wägital catchment, status 2025-04-28</p>
+<p>ID: snow_47</p>
+<p>Dataset Page: https://zenodo.org/records/15296612</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15296612</p>
+<p>Title: Precipitation of totalizer gauges in Wägital catchment, status 2025-04-28</p>
+<p>DOI: 10.5281/zenodo.15296612</p>
+<p>Description:</p>
+<p>Precipitation [mm] of totalizer gauges in Wägital catchment, Switzerland, for the hydrological year, measured in half-year resolution.</p>
+<p>This dataset includes the following stations:</p>
+<p>3336  Seeende            711949/213958  [8.91248°E/47.06718°N]   905masl  1926-2024</p>
+<p>3338  Blattli/Oberhof    713212/216463  [8.92973°E/47.08949°N]</p>
+<p>Creators: Lorenzi, Daniela, Rohrer, Mario, Schwarb, Manfred, Steinegger, Urs, Nötzli, Christian, Schauwecker, Simone, Siegenthaler, Hans</p>
+<p>Publication Date: 2025-04-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_48</p>
+<p>TITLE: INP data at Gruvebadet observatory (Ny-Ålesund) by the Dynamic Filter Processing Chamber (DFPC) in the period 2018-2020</p>
+<p>ID: snow_48</p>
+<p>Dataset Page: https://zenodo.org/records/15188457</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15188457</p>
+<p>Title: INP data at Gruvebadet observatory (Ny-Ålesund) by the Dynamic Filter Processing Chamber (DFPC) in the period 2018-2020</p>
+<p>DOI: 10.5281/zenodo.15188457</p>
+<p>Description:</p>
+<p>This database contains data of Ice Nucleating Particle (INP) atmospheric concentration, in the PM1 and PM10 size range, and of Activated Fraction (AF), i.e., the number of INP scaled over the total aerosol particle concentration in the 0.1-10µm size range.</p>
+<p>Aerosol sampling was performed at GVB observatory, located in proximity to the village of Ny-Ålesund (78°55’ N, 11°56’ E) on Spitsbergen, Svalbard Islands. Aerosol sampling occurred during six intensiv</p>
+<p>Creators: Rinaldi, Matteo, Alessia, Nicosia, Marco, Paglione, Karam, Mansour, Franco, Belosi</p>
+<p>Publication Date: 2025-04-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: INP</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_49</p>
+<p>TITLE: SnowModel at 100 m resolution in the Upper Colorado River Basin for 2000 - 2021</p>
+<p>ID: snow_49</p>
+<p>Dataset Page: https://zenodo.org/records/15261609</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15261609</p>
+<p>Title: SnowModel at 100 m resolution in the Upper Colorado River Basin for 2000 - 2021</p>
+<p>DOI: 10.5281/zenodo.15261609</p>
+<p>Description:</p>
+<p>Output from the SnowModel modeling system, run in parallel at 100 m resolution over CONUS, clipped to the extent of the Upper Colorado River Basin, for 1 April 2000 - 2021. See Liston et al., 2006 for more information about SnowModel. See Mower et al., 2024 for more information about running SnowModel in parallel.</p>
+<p>Creators: Mower, Ross</p>
+<p>Publication Date: 2025-04-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: snow, SnowModel, hydrology, SWE, parallel, model</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_50</p>
+<p>TITLE: SnowEx23 Mar23 IOP Community Snow Depth Measurements, Version 1</p>
+<p>ID: snow_50</p>
+<p>Dataset Page: https://zenodo.org/records/15284684</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15284684</p>
+<p>Title: SnowEx23 Mar23 IOP Community Snow Depth Measurements, Version 1</p>
+<p>DOI: 10.5067/6QD3UJVABY6D</p>
+<p>Description:</p>
+<p>This dataset was originally published by NASA National Snow and Ice Data Center Distributed Active Archive Center, Boulder, Colorado USA, (https://nsidc.org/data/snex23_mar23_sd/versions/1). To promote reuse of the data, we described snow depth measurements and technical validation of this dataset in peer-reviewed article entitled &quot;Snow depth measurements from Arctic tundra and boreal forest collected during NASA SnowEx Alaska campaign&quot; by Stuefer S.L., Hale K., May L.D, Mason M., Vuyovich C.</p>
+<p>Creators: Stuefer, Svetlana, May, Lora, Bailey, Joel, Vas, Dragos, Mason, Megan, Hale, Katherine, Marshall, Hans-Peter, Vuyovich, Carrie, Elder, Kelly, SnowEx Alaska, March 2023 Team</p>
+<p>Publication Date: 2025-04-25 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_51</p>
+<p>TITLE: Atmospheric Surface Flux Station #50 measurements (level 2 Processed), Study of Precipitation, the Lower Atmosphere and Surface for Hydrometeorology (SPLASH), October 2021-June 2023</p>
+<p>ID: snow_51</p>
+<p>Dataset Page: https://zenodo.org/records/15283524</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15283524</p>
+<p>Title: Atmospheric Surface Flux Station #50 measurements (level 2 Processed), Study of Precipitation, the Lower Atmosphere and Surface for Hydrometeorology (SPLASH), October 2021-June 2023</p>
+<p>DOI: 10.5281/zenodo.15283524</p>
+<p>Description:</p>
+<p>Processed (Level 2) measurements and derived variables from the Atmospheric Surface Flux Station #50 (ASFS-50) deployed at the Avery Picnic site (38°58.3455&#39; N, 106°59.8113&#39; W) during the Study of Precipitation, the Lower Atmosphere, and Surface for Hydrometeorology (SPLASH) campaign near Gothic, Colorado, from October 2021 through June 2023. The ASFS measured variables of the surface energy budget, momentum flux, near-surface meteorology, and soil properties. Measurements of high-res</p>
+<p>Creators: Cox, Christopher, Gallagher, Michael, Intrieri, Janet, Butterworth, Brian, Meyers, Tilden, Persson, Ola</p>
+<p>Publication Date: 2025-04-25 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_52</p>
+<p>TITLE: Atmospheric Surface Flux Station #30 measurements (level 2 Processed), Study of Precipitation, the Lower Atmosphere and Surface for Hydrometeorology (SPLASH), September 2021-July 2023</p>
+<p>ID: snow_52</p>
+<p>Dataset Page: https://zenodo.org/records/14641866</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14641866</p>
+<p>Title: Atmospheric Surface Flux Station #30 measurements (level 2 Processed), Study of Precipitation, the Lower Atmosphere and Surface for Hydrometeorology (SPLASH), September 2021-July 2023</p>
+<p>DOI: 10.5281/zenodo.14641866</p>
+<p>Description:</p>
+<p>Processed (Level 2) measurements and derived variables from the Atmospheric Surface Flux Station #30 (ASFS-30) deployed at the Kettle Ponds Annex site (38°56.3686&#39; N, 106°58.1781&#39; W) during the Study of Precipitation, the Lower Atmosphere, and Surface for Hydrometeorology (SPLASH) campaign near Gothic, Colorado, from September 2021 through July 2023. The ASFS measured variables of the surface energy budget, momentum flux, near-surface meteorology, and soil properties. Measurements of</p>
+<p>Creators: Cox, Christopher, Gallagher, Michael, Intrieri, Janet, Butterworth, Brian, Meyers, Tilden, Persson, Ola</p>
+<p>Publication Date: 2025-04-25 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_53</p>
+<p>TITLE: Snow melt out day in the French Alps and Pyrenees from SPOT, Landsat and Sentinel-2 data</p>
+<p>ID: snow_53</p>
+<p>Dataset Page: https://zenodo.org/records/15278242</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15278242</p>
+<p>Title: Snow melt out day in the French Alps and Pyrenees from SPOT, Landsat and Sentinel-2 data</p>
+<p>DOI: 10.5281/zenodo.15278242</p>
+<p>Description:</p>
+<p>This is the accompagnying dataset of the manuscript &quot;Trends in the annual snow melt-out day over the French Alps and the Pyrenees from 38 years of high resolution satellite data (1986-2023)&quot; submitted to The Cryosphere by Zacharie Barrou Dumont, Simon Gascoin, Jordi Inglada, Andreas Dietz, Jonas Köhler, Matthieu Lafaysse, Diego Monteiro, Carlo Carmagnola, Arthur Bayle, Jean-Pierre Dedieu, Olivier Hagolle, and Philippe Choler [1].</p>
+<p>The dataset contains the annual snow melt out day (</p>
+<p>Creators: Barrou Dumont, Zacharie, Gascoin, Simon</p>
+<p>Publication Date: 2025</p>
+<p>Access: open</p>
+<p>Keywords: snow</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_54</p>
+<p>TITLE: AVATAR-Soils Database: A Database of 137Cs and 239+240Pu in Equatorial and Southern Hemisphere Reference Soils</p>
+<p>ID: snow_54</p>
+<p>Dataset Page: https://zenodo.org/records/14871437</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14871437</p>
+<p>Title: AVATAR-Soils Database: A Database of 137Cs and 239+240Pu in Equatorial and Southern Hemisphere Reference Soils</p>
+<p>DOI: 10.5281/zenodo.14871437</p>
+<p>Description:</p>
+<p>A total of 1122 reference soil profiles with 137Cs and 239+240Pu data from 135 publications were included to build a database under the AVATAR Project (“A reVised dATing framework for quantifying geomorphological processes during the AnthRopocene”), with a focus on compiling available data from the Equatorial and Southern Hemisphere regions. The AVATAR-Soils Database covers parts of the continents of Asia and the Sub-Saharan Africa, and the whole of Oceania a</p>
+<p>Creators: Dicen, Gerald, Guillevic, Floriane, Gupta, Surya, CHABOCHE, Pierre-Alexis, Meusburger, Katrin, Sabatier, Pierre, Evrard, Olivier, Alewell, Christine</p>
+<p>Publication Date: 2025-04-24 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_55</p>
+<p>TITLE: CAMELSH/ERA5-Land (3): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>ID: snow_55</p>
+<p>Dataset Page: https://zenodo.org/records/15264840</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15264840</p>
+<p>Title: CAMELSH/ERA5-Land (3): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>DOI: 10.5281/zenodo.15264840</p>
+<p>Description:</p>
+<p><em>CAMELSH: ERA5-Land Hourly Forcing Dataset</em> is an extension of the CAMELSH (Catchment Attributes and Hourly HydroMeteorology for Large-Sample Studies) framework, representing the first hourly large-sample hydrometeorological dataset developed for the contiguous United States (CONUS). This dataset comprises hourly meteorological variables derived from the ERA5-Land reanalysis product, aggregated across 9,008 hydrologic basins.</p>
+<p>The current version spans 46 years (1980&amp;ndas</p>
+<p>Creators: Kim, TaeHo, Tran, Vinh Ngoc, Ivanov, Valeriy</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: CAMELSH, ERA5-Land, Hourly, Meteorology, Water</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_56</p>
+<p>TITLE: CAMELSH/ERA5-Land (2): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>ID: snow_56</p>
+<p>Dataset Page: https://zenodo.org/records/15264814</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15264814</p>
+<p>Title: CAMELSH/ERA5-Land (2): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>DOI: 10.5281/zenodo.15264814</p>
+<p>Description:</p>
+<p><em>CAMELSH: ERA5-Land Hourly Forcing Dataset</em> is an extension of the CAMELSH (Catchment Attributes and Hourly HydroMeteorology for Large-Sample Studies) framework, representing the first hourly large-sample hydrometeorological dataset developed for the contiguous United States (CONUS). This dataset comprises hourly meteorological variables derived from the ERA5-Land reanalysis product, aggregated across 9,008 hydrologic basins.</p>
+<p>The current version spans 46 years (1980&amp;ndas</p>
+<p>Creators: Kim, TaeHo, Tran, Vinh Ngoc, Ivanov, Valeriy</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: CAMELSH, ERA5-Land, Hourly, Meteorology, Water</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_57</p>
+<p>TITLE: CAMELSH/ERA5-Land (1): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>ID: snow_57</p>
+<p>Dataset Page: https://zenodo.org/records/15264376</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15264376</p>
+<p>Title: CAMELSH/ERA5-Land (1): A Large-Sample Hourly Hydrometeorological Dataset and Attributes at Watershed-Scale for Contiguous United States</p>
+<p>DOI: 10.5281/zenodo.15264376</p>
+<p>Description:</p>
+<p><em>CAMELSH: ERA5-Land Hourly Forcing Dataset</em> is an extension of the CAMELSH (Catchment Attributes and Hourly HydroMeteorology for Large-Sample Studies) framework, representing the first hourly large-sample hydrometeorological dataset developed for the contiguous United States (CONUS). This dataset comprises hourly meteorological variables derived from the ERA5-Land reanalysis product, aggregated across 9,008 hydrologic basins.</p>
+<p>The current version spans 46 years (1980&amp;ndas</p>
+<p>Creators: Kim, TaeHo, Tran, Vinh Ngoc, Ivanov, Valeriy</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: CAMELSH, ERA5-Land, Hourly, Meteorology, Water</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_58</p>
+<p>TITLE: Northern Hemisphere historical in-situ Snow Water Equivalent dataset (NorSWE, 1979-2021)</p>
+<p>ID: snow_58</p>
+<p>Dataset Page: https://zenodo.org/records/15263370</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15263370</p>
+<p>Title: Northern Hemisphere historical in-situ Snow Water Equivalent dataset (NorSWE, 1979-2021)</p>
+<p>DOI: 10.5281/zenodo.15263370</p>
+<p>Description:</p>
+<p><em>Description</em> (in English, French follows)</p>
+<p>The Northern Hemisphere historical in situ snow water equivalent dataset (NorSWE) includes snow water equivalent (SWE, or water equivalent of snow cover by WMO, 2018) observations from manual snow surveys, snow pillows, automated passive gamma radiation sensors (GMON), and from airborne passive gamma radiation surveys for the period 1979-2021 compiled from nine different sources covering North America, Russia, Finland, Norway an</p>
+<p>Creators: Mortimer, Colleen, Vionnet, Vincent</p>
+<p>Publication Date: 2025-04-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Snow, Snow Water Equivalent, Snow Depth, Bulk Snow Density, Cryosphere, Hydrology</p>
+<p>License: No License</p>
+<p>Version: v3.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_59</p>
+<p>TITLE: Kitchener Avalanche Path landscape change data</p>
+<p>ID: snow_59</p>
+<p>Dataset Page: https://zenodo.org/records/15233462</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15233462</p>
+<p>Title: Kitchener Avalanche Path landscape change data</p>
+<p>DOI: 10.5281/zenodo.15233462</p>
+<p>Description:</p>
+<p>The data package contains the following data for use in a GIS:</p>
+<ol>
+<li>A 0.5m digital surface model (DSM) derived from a UAV-lidar survey covering the Kitchener Avalanche Path, Aoraki/Mount Cook National Park, New Zealand, captured on 30 November 2023. This survey captured the condition of the path following the melting of snow avalanche debris deposited during the July 2022 avalanche cycle rain runoff. Produced as .TIFF with elevation values relative to height above ellipsoid (HAE) in t</li>
+</ol>
+<p>Creators: Sheppard, David, Miller, Aubrey, Sirguey, Pascal</p>
+<p>Publication Date: 2025-04-17 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: UAV, lidar, survey, Kitchener</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_60</p>
+<p>TITLE: Data in Support of Manuscript: Tree Invasions of Subarctic Shrublands Interact with Locally Augmented Snow and Functional Soil Depths: A Case Study in Denali National Park</p>
+<p>ID: snow_60</p>
+<p>Dataset Page: https://zenodo.org/records/15263437</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15263437</p>
+<p>Title: Data in Support of Manuscript: Tree Invasions of Subarctic Shrublands Interact with Locally Augmented Snow and Functional Soil Depths: A Case Study in Denali National Park</p>
+<p>DOI: 10.5281/zenodo.15263437</p>
+<p>Description:</p>
+<p>This dataset contains four winter and three summer field seasons of snow depth, LAI, functional soil depth, overstory height, understory height, seedling counts, and poplar basal area observations conducted 18 sites from March 2021 to August 2024 in Denali National Park, Alaska.</p>
+<p>Creators: Albrigtsen, Johanne O.</p>
+<p>Publication Date: 2025-04-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_61</p>
+<p>TITLE: Geospatial and time series dataset for hydrologic analyses within South Asia (GHSA)</p>
+<p>ID: snow_61</p>
+<p>Dataset Page: https://zenodo.org/records/15258773</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15258773</p>
+<p>Title: Geospatial and time series dataset for hydrologic analyses within South Asia (GHSA)</p>
+<p>DOI: 10.5281/zenodo.15258773</p>
+<p>Description:</p>
+<p>Summary of changes:</p>
+<ul>
+<li>
+<p>v2504, GHSA</p>
+</li>
+<li>
+<p>1,702 stations from 5 countries in South Asia (Bhutan, China, India, Nepal and Pakistan);</p>
+</li>
+<li>
+<p>districts and basin states from 7 countries in South Asia (Afghanistan, Bangladesh, Bhutan, China, India, Nepal and Pakistan)</p>
+</li>
+<li>
+<p>land use change, vegetation index (NDVI, NDVI-crop), precipitation, evaporation (E-total, E-crop and E-irrigation), streamflow, surface and root zone soil moisture, terrestrial water storage change, snow water</p>
+</li>
+</ul>
+<p>Creators: Goteti, Gopi</p>
+<p>Publication Date: 2025-04-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: India, hydrology, river gauges, catchment boundaries, river network, precipitation, streamflow</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_62</p>
+<p>TITLE: Quantitative Content Analysis Data for Hand Labeling Road Surface Conditions in New York State Department of Transportation Camera Images</p>
+<p>ID: snow_62</p>
+<p>Dataset Page: https://zenodo.org/records/15257486</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15257486</p>
+<p>Title: Quantitative Content Analysis Data for Hand Labeling Road Surface Conditions in New York State Department of Transportation Camera Images</p>
+<p>DOI: 10.5281/zenodo.15257486</p>
+<p>Description:</p>
+<p>*Foundational Codebook and Data: *</p>
+<p>Traffic camera images from the New York State Department of Transportation (511ny.org) are used to create a hand-labeled dataset of images classified into to one of six road surface conditions: 1) severe snow, 2) snow, 3) wet, 4) dry, 5) poor visibility, or 6) obstructed. Six labelers (authors Sutter, Wirz, Przybylo, Cains, Radford, and Evans) went through a series of four labeling trials where reliability across all six labelers w</p>
+<p>Creators: Sutter, Carly, Sulia, Kara, Bassill, Nick P., Thorncroft, Christopher D., Wirz, Christopher D., Przybylo, Vanessa, Cains, Mariana G., Radford, Jacob, Evans, David Aaron</p>
+<p>Publication Date: 2025-04-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: hand-labeled dataset, supervised machine learning, winter travel advisory, inter-coder reliability, risk communication, artificial intelligence, social science, inter-disciplinary</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_63</p>
+<p>TITLE: Streamflow datasets from the high-resolution, multiscale, differentiable HBV hydrologic models</p>
+<p>ID: snow_63</p>
+<p>Dataset Page: https://zenodo.org/records/15040018</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15040018</p>
+<p>Title: Streamflow datasets from the high-resolution, multiscale, differentiable HBV hydrologic models</p>
+<p>DOI: 10.5281/zenodo.15040018</p>
+<p>Description:</p>
+<p>This dataset is from <em>the</em> <em>high-resolution, multiscale, differentiable HBV hydrologic models</em>, provided by the Multi-scale Hydrology, Processes, and Intelligence (MHPI) team from The Pennsylvania State University, led by Dr. Chaopeng Shen&#39;s group in Hydrologic Deep Learning and Modeling. <em>(Directly downloading the folder may exceed your browser&#39;s file limit, resulting in zero-sized data in the Zarr file. Downloading the zip file is recommended.)</em>&lt;</p>
+<p>Creators: Song, Yalan, Shen, Chaopeng</p>
+<p>Publication Date: 2024-09-17 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_64</p>
+<p>TITLE: Daily cloud-gap-filled Terra–Aqua MODIS NDSI dataset over High Mountain Asia (2000-2024)</p>
+<p>ID: snow_64</p>
+<p>Dataset Page: https://zenodo.org/records/15241832</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15241832</p>
+<p>Title: Daily cloud-gap-filled Terra–Aqua MODIS NDSI dataset over High Mountain Asia (2000-2024)</p>
+<p>DOI: 10.5281/zenodo.15241832</p>
+<p>Description:</p>
+<ol>
+<li>
+<p>The daily cloud-gap-filled (CGF) MODIS normalized difference snow index (NDSI) dataset over High Mountain Asia (HMA) (2000-2024) is generated by combining of the cubic spline interpolation (CSI) method and the Spatio-Temporal Weighted (STW) method. This dataset is derived from daily 500 m MOD10A1 (Terra) and MYD10A1 (Aqua) products.</p>
+</li>
+<li>
+<p>The cloud persistence days (CPD) dataset is also provided. The CPD represents the number of consecutive days of cloud observed for a pixel from the l</p>
+</li>
+</ol>
+<p>Creators: Gang Deng, Zhiguang Tang</p>
+<p>Publication Date: 2025-04-18 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Snow cover, Normalized difference snow index (NDSI), High Mountain Asia, MODIS, Cloud-gap-filled</p>
+<p>License: No License</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_65</p>
+<p>TITLE: Svalbard Surge Database 2024 (RGI2000-v7.0-G-07)</p>
+<p>ID: snow_65</p>
+<p>Dataset Page: https://zenodo.org/records/15240754</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15240754</p>
+<p>Title: Svalbard Surge Database 2024 (RGI2000-v7.0-G-07)</p>
+<p>DOI: 10.5281/zenodo.15240754</p>
+<p>Description:</p>
+<p>We have developed a new database of surge-type glaciers in Svalbard by combining existing compilations and reviewing studies examining their dynamics. Our database is based upon the Global Land and Ice Measurements from Space (GLIMS) database (König et al. 2014), which is now incorporated into RGI 7.0 (RGI 7.0 Consortium 2023) and consists of 1,583 glaciers in Svalbard. Therefore, the first five fields come from the RGI 7.0 database:</p>
+<ul>
+<li><em>rgi_id</em>: Glacier ID from</li>
+</ul>
+<p>Creators: Harcourt, William David, Pearce, Danni, Gajek, Wojciech, Lovell, Harold, Mannerfelt, Erik S., Kääb, Andreas, Benn, Douglas, Luckman, Adrian, Hann, Richard, Kohler, Jack</p>
+<p>Publication Date: 2025-04-18 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_66</p>
+<p>TITLE: Data from: Cryogenic Thermal Modeling of Microwave High Density Signaling</p>
+<p>ID: snow_66</p>
+<p>Dataset Page: https://zenodo.org/records/15238914</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15238914</p>
+<p>Title: Data from: Cryogenic Thermal Modeling of Microwave High Density Signaling</p>
+<p>DOI: 10.5281/zenodo.15238914</p>
+<p>Description:</p>
+<p>Data from the paper</p>
+<p>&quot;Cryogenic Thermal Modeling of Microwave High Density Signaling&quot;</p>
+<p>Naomi Raicu, Tom Hogan, Xian Wu, Mehrnoosh Vahidpour, David Snow, Matthew Hollister, Mark Field</p>
+<p>https://arxiv.org/abs/2502.01945</p>
+<p>Creators: Raicu, Naomi</p>
+<p>Publication Date: 2025-02-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Cryogenic, Electrical Resistivty, coaxial cable, dilution fridge</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_67</p>
+<p>TITLE: Snow Line Altitude in High mountain Asia derived from satellite imagery (LS5, LS7, LS8 &amp; S2) between 1999 and 2019</p>
+<p>ID: snow_67</p>
+<p>Dataset Page: https://zenodo.org/records/15223344</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15223344</p>
+<p>Title: Snow Line Altitude in High mountain Asia derived from satellite imagery (LS5, LS7, LS8 &amp; S2) between 1999 and 2019</p>
+<p>DOI: 10.5281/zenodo.15223344</p>
+<p>Description:</p>
+<p>This repository contains the data used for the study Precipitation phase drives seasonal and decadal snowline changes in high mountain Asia.</p>
+<p>This study focuses on 4776 glacierized catchments across high mountain Asia (HMA). They are numbered from 0 to 4775. This code number is then used in all the products as their unique ID. The repository contains the following data:</p>
+<p>Creators: Bernat, Maud</p>
+<p>Publication Date: 2025-04-15 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_68</p>
+<p>TITLE: Legacy of snow cover on alpine landscapes</p>
+<p>ID: snow_68</p>
+<p>Dataset Page: https://zenodo.org/records/15211652</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15211652</p>
+<p>Title: Legacy of snow cover on alpine landscapes</p>
+<p>DOI: 10.5281/zenodo.15211652</p>
+<p>Description:</p>
+<p>Source data and R scripts of figures included in a submitted manuscript entitled <em>Legacy of snow cover on alpine landscapes</em></p>
+<p>Creators: CHOLER, Philippe</p>
+<p>Publication Date: 2025-04-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: incipient soils, degree days, late-lying snowfields</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_69</p>
+<p>TITLE: PPS-D: Person-oriented Protection of Public Spaces Dataset</p>
+<p>ID: snow_69</p>
+<p>Dataset Page: https://zenodo.org/records/15124010</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15124010</p>
+<p>Title: PPS-D: Person-oriented Protection of Public Spaces Dataset</p>
+<p>DOI: 10.5281/zenodo.15124010</p>
+<p>Description:</p>
+<p>PPS-D is a comprehensive synthetic image and video dataset designed explicitly for the protection of public</p>
+<p>spaces. This dataset is compiled from a large number of video surveillance cameras that monitor different</p>
+<p>environments such as streets, squares, parks, railway stations, airports, car parks, shopping centres and</p>
+<p>industrial areas, as well as different weather and time conditions such as sun, clouds, night, rain, snow, etc.</p>
+<p>Each camera is strategically</p>
+<p>Creators: Vicomtech</p>
+<p>Publication Date: 2024-09-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: No License</p>
+<p>Version: V1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_70</p>
+<p>TITLE: Global Patterns of Rain-on-Snow and its Impacts on Runoff from Past to Future Projections</p>
+<p>ID: snow_70</p>
+<p>Dataset Page: https://zenodo.org/records/15200067</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15200067</p>
+<p>Title: Global Patterns of Rain-on-Snow and its Impacts on Runoff from Past to Future Projections</p>
+<p>DOI: 10.5281/zenodo.15200067</p>
+<p>Description:</p>
+<p>This dataset supports the article published in <em>Nature Communications</em> titled <em>&#39;Global Patterns of Rain-on-Snow and Its Impacts on Runoff from Past to Future Projections,&#39;</em> co-authored by Fadji Maina and Sujay Kumar.</p>
+<p>Creators: Maina, Fadji, Kumar, Sujay</p>
+<p>Publication Date: 2025-04-11 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_71</p>
+<p>TITLE: Global Cooling and Decoupling on Mountain Glaciers - Observations and Future Estimation.</p>
+<p>ID: snow_71</p>
+<p>Dataset Page: https://zenodo.org/records/15195089</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15195089</p>
+<p>Title: Global Cooling and Decoupling on Mountain Glaciers - Observations and Future Estimation.</p>
+<p>DOI: 10.5281/zenodo.15195089</p>
+<p>Description:</p>
+<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>
+<p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p>
+<p>The attached datasets are the result of work under consideration for publishing.</p>
+<p>The datasets provide metadata, summary statistics and estimates of air temperature</p>
+<p>cooling and decoupling on the mountain glaciers of the world.  This work was funded</p>
+<p>by the EU Horizon 2020 Marie Sklodowska-Curie Actions Grant 101026058 under the project</p>
+<p>name &#39;TEMPES</p>
+<p>Creators: Shaw, Thomas</p>
+<p>Publication Date: 2025</p>
+<p>Access: embargoed</p>
+<p>Keywords: Glacier, Cooling, Climate Change, Observations, Weather Station, Decoupling</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_72</p>
+<p>TITLE: Improved 8-day version 6.1 Terra–Aqua MODIS cloud-free snow cover and Randolph Glacier Inventory 6.0 product for high-mountain Asia between 2002 and 2022</p>
+<p>ID: snow_72</p>
+<p>Dataset Page: https://zenodo.org/records/15187848</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15187848</p>
+<p>Title: Improved 8-day version 6.1 Terra–Aqua MODIS cloud-free snow cover and Randolph Glacier Inventory 6.0 product for high-mountain Asia between 2002 and 2022</p>
+<p>DOI: 10.5281/zenodo.15187848</p>
+<p>Description:</p>
+<p>The product contains improved MODIS 8-day Terra (MOD10A2) and Aqua (MYD10A2) collection 6.1 snow-cover composite product merged with Randolph Glacier Inventory (RGI6.0). The product is generated using MODIS Terra and Aqua 8-day snow cover products MOD10A2 and MYD10A2 collection 6.1 (C61), respectively. The data covers High Mountain Asia (HMA) covering latitude 24.32 − 49.19 N and Longitude 58.22 − 122.48 E. The data is available with eight-day temporal resolution and 500 m s</p>
+<p>Creators: Muhammad, Sher</p>
+<p>Publication Date: 2025-04-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Snow Cover, MODIS, High Mountain Asia, Cryosphere</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_73</p>
+<p>TITLE: SnowXinghu - Lidar inertial data under heavy snow by a handheld device about Xinghu Building</p>
+<p>ID: snow_73</p>
+<p>Dataset Page: https://zenodo.org/records/15181513</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15181513</p>
+<p>Title: SnowXinghu - Lidar inertial data under heavy snow by a handheld device about Xinghu Building</p>
+<p>DOI: 10.5281/zenodo.15181513</p>
+<p>Description:</p>
+<p>The data were collected by Binliang Wang, Jianzhu Huai at a snowy night Feb 3 2024, and snowy morning Feb 4 2024,  around Xinghu Bldg and the basketball court before Xinghu gym, Wuhan Univ, with the handheld lidar and IMU rig of Yu Tengfei.</p>
+<p>The rig consists of a hesai pandar xt32, a xsens mti680 IMU, and an AGX orin 32GB computer.</p>
+<p>Unfortunately, no hardware sync is done between the xt32 and mti680.</p>
+<p>Good news is that mti680 records both host time and sensor time in /imu</p>
+<p>Creators: Huai, Jianzhu, Wang, Binliang</p>
+<p>Publication Date: 2025-04-09 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: lidar, snow, odometry and mapping, SLAM, adverse weather</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_74</p>
+<p>TITLE: Data used to evaluate land surface heterogeneity captured by topography-based subgrid structures in grid-based and watershed-based computational units</p>
+<p>ID: snow_74</p>
+<p>Dataset Page: https://zenodo.org/records/15175869</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15175869</p>
+<p>Title: Data used to evaluate land surface heterogeneity captured by topography-based subgrid structures in grid-based and watershed-based computational units</p>
+<p>DOI: 10.5281/zenodo.15175869</p>
+<p>Description:</p>
+<p>Motivated by the need to improve the representation of small-scale surface heterogeneity in Earth System Models (ESMs), new algorithms have been introduced to discretize ESM computational units into a variable number of subgrid topographic units for improving model simulations with minimal increase in computational demand. The algorithms can be applied to both structured (regular grid) and unstructured (e.g., watersheds) computational units (CUs) to derive topography-based subgrid units (TGUs</p>
+<p>Creators: Tesfa, Teklu, Leung, Ruby, Duan, Zhuoran</p>
+<p>Publication Date: 2025-04-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Land surface heterogeneity, Earth System Models, small-scale variability, subgrid heterogeneity, topography, watershed-based representation</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_75</p>
+<p>TITLE: Elemental data on clean ice/snow</p>
+<p>ID: snow_75</p>
+<p>Dataset Page: https://zenodo.org/records/15176359</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15176359</p>
+<p>Title: Elemental data on clean ice/snow</p>
+<p>DOI: 10.5281/zenodo.15176359</p>
+<p>Description:</p>
+<p>This is a calculation of the elemental content of ice and snow, based on known references cited in the work. This was calculated by Abdullah Shahid as part of the Statistical Classification of Biosignature Information project.</p>
+<p>Creators: Shahid, Abdullah, Sharma, Sunanda</p>
+<p>Publication Date: 2025-04-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_76</p>
+<p>TITLE: Tarmachan Automatic Weather Station (National Trust for Scotland/University of Dundee)</p>
+<p>ID: snow_76</p>
+<p>Dataset Page: https://zenodo.org/records/15173239</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15173239</p>
+<p>Title: Tarmachan Automatic Weather Station (National Trust for Scotland/University of Dundee)</p>
+<p>DOI: 10.5281/zenodo.15173239</p>
+<p>Description:</p>
+<p>Mountain weather station on the south-facing slopes of Meall nan Tarmachan on the National Trust for Scotland&#39;s National Nature Reserve (NNR).  The site is at 710 m above sea level, overlooking Loch Tay.  Snowcover has historically been an important part of the climate of the site, but in recent years has become increasingly transient.</p>
+<p>The NNR is the most important in Scotland for its arctic alpine flora, we are noticing changes in species distribution and to habitats indicat</p>
+<p>Creators: Black, Andrew, Watson, Dan</p>
+<p>Publication Date: 2025-04-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_77</p>
+<p>TITLE: Aridity Modulates the Relationship between Plant Diversity across Scales and Soil Multifunctionality</p>
+<p>ID: snow_77</p>
+<p>Dataset Page: https://zenodo.org/records/15164825</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15164825</p>
+<p>Title: Aridity Modulates the Relationship between Plant Diversity across Scales and Soil Multifunctionality</p>
+<p>DOI: 10.5281/zenodo.15164825</p>
+<p>Description: No Description</p>
+<p>Creators: Wang, Kai, Wang, Cong, Fu, Bojie, Penuelas, Josep, Sardans, Jordi, Gessler, Arthur, Schaub, Marcus, Feng, Xiaoming, Lü, Yihe, Li, Zongshan, Jiang, Wei, Li, Mai-He</p>
+<p>Publication Date: 2025-04-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_78</p>
+<p>TITLE: TABLE 1 in Checklist of Mammals of Syria</p>
+<p>ID: snow_78</p>
+<p>Dataset Page: https://zenodo.org/records/15160108</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15160108</p>
+<p>Title: TABLE 1 in Checklist of Mammals of Syria</p>
+<p>DOI: 10.5281/zenodo.15160108</p>
+<p>Description:</p>
+<p><em>TABLE 1.</em> Systematic list of mammals of Syria along with their IUCN Red List status (DD: Data Deficient; LC: Least Concern; NT: Near Threatened; VU: Vulnerable; EN: Endangered; * Introduced/Invasive species).</p>
+<p><em>No.</em> <em>Order</em> <em>Family</em> <em>Genus (Subgenus)</em> <em>Species</em> <em>Subspecies</em> <em>Common Name</em> <em>IUCN Red list status (IUCN 2023)</em></p>
+<p>1 Hyrac</p>
+<p>Creators: Aidek, Ahmad E., Ibrahim, Amir, Amr, Zuhair, Hutterer, Rainer, Kryštufek, Boris, Serra, Gianluca, Benda, Petr, Shkaky, Yesra, Barbanera, Filippo, Al-Sheikhly, Omar F.</p>
+<p>Publication Date: 2025-01-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: notspecified</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: snow_79</p>
+<p>TITLE: Table 1 in A snow-dwelling tropical buưerfly? An unprecedented discovery of a new genus of the Pedaliodes clade in an extreme, high-altitude Andean environment (Lepidoptera: Nymphalidae: Satyrinae)</p>
+<p>ID: snow_79</p>
+<p>Dataset Page: https://zenodo.org/records/15159632</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15159632</p>
+<p>Title: Table 1 in A snow-dwelling tropical buưerfly? An unprecedented discovery of a new genus of the Pedaliodes clade in an extreme, high-altitude Andean environment (Lepidoptera: Nymphalidae: Satyrinae)</p>
+<p>DOI: 10.5281/zenodo.15159632</p>
+<p>Description:</p>
+<p><em>Table 1.</em> GenBank accession numbers for <em>COI</em> sequences.</p>
+<p><em>Genus</em> <em>Species</em> <em>GenBank accession</em> <em>Voucher code</em> <em>Country</em> <em>Collecting locality</em> <em>Collecting date</em></p>
+<p><em>Nivaliodes</em> <em>puriq</em> PP054278 CEP-5448 Peru Huancavelica, Trancapampa 29–30 September 2021</p>

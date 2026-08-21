@@ -1,0 +1,82 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water distribution_32</p>
+<p>TITLE: Cycle Threshold Values and SARS-CoV-2 Variant Data from Breakthrough and Non-Breakthrough Infections in Accra, Ghana (July–December 2022)</p>
+<p>ID: water distribution_32</p>
+<p>Dataset Page: https://zenodo.org/records/15576531</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15576531</p>
+<p>Title: Cycle Threshold Values and SARS-CoV-2 Variant Data from Breakthrough and Non-Breakthrough Infections in Accra, Ghana (July–December 2022)</p>
+<p>DOI: 10.5281/zenodo.15576531</p>
+<p>Description:</p>
+<p>This dataset contains anonymised clinical and laboratory data from 81 individuals who tested positive for SARS-CoV-2 by RT-PCR at MDS Lancet Laboratories in Accra, Ghana, between July and December 2022. The dataset includes demographic variables (age, sex), COVID-19 vaccination status, clinical presentation (symptomatic/asymptomatic and symptom type), RT-PCR cycle threshold (Ct) values for three viral gene targets (N, RdRP, E), and SARS-CoV-2 variant identification (Alpha, Delta, Omicron). Br</p>
+<p>Creators: Aboagye, Frank Twum, Acquah, Maame Ekua, Egyam, Bill Clinton, Ashong, Yvonne, Annison, Lawrence, Osei-Atweneboana, Mike Yaw</p>
+<p>Publication Date: 2025-06-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: SARS-CoV-2 Variant, Accra, Cycle Threshold Value, Omicron</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water distribution_33</p>
+<p>TITLE: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>ID: water distribution_33</p>
+<p>Dataset Page: https://zenodo.org/records/15576077</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15576077</p>
+<p>Title: Permafrost Distribution and Probability in Northeast China during 2000–2020</p>
+<p>DOI: 10.5281/zenodo.15576077</p>
+<p>Description: Data Documentation for Permafrost Distribution and Probability (Northeast China, 2000–2020) 1. Overview</p>
+<p>This dataset presents the spatial distribution and occurrence probability of permafrost in Northeast China from 2000 to 2020, generated using machine learning models driven by multi-source environmental and meteorological variables. The dataset includes two GeoTIFF files at 1 km spatial resolution</p>
+<p>Creators: Huang, Shuai, Jin, Huijun</p>
+<p>Publication Date: 2025-06-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water distribution_34</p>
+<p>TITLE: NWP model dataset used in &quot;Urban multi-season sensible heat fluxes from multiple large aperture scintillometry paths: variability and operational numerical weather prediction skill&quot;</p>
+<p>ID: water distribution_34</p>
+<p>Dataset Page: https://zenodo.org/records/15169345</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15169345</p>
+<p>Title: NWP model dataset used in &quot;Urban multi-season sensible heat fluxes from multiple large aperture scintillometry paths: variability and operational numerical weather prediction skill&quot;</p>
+<p>DOI: 10.5281/zenodo.15169345</p>
+<p>Description:</p>
+<p>These data are used in Chapter 3, “Urban multi-season sensible heat fluxes from multiple large aperture scintillometry paths: variability and operational numerical weather prediction skill” in the University of Reading thesis &quot;Urban surface-atmosphere exchanges: scintillometry observations and NWP evaluation&quot; submitted by Beth Saunders, 2024.</p>
+<p>The NWP (Met Office UKV model) dataset consists of 109 days across 2016-2018. Some of the experimental setup is also described in Sau</p>
+<p>Creators: Saunders, Beth, Grimmond, Sue, Hertwig, Denise, Bohnenstengel, Sylvia, Lean, Humphrey, Morrison, William</p>
+<p>Publication Date: 2025-04-07 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: Numerical weather prediction, Model evaluation, Urban, London</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water distribution_35</p>
+<p>TITLE: NWP model dataset used in &quot;Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London&quot;</p>
+<p>ID: water distribution_35</p>
+<p>Dataset Page: https://zenodo.org/records/7434187</p>
+<p>Metadata API URL: https://zenodo.org/api/records/7434187</p>
+<p>Title: NWP model dataset used in &quot;Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London&quot;</p>
+<p>DOI: 10.5281/zenodo.7434187</p>
+<p>Description:</p>
+<p>These data are used in Saunders et. al 2024: “Methodology to evaluate numerical weather predictions using large aperture scintillometry sensible heat fluxes: demonstration in London”, DOI: https://doi.org/10.1002/qj.4837</p>
+<p>NWP datasets (Met Office UKV model) from two days (2nd May 2016, day of year (DOY) 123, and 5th May 2016, DOY 126) use</p>
+<p>Creators: Saunders, Beth, Grimmond, Sue, Hertwig, Denise, Bohnenstengel, Sylvia, Lean, Humphrey, Morrison, William</p>
+<p>Publication Date: 2022-12-13 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: Numerical weather prediction, Model evaluation, Urban, London</p>
+<p>License: No License</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water distribution_36</p>
+<p>TITLE: Modelling net CO2 assimilation of two Sphagnum species from temperature and water content response</p>
+<p>ID: water distribution_36</p>
+<p>Dataset Page: https://zenodo.org/records/15463352</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15463352</p>
+<p>Title: Modelling net CO2 assimilation of two Sphagnum species from temperature and water content response</p>
+<p>DOI: 10.5281/zenodo.15463352</p>
+<p>Description:</p>
+<p>Supplementary data for: Perera-Castro AV, Nadal M (2025). Modelling net CO2 assimilation of two *Sphagnum *species from temperature and water content response. Physiologia Plantarum. DOI:10.1111/ppl.70325</p>
+<p>Excel file. 1) Dataset for net CO2 assimilation and dark respiration of <em>Sphagnum angustifolium</em>  and</p>

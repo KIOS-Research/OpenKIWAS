@@ -1,0 +1,107 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Copernicus_Data_Sources</p>
+<p>ID: EOCop#1</p>
+<p>TITLE: Sentinel 1</p>
+<p>ID: EOCop#1</p>
+<p>Source organisation: CERTH</p>
+<p>Name: Sentinel 1</p>
+<p>Type: Satellite Radar Data (Synthetic Aperture Radar - SAR)</p>
+<p>Area: Global coverage, including land and ocean</p>
+<p>Quality: High-resolution, all-weather, day-and-night imaging</p>
+<p>Availability: Free and open access via Copernicus Dataspace Ecosystem</p>
+<p>Update frequency: 6-12 days (depending on location and mission phase) - currently 12 days (1 satellite)</p>
+<p>Legal restrictions: Open data policy under the Copernicus program</p>
+<p>Description: Sentinel-1 consists of two satellites (Sentinel-1A &amp; 1B, with 1C planned) providing C-band SAR imagery for applications like land monitoring, maritime surveillance, and disaster response.</p>
+<p>Variable(s): Sentinel-1 provides: - Backscatter Coefficient (σ⁰): Reflectivity of surfaces (land, water, ice). - Coherence: Surface change detection (InSAR). - Phase Information: Ground displacement and elevation (InSAR). - Polarization (VV, VH, HH, HV): Surface type differentiation. - Doppler Information: Ocean currents and moving object detection. - Georeferenced Radar Images: SAR images in various acquisition modes.</p>
+<p>Spatial resolution: Varies by mode: 5m (Spotlight), 10m (Interferometric Wide Swath), 25m+ (Stripmap, Extra-Wide Swath)</p>
+<p>Temporal coverage: 2014–Present (Sentinel-1A launched in 2014)</p>
+<p>Temporal resolution: 6-12 days (depending on revisit time and area)</p>
+<p>Resource: Copernicus Data Space Ecosystem , https://dataspace.copernicus.eu/</p>
+<p>API Protocol: The Copernicus Data Space Ecosystem catalogue is a web service that can be queried through 4 REST protocols - OData - STAC - OpenSearch - Sentinel Hub Catalog API</p>
+<p>Limitations: Large data volumes requiring significant storage and processing; InSAR analysis requires preprocessing; Noise in certain conditions</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Copernicus_Data_Sources</p>
+<p>ID: EOCop#2</p>
+<p>TITLE: Sentinel 2</p>
+<p>ID: EOCop#2</p>
+<p>Source organisation: CERTH</p>
+<p>Name: Sentinel 2</p>
+<p>Type: Optical Satellite Imagery (Multispectral)</p>
+<p>Area: Global coverage (coastal and inland waters included)</p>
+<p>Quality: High-resolution, multispectral imagery with 13 spectral bands</p>
+<p>Availability: Free and open access via Copernicus Dataspace Ecosystem</p>
+<p>Update frequency: 5 days (with both Sentinel-2A and 2B)</p>
+<p>Legal restrictions: Open data policy under the Copernicus program</p>
+<p>Description: Sentinel-2 provides high-resolution optical imagery for land monitoring, vegetation analysis, water bodies, and disaster response, with a focus on agriculture and environmental monitoring.</p>
+<p>Variable(s): Sentinel-2 has 13 spectral bands: B1 (Coastal Aerosol - 443nm), B2 (Blue - 490nm), B3 (Green - 560nm), B4 (Red - 665nm), B5 (Red Edge 1 - 705nm), B6 (Red Edge 2 - 740nm), B7 (Red Edge 3 - 783nm), B8 (NIR - 842nm), B8A (Narrow NIR - 865nm), B9 (Water Vapor - 945nm), B10 (SWIR-Cirrus - 1375nm), B11 (SWIR 1 - 1610nm), B12 (SWIR 2 - 2190nm).</p>
+<p>Spatial resolution: 10m (RGB, NIR), 20m (Red Edge, SWIR), 60m (Coastal aerosol, Water vapor)</p>
+<p>Temporal coverage: 2015–Present (Sentinel-2A launched in 2015, 2B in 2017)</p>
+<p>Temporal resolution: 5 days (combined 2A &amp; 2B), 10 days (single satellite)</p>
+<p>Resource: Copernicus Data Space Ecosystem , https://dataspace.copernicus.eu/</p>
+<p>API Protocol: The Copernicus Data Space Ecosystem catalogue is a web service that can be queried through 4 REST protocols - OData - STAC - OpenSearch - Sentinel Hub Catalog API</p>
+<p>Limitations: Cloud cover can affect optical data; preprocessing needed for atmospheric correction; large datasets require storage and processing capacity</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Copernicus_Data_Sources</p>
+<p>ID: EOCop#3</p>
+<p>TITLE: Sentinel 3</p>
+<p>ID: EOCop#3</p>
+<p>Source organisation: CERTH</p>
+<p>Name: Sentinel 3</p>
+<p>Type: Earth Observation Satellite (SLSTR &amp; OLCI instruments)</p>
+<p>Area: Global coverage (focus on land and ocean monitoring)</p>
+<p>Quality: High-quality data from advanced remote sensing instruments (SLSTR &amp; OLCI)</p>
+<p>Availability: Free and open access via Copernicus Dataspace Ecosystem</p>
+<p>Update frequency: Daily (with near real-time data for specific products)</p>
+<p>Legal restrictions: Open data policy under the Copernicus program</p>
+<p>Description: Sentinel-3 provides data for monitoring sea and land surface temperature, ocean color, and vegetation, as well as for supporting environmental and climate monitoring. The mission includes instruments like the SLTR (Sea and Land Surface Temperature Radiometer) and OLCI (Ocean and Land Colour Instrument).</p>
+<p>Variable(s): SLSTR Bands (Thermal Infrared &amp; Visible): - Bands 1-3: Visible (0.55–1.60 µm) - Bands 4-9: Thermal Infrared (3.75–12.00 µm) OLCI Bands (Ocean and Land Color): - Bands 1-3: UV and Blue (400–500 nm) - Bands 4-10: Green, Yellow, Red, and Red Edge (510–780 nm) - Bands 11-16: Near Infrared and Shortwave Infrared (865–1650 nm)</p>
+<p>Spatial coverage: Global (including oceans, land, and coastal areas)</p>
+<p>Spatial resolution: SLSTR: 500 m (for SST and LST); OLCI: 300 m (for ocean color products)</p>
+<p>Temporal coverage: 2016–Present (Sentinel-3A launched in 2016, Sentinel-3B in 2018)</p>
+<p>Temporal resolution: Daily (with repeat orbiting, high revisit frequency)</p>
+<p>Resource: Copernicus Data Space Ecosystem , https://dataspace.copernicus.eu/</p>
+<p>API Protocol: The Copernicus Data Space Ecosystem catalogue is a web service that can be queried through 4 REST protocols - OData - STAC - OpenSearch - Sentinel Hub Catalog API</p>
+<p>Limitations: Temporal gaps during specific passes; large data volumes requiring significant storage and processing power</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Copernicus_Data_Sources</p>
+<p>ID: EOCop#4</p>
+<p>TITLE: Sentinel 5</p>
+<p>ID: EOCop#4</p>
+<p>Source organisation: CERTH</p>
+<p>Name: Sentinel 5</p>
+<p>Type: Atmospheric Composition Satellite (TROPOMI Instrument)</p>
+<p>Area: Global coverage, focusing on atmospheric composition</p>
+<p>Quality: High-quality atmospheric data with high sensitivity and precision for trace gases and aerosols</p>
+<p>Availability: Free and open access via Copernicus Dataspace Ecosystem</p>
+<p>Update frequency: Daily (depending on coverage area and mission conditions)</p>
+<p>Legal restrictions: Open data policy under the Copernicus program</p>
+<p>Description: Sentinel-5 precursor is equipped with the TROPOMI instrument, and provides key atmospheric composition data to monitor air pollution, greenhouse gases, and aerosols.</p>
+<p>Variable(s): Ozone (O₃), Nitrogen Dioxide (NO₂), Carbon Monoxide (CO), Sulphur Dioxide (SO₂), Methane (CH₄), Aerosols, Formaldehyde (HCHO), Ozone Depleting Substances (ODS)</p>
+<p>Spatial resolution: 7 km (at nadir) for most species, 3.5 km for some species (specific conditions)</p>
+<p>Temporal coverage: 2017–Present (launched in 2017)</p>
+<p>Temporal resolution: Daily (with repeat orbits)</p>
+<p>Resource: Copernicus Data Space Ecosystem , https://dataspace.copernicus.eu/</p>
+<p>API Protocol: The Copernicus Data Space Ecosystem catalogue is a web service that can be queried through 4 REST protocols - OData - STAC - OpenSearch - Sentinel Hub Catalog API</p>
+<p>Limitations: Some cloud coverage interference; limited resolution in certain areas; requires atmospheric correction for some products</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Copernicus_Data_Sources</p>
+<p>ID: EOCop#5</p>
+<p>TITLE: CAMS</p>
+<p>ID: EOCop#5</p>
+<p>Source organisation: CERTH</p>
+<p>Name: CAMS</p>
+<p>Type: Atmospheric Composition Data (Model-based and Observations)</p>
+<p>Area: Global coverage</p>
+<p>Quality: High-quality data from both satellite observations and global atmospheric models</p>
+<p>Availability: Free and open access via the Copernicus website and CAMS platform</p>
+<p>Update frequency: Near real-time updates, with daily, hourly, and monthly data</p>
+<p>Legal restrictions: Open data policy under the Copernicus program</p>
+<p>Description: CAMS provides global data on air quality, greenhouse gases, aerosols, and other atmospheric composition variables, using a combination of satellite observations, ground-based measurements, and numerical weather prediction models.</p>
+<p>Variable(s): Ozone (O₃), Nitrogen Dioxide (NO₂), Carbon Monoxide (CO), Sulphur Dioxide (SO₂), Methane (CH₄), Aerosols (PM2.5, PM10), Carbon Dioxide (CO₂), Particulate Matter, and others related to atmospheric composition</p>
+<p>Spatial coverage: Global, with detailed regional data for Europe and other specific areas</p>
+<p>Spatial resolution: Varies from 10 km to 80 km depending on the variable and product (global and regional models)</p>
+<p>Temporal coverage: Ongoing since 2003 (continuous data since service launch)</p>
+<p>Temporal resolution: Hourly, daily, and monthly data</p>
+<p>Resource: CAMS Data Access</p>
+<p>API Protocol: Copernicus Atmosphere Monitoring Service API, OGC-compliant access, OpenDAP</p>
+<p>Limitations: Limited resolution for global coverage; some delay in processing real-time data</p>

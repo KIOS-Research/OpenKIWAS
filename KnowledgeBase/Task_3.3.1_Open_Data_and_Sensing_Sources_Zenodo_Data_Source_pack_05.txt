@@ -1,0 +1,76 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: oil spill_7</p>
+<p>TITLE: Confocal fluorescence microscopy images of dentinal porosity at the dentin-enamel junction UM_0003_C2_DEJ</p>
+<p>ID: oil spill_7</p>
+<p>Dataset Page: https://zenodo.org/records/15496458</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15496458</p>
+<p>Title: Confocal fluorescence microscopy images of dentinal porosity at the dentin-enamel junction UM_0003_C2_DEJ</p>
+<p>DOI: 10.5281/zenodo.15496458</p>
+<p>Description:</p>
+<p>Confocal image stacks were acquired with a Leica TCS SP8 microscope, using a 40x/1.3NA oil immersion lens. A wavelength of 561 nm (LED laser DPSS 561) was used to excite Rhodamine B fluorescence which was collected in a range of 567-636 nm with a hybrid detector. The acquisitions were performed on the polished surface of crown dentin up to 900 µm from the DEJ in the direction of the pulp (cf Fig.1a-b). The scanning was performed using 26-52 µW laser power with a linear increase in</p>
+<p>Creators: Gourrier, Aurélien, Vennat, Elsa, Centre National de la Recherche Scientifique, Université Grenoble Alpes</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Cell network, Dental porosity</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: oil spill_8</p>
+<p>TITLE: Data for Vanham et al: Sectoral water demand data for the year 2020 covering the African continent in high spatial resolution</p>
+<p>ID: oil spill_8</p>
+<p>Dataset Page: https://zenodo.org/records/15461756</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15461756</p>
+<p>Title: Data for Vanham et al: Sectoral water demand data for the year 2020 covering the African continent in high spatial resolution</p>
+<p>DOI: 10.5281/zenodo.15461756</p>
+<p>Description:</p>
+<p>The International Water Management Institute (IWMI) developed an Africa-wide water demand (WD) analysis for the year 2020, in unprecedented spatial and (sub)sectoral detail, accounting for six different sectors including multiple subsectors.</p>
+<p>The resulting sectoral WD data are here provided open access.</p>
+<p><em>Sectoral water demand (WD) data</em></p>
+<p>We account for the sectors:</p>
+<ul>
+<li>municipal WD (piped and non-piped pop</li>
+</ul>
+<p>Creators: Vanham, Davy</p>
+<p>Publication Date: 2025-05-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: oil spill_9</p>
+<p>TITLE: Data and codes for Rising Global Species Loss Embodied in Oil Crop Supply Chains</p>
+<p>ID: oil spill_9</p>
+<p>Dataset Page: https://zenodo.org/records/15484562</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15484562</p>
+<p>Title: Data and codes for Rising Global Species Loss Embodied in Oil Crop Supply Chains</p>
+<p>DOI: 10.5281/zenodo.15484562</p>
+<p>Description:</p>
+<p>This Zenodo repository provides comprehensive data and code supporting the draft &quot;Rising Global Species Loss Embodied in Oil Crop Supply Chains&quot; for peer review. The datasets encompass:</p>
+<ol>
+<li>
+<p><em>Harmonized Global Spatial Distribution of Oil Crops (2020):</em> Detailed maps for 19 major oil crops at a five-arcminute resolution, synthesized from FAOSTAT, SPAM 2020, CROPGRIDS, and remote sensing data.</p>
+</li>
+<li>
+<p><em>Spatially Explicit Biodiversity Impacts (2020):</em> Poten</p>
+</li>
+</ol>
+<p>Creators: Wang, Shuntian, Pfister, Stephan</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: oil spill_10</p>
+<p>TITLE: Single cell RNAseq (cTEC sort) dataset</p>
+<p>ID: oil spill_10</p>
+<p>Dataset Page: https://zenodo.org/records/15436243</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15436243</p>
+<p>Title: Single cell RNAseq (cTEC sort) dataset</p>
+<p>DOI: 10.5281/zenodo.15436243</p>
+<p>Description:</p>
+<p><em>Abstract:</em> Family of Sequence Similarity 83H (FAM83H/ SACK1H) is primarily expressed in epithelial cells, where it is associated with CK1 and keratins to regulate cytoskeletal organization, cell proliferation, and vesicular trafficking. Mutations in <em>FAM83H</em> cause amelogenesis imperfecta (AI), suggesting its critical role in enamel formation. We generated <em>Fam83h</em>-deficient mice (</p>

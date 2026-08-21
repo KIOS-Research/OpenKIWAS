@@ -1,0 +1,389 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_82</p>
+<p>TITLE: Mesozooplankton Abundance, Biomass, and Diel Vertical Migration via Passive Ocean Color Retrievals of the Particle Size Distribution (PSD).</p>
+<p>ID: ocean_82</p>
+<p>Dataset Page: https://zenodo.org/records/15307008</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15307008</p>
+<p>Title: Mesozooplankton Abundance, Biomass, and Diel Vertical Migration via Passive Ocean Color Retrievals of the Particle Size Distribution (PSD).</p>
+<p>DOI: 10.5281/zenodo.15307008</p>
+<p>Description: Data description</p>
+<p>Monthly global merged passive ocean color satellite retrievals (spanning September 1997 to December 2024) of the following variables (at 0.25 degree spatial resolution): mesozooplankton numerical abundance, biomass, and diel vertical migration; particle size distribution power-law slope (not used in the derivation of the mesozooplankton data, included here for completeness), particle size distribution scaling factor N0 (differential numerical concentration at referen</p>
+<p>Creators: Kostadinov, Tihomir S., Taniguchi, Darcy A. A., Carroll, Dustin, Wilhelmus, Monica M.</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: mesozooplankton, particle size distribution, diel vertical migration, zooplankton abundance, OC-CCI, Zooplankton biomass</p>
+<p>License: cc-by-nc-sa-4.0</p>
+<p>Version: v1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_83</p>
+<p>TITLE: Monthly global net phytoplankton production and phytoplankton absorbed energy derived from the CAFE model</p>
+<p>ID: ocean_83</p>
+<p>Dataset Page: https://zenodo.org/records/15497141</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15497141</p>
+<p>Title: Monthly global net phytoplankton production and phytoplankton absorbed energy derived from the CAFE model</p>
+<p>DOI: 10.5281/zenodo.15497141</p>
+<p>Description:</p>
+<p>Version 1.0.0 contains a netcdf file of CAFE model outputs (net primary production, phytoplankton absorbed energy aka QPAR) from monthly SeaWiFS and MODIS Aqua data. This is a global product that spans October 1998-December 2022. This product used R2022 Level 3 NASA data.  Details on the CAFE model can be found at DOI: 10.1002/2016GB005521 <a href="https://doi.org/10.1002/2016gb005521">https://doi.org/10.1002/2016gb005521</a></p>
+<p>Version 2.0 are functions used in the manuscript &#39;</p>
+<p>Creators: Silsbe, Greg</p>
+<p>Publication Date: 2025</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_84</p>
+<p>TITLE: Impact of horizontal resolution and model time step on European precipitation extremes in the OpenIFS 43r3 atmosphere model</p>
+<p>ID: ocean_84</p>
+<p>Dataset Page: https://zenodo.org/records/15497274</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15497274</p>
+<p>Title: Impact of horizontal resolution and model time step on European precipitation extremes in the OpenIFS 43r3 atmosphere model</p>
+<p>DOI: 10.5281/zenodo.15497274</p>
+<p>Description:</p>
+<p>Python scripts used for GMD paper</p>
+<p>Creators: Liu, Yingxue</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_85</p>
+<p>TITLE: NOAA Ocean Exploration Gap Analysis Results</p>
+<p>ID: ocean_85</p>
+<p>Dataset Page: https://zenodo.org/records/15490756</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15490756</p>
+<p>Title: NOAA Ocean Exploration Gap Analysis Results</p>
+<p>DOI: 10.5281/zenodo.15490756</p>
+<p>Description:</p>
+<p>The <em>NOAA Ocean Exploration Gap Analysis (EGA)</em> is a tool to establish a spatial coverage baseline for ocean exploration data holdings, support the monitoring of exploration and characterization progress on previously unexplored ocean areas, and aid in the identification of priority areas for future expeditions and data collection efforts.</p>
+<p>This data package consists of output files in several formats described in the DATA_README containing the H3 Geo (</p>
+<ul>
+<li></li>
+</ul>
+<p><em>The dataset</em> corresponds to <em>Supplementary Table 1</em> in the manuscript.</p>
+<ul>
+<li></li>
+</ul>
+<p>All code and data are organized to ensure reproducibility of the figures and analyses presented in the paper.</p>
+<p>Creators: Zhou, Jianping, Li, Sanzhong, Farahbakhsh, Ehsan, Liu, Yongjiang, Suo, Yanhui, Müller, Dietmar</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_91</p>
+<p>TITLE: The impact of a long-lived Basal Magma Ocean on the thermochemical evolution of Mars</p>
+<p>ID: ocean_91</p>
+<p>Dataset Page: https://zenodo.org/records/15480105</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15480105</p>
+<p>Title: The impact of a long-lived Basal Magma Ocean on the thermochemical evolution of Mars</p>
+<p>DOI: 10.5281/zenodo.15480105</p>
+<p>Description:</p>
+<p>Data to recreate relevant figures for the manuscript &quot;The impact of a long-lived Basal Magma Ocean on the thermochemical evolution of Mars&quot;</p>
+<p>Creators: Cheng, Kar Wai</p>
+<p>Publication Date: 2025-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_92</p>
+<p>TITLE: IODP Expedition 399 Alkalinity and pH</p>
+<p>ID: ocean_92</p>
+<p>Dataset Page: https://zenodo.org/records/15492533</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15492533</p>
+<p>Title: IODP Expedition 399 Alkalinity and pH</p>
+<p>DOI: 10.5281/zenodo.15492533</p>
+<p>Description: Alkalinity was determined by Gran titration with an autotitrator (Metrohm 794 basic Titrino) using 0.1 M HCl at 20 degrees C. Report includes alkalinity, correction factor (if applicable), and pH.</p>
+<p>Creators: Lang, Susan Q., McCaig, Andrew, Blum, Peter, Abe, Natsue, Brazelton, William, Coltat, Rémi, Deans, Jeremy R., Dickerson, Kristin L., Godard, Marguerite, John, Barbara E., Klein, Frieder, Kuehn, Rebecca, Lin, Kuan-Yu, Lissenberg, C. Johan, Liu, Haiyang, Lopes, Ethan L., Nozaka, Toshio, Parsons, Andrew J., Pathak, Vamdev, Reagan, Mark K., Robare, Jordyn A., Savov, Ivan P., Schwarzenbach, Esther, Sissmann, Olivier J., Southam, Gordon, Wang, Fengping, Wheat, C. Geoffrey</p>
+<p>Publication Date: 2025-05-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: International Ocean Discovery Program, IODP, JOIDES Resolution, Expedition 399, Site U1309, Site U1601, Atlantis Massif, deep biosphere, serpentinization, Lost City hydrothermal field, peridotite mantle, detachment fault</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_93</p>
+<p>TITLE: &quot;Major Shifts in Equatorial Atlantic and Pacific Calcareous Nannofossil Assemblages across the Early Eocene Climatic Optimum (EECO; ~53–49 Ma)&quot; - Age-depth models and calcareous nannofossil datasets</p>
+<p>ID: ocean_93</p>
+<p>Dataset Page: https://zenodo.org/records/14794841</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14794841</p>
+<p>Title: &quot;Major Shifts in Equatorial Atlantic and Pacific Calcareous Nannofossil Assemblages across the Early Eocene Climatic Optimum (EECO; ~53–49 Ma)&quot; - Age-depth models and calcareous nannofossil datasets</p>
+<p>DOI: 10.5281/zenodo.14794841</p>
+<p>Description:</p>
+<p>This dataset supplement to the paper &quot;Major Shifts in Equatorial Atlantic and Pacific Calcareous Nannofossil Assemblages across the Early Eocene Climatic Optimum (EECO; ~53–49 Ma)&quot; (Paleoceanography and Paleoclimatology).</p>
+<p>*Data Set S1. *Age-Depth Models</p>
+<p>This dataset includes input age-depth tie points and output age models for ODP Sites 1258 and 865, generated using <em>Undatable</em> (Matlab software, Version 1.1; Lougheed &amp; Obrochta, 2019; https:/</p>
+<p>Creators: Asanbe, Joseph, Henderiks, Jorijntje</p>
+<p>Publication Date: 2025-05-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Eocene, Paleoclimate, Paleoceanography, Age-Depth Models, Marine Phytoplankton, Ocean Drilling Program</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Version 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_94</p>
+<p>TITLE: TABLE 1 in Beyond Oman&#39;s shores: records of Oxyurichthys omanensis (Teleostei: Gobiidae) from the central and southern regions of the Western Indian Ocean</p>
+<p>ID: ocean_94</p>
+<p>Dataset Page: https://zenodo.org/records/15489713</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15489713</p>
+<p>Title: TABLE 1 in Beyond Oman&#39;s shores: records of Oxyurichthys omanensis (Teleostei: Gobiidae) from the central and southern regions of the Western Indian Ocean</p>
+<p>DOI: 10.5281/zenodo.15489713</p>
+<p>Description:</p>
+<p><em>TABLE 1.</em> Meristic and morphometric measurements of <em>Oxyurichthys omanensis</em> from the WIO. The measures following Pezold &amp; Larson (2015) definitions are marked with *.</p>
+<p>Central and southern WIO Yeti, Oman</p>
+<p>(4 males, 2 females) (10 males, 2 females)**</p>
+<p><em>%SL</em> Characters Min.Creators: Zarei, Fatah, Al Jufaili, Saud M., Béarez, Philippe, Ponton, Dominique, Pruvost, Patrice, Chakona, Albert</p>
+<p>Publication Date: 2025-05-13 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: notspecified</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_95</p>
+<p>TITLE: DNA concentrations in seawater across Tara Pacific Ocean-Atmosphere (OA) samples</p>
+<p>ID: ocean_95</p>
+<p>Dataset Page: https://zenodo.org/records/15489316</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15489316</p>
+<p>Title: DNA concentrations in seawater across Tara Pacific Ocean-Atmosphere (OA) samples</p>
+<p>DOI: 10.5281/zenodo.15489316</p>
+<p>Description: No Description</p>
+<p>Creators: Crédeville, Margaux, Jaillon, Olivier</p>
+<p>Publication Date: 2025-05-22 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_96</p>
+<p>TITLE: Dataset associated with the manuscript &quot;Methane and Nitrous Oxide Budgets for Australasia: A Regional Assessment of Natural and Anthropogenic Sources and Sinks&quot; prepared by Villalobos et al. (2025) as part of the the second phase of the REgional Carbon Cycle Assessment and Processes (RECCAP-2).</p>
+<p>ID: ocean_96</p>
+<p>Dataset Page: https://zenodo.org/records/15489203</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15489203</p>
+<p>Title: Dataset associated with the manuscript &quot;Methane and Nitrous Oxide Budgets for Australasia: A Regional Assessment of Natural and Anthropogenic Sources and Sinks&quot; prepared by Villalobos et al. (2025) as part of the the second phase of the REgional Carbon Cycle Assessment and Processes (RECCAP-2).</p>
+<p>DOI: 10.5281/zenodo.15489203</p>
+<p>Description:</p>
+<p>This dataset is associated with the manuscript <em>Methane and Nitrous Oxide Budgets for Australasia: A Regional Assessment of Natural and Anthropogenic Sources and Sinks</em> by Villalobos et al. (2025), prepared as part of the second phase of the Regional Carbon Cycle Assessment and Processes (RECCAP-2).</p>
+<p>Creators: Villalobos, Yohanna</p>
+<p>Publication Date: 2025-05-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Nitrous oxide budget, Methane budget, RECCAP-2, Bottom-up, Top-down, Land Ocean Aquatic Continuum (LOAC), Data assimilation</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Version 02</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_97</p>
+<p>TITLE: Model output associated with Bucciarelli et al. &quot;Iron-enriched Agulhas waters fertilise the Indian Subantarctic Zone&quot;</p>
+<p>ID: ocean_97</p>
+<p>Dataset Page: https://zenodo.org/records/15488359</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15488359</p>
+<p>Title: Model output associated with Bucciarelli et al. &quot;Iron-enriched Agulhas waters fertilise the Indian Subantarctic Zone&quot;</p>
+<p>DOI: 10.5281/zenodo.15488359</p>
+<p>Description:</p>
+<p>Annual mean sea surface elevation (zeta), surface chlorophyll (chl), surface DFE (fe0), 500 m DFE (fe500), surface salinity (salt0) and 500 m salinity (salt500) from CROCO PISCES ocean model  for two simulations (reference ASAP2 and NAM without Fe sources along African margins).This is associated with publication: Bucciarelli et al. &quot;Iron-enriched Agulhas waters fertilise the Indian Subantarctic Zone&quot;</p>
+<p>Creators: Bucciarelli, Eva, Penven, Pierrick, Pous, Stéphane, Tagliabue, Alessandro</p>
+<p>Publication Date: 2025-05-25 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_98</p>
+<p>TITLE: Supplementary material 2 from: Mussini G, Niimi YJ, Khodami S, Kihara TC, Martinez Arbizu P, Blanco-Bercial L (2025) A new species of Tetragoniceps Brady, 1880 (Copepoda, Harpacticoida, Tetragonicipitidae) from an anchialine cave in Bermuda, with an updated key to the species of the genus. ZooKeys 1239: 1-19. https://doi.org/10.3897/zookeys.1239.144436</p>
+<p>ID: ocean_98</p>
+<p>Dataset Page: https://zenodo.org/records/15487386</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15487386</p>
+<p>Title: Supplementary material 2 from: Mussini G, Niimi YJ, Khodami S, Kihara TC, Martinez Arbizu P, Blanco-Bercial L (2025) A new species of Tetragoniceps Brady, 1880 (Copepoda, Harpacticoida, Tetragonicipitidae) from an anchialine cave in Bermuda, with an updated key to the species of the genus. ZooKeys 1239: 1-19. https://doi.org/10.3897/zookeys.1239.144436</p>
+<p>DOI: 10.3897/zookeys.1239.144436.suppl2</p>
+<p>Description: Phylogenetic dataset</p>
+<p>Creators: Mussini, Giovanni, Niimi, Yuuki J., Khodami, Sahar, Kihara, Terue C., Martinez Arbizu, Pedro, Blanco-Bercial, Leocadio</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Bermuda, cave fauna, copepods, Crustacea, endemism</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_99</p>
+<p>TITLE: Supplementary material 1 from: Mussini G, Niimi YJ, Khodami S, Kihara TC, Martinez Arbizu P, Blanco-Bercial L (2025) A new species of Tetragoniceps Brady, 1880 (Copepoda, Harpacticoida, Tetragonicipitidae) from an anchialine cave in Bermuda, with an updated key to the species of the genus. ZooKeys 1239: 1-19. https://doi.org/10.3897/zookeys.1239.144436</p>
+<p>ID: ocean_99</p>
+<p>Dataset Page: https://zenodo.org/records/15487384</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15487384</p>
+<p>Title: Supplementary material 1 from: Mussini G, Niimi YJ, Khodami S, Kihara TC, Martinez Arbizu P, Blanco-Bercial L (2025) A new species of Tetragoniceps Brady, 1880 (Copepoda, Harpacticoida, Tetragonicipitidae) from an anchialine cave in Bermuda, with an updated key to the species of the genus. ZooKeys 1239: 1-19. https://doi.org/10.3897/zookeys.1239.144436</p>
+<p>DOI: 10.3897/zookeys.1239.144436.suppl1</p>
+<p>Description: Confocal laser scanning microscopy (CLSM) settings used for imaging the specimen</p>
+<p>Creators: Mussini, Giovanni, Niimi, Yuuki J., Khodami, Sahar, Kihara, Terue C., Martinez Arbizu, Pedro, Blanco-Bercial, Leocadio</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Bermuda, cave fauna, copepods, Crustacea, endemism</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ocean_100</p>
+<p>TITLE: Deglacial and Holocene Evolution of North Pacific Upper and Intermediate Ocean Circulation</p>
+<p>ID: ocean_100</p>
+<p>Dataset Page: https://zenodo.org/records/15486783</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15486783</p>
+<p>Title: Deglacial and Holocene Evolution of North Pacific Upper and Intermediate Ocean Circulation</p>
+<p>DOI: 10.5281/zenodo.15486783</p>
+<p>Description: No Description</p>
+<p>Creators: Chang, Hu, Zhang, Lanlan, Zheng, Xufeng, Gong, Xun, Yang, Yiping, Xiang, Rong</p>
+<p>Publication Date: 2025-05-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_1</p>
+<p>TITLE: Data for the paper &quot;Accurate water table modeling via IA-driven and iteratively-validating co-kriging algorithms&quot;</p>
+<p>ID: water treatment_1</p>
+<p>Dataset Page: https://zenodo.org/records/15591074</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15591074</p>
+<p>Title: Data for the paper &quot;Accurate water table modeling via IA-driven and iteratively-validating co-kriging algorithms&quot;</p>
+<p>DOI: 10.5281/zenodo.15591074</p>
+<p>Description:</p>
+<ul>
+<li>
+<p>exemplary dataset for 2019 yearly water table measurements in Northeaster Italy</p>
+</li>
+<li>
+<p>MATLAB code for pre-processing AI-driven part</p>
+</li>
+<li>
+<p>MATLAB code for post-processing iterative validation part</p>
+</li>
+</ul>
+<p>Creators: Schiavo, Massimiliano</p>
+<p>Publication Date: 2024-11-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_2</p>
+<p>TITLE: Dataset of the Deep Potential Long Range Model and the Deep Wannier Model for Describing Solvated Glycine Tautomerism under Electric Field</p>
+<p>ID: water treatment_2</p>
+<p>Dataset Page: https://zenodo.org/records/14469805</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14469805</p>
+<p>Title: Dataset of the Deep Potential Long Range Model and the Deep Wannier Model for Describing Solvated Glycine Tautomerism under Electric Field</p>
+<p>DOI: 10.5281/zenodo.14469805</p>
+<p>Description:</p>
+<p>The <em>&quot;dplr&quot;</em> dataset comprises configurations of glycine molecules in aqueous environments, including zwitterionic, neutral, anionic, and cationic forms, as well as pure water systems. All configurations are labeled using the M06-2X density functional and incorporate 0–1 pairs of hydronium and hydroxide ions to capture water autoionization effects through enhanced sampling techniques. This dataset is used to train the Deep Potential Long Range (DPLR) model to de</p>
+<p>Creators: Pengchao, Zhang</p>
+<p>Publication Date: 2024-12-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_3</p>
+<p>TITLE: Inflow to a Waste Water Treatment Plant: observations and processed data</p>
+<p>ID: water treatment_3</p>
+<p>Dataset Page: https://zenodo.org/records/15301164</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15301164</p>
+<p>Title: Inflow to a Waste Water Treatment Plant: observations and processed data</p>
+<p>DOI: 10.5281/zenodo.15301164</p>
+<p>Description:</p>
+<p>This repository provides access to measurements of the combined sewage inflow to a Waste Water Treatment Plant (WWTP) located in Denmark. The data is accompanied by measurements of relevant metereological variables captured by a weather station near the WWTP and provided by the Danish Metereological Institute (DMI).</p>
+<p>The dataset contains approximately 15 months of hourly observations. The exact location of the WWTP and weather station are omitted.</p>
+<p>FilesCreators: DHI</p>
+<p>Publication Date: 2025-04-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-nc-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_4</p>
+<p>TITLE: MARISMa: MALDI-TOF Acquisition Repository of Infectious Species at Marañón</p>
+<p>ID: water treatment_4</p>
+<p>Dataset Page: https://zenodo.org/records/15584320</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15584320</p>
+<p>Title: MARISMa: MALDI-TOF Acquisition Repository of Infectious Species at Marañón</p>
+<p>DOI: 10.5281/zenodo.15584320</p>
+<p>Description:</p>
+<p>Clinical microbiology laboratories play a crucial role in identifying pathogens, guiding antibiotic treatment, and managing antimicrobial resistance (AMR). Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS) has become essential for rapid, accurate, and cost-effective microbial identification. Recent advances in integrating MALDI-TOF MS with Artificial Intelligence (AI) show promise in improving microbial detection and prediction of AMR. However, progre</p>
+<p>Creators: Schmidt-Santiago, Lucía, López-Mareca, Inés, Blázquez-Sánchez, Mario, Moreno, José Miguel, SEVILLA SALCEDO, Carlos, GOMEZ VERDEJO, VANESSA, Rodriguez-Sanchez, Belen, Rodriguez-Temporal, David, Guerrero-López, Alejandro</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: MALDI-TOF, Mass spectrometry, Pathogen identification, Microbiology, Infectious diseases, Bacteria, Fungi, Mycobacteria, Bruker</p>
+<p>License: cc-by-nc-nd-4.0</p>
+<p>Version: 1.1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_5</p>
+<p>TITLE: IoT-Enabled Smart Watering System for Plant Productivity</p>
+<p>ID: water treatment_5</p>
+<p>Dataset Page: https://zenodo.org/records/15588754</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15588754</p>
+<p>Title: IoT-Enabled Smart Watering System for Plant Productivity</p>
+<p>DOI: 10.5281/zenodo.15588754</p>
+<p>Description:</p>
+<p>Watering plants is an important aspect of ensuring optimal plant growth. Irregular watering, such as overwatering or underwatering, can hinder plant growth. Therefore, an automatic plant watering system can be a solution to enhance the efficiency of managing plant water needs. With this system, users can ensure that plants receive a sufficient water supply for their growth without having to water them manually.</p>
+<p>Creators: Florenta, Marcellus Geraldio, Adriel Jonathan, Reinhard Efraim, Koo, Vincent, Lukman, Selvi</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_6</p>
+<p>TITLE: TICS IN THE PEDIATRIC POPULATION: A PRAGMATIC APPROACH TO TREATMENT</p>
+<p>ID: water treatment_6</p>
+<p>Dataset Page: https://zenodo.org/records/15588402</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15588402</p>
+<p>Title: TICS IN THE PEDIATRIC POPULATION: A PRAGMATIC APPROACH TO TREATMENT</p>
+<p>DOI: 10.5281/zenodo.15588402</p>
+<p>Description: No Description</p>
+<p>Creators: Botirova Nigina Botirovna</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_7</p>
+<p>TITLE: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>ID: water treatment_7</p>
+<p>Dataset Page: https://zenodo.org/records/15587084</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15587084</p>
+<p>Title: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>DOI: 10.5281/zenodo.15587084</p>
+<p>Description:</p>
+<p>This dataset utilizes data from the Western Regional Climate Center <a href="https://wrcc.dri.edu/GBtransect/">https://wrcc.dri.edu/GBtransect/</a> for the Nevada Climate-ecohydrological Assessment Network (NevCAN) <a href="https://nevcan.dri.edu/">https://nevcan.dri.edu/</a> transect in the Snake Range for water years 2012-2022. The list of parameters and other metadata can be found in the README.txt.</p>
+<p>This data implements 3 levels of quality control, each level can be requested b</p>
+<p>Creators: Heggli, Anne, Strachan, Scotty, Greg, McCrudy</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Great Basin, Ecology, Meteorology, Energy Balance, Snow</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water treatment_8</p>
+<p>TITLE: Ultraviolet Photooxidation of Carbonate-bearing Aqueous Ferrous Iron within Open and Closed Experimental Systems – Implications for Sunlit Surface Water Bodies on Early Mars</p>
+<p>ID: water treatment_8</p>
+<p>Dataset Page: https://zenodo.org/records/15399913</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15399913</p>
+<p>Title: Ultraviolet Photooxidation of Carbonate-bearing Aqueous Ferrous Iron within Open and Closed Experimental Systems – Implications for Sunlit Surface Water Bodies on Early Mars</p>
+<p>DOI: 10.5281/zenodo.15399913</p>
+<p>Description:</p>
+<p>The datasets included are Microsoft Excel files. The file names that include &quot;Main&quot; refer to those that are plotted in the main text of the paper and &quot;SI&quot; pertains to those plotted in the supporting information.</p>
+<p><em>&quot;Main_ATRFTIR&quot;: ATR-FTIR spectra for minerals precipitated from experiments O-UV_pHi7.46, C-UV_pHi6.54, and C-UV_pHi7.44</em></p>

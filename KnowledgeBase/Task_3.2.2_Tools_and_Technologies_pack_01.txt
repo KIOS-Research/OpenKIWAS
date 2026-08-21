@@ -1,0 +1,4155 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 1</p>
+<p>TITLE: Citizen science resource hub</p>
+<p>ID: 1</p>
+<p>Name: Citizen science resource hub</p>
+<p>Type: Platform</p>
+<p>Project ID (if available): 101094041</p>
+<p>Project Acronym (if available): OTTERS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 2</p>
+<p>TITLE: PROMETHEUS Waste Water Treatment System</p>
+<p>ID: 2</p>
+<p>Name: PROMETHEUS Waste Water Treatment System</p>
+<p>Technology: Nanofiltration membrane and evaporator</p>
+<p>Type: Integrated wastewater treatment system</p>
+<p>Data used as input: High organic load, high temperature, high salinity industrial wastewater</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 262184</p>
+<p>Project Acronym (if available): PROMETHEUS</p>
+<p>Service description: Treats wastewater from aluminum and rubber production, recovering water and chemicals for reuse and reducing waste for off-site treatment.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 3</p>
+<p>TITLE: Waste heap volume estimation tool</p>
+<p>ID: 3</p>
+<p>Name: Waste heap volume estimation tool</p>
+<p>Technology: Not specified</p>
+<p>Type: Software</p>
+<p>Data used as input: Waste heap imagery</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Estimating volume of waste heaps</p>
+<p>Paper DOI (if available): 10.5281/zenodo.12167967</p>
+<p>Project ID (if available): 101073952</p>
+<p>Project Acronym (if available): PERIVALLON</p>
+<p>Service description: Estimates the volume of waste heaps.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 4</p>
+<p>TITLE: Landfill detector</p>
+<p>ID: 4</p>
+<p>Name: Landfill detector</p>
+<p>Technology: Deep Learning</p>
+<p>Type: Software</p>
+<p>Data used as input: Aerial and satellite images</p>
+<p>Produced datasets (openly available): AerialWaste dataset</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): AerialWaste dataset for landfill discovery in aerial and satellite images</p>
+<p>Paper DOI (if available): 10.1038/s41597-023-01976-9</p>
+<p>Project ID (if available): 101073952</p>
+<p>Project Acronym (if available): PERIVALLON</p>
+<p>Service description: Detects illegal landfills in aerial and satellite images.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 5</p>
+<p>TITLE: Muddy water mapping tool</p>
+<p>ID: 5</p>
+<p>Name: Muddy water mapping tool</p>
+<p>Technology: Machine Learning</p>
+<p>Type: Software</p>
+<p>Data used as input: Sentinel-2 imagery</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Towards a Paradigm Shift on Mapping Muddy Waters with Sentinel-2 Using Machine Learning</p>
+<p>Paper DOI (if available): 10.3390/su151813441</p>
+<p>Project ID (if available): 101073952</p>
+<p>Project Acronym (if available): PERIVALLON</p>
+<p>Service description: Maps muddy water in inland/coastal waters using Sentinel-2 imagery.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 6</p>
+<p>TITLE: UAV Coverage Path Planning tool</p>
+<p>ID: 6</p>
+<p>Name: UAV Coverage Path Planning tool</p>
+<p>Technology: Not specified</p>
+<p>Type: Software</p>
+<p>Data used as input: Geographic data</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Systematically Improving the Efficiency of Grid-Based Coverage Path Planning Methodologies in Real-World UAVs’ Operations</p>
+<p>Paper DOI (if available): 10.3390/drones7060399</p>
+<p>Project ID (if available): 101073952</p>
+<p>Project Acronym (if available): PERIVALLON</p>
+<p>Service description: Plans efficient flight paths for UAVs in grid-based coverage operations.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 7</p>
+<p>TITLE: Big data application suite</p>
+<p>ID: 7</p>
+<p>Name: Big data application suite</p>
+<p>Technology: IoT, AI</p>
+<p>Type: Software suite</p>
+<p>Data used as input: Vessel operational data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): From STEAM to Machine: Emissions control in the shipping 4.0 era</p>
+<p>Paper DOI (if available): 10.5957/SOME-2023-020</p>
+<p>Project ID (if available): 101056799</p>
+<p>Project Acronym (if available): DT4GS</p>
+<p>Service description: Monitors and estimates vessel emissions; improves scrubber efficiency; assesses and estimates environmental footprint.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 8</p>
+<p>TITLE: Digital Twin Enabled Decision Support Framework</p>
+<p>ID: 8</p>
+<p>Name: Digital Twin Enabled Decision Support Framework</p>
+<p>Technology: Machine learning</p>
+<p>Type: Decision Support System</p>
+<p>Data used as input: Ship operational data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A Digital Twin Enabled Decision Support Framework for Ship Operational Optimisation Towards Decarbonisation</p>
+<p>Paper DOI (if available): 10.1007/978-981-99-3091-3_38</p>
+<p>Project ID (if available): 101056799</p>
+<p>Project Acronym (if available): DT4GS</p>
+<p>Service description: Supports ship operational optimization towards decarbonization.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 9</p>
+<p>TITLE: Time series analysis architecture</p>
+<p>ID: 9</p>
+<p>Name: Time series analysis architecture</p>
+<p>Technology: Machine learning</p>
+<p>Type: Software architecture</p>
+<p>Data used as input: Vessel data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Time Series Analysis for Digital Twins in Green Shipping</p>
+<p>Paper DOI (if available): 10.5957/SOME-2023-028</p>
+<p>Project ID (if available): 101056799</p>
+<p>Project Acronym (if available): DT4GS</p>
+<p>Service description: Automated data capture, processing, and analysis for time series data; anomaly detection and forecasting.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 10</p>
+<p>TITLE: Open Digital Twin Framework</p>
+<p>ID: 10</p>
+<p>Name: Open Digital Twin Framework</p>
+<p>Technology: Not specified</p>
+<p>Type: Framework</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 101056799</p>
+<p>Project Acronym (if available): DT4GS</p>
+<p>Service description: Supports smart green shipping in upgrading existing and new vessels.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 11</p>
+<p>TITLE: DT4GS (Green Shipping) Dataspace</p>
+<p>ID: 11</p>
+<p>Name: DT4GS (Green Shipping) Dataspace</p>
+<p>Technology: Not specified</p>
+<p>Type: Dataspace</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 101056799</p>
+<p>Project Acronym (if available): DT4GS</p>
+<p>Service description: Accelerates the green and digital transition of waterborne shipping and transport value chains.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 12</p>
+<p>TITLE: DischargeApp</p>
+<p>ID: 12</p>
+<p>Name: DischargeApp</p>
+<p>Technology: Smart-phone application</p>
+<p>Type: Mobile Crowdsensing</p>
+<p>Data used as input: Volumetric flow measurements</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Site identification and discharge measurements through Mobile Crowdsensing in the Mar Menor region</p>
+<p>Paper DOI (if available): 10.5194/iahs2022-196</p>
+<p>Project ID (if available): 101017861</p>
+<p>Project Acronym (if available): SMARTLAGOON</p>
+<p>Service description: Provides fast and accurate volumetric flow measurements in rivers and canals.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 13</p>
+<p>TITLE: EC + T Track</p>
+<p>ID: 13</p>
+<p>Name: EC + T Track</p>
+<p>Technology: Automated GPS, electrical conductivity and temperature sensing device</p>
+<p>Type: IoT sensor</p>
+<p>Data used as input: Water quality data (electrical conductivity and temperature)</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Low-cost automated GPS, electrical conductivity and temperature sensing device (EC + T Track) and Android platform for water quality monitoring campaigns</p>
+<p>Paper DOI (if available): 10.1016/j.ohx.2022.e00381</p>
+<p>Project ID (if available): 101017861</p>
+<p>Project Acronym (if available): SMARTLAGOON</p>
+<p>Service description: Low-cost automated sensing device for water quality monitoring.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 14</p>
+<p>TITLE: DSOLMap</p>
+<p>ID: 14</p>
+<p>Name: DSOLMap</p>
+<p>Technology: Digital soil property map</p>
+<p>Type: Digital map</p>
+<p>Data used as input: Soil data</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): DSOLMap, a novel high-resolution global digital soil property map for the SWAT+ model: Development and hydrological evaluation</p>
+<p>Paper DOI (if available): 10.1016/j.catena.2023.107339</p>
+<p>Project ID (if available): 101017861</p>
+<p>Project Acronym (if available): SMARTLAGOON</p>
+<p>Service description: High-resolution global digital soil property map for hydrological modelling.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 15</p>
+<p>TITLE: CPR Algorithm</p>
+<p>ID: 15</p>
+<p>Name: CPR Algorithm</p>
+<p>Technology: Interpolation methodology and QGIS plugin</p>
+<p>Type: Software plugin</p>
+<p>Data used as input: Aerial images and raster maps</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): CPR Algorithm—A new interpolation methodology and QGIS plugin for Colour Pattern Regression between aerial images and raster maps</p>
+<p>Paper DOI (if available): 10.1016/j.softx.2023.101356</p>
+<p>Project ID (if available): 101017861</p>
+<p>Project Acronym (if available): SMARTLAGOON</p>
+<p>Service description: QGIS plugin for Colour Pattern Regression between aerial images and raster maps.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 16</p>
+<p>TITLE: Short-term numerical model</p>
+<p>ID: 16</p>
+<p>Name: Short-term numerical model</p>
+<p>Technology: Lagrangian description of the flow</p>
+<p>Type: Numerical model</p>
+<p>Data used as input: Wave parameters, bathymetry</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Project ID (if available): 252374</p>
+<p>Project Acronym (if available): MORPHSWASH</p>
+<p>Service description: Predicts nearshore flows using depth-averaged Lagrangian coordinates. Works well for large unbroken waves but unstable for steep broken waves.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 17</p>
+<p>TITLE: Particle tracking velocimetry (PTV) techniques</p>
+<p>ID: 17</p>
+<p>Name: Particle tracking velocimetry (PTV) techniques</p>
+<p>Technology: Image analysis</p>
+<p>Type: Experimental technique</p>
+<p>Data used as input: Wave flume experiments</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Mattioli et al., 2012</p>
+<p>Project ID (if available): 252374</p>
+<p>Project Acronym (if available): MORPHSWASH</p>
+<p>Service description: Measures flow-sediment dynamics, particularly around submerged pipelines.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 18</p>
+<p>TITLE: UAV for Water Quality Monitoring</p>
+<p>ID: 18</p>
+<p>Name: UAV for Water Quality Monitoring</p>
+<p>Technology: Vision-based motion control, UAV</p>
+<p>Type: Autonomous system</p>
+<p>Data used as input: First Responder waypoints, camera images</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A Vision-Based Motion Control Framework for Water Quality Monitoring Using an Unmanned Aerial Vehicle</p>
+<p>Paper DOI (if available): 10.3390/su14116502</p>
+<p>Project ID (if available): 883484</p>
+<p>Project Acronym (if available): PathoCERT</p>
+<p>Service description: Autonomous water surface monitoring and surveillance</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 19</p>
+<p>TITLE: Portable real-time sensor for rapid detection of Faecal contamination</p>
+<p>ID: 19</p>
+<p>Name: Portable real-time sensor for rapid detection of Faecal contamination</p>
+<p>Technology: Electrochemical sensing</p>
+<p>Type: Portable sensor</p>
+<p>Data used as input: Water sample</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Advancing water quality assurance: validation of a portable real-time sensor for rapid detection of Faecal contamination</p>
+<p>Paper DOI (if available): Not available</p>
+<p>Project ID (if available): 883484</p>
+<p>Project Acronym (if available): PathoCERT</p>
+<p>Service description: Rapid detection of fecal contamination in water samples</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 20</p>
+<p>TITLE: Custom Printed Electrodes for Enterobactin Detection</p>
+<p>ID: 20</p>
+<p>Name: Custom Printed Electrodes for Enterobactin Detection</p>
+<p>Technology: Electrochemical sensing, printed electronics</p>
+<p>Type: Sensor</p>
+<p>Data used as input: Culture media, wastewater, treated water</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Proof of Concept for the Detection with Custom Printed Electrodes of Enterobactin as a Marker of Escherichia coli</p>
+<p>Paper DOI (if available): 10.3390/ijms23179884</p>
+<p>Project ID (if available): 883484</p>
+<p>Project Acronym (if available): PathoCERT</p>
+<p>Service description: Rapid and decentralized detection of Escherichia coli using enterobactin as a marker</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 21</p>
+<p>TITLE: UAV for Autonomous Water Sampling</p>
+<p>ID: 21</p>
+<p>Name: UAV for Autonomous Water Sampling</p>
+<p>Technology: Cable-suspended mechanism, multirotor UAV, sensor fusion</p>
+<p>Type: Autonomous system</p>
+<p>Data used as input: Load cell, depth sensor, ultrasonic sensor, camera</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A motion control framework for autonomous water sampling and swing-free transportation of a multirotor UAV with a cable-suspended mechanism</p>
+<p>Paper DOI (if available): 10.1002/rob.22182</p>
+<p>Project ID (if available): 883484</p>
+<p>Project Acronym (if available): PathoCERT</p>
+<p>Service description: Autonomous water sampling using a UAV with a cable-suspended mechanism</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 22</p>
+<p>TITLE: PathoINVEST</p>
+<p>ID: 22</p>
+<p>Name: PathoINVEST</p>
+<p>Technology: Digital Twin</p>
+<p>Type: Software</p>
+<p>Data used as input: Various data sources (not specified)</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): PathoINVEST: Pathogen Contamination Investigations During Emergencies</p>
+<p>Paper DOI (if available): 10.4995/wdsa-ccwi2022.2022.14799</p>
+<p>Project ID (if available): 883484</p>
+<p>Project Acronym (if available): PathoCERT</p>
+<p>Service description: Assists first responders and water authorities in investigating and responding to water contamination events</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 23</p>
+<p>TITLE: Land–Water Transition Zone Monitoring Tool</p>
+<p>ID: 23</p>
+<p>Name: Land–Water Transition Zone Monitoring Tool</p>
+<p>Technology: Machine Learning</p>
+<p>Type: Inundation mapping</p>
+<p>Data used as input: Spaceborne imagery</p>
+<p>Produced datasets (openly available): Hydroperiod maps</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Land–Water Transition Zone Monitoring in Support of Drinking Water Production</p>
+<p>Paper DOI (if available): 10.3390/w15142596</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Monitoring changes in water level and dissolved substances in open surface water reservoirs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 24</p>
+<p>TITLE: Muddy Water Mapping Tool</p>
+<p>ID: 24</p>
+<p>Name: Muddy Water Mapping Tool</p>
+<p>Technology: Machine Learning (Random Forest)</p>
+<p>Type: Semantic segmentation</p>
+<p>Data used as input: Sentinel-2 imagery</p>
+<p>Produced datasets (openly available): Muddy water maps</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Towards a Paradigm Shift on Mapping Muddy Waters with Sentinel-2 Using Machine Learning</p>
+<p>Paper DOI (if available): 10.3390/su151813441</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Mapping the presence, frequency, and spatial extent of muddy water in inland drinking water reservoirs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 25</p>
+<p>TITLE: Aquatic Vegetation Mapping Tool</p>
+<p>ID: 25</p>
+<p>Name: Aquatic Vegetation Mapping Tool</p>
+<p>Technology: Machine Learning (Random Forest, Boosting Trees)</p>
+<p>Type: Classification</p>
+<p>Data used as input: Sentinel-2 imagery</p>
+<p>Produced datasets (openly available): Maps of emergent and floating aquatic vegetation</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Machine Learning for Identifying Emergent and Floating Aquatic Vegetation from Space: A Case Study in the Dniester Delta, Ukraine</p>
+<p>Paper DOI (if available): 10.1007/s42979-024-02873-7</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Mapping emergent and floating aquatic vegetation in freshwater ecosystems.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 26</p>
+<p>TITLE: Underwater Aquatic Vegetation Mapping Tool</p>
+<p>ID: 26</p>
+<p>Name: Underwater Aquatic Vegetation Mapping Tool</p>
+<p>Technology: Machine Learning (Logistic Regression, Random Forest, Segment Anything Model)</p>
+<p>Type: Classification</p>
+<p>Data used as input: Airborne and spaceborne images</p>
+<p>Produced datasets (openly available): Maps of underwater aquatic vegetation</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Mapping underwater aquatic vegetation using foundation models with air- and space-borne images: the case of Polyphytos Lake</p>
+<p>Paper DOI (if available): 10.3390/rs15164001</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Mapping underwater aquatic vegetation using air- and space-borne images.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 27</p>
+<p>TITLE: Flood Detection Tool</p>
+<p>ID: 27</p>
+<p>Name: Flood Detection Tool</p>
+<p>Technology: Graph Neural Networks</p>
+<p>Type: Multimodal fusion</p>
+<p>Data used as input: Image, text, and time information from social media and other sources</p>
+<p>Produced datasets (openly available): Flood maps</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Flood-Related Multimedia Benchmark Evaluation: Challenges, Results and a Novel GNN Approach</p>
+<p>Paper DOI (if available): 10.3390/s23073767</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Detecting flood events in real time using multimedia data.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 28</p>
+<p>TITLE: Oil Spill Detection Tool</p>
+<p>ID: 28</p>
+<p>Name: Oil Spill Detection Tool</p>
+<p>Technology: Machine Learning</p>
+<p>Type: Classification</p>
+<p>Data used as input: Multi-spectral satellite images</p>
+<p>Produced datasets (openly available): Oil spill maps</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Detection of oil spills in inland lake using multi-spectral satellite images</p>
+<p>Paper DOI (if available): 10.5281/zenodo.6605875</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Detecting oil spills in inland lakes using multi-spectral satellite images.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 29</p>
+<p>TITLE: WQeMS Platform</p>
+<p>ID: 29</p>
+<p>Name: WQeMS Platform</p>
+<p>Technology: Web-based platform</p>
+<p>Type: Monitoring and analysis</p>
+<p>Data used as input: Various data sources (Sentinel data, in situ data, social media)</p>
+<p>Produced datasets (openly available): Water quality data, maps, alerts</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): WQEMS platform for inland surface water bodies&#39; monitoring: serving user communities and supporting expert analyses</p>
+<p>Paper DOI (if available): 10.1117/12.2680817</p>
+<p>Project ID (if available): 101004157</p>
+<p>Project Acronym (if available): WQeMS</p>
+<p>Service description: Provides an operational water quality emergency monitoring service.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 30</p>
+<p>TITLE: NIRS-based contaminant detection algorithm</p>
+<p>ID: 30</p>
+<p>Name: NIRS-based contaminant detection algorithm</p>
+<p>Technology: Near Infrared Spectroscopy (NIRS), Aquaphotomics</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: NIRS spectra of contaminated water</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 237819</p>
+<p>Project Acronym (if available): AQUASENSE</p>
+<p>Service description: Identifies contaminants in water using NIRS data and aquaphotomics principles.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 31</p>
+<p>TITLE: NIR-CI contaminant detection method</p>
+<p>ID: 31</p>
+<p>Name: NIR-CI contaminant detection method</p>
+<p>Technology: Near Infrared Chemical Imaging (NIR-CI)</p>
+<p>Type: Method</p>
+<p>Data used as input: NIR-CI images of contaminated water</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 237819</p>
+<p>Project Acronym (if available): AQUASENSE</p>
+<p>Service description: Detects contaminants in water using NIR-CI.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 32</p>
+<p>TITLE: Systematically Improving the Efficiency of Grid-Based Coverage Path Planning Methodologies in Real-World UAVs’ Operations</p>
+<p>ID: 32</p>
+<p>Name: Systematically Improving the Efficiency of Grid-Based Coverage Path Planning Methodologies in Real-World UAVs’ Operations</p>
+<p>Technology: Grid-based Coverage Path Planning (CPP)</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: UAV flight data</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.3390/drones7060399</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Improved efficiency of grid-based CPP methodologies for UAVs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 33</p>
+<p>TITLE: Fuzzy clustering for the within-season estimation of cotton phenology</p>
+<p>ID: 33</p>
+<p>Name: Fuzzy clustering for the within-season estimation of cotton phenology</p>
+<p>Technology: Fuzzy c-means clustering</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Sentinel-2 data, weather and soil data</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1371/journal.pone.0282364</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Within-season cotton phenology estimation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 34</p>
+<p>TITLE: Deep Learning for Remote Sensing Image Downscaling: Fusion and Super-Resolution</p>
+<p>ID: 34</p>
+<p>Name: Deep Learning for Remote Sensing Image Downscaling: Fusion and Super-Resolution</p>
+<p>Technology: Deep Learning</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Remote sensing images</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1109/mgrs.2022.3171836</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Remote sensing image downscaling using deep learning.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 35</p>
+<p>TITLE: Recurrent U-Net based dynamic paddy rice mapping in South Korea with enhanced data compatibility to support agricultural decision making</p>
+<p>ID: 35</p>
+<p>Name: Recurrent U-Net based dynamic paddy rice mapping in South Korea with enhanced data compatibility to support agricultural decision making</p>
+<p>Technology: Recurrent U-Net</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Satellite imagery</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1080/15481603.2023.2206539</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Dynamic paddy rice mapping using Recurrent U-Net.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 36</p>
+<p>TITLE: COLLABORATIVE PLATFORM FOR PROTOTYPING, DEVELOPING AND EXECUTING EO AND AI BASED SERVICES</p>
+<p>ID: 36</p>
+<p>Name: COLLABORATIVE PLATFORM FOR PROTOTYPING, DEVELOPING AND EXECUTING EO AND AI BASED SERVICES</p>
+<p>Technology: Collaborative Platform</p>
+<p>Type: Platform</p>
+<p>Data used as input: EO and AI data</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5281/zenodo.10454558</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Platform for prototyping, developing, and executing EO and AI based services.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 37</p>
+<p>TITLE: DataCAP: Sentinel datacubes, crowdsourced street-level images and annotated benchmark datasets for the monitoring of the CAP</p>
+<p>ID: 37</p>
+<p>Name: DataCAP: Sentinel datacubes, crowdsourced street-level images and annotated benchmark datasets for the monitoring of the CAP</p>
+<p>Technology: DataCAP</p>
+<p>Type: Dataset</p>
+<p>Data used as input: Sentinel data, crowdsourced street-level images</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No DOI available</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Dataset for monitoring the Common Agricultural Policy (CAP).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 38</p>
+<p>TITLE: BiasUNet: Learning Change Detection over Sentinel-2 Image Pairs</p>
+<p>ID: 38</p>
+<p>Name: BiasUNet: Learning Change Detection over Sentinel-2 Image Pairs</p>
+<p>Technology: BiasUNet</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Sentinel-2 image pairs</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5281/zenodo.7037539</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Change detection over Sentinel-2 image pairs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 39</p>
+<p>TITLE: MuseHash: Supervised Bayesian Hashing for Multimodal Image Representation</p>
+<p>ID: 39</p>
+<p>Name: MuseHash: Supervised Bayesian Hashing for Multimodal Image Representation</p>
+<p>Technology: MuseHash</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Multimodal image data</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1145/3591106.3592228</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Supervised Bayesian Hashing for multimodal image representation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 40</p>
+<p>TITLE: BiasHash: A Bayesian Hashing Frameworkfor Image Retrieval</p>
+<p>ID: 40</p>
+<p>Name: BiasHash: A Bayesian Hashing Frameworkfor Image Retrieval</p>
+<p>Technology: BiasHash</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Image data</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1109/ivmsp54334.2022.9816233</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Bayesian Hashing framework for image retrieval.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 41</p>
+<p>TITLE: VERGE in VBS 2023</p>
+<p>ID: 41</p>
+<p>Name: VERGE in VBS 2023</p>
+<p>Technology: VERGE</p>
+<p>Type: System</p>
+<p>Data used as input: Unspecified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1007/978-3-031-27077-2_55</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: System (details unspecified).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 42</p>
+<p>TITLE: Filling Cloud Gaps on Optical Time-Series through Optical and SAR Data Fusion for Cropland Monitoring</p>
+<p>ID: 42</p>
+<p>Name: Filling Cloud Gaps on Optical Time-Series through Optical and SAR Data Fusion for Cropland Monitoring</p>
+<p>Technology: Cloud Gap Filling</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Optical and SAR data</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5281/zenodo.7056724</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Cloud gap filling for optical time series using SAR data.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 43</p>
+<p>TITLE: Fusion of multiple classifiers using self supervised learning for satellite image change detection</p>
+<p>ID: 43</p>
+<p>Name: Fusion of multiple classifiers using self supervised learning for satellite image change detection</p>
+<p>Technology: Multiple Classifier Fusion</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Satellite images</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1007/978-3-031-27818-1_51</p>
+<p>Project ID (if available): 101004152</p>
+<p>Project Acronym (if available): CALLISTO</p>
+<p>Service description: Satellite image change detection using multiple classifiers.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 44</p>
+<p>TITLE: SyDWEM</p>
+<p>ID: 44</p>
+<p>Name: SyDWEM</p>
+<p>Technology: System Dynamics and Water Environmental Model</p>
+<p>Type: Integrated Water System Model</p>
+<p>Data used as input: Rainfall, runoff, water quality data, socio-economic data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 908448</p>
+<p>Project Acronym (if available): AMWRUC</p>
+<p>Service description: Simulates dynamic interactions between socio-economic system, water infrastructure, and receiving water; assesses effects of socio-economic and engineering measures on environmental and development indicators.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 45</p>
+<p>TITLE: SWMM</p>
+<p>ID: 45</p>
+<p>Name: SWMM</p>
+<p>Technology: Storm Water Management Model</p>
+<p>Type: Hydrological Model</p>
+<p>Data used as input: Rainfall data, catchment characteristics</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 908448</p>
+<p>Project Acronym (if available): AMWRUC</p>
+<p>Service description: Analyzes the performance of low impact development systems on urban flooding reduction.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 46</p>
+<p>TITLE: Copula-based multivariate frequency modelling of flood extremes</p>
+<p>ID: 46</p>
+<p>Name: Copula-based multivariate frequency modelling of flood extremes</p>
+<p>Technology: Copula-based statistical modeling</p>
+<p>Type: Statistical model</p>
+<p>Data used as input: Multivariate flood data, historical and regional ungauged extremes</p>
+<p>Project ID (if available): 301953</p>
+<p>Project Acronym (if available): IMPALA</p>
+<p>Service description: Multivariate flood frequency analysis accounting for non-stationarity.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 47</p>
+<p>TITLE: Methodology for identification of storm events with convective character</p>
+<p>ID: 47</p>
+<p>Name: Methodology for identification of storm events with convective character</p>
+<p>Technology: Convective rainfall event identification</p>
+<p>Type: Method</p>
+<p>Data used as input: High-resolution climatological data, lightning activity</p>
+<p>Paper (if available): Gaál et al. (2014, HESS)</p>
+<p>Project ID (if available): 301953</p>
+<p>Project Acronym (if available): IMPALA</p>
+<p>Service description: Identifies convective storms using lightning activity as an indicator.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 48</p>
+<p>TITLE: Method for differentiating between convective and stratiform rainfall events</p>
+<p>ID: 48</p>
+<p>Name: Method for differentiating between convective and stratiform rainfall events</p>
+<p>Technology: Rainfall event classification</p>
+<p>Type: Method</p>
+<p>Data used as input: Rainfall data</p>
+<p>Project ID (if available): 301953</p>
+<p>Project Acronym (if available): IMPALA</p>
+<p>Service description: Classifies rainfall events as convective or stratiform.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 49</p>
+<p>TITLE: Open source software tools</p>
+<p>ID: 49</p>
+<p>Name: Open source software tools</p>
+<p>Technology: R and Python</p>
+<p>Type: Software Library</p>
+<p>Data used as input: Catchment data, model outputs</p>
+<p>Produced datasets (openly available): Uncertainty analysis results, optimized sampling strategies</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Project ID (if available): 607000</p>
+<p>Project Acronym (if available): QUICS</p>
+<p>Service description: Enable uncertainty analysis with existing software packages</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 50</p>
+<p>TITLE: EcoWater Toolbox</p>
+<p>ID: 50</p>
+<p>Name: EcoWater Toolbox</p>
+<p>Technology: Web-based platform</p>
+<p>Type: Software suite</p>
+<p>Data used as input: Data from SEAT and EVAT, technology inventory</p>
+<p>Produced datasets (openly available): Case study results, technology inventory</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 282882</p>
+<p>Project Acronym (if available): EcoWater</p>
+<p>Service description: Eco-efficiency assessment of water use systems at the meso-level</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 51</p>
+<p>TITLE: Systemic Environmental Analysis Tool (SEAT)</p>
+<p>ID: 51</p>
+<p>Name: Systemic Environmental Analysis Tool (SEAT)</p>
+<p>Technology: Interactive graphical modelling environment</p>
+<p>Type: Software</p>
+<p>Data used as input: Material flow data</p>
+<p>Produced datasets (openly available): Elementary flows of resources and emissions</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 282882</p>
+<p>Project Acronym (if available): EcoWater</p>
+<p>Service description: Modeling of material and energy flows in water use systems</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 52</p>
+<p>TITLE: Economic Value Chain Analysis Tool (EVAT)</p>
+<p>ID: 52</p>
+<p>Name: Economic Value Chain Analysis Tool (EVAT)</p>
+<p>Technology: Interactive modelling environment</p>
+<p>Type: Software</p>
+<p>Data used as input: Data from SEAT, economic data</p>
+<p>Produced datasets (openly available): Total value added, net economic output per actor</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 282882</p>
+<p>Project Acronym (if available): EcoWater</p>
+<p>Service description: Economic assessment of water value chains</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 53</p>
+<p>TITLE: Tourism-CCIA Tool</p>
+<p>ID: 53</p>
+<p>Name: Tourism-CCIA Tool</p>
+<p>Technology: GIS-based</p>
+<p>Type: Impact Assessment Tool</p>
+<p>Data used as input: Climate data (WorldClim, FutureClim, Rossby Centre, E-OBS, Prudence, WASSERMed projects), tourism data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Assesses climate change impacts on tourism, focusing on trends, seasonality, income and water demand.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 54</p>
+<p>TITLE: Water Strategy Man Decision Support System (WSM DSS)</p>
+<p>ID: 54</p>
+<p>Name: Water Strategy Man Decision Support System (WSM DSS)</p>
+<p>Technology: GIS-based</p>
+<p>Type: Decision Support System</p>
+<p>Data used as input: Water quantity and quality data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Assesses water quantity and quality, and outputs results as a suite of indicators. Includes modules for water availability, demand, allocation, balance, economic analysis and multi-criteria analysis.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 55</p>
+<p>TITLE: ECRI optimization model</p>
+<p>ID: 55</p>
+<p>Name: ECRI optimization model</p>
+<p>Technology: Not specified</p>
+<p>Type: Optimization Model</p>
+<p>Data used as input: Climate data, crop and yield data, fertilizer data, cost data, manpower data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Identifies best options to minimize climate change impacts in water and agricultural sectors.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 56</p>
+<p>TITLE: WEAP model</p>
+<p>ID: 56</p>
+<p>Name: WEAP model</p>
+<p>Technology: Not specified</p>
+<p>Type: Water Resources Model</p>
+<p>Data used as input: Climate and land use data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Simulates the influence of precipitation decrease and irrigated area increase on groundwater resources, and tests adaptation measures.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 57</p>
+<p>TITLE: SIMETAW</p>
+<p>ID: 57</p>
+<p>Name: SIMETAW</p>
+<p>Technology: Not specified</p>
+<p>Type: Soil Water Budget and Crop Evapotranspiration Model</p>
+<p>Data used as input: Climate data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Estimates irrigation requirements.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 58</p>
+<p>TITLE: CROPWAT</p>
+<p>ID: 58</p>
+<p>Name: CROPWAT</p>
+<p>Technology: Not specified</p>
+<p>Type: Crop Water Requirement Model</p>
+<p>Data used as input: Climate data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Estimates crop water requirements.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 59</p>
+<p>TITLE: AquaCrop</p>
+<p>ID: 59</p>
+<p>Name: AquaCrop</p>
+<p>Technology: Not specified</p>
+<p>Type: Crop Water Requirement Model</p>
+<p>Data used as input: Climate data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Estimates crop water requirements.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 60</p>
+<p>TITLE: System Dynamics Modelling (SDM)</p>
+<p>ID: 60</p>
+<p>Name: System Dynamics Modelling (SDM)</p>
+<p>Technology: Not specified</p>
+<p>Type: System Dynamics Model</p>
+<p>Data used as input: Various data (water, food, economy)</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 244255</p>
+<p>Project Acronym (if available): WASSERMED</p>
+<p>Service description: Models complex integrated systems with feedback and delays.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 61</p>
+<p>TITLE: WISERbugs (WISER Bioassessment Uncertainty Guidance Software)</p>
+<p>ID: 61</p>
+<p>Name: WISERbugs (WISER Bioassessment Uncertainty Guidance Software)</p>
+<p>Technology: Software</p>
+<p>Type: Uncertainty analysis</p>
+<p>Data used as input: Taxa data</p>
+<p>Project ID (if available): 226273</p>
+<p>Project Acronym (if available): WISER</p>
+<p>Service description: Estimates uncertainty in water body assessment due to spatio-temporal and methodological variability.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 62</p>
+<p>TITLE: LakeLoadResponse (LLR) Internet tool</p>
+<p>ID: 62</p>
+<p>Name: LakeLoadResponse (LLR) Internet tool</p>
+<p>Technology: Web application</p>
+<p>Type: Nutrient load estimation</p>
+<p>Data used as input: Chlorophyll a data from European lakes</p>
+<p>Project ID (if available): 226273</p>
+<p>Project Acronym (if available): WISER</p>
+<p>Service description: Estimates nutrient load reduction required to achieve good ecological status under various climate scenarios.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 63</p>
+<p>TITLE: Taxa entry tool</p>
+<p>ID: 63</p>
+<p>Name: Taxa entry tool</p>
+<p>Technology: Software</p>
+<p>Type: Taxa data entry</p>
+<p>Data used as input: Aquatic assemblage data</p>
+<p>Project ID (if available): 226273</p>
+<p>Project Acronym (if available): WISER</p>
+<p>Service description: Generates taxonomically correct taxa lists of aquatic assemblages.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 64</p>
+<p>TITLE: Interactive web-tool</p>
+<p>ID: 64</p>
+<p>Name: Interactive web-tool</p>
+<p>Technology: Web application</p>
+<p>Type: Cause-effect chain analysis</p>
+<p>Data used as input: River restoration data</p>
+<p>Project ID (if available): 226273</p>
+<p>Project Acronym (if available): WISER</p>
+<p>Service description: Derives existing knowledge about cause-effect chains in river restoration.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 65</p>
+<p>TITLE: HYDROSYS</p>
+<p>ID: 65</p>
+<p>Name: HYDROSYS</p>
+<p>Technology: X-band polarimetric mini-radar</p>
+<p>Type: Hardware</p>
+<p>Produced datasets (openly available): Radar data</p>
+<p>Project ID (if available): 232156</p>
+<p>Project Acronym (if available): HYDRORAD</p>
+<p>Service description: Low-cost, dual-polarization X-band radar for quantitative precipitation estimates</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 66</p>
+<p>TITLE: HYDROALG</p>
+<p>ID: 66</p>
+<p>Name: HYDROALG</p>
+<p>Technology: X-band polarimetric radar retrieval algorithms</p>
+<p>Type: Software</p>
+<p>Data used as input: Raw radar data, temperature information</p>
+<p>Produced datasets (openly available): Hydrometeor classification, water content, path-attenuation correction, vertical profile correction, rain-rate estimation, nowcasting</p>
+<p>Project ID (if available): 232156</p>
+<p>Project Acronym (if available): HYDRORAD</p>
+<p>Service description: Suite of algorithms for processing polarimetric X-band radar data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 67</p>
+<p>TITLE: HYDROWAT</p>
+<p>ID: 67</p>
+<p>Name: HYDROWAT</p>
+<p>Technology: Hydrological model</p>
+<p>Type: Software</p>
+<p>Data used as input: X-band radar rainfall products, weather forecast model outputs, rain gauge measurements</p>
+<p>Produced datasets (openly available): River runoff predictions</p>
+<p>Project ID (if available): 232156</p>
+<p>Project Acronym (if available): HYDRORAD</p>
+<p>Service description: Hydrological model for predicting river runoff</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 68</p>
+<p>TITLE: HYDROMET</p>
+<p>ID: 68</p>
+<p>Name: HYDROMET</p>
+<p>Technology: Weather forecast model</p>
+<p>Type: Software</p>
+<p>Data used as input: X-band radar high-resolution products</p>
+<p>Produced datasets (openly available): Short-to-medium range weather forecasts</p>
+<p>Project ID (if available): 232156</p>
+<p>Project Acronym (if available): HYDRORAD</p>
+<p>Service description: Weather forecast model for short-to-medium range predictions</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 69</p>
+<p>TITLE: HYDRONET</p>
+<p>ID: 69</p>
+<p>Name: HYDRONET</p>
+<p>Technology: Data post-processing integration/validation</p>
+<p>Type: Software</p>
+<p>Data used as input: Mini-radar network products, raingauges, disdrometer, X-POL radar</p>
+<p>Produced datasets (openly available): Integrated observations and predictions</p>
+<p>Project ID (if available): 232156</p>
+<p>Project Acronym (if available): HYDRORAD</p>
+<p>Service description: Tool for analysis and validation of mini-radar network products</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 70</p>
+<p>TITLE: LandSFACTS software</p>
+<p>ID: 70</p>
+<p>Name: LandSFACTS software</p>
+<p>Technology: Software</p>
+<p>Type: Quantitative land use change modelling</p>
+<p>Data used as input: Socio-economic drivers, climate change scenarios, land capability</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Generates quantitative land use change scenarios</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 71</p>
+<p>TITLE: Bayesian Network model for Lake Vansjø</p>
+<p>ID: 71</p>
+<p>Name: Bayesian Network model for Lake Vansjø</p>
+<p>Technology: Bayesian Network</p>
+<p>Type: Predictive modelling</p>
+<p>Data used as input: Biological response variables, REFRESH scenarios, catchment and lake modelling data</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Links biological response variables with REFRESH scenarios and catchment/lake modelling</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 72</p>
+<p>TITLE: REFRESH models</p>
+<p>ID: 72</p>
+<p>Name: REFRESH models</p>
+<p>Technology: Integrated catchment models</p>
+<p>Type: Ecological forecasting</p>
+<p>Data used as input: Reviews, analyses, experiments, local models</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Simulates future water quantity, quality, and ecology at the catchment scale</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 73</p>
+<p>TITLE: Bayesian Belief Networks</p>
+<p>ID: 73</p>
+<p>Name: Bayesian Belief Networks</p>
+<p>Technology: Bayesian Networks</p>
+<p>Type: Predictive modelling</p>
+<p>Data used as input: Multiple stress factors</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Describes impacts of multiple stresses on streamwater macro-invertebrate biodiversity, riparian plant diversity, macrophyte status, and algal-cyanobacterial interactions in lakes</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 74</p>
+<p>TITLE: Extended CBA tool</p>
+<p>ID: 74</p>
+<p>Name: Extended CBA tool</p>
+<p>Technology: Cost-Benefit Analysis</p>
+<p>Type: Economic Evaluation</p>
+<p>Data used as input: Ecological and economic outcomes, stakeholder dialogue, farm and sub-catchment modelling</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Assesses cost-effectiveness of water quality enhancement strategies, considering land management variability</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 75</p>
+<p>TITLE: INCA-N and INCA-P</p>
+<p>ID: 75</p>
+<p>Name: INCA-N and INCA-P</p>
+<p>Technology: Nutrient transport models</p>
+<p>Type: Simulation</p>
+<p>Data used as input: Land use and climate change data</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 244121</p>
+<p>Project Acronym (if available): REFRESH</p>
+<p>Service description: Models nutrient and sediment transport in the Louros catchment</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 76</p>
+<p>TITLE: Anura3D</p>
+<p>ID: 76</p>
+<p>Name: Anura3D</p>
+<p>Technology: Material Point Method (MPM)</p>
+<p>Type: 3D computer code</p>
+<p>Data used as input: Soil properties, fluid properties, boundary conditions</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 324522</p>
+<p>Project Acronym (if available): MPM-DREDGE</p>
+<p>Service description: Modeling large deformation problems for soil-fluid interaction, including generation and dissipation of (excess) pore pressures</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 77</p>
+<p>TITLE: Mathematical model for WWTP optimization</p>
+<p>ID: 77</p>
+<p>Name: Mathematical model for WWTP optimization</p>
+<p>Technology: Mathematical programming</p>
+<p>Type: Software</p>
+<p>Data used as input: WWTP operational data, influent characteristics, effluent requirements</p>
+<p>Produced datasets (openly available): Optimized operational strategies, microbial group behavior</p>
+<p>Project ID (if available): 627475</p>
+<p>Project Acronym (if available): GREENCOST</p>
+<p>Service description: Optimization of WWTP operation to minimize GHG emissions and nutrient release.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 78</p>
+<p>TITLE: Control system for WWTP</p>
+<p>ID: 78</p>
+<p>Name: Control system for WWTP</p>
+<p>Technology: Control system</p>
+<p>Type: Hardware/Software</p>
+<p>Data used as input: Mathematical model outputs, real-time WWTP sensor data</p>
+<p>Produced datasets (openly available): Real-time adjustments to WWTP operation</p>
+<p>Project ID (if available): 627475</p>
+<p>Project Acronym (if available): GREENCOST</p>
+<p>Service description: Real-time regulation of plant carbon footprint and effluent quality.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 79</p>
+<p>TITLE: Data analysis tools for WWTP energy benchmarking</p>
+<p>ID: 79</p>
+<p>Name: Data analysis tools for WWTP energy benchmarking</p>
+<p>Technology: Statistical and programming techniques</p>
+<p>Type: Software</p>
+<p>Data used as input: WWTP energy consumption data</p>
+<p>Produced datasets (openly available): Benchmarking results, energy reduction strategies</p>
+<p>Project ID (if available): 627475</p>
+<p>Project Acronym (if available): GREENCOST</p>
+<p>Service description: Evaluation and benchmarking of energy consumption in WWTPs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 80</p>
+<p>TITLE: SALTMED model</p>
+<p>ID: 80</p>
+<p>Name: SALTMED model</p>
+<p>Technology: Simulation model</p>
+<p>Type: Software</p>
+<p>Data used as input: Climate data, soil data, crop data, irrigation data, fertilizer data</p>
+<p>Produced datasets (openly available): Model outputs, calibrated and validated data</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 212337</p>
+<p>Project Acronym (if available): SWUP-MED</p>
+<p>Service description: Crop growth simulation, yield prediction, impact assessment of different management practices under various climate scenarios. Includes sub-models for crop growth, crop rotations, nitrogen dynamics, soil temperature, dry matter and marketable yield, subsurface irrigation, deficit irrigation, drainage flow, evapotranspiration. Accounts for environmental stresses such as temperature, CO2 level, water logging, soil oxygen level, nitrogen level, salinity level and drought.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 81</p>
+<p>TITLE: SCENT tool</p>
+<p>ID: 81</p>
+<p>Name: SCENT tool</p>
+<p>Technology: Chemical plants</p>
+<p>Type: Micro economic assessment</p>
+<p>Data used as input: Equipment list</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not available</p>
+<p>Project ID (if available): 227078</p>
+<p>Project Acronym (if available): PROSUITE</p>
+<p>Service description: Estimates costs at the right functional unit and capacity level.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 82</p>
+<p>TITLE: THEMIS model</p>
+<p>ID: 82</p>
+<p>Name: THEMIS model</p>
+<p>Technology: Various</p>
+<p>Type: Macro economic assessment</p>
+<p>Data used as input: Expenditures related to technology</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not available</p>
+<p>Project ID (if available): 227078</p>
+<p>Project Acronym (if available): PROSUITE</p>
+<p>Service description: Conducts macro-economic impact analysis using a hybrid input-output model.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 83</p>
+<p>TITLE: Diffusion module</p>
+<p>ID: 83</p>
+<p>Name: Diffusion module</p>
+<p>Technology: Various</p>
+<p>Type: Market analysis</p>
+<p>Data used as input: Technology output</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not available</p>
+<p>Project ID (if available): 227078</p>
+<p>Project Acronym (if available): PROSUITE</p>
+<p>Service description: Estimates market volume using a vintage capital model and S-shaped diffusion curve.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 84</p>
+<p>TITLE: OpenLCA</p>
+<p>ID: 84</p>
+<p>Name: OpenLCA</p>
+<p>Technology: Various</p>
+<p>Type: Decision Support System</p>
+<p>Data used as input: Data from various sources</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): Yes</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): Not available</p>
+<p>Project ID (if available): 227078</p>
+<p>Project Acronym (if available): PROSUITE</p>
+<p>Service description: Integrates methods and tools for sustainability assessment.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 85</p>
+<p>TITLE: Hydrostatic Pressure Machine (HPM)</p>
+<p>ID: 85</p>
+<p>Name: Hydrostatic Pressure Machine (HPM)</p>
+<p>Technology: Hydrostatic pressure</p>
+<p>Type: Turbine</p>
+<p>Data used as input: Theoretical work, physical and numerical modelling</p>
+<p>Produced datasets (openly available): Mechanical and electrical efficiencies, fish passage data, sediment transport data</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Hydropower generation from low head differences in rivers</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 86</p>
+<p>TITLE: Floating or free stream energy converter (FSEC)</p>
+<p>ID: 86</p>
+<p>Name: Floating or free stream energy converter (FSEC)</p>
+<p>Technology: Kinetic energy</p>
+<p>Type: Converter</p>
+<p>Data used as input: Model tests, tow tests, CFD simulations</p>
+<p>Produced datasets (openly available): Power output, efficiency, environmental impact data</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Hydropower generation from river currents</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 87</p>
+<p>TITLE: Micro-turbines</p>
+<p>ID: 87</p>
+<p>Name: Micro-turbines</p>
+<p>Technology: Turbine</p>
+<p>Type: Turbine</p>
+<p>Data used as input: Tests, computational fluid dynamics (CFD) models</p>
+<p>Produced datasets (openly available): Power output, efficiency</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Hydropower generation from pressure drops in water pipelines</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 88</p>
+<p>TITLE: Hydrostatic Pressure Wheel (HPW)</p>
+<p>ID: 88</p>
+<p>Name: Hydrostatic Pressure Wheel (HPW)</p>
+<p>Technology: Hydrostatic pressure</p>
+<p>Type: Turbine</p>
+<p>Data used as input: Theoretical work, physical and numerical modelling</p>
+<p>Produced datasets (openly available): Mechanical and electrical efficiencies</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Hydropower generation from very low head differences</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 89</p>
+<p>TITLE: Numerical model of HPM</p>
+<p>ID: 89</p>
+<p>Name: Numerical model of HPM</p>
+<p>Technology: Computational Fluid Dynamics (CFD)</p>
+<p>Type: Software</p>
+<p>Data used as input: Experimental data from physical models</p>
+<p>Produced datasets (openly available): Optimized HPM blade geometry</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Optimization of HPM geometry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 90</p>
+<p>TITLE: Numerical model of FSEC</p>
+<p>ID: 90</p>
+<p>Name: Numerical model of FSEC</p>
+<p>Technology: Computational Fluid Dynamics (CFD)</p>
+<p>Type: Software</p>
+<p>Data used as input: Experimental data from model tests</p>
+<p>Produced datasets (openly available): Optimized FSEC design parameters</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Optimization of FSEC design</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 91</p>
+<p>TITLE: Hydraulic power take-off</p>
+<p>ID: 91</p>
+<p>Name: Hydraulic power take-off</p>
+<p>Technology: Hydraulic power</p>
+<p>Type: System</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Low-cost system for pumping water, storing energy, and generating electricity</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 92</p>
+<p>TITLE: Simplified HPM</p>
+<p>ID: 92</p>
+<p>Name: Simplified HPM</p>
+<p>Technology: Hydrostatic pressure</p>
+<p>Type: Turbine</p>
+<p>Data used as input: Adaptation of HPM for low power outputs and very low head differences</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Simplified HPM for developing countries</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 93</p>
+<p>TITLE: Fish pass</p>
+<p>ID: 93</p>
+<p>Name: Fish pass</p>
+<p>Technology: Fish passage</p>
+<p>Type: Structure</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Improved fish passage through weirs</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 94</p>
+<p>TITLE: Sediment guidance structures</p>
+<p>ID: 94</p>
+<p>Name: Sediment guidance structures</p>
+<p>Technology: Sediment management</p>
+<p>Type: Structure</p>
+<p>Data used as input: Morphodynamic regime data</p>
+<p>Project ID (if available): 212423</p>
+<p>Project Acronym (if available): HYLOW</p>
+<p>Service description: Minimizes sediment impact on HPM operation</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 95</p>
+<p>TITLE: Blue-City-Index®</p>
+<p>ID: 95</p>
+<p>Name: Blue-City-Index®</p>
+<p>Type: Quick scan assessment</p>
+<p>Data used as input: Questionnaire data</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Quick assessment of urban water service sustainability</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 96</p>
+<p>TITLE: Financial Sustainability Rating Tool (FSRT)</p>
+<p>ID: 96</p>
+<p>Name: Financial Sustainability Rating Tool (FSRT)</p>
+<p>Type: Self-assessment</p>
+<p>Data used as input: Financial data of water utilities</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Rates the financial sustainability of water utilities</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 97</p>
+<p>TITLE: Self-Audit Adaptive Potential Tool (APSA)</p>
+<p>ID: 97</p>
+<p>Name: Self-Audit Adaptive Potential Tool (APSA)</p>
+<p>Type: Self-assessment</p>
+<p>Data used as input: Data on organizational adaptive capacity</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Assesses organizational adaptive capacity in water sector</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 98</p>
+<p>TITLE: WaterMet2</p>
+<p>ID: 98</p>
+<p>Name: WaterMet2</p>
+<p>Technology: System dynamics</p>
+<p>Type: Metabolism model</p>
+<p>Data used as input: Water, energy, material flows data</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Simulates urban water flows, energy, GHG emissions, materials, and pollutants</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 99</p>
+<p>TITLE: Dynamic Metabolism Model (DMM)</p>
+<p>ID: 99</p>
+<p>Name: Dynamic Metabolism Model (DMM)</p>
+<p>Technology: Spreadsheet</p>
+<p>Type: Metabolism model</p>
+<p>Data used as input: Recorded data</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Documents flows and stocks of materials, chemicals, energy consumption, and environmental impacts</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 100</p>
+<p>TITLE: ADAPT (A Drainage Analysis and Planning Tool)</p>
+<p>ID: 100</p>
+<p>Name: ADAPT (A Drainage Analysis and Planning Tool)</p>
+<p>Technology: GIS based</p>
+<p>Type: Multi-objective optimization</p>
+<p>Data used as input: Hydrological data, asset data</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Optimizes drainage systems considering asset size, cost, and performance criteria</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 101</p>
+<p>TITLE: PaVLOS</p>
+<p>ID: 101</p>
+<p>Name: PaVLOS</p>
+<p>Type: Energy and leakage management</p>
+<p>Data used as input: Pressure and energy data from water distribution systems</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Optimizes pump scheduling and valve actuation to reduce leakage and energy consumption</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 102</p>
+<p>TITLE: AWARE-P</p>
+<p>ID: 102</p>
+<p>Name: AWARE-P</p>
+<p>Technology: Software</p>
+<p>Type: Infrastructure asset management</p>
+<p>Data used as input: Asset registry, geo-databases, KPIs, financial and operational data</p>
+<p>Project Acronym (if available): AWARE-P</p>
+<p>Service description: Supports infrastructure asset management planning, spatial analysis, and system diagnosis</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 103</p>
+<p>TITLE: PLAN</p>
+<p>ID: 103</p>
+<p>Name: PLAN</p>
+<p>Technology: Software</p>
+<p>Type: Decision Support</p>
+<p>Data used as input: Data from various sources</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Supports diagnosis and alternative comparing, ranking and selection.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 104</p>
+<p>TITLE: FIN</p>
+<p>ID: 104</p>
+<p>Name: FIN</p>
+<p>Technology: Software</p>
+<p>Type: Financial assessment</p>
+<p>Data used as input: Financial project data</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Assesses main economic indicators of projects (e.g., net present value)</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 105</p>
+<p>TITLE: TRUST DSS (web-based)</p>
+<p>ID: 105</p>
+<p>Name: TRUST DSS (web-based)</p>
+<p>Technology: Web-based</p>
+<p>Type: Decision support</p>
+<p>Data used as input: WaterMet2 model outputs</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Quantifies impact of interventions on UWS performance, risks, and costs</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 106</p>
+<p>TITLE: TRUST DSS (desktop)</p>
+<p>ID: 106</p>
+<p>Name: TRUST DSS (desktop)</p>
+<p>Technology: Desktop</p>
+<p>Type: Decision Support</p>
+<p>Data used as input: WaterMet2 model outputs</p>
+<p>Project ID (if available): 265122</p>
+<p>Project Acronym (if available): TRUST</p>
+<p>Service description: Allows interactive construction and evaluation of intervention strategies using WaterMet2 model</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 107</p>
+<p>TITLE: M55-Geophysica Aircraft</p>
+<p>ID: 107</p>
+<p>Name: M55-Geophysica Aircraft</p>
+<p>Technology: High-flying research aircraft</p>
+<p>Type: Aircraft platform</p>
+<p>Data used as input: Various gas-phase and particle parameters</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Atmospheric chemistry, dynamics, and microphysics analysis</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 108</p>
+<p>TITLE: 3-channel single particle and bulk aerosol mass spectrometer</p>
+<p>ID: 108</p>
+<p>Name: 3-channel single particle and bulk aerosol mass spectrometer</p>
+<p>Technology: Aerosol mass spectrometer</p>
+<p>Type: Instrument</p>
+<p>Data used as input: Atmospheric particles</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Complete particle characterization</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 109</p>
+<p>TITLE: Holographic cloud particle imaging instrument</p>
+<p>ID: 109</p>
+<p>Name: Holographic cloud particle imaging instrument</p>
+<p>Technology: Holographic imaging</p>
+<p>Type: Instrument</p>
+<p>Data used as input: Cloud particles</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Cloud particle shape measurement</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 110</p>
+<p>TITLE: Palau Atmospheric Observatory (PAO)</p>
+<p>ID: 110</p>
+<p>Name: Palau Atmospheric Observatory (PAO)</p>
+<p>Technology: Atmospheric Observatory</p>
+<p>Type: Station</p>
+<p>Data used as input: O3, H2O, NO2, OCS</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Continuous observations of atmospheric parameters</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 111</p>
+<p>TITLE: MuLid</p>
+<p>ID: 111</p>
+<p>Name: MuLid</p>
+<p>Technology: Lidar system</p>
+<p>Type: Instrument</p>
+<p>Data used as input: Atmospheric profiles</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Aerosol and cloud detection</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 112</p>
+<p>TITLE: ComCAL</p>
+<p>ID: 112</p>
+<p>Name: ComCAL</p>
+<p>Technology: Lidar</p>
+<p>Type: Instrument</p>
+<p>Data used as input: UTLS region above Palau</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Aerosol and subvisible cloud detection</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 113</p>
+<p>TITLE: Pandora 2-S</p>
+<p>ID: 113</p>
+<p>Name: Pandora 2-S</p>
+<p>Technology: MaxDOAS instrument</p>
+<p>Type: Instrument</p>
+<p>Data used as input: Atmospheric trace gases</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: O3, NO2, and AOD retrievals</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 114</p>
+<p>TITLE: MICA</p>
+<p>ID: 114</p>
+<p>Name: MICA</p>
+<p>Technology: Ground-based instrument</p>
+<p>Type: Instrument</p>
+<p>Data used as input: OCS, CO, CO2, H2O</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Trace gas measurements</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 115</p>
+<p>TITLE: Vaisala RS41 meteorological radiosondes, Electrochemical Concentration Cell (ECC), Cryogenic Frost-point Hygrometer (CFH), Compact Optical Backscatter Aerosol Detector (COBALD)</p>
+<p>ID: 115</p>
+<p>Name: Vaisala RS41 meteorological radiosondes, Electrochemical Concentration Cell (ECC), Cryogenic Frost-point Hygrometer (CFH), Compact Optical Backscatter Aerosol Detector (COBALD)</p>
+<p>Technology: Balloon-borne instruments</p>
+<p>Type: Instruments</p>
+<p>Data used as input: Pressure, temperature, O3, H2O, aerosol backscatter</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Atmospheric profile measurements</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 116</p>
+<p>TITLE: Cryogenic frostpoint hygrometers (CFH)</p>
+<p>ID: 116</p>
+<p>Name: Cryogenic frostpoint hygrometers (CFH)</p>
+<p>Technology: Balloon-borne instrument</p>
+<p>Type: Instrument</p>
+<p>Data used as input: Stratospheric water vapor profiles</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Stratospheric water vapor profile retrieval</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 117</p>
+<p>TITLE: Mission Support System (MSS)</p>
+<p>ID: 117</p>
+<p>Name: Mission Support System (MSS)</p>
+<p>Technology: Software</p>
+<p>Type: Software</p>
+<p>Data used as input: Meteorological data, flight parameters</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Flight planning and monitoring</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 118</p>
+<p>TITLE: SWIFT</p>
+<p>ID: 118</p>
+<p>Name: SWIFT</p>
+<p>Technology: Interactive stratospheric chemistry module</p>
+<p>Type: Model</p>
+<p>Data used as input: Key species involved in polar ozone depletion</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Project ID (if available): 603557</p>
+<p>Project Acronym (if available): STRATOCLIM</p>
+<p>Service description: Simulation of polar ozone depletion</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 119</p>
+<p>TITLE: Bioclimatic models</p>
+<p>ID: 119</p>
+<p>Name: Bioclimatic models</p>
+<p>Technology: Support Vector Machine algorithm</p>
+<p>Type: Risk assessment model</p>
+<p>Data used as input: Climate data, species distribution data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 251785</p>
+<p>Project Acronym (if available): FRESIS</p>
+<p>Service description: Predicting the risk of invasion by Dikerogammarus villosus in Great Britain.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 120</p>
+<p>TITLE: GARP</p>
+<p>ID: 120</p>
+<p>Name: GARP</p>
+<p>Technology: Artificial-intelligence algorithm</p>
+<p>Type: Ecological niche modelling</p>
+<p>Data used as input: Species occurrence data, environmental data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 251785</p>
+<p>Project Acronym (if available): FRESIS</p>
+<p>Service description: Modelling the ecological niche of freshwater invasive species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 121</p>
+<p>TITLE: Regression models</p>
+<p>ID: 121</p>
+<p>Name: Regression models</p>
+<p>Technology: Statistical modelling</p>
+<p>Type: Priority setting</p>
+<p>Data used as input: Climate data, species distribution data, water chemistry data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 251785</p>
+<p>Project Acronym (if available): FRESIS</p>
+<p>Service description: Identifying areas vulnerable to multiple invasions by Ponto-Caspian species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 122</p>
+<p>TITLE: BioBullets</p>
+<p>ID: 122</p>
+<p>Name: BioBullets</p>
+<p>Technology: Green technology</p>
+<p>Type: Biofouling mitigation</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 251785</p>
+<p>Project Acronym (if available): FRESIS</p>
+<p>Service description: Cost-efficient green technology to mitigate biofouling.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 123</p>
+<p>TITLE: New land-use model</p>
+<p>ID: 123</p>
+<p>Name: New land-use model</p>
+<p>Technology: Not specified</p>
+<p>Type: Land-use simulation</p>
+<p>Data used as input: Regional data, scenarios on future land-use change</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Simulates future potential land uses, allowing testing of landscape configuration and composition changes.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 124</p>
+<p>TITLE: Graph theory-based landscape connectivity analysis tool</p>
+<p>ID: 124</p>
+<p>Name: Graph theory-based landscape connectivity analysis tool</p>
+<p>Technology: Graph theory</p>
+<p>Type: Landscape connectivity analysis</p>
+<p>Data used as input: Spatial data on habitat patches and connectivity</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Defines climate-proof habitat networks.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 125</p>
+<p>TITLE: Niche-based models</p>
+<p>ID: 125</p>
+<p>Name: Niche-based models</p>
+<p>Technology: Not specified</p>
+<p>Type: Climate change impact assessment</p>
+<p>Data used as input: Species distribution data, climate data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Assesses climate change impacts on species.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 126</p>
+<p>TITLE: Hybrid vegetation modeling tool</p>
+<p>ID: 126</p>
+<p>Name: Hybrid vegetation modeling tool</p>
+<p>Technology: Not specified</p>
+<p>Type: Vegetation dynamics simulation</p>
+<p>Data used as input: Environmental data, land-use data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Simulates vegetation dynamics.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 127</p>
+<p>TITLE: Ecosystem services model</p>
+<p>ID: 127</p>
+<p>Name: Ecosystem services model</p>
+<p>Technology: Not specified</p>
+<p>Type: Ecosystem services assessment</p>
+<p>Data used as input: Vegetation data, land-use data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Models ecosystem services.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 128</p>
+<p>TITLE: Habitat quality model</p>
+<p>ID: 128</p>
+<p>Name: Habitat quality model</p>
+<p>Technology: Not specified</p>
+<p>Type: Habitat quality assessment</p>
+<p>Data used as input: Environmental data, land-use data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 272284</p>
+<p>Project Acronym (if available): DYVERSE</p>
+<p>Service description: Models habitat quality.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 129</p>
+<p>TITLE: Hydro-economic modelling framework</p>
+<p>ID: 129</p>
+<p>Name: Hydro-economic modelling framework</p>
+<p>Technology: Simulation and optimization techniques</p>
+<p>Type: Model</p>
+<p>Data used as input: Agronomic simulation data, nitrate leaching data, unsaturated and saturated groundwater flow and mass transport data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Selecting sustainable cost-efficient measures and management strategies to achieve good groundwater status.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 130</p>
+<p>TITLE: Bayesian network model</p>
+<p>ID: 130</p>
+<p>Name: Bayesian network model</p>
+<p>Technology: Bayesian networks</p>
+<p>Type: Model</p>
+<p>Data used as input: Data on impacts of integrated management policies under uncertainty</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Assessing the impact of several policies for integrated multiobjective groundwater management under uncertainty.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 131</p>
+<p>TITLE: Multi Attribute Value Theory (MAVT) model</p>
+<p>ID: 131</p>
+<p>Name: Multi Attribute Value Theory (MAVT) model</p>
+<p>Technology: Multicriteria analysis</p>
+<p>Type: Method</p>
+<p>Data used as input: Stakeholder preferences data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Assessing stakeholder preferences, identifying potential conflicts and common ground, finding socially and economically acceptable policy solutions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 132</p>
+<p>TITLE: Indicator matrix</p>
+<p>ID: 132</p>
+<p>Name: Indicator matrix</p>
+<p>Technology: Indicator-based framework</p>
+<p>Type: Assessment tool</p>
+<p>Data used as input: Ecological, hydrological, and pressure data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Testing impacts of groundwater management on GDEs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 133</p>
+<p>TITLE: Hydrological indicators</p>
+<p>ID: 133</p>
+<p>Name: Hydrological indicators</p>
+<p>Technology: Hydrological monitoring</p>
+<p>Type: Indicators</p>
+<p>Data used as input: River flow data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Showing impacts of irrigation, river regulation and climate change.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 134</p>
+<p>TITLE: Biological indicators</p>
+<p>ID: 134</p>
+<p>Name: Biological indicators</p>
+<p>Technology: Biological monitoring</p>
+<p>Type: Indicators</p>
+<p>Data used as input: Biological data from GDEs (springs)</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Testing impacts on GDEs (springs).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 135</p>
+<p>TITLE: Environmental tracers</p>
+<p>ID: 135</p>
+<p>Name: Environmental tracers</p>
+<p>Technology: Tracer techniques</p>
+<p>Type: Monitoring method</p>
+<p>Data used as input: Groundwater samples</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Detecting flow paths in aquifers, assessing relationships between groundwater and dependent ecosystems, evaluating vulnerability of GDEs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 136</p>
+<p>TITLE: Sequential coupled models</p>
+<p>ID: 136</p>
+<p>Name: Sequential coupled models</p>
+<p>Technology: Numerical modeling</p>
+<p>Type: Model</p>
+<p>Data used as input: Data from various hydrological models</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 226536</p>
+<p>Project Acronym (if available): GENESIS</p>
+<p>Service description: Combining surface and groundwater processes, modelling nitrate leaching, mass transport, and specific soil phenomena.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 137</p>
+<p>TITLE: Full 3D models of tidal deformation</p>
+<p>ID: 137</p>
+<p>Name: Full 3D models of tidal deformation</p>
+<p>Technology: Numerical modelling</p>
+<p>Type: Simulation</p>
+<p>Data used as input: Tidal forces, physical properties of Enceladus</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 259285</p>
+<p>Project Acronym (if available): EXOWATER</p>
+<p>Service description: Simulates tidal deformation to understand Enceladus&#39; activity.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 138</p>
+<p>TITLE: Two-phase flow models of water and ice mixture</p>
+<p>ID: 138</p>
+<p>Name: Two-phase flow models of water and ice mixture</p>
+<p>Technology: Numerical modelling</p>
+<p>Type: Simulation</p>
+<p>Data used as input: Physical properties of water and ice, tidal heating</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 259285</p>
+<p>Project Acronym (if available): EXOWATER</p>
+<p>Service description: Simulates water-ice mixtures to predict meltwater reservoirs on Europa.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 139</p>
+<p>TITLE: Generic model to quantify the tidal response of exoplanets</p>
+<p>ID: 139</p>
+<p>Name: Generic model to quantify the tidal response of exoplanets</p>
+<p>Technology: Numerical modelling</p>
+<p>Type: Simulation</p>
+<p>Data used as input: Exoplanet properties (H2O content, etc.), tidal forces</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 259285</p>
+<p>Project Acronym (if available): EXOWATER</p>
+<p>Service description: Quantifies tidal response and heating of exoplanets.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 140</p>
+<p>TITLE: PLASIM-ENTS</p>
+<p>ID: 140</p>
+<p>Name: PLASIM-ENTS</p>
+<p>Technology: Climate model coupling</p>
+<p>Type: Climate model</p>
+<p>Data used as input: Temporal forcing</p>
+<p>Produced datasets (openly available): Temperature, precipitation, heating and cooling degree days</p>
+<p>Paper (if available): Holden et al. (2013)</p>
+<p>Paper DOI (if available): 10.5194/gmdd-6-3349-2013</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Coupling of Hamburg Planet Simulator atmosphere, slab ocean and slab sea ice to the GENIE sub-model of terrestrial vegetation ENTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 141</p>
+<p>TITLE: PLASIM-ENTSem</p>
+<p>ID: 141</p>
+<p>Name: PLASIM-ENTSem</p>
+<p>Technology: Statistical emulator</p>
+<p>Type: Statistical model</p>
+<p>Data used as input: Temporal forcing</p>
+<p>Produced datasets (openly available): Temperature, precipitation, heating and cooling degree days</p>
+<p>Paper (if available): Holden et al. (2013)</p>
+<p>Paper DOI (if available): 10.5194/gmdd-6-3349-2013</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Reduced-form statistical representation of PLASIM-ENTS</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 142</p>
+<p>TITLE: LPJmLem</p>
+<p>ID: 142</p>
+<p>Name: LPJmLem</p>
+<p>Technology: Statistical emulator</p>
+<p>Type: Statistical model</p>
+<p>Data used as input: Surface climate fields</p>
+<p>Produced datasets (openly available): Decadal changes in primary productivity and yields of four major crop types</p>
+<p>Paper (if available): Oyebamiji et al. (in prep.)</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Two-stage statistical emulator for LPJmL dynamic global vegetation and crop model</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 143</p>
+<p>TITLE: GENIEem</p>
+<p>ID: 143</p>
+<p>Name: GENIEem</p>
+<p>Technology: Statistical emulator</p>
+<p>Type: Statistical model</p>
+<p>Data used as input: Time-series of CO2 emissions</p>
+<p>Produced datasets (openly available): Time-series of atmospheric CO2 concentrations</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Emulator for the carbon-cycle model GENIE-1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 144</p>
+<p>TITLE: GEMINI-E3 emulator</p>
+<p>ID: 144</p>
+<p>Name: GEMINI-E3 emulator</p>
+<p>Technology: Statistical emulator</p>
+<p>Type: Statistical model</p>
+<p>Data used as input: Different regimes of regional and global emissions</p>
+<p>Produced datasets (openly available): Analytical payoff functions for GEMINI regions</p>
+<p>Paper (if available): Haurie et al. (2013)</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Emulator for the macroeconomic model GEMINI-E3</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 145</p>
+<p>TITLE: BFG2</p>
+<p>ID: 145</p>
+<p>Name: BFG2</p>
+<p>Technology: Software framework</p>
+<p>Type: Software</p>
+<p>Data used as input: Fortran, C, Python codes</p>
+<p>Produced datasets (openly available): Coupled model outputs</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Bespoke framework generator for coupling models</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 146</p>
+<p>TITLE: BFG2 portal</p>
+<p>ID: 146</p>
+<p>Name: BFG2 portal</p>
+<p>Technology: Web portal</p>
+<p>Type: Web application</p>
+<p>Data used as input: Coupled model descriptions</p>
+<p>Produced datasets (openly available): Coupled model outputs</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Web interface for running BFG2 and viewing couplings</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 147</p>
+<p>TITLE: CIAS</p>
+<p>ID: 147</p>
+<p>Name: CIAS</p>
+<p>Technology: Integrated assessment system</p>
+<p>Type: Software</p>
+<p>Data used as input: Various models</p>
+<p>Produced datasets (openly available): Coupled model outputs</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Platform for coupling and running integrated assessment models</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 148</p>
+<p>TITLE: ClimaScope</p>
+<p>ID: 148</p>
+<p>Name: ClimaScope</p>
+<p>Technology: Data visualization engine</p>
+<p>Type: Web application</p>
+<p>Data used as input: Climate model outputs</p>
+<p>Produced datasets (openly available): Climate change data</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Visualization of climate and climate change data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 149</p>
+<p>TITLE: CIAS-Live</p>
+<p>ID: 149</p>
+<p>Name: CIAS-Live</p>
+<p>Technology: Integrated assessment system</p>
+<p>Type: Web application</p>
+<p>Data used as input: Fast models</p>
+<p>Produced datasets (openly available): Model outputs</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Web interface for running fast models interactively</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 150</p>
+<p>TITLE: VedaViz</p>
+<p>ID: 150</p>
+<p>Name: VedaViz</p>
+<p>Technology: Output data analysis system</p>
+<p>Type: Software</p>
+<p>Data used as input: Model results</p>
+<p>Produced datasets (openly available): Visualizations of model results</p>
+<p>Demo (video if available): Yes</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Tool for analyzing and visualizing model results</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 151</p>
+<p>TITLE: ClimGen v1.20</p>
+<p>ID: 151</p>
+<p>Name: ClimGen v1.20</p>
+<p>Technology: Climate scenario generator</p>
+<p>Type: Software</p>
+<p>Data used as input: GENIE Earth System Model emulator outputs</p>
+<p>Produced datasets (openly available): Future climate data</p>
+<p>Project ID (if available): 265170</p>
+<p>Project Acronym (if available): ERMITAGE</p>
+<p>Service description: Improved version of ClimGen for coupling with GENIEem</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 152</p>
+<p>TITLE: Fractal profile blades dynamic mixer</p>
+<p>ID: 152</p>
+<p>Name: Fractal profile blades dynamic mixer</p>
+<p>Technology: Mechanical engineering</p>
+<p>Type: Mixer</p>
+<p>Data used as input: Fluid properties, flow parameters</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 320560</p>
+<p>Project Acronym (if available): MULTITURBULENCE</p>
+<p>Service description: Reduces mixing time by half; higher mechanical and energy efficiency in high viscosity fluid mixing.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 153</p>
+<p>TITLE: Ice dynamics model</p>
+<p>ID: 153</p>
+<p>Name: Ice dynamics model</p>
+<p>Technology: Ice flow modelling</p>
+<p>Type: Numerical model</p>
+<p>Data used as input: Ice thickness, bedrock elevations</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): [De Rydt et al., 2015a]</p>
+<p>Paper DOI (if available): 10.1002/2015GL064355</p>
+<p>Project ID (if available): 301268</p>
+<p>Project Acronym (if available): MODISC</p>
+<p>Service description: Simulate ice flow in Larsen B area before ice shelf disintegration</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 154</p>
+<p>TITLE: Coupled ice-ocean model</p>
+<p>ID: 154</p>
+<p>Name: Coupled ice-ocean model</p>
+<p>Technology: Ice-ocean modelling</p>
+<p>Type: Numerical model</p>
+<p>Data used as input: Ocean model output</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): [De Rydt, 2015b]</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 301268</p>
+<p>Project Acronym (if available): MODISC</p>
+<p>Service description: Simulate interaction between ocean and ice dynamics, focusing on areas with complex bathymetry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 155</p>
+<p>TITLE: Hierarchy of models of a mixture of ice crystals in the ocean</p>
+<p>ID: 155</p>
+<p>Name: Hierarchy of models of a mixture of ice crystals in the ocean</p>
+<p>Technology: Computational fluid dynamics</p>
+<p>Type: Model</p>
+<p>Data used as input: Oceanographic data, ice crystal properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Simulates interaction between buoyant ice crystals and sinking cold water currents.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 156</p>
+<p>TITLE: Simple models of a population of ice crystals</p>
+<p>ID: 156</p>
+<p>Name: Simple models of a population of ice crystals</p>
+<p>Technology: Theoretical model</p>
+<p>Type: Model</p>
+<p>Data used as input: Ice crystal size distribution, ocean properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Models population of ice crystals of different sizes in the ocean mixed layer.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 157</p>
+<p>TITLE: Theoretical models of the impact of ice crystals on convection</p>
+<p>ID: 157</p>
+<p>Name: Theoretical models of the impact of ice crystals on convection</p>
+<p>Technology: Theoretical model</p>
+<p>Type: Model</p>
+<p>Data used as input: Ice crystal properties, ocean properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Models impact of ice crystals on ocean convection.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 158</p>
+<p>TITLE: Full numerical simulations of a turbulent flow with embedded ice crystals</p>
+<p>ID: 158</p>
+<p>Name: Full numerical simulations of a turbulent flow with embedded ice crystals</p>
+<p>Technology: Computational fluid dynamics</p>
+<p>Type: Simulation</p>
+<p>Data used as input: Oceanographic data, ice crystal properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Simulates turbulent flow with embedded ice crystals.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 159</p>
+<p>TITLE: Theoretical and computational models of brine drainage</p>
+<p>ID: 159</p>
+<p>Name: Theoretical and computational models of brine drainage</p>
+<p>Technology: Theoretical and computational model</p>
+<p>Type: Model</p>
+<p>Data used as input: Ice properties, ocean properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Models salt drainage from sea ice into the ocean.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 160</p>
+<p>TITLE: Models of convective flows in melt ponds</p>
+<p>ID: 160</p>
+<p>Name: Models of convective flows in melt ponds</p>
+<p>Technology: Computational fluid dynamics</p>
+<p>Type: Model</p>
+<p>Data used as input: Melt pond properties, ice properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Models convective flows in melt ponds on sea ice.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 161</p>
+<p>TITLE: Meltwater plume models</p>
+<p>ID: 161</p>
+<p>Name: Meltwater plume models</p>
+<p>Technology: Computational fluid dynamics</p>
+<p>Type: Model</p>
+<p>Data used as input: Meltwater properties, ocean properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 618610</p>
+<p>Project Acronym (if available): SEA ICE CFD</p>
+<p>Service description: Models meltwater plumes from glaciers.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 162</p>
+<p>TITLE: CgLes with Immersed Boundary (IB) method</p>
+<p>ID: 162</p>
+<p>Name: CgLes with Immersed Boundary (IB) method</p>
+<p>Technology: CFD</p>
+<p>Type: Software</p>
+<p>Data used as input: Geometry, boundary conditions, fluid properties</p>
+<p>Produced datasets (openly available): Simulation results (not specified if openly available)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 909457</p>
+<p>Project Acronym (if available): CFD-DEM</p>
+<p>Service description: Modified CFD code to accommodate moving curved surfaces.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 163</p>
+<p>TITLE: Y-code</p>
+<p>ID: 163</p>
+<p>Name: Y-code</p>
+<p>Technology: DEM</p>
+<p>Type: Software</p>
+<p>Data used as input: Particle properties, initial conditions</p>
+<p>Produced datasets (openly available): Simulation results (not specified if openly available)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 909457</p>
+<p>Project Acronym (if available): CFD-DEM</p>
+<p>Service description: Discrete element modelling code.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 164</p>
+<p>TITLE: Coupled CgLes-Y-code</p>
+<p>ID: 164</p>
+<p>Name: Coupled CgLes-Y-code</p>
+<p>Technology: CFD-DEM</p>
+<p>Type: Software</p>
+<p>Data used as input: Geometry, boundary conditions, fluid properties, particle properties</p>
+<p>Produced datasets (openly available): Simulation results (not specified if openly available)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 909457</p>
+<p>Project Acronym (if available): CFD-DEM</p>
+<p>Service description: Coupled CFD-DEM code for modelling particle movement and flow interaction.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 165</p>
+<p>TITLE: Matlab/GIS model</p>
+<p>ID: 165</p>
+<p>Name: Matlab/GIS model</p>
+<p>Technology: Matlab/GIS</p>
+<p>Type: Model</p>
+<p>Data used as input: Global water and groundwater use for more than 120 crops</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 220620</p>
+<p>Project Acronym (if available): GWAT-LCA</p>
+<p>Service description: Regionalisation procedure for assessing water-efficiency of cropping and regional water availability.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 166</p>
+<p>TITLE: Modelling tools</p>
+<p>ID: 166</p>
+<p>Name: Modelling tools</p>
+<p>Technology: Not specified</p>
+<p>Type: Model</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 220620</p>
+<p>Project Acronym (if available): GWAT-LCA</p>
+<p>Service description: Improved and consistently developed modelling tools to simulate different hydrogeological threats and account for spatial variability of environmental conditions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 167</p>
+<p>TITLE: Simulation techniques for closed-system GSHPs</p>
+<p>ID: 167</p>
+<p>Name: Simulation techniques for closed-system GSHPs</p>
+<p>Technology: Not specified</p>
+<p>Type: Simulation technique</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 220620</p>
+<p>Project Acronym (if available): GWAT-LCA</p>
+<p>Service description: New simulation techniques for closed-system ground source heat pumps (GSHPs).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 168</p>
+<p>TITLE: BETTINA model</p>
+<p>ID: 168</p>
+<p>Name: BETTINA model</p>
+<p>Technology: Individual-based modelling</p>
+<p>Type: Model</p>
+<p>Data used as input: Mangrove data, abiotic conditions</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 247514</p>
+<p>Project Acronym (if available): CREC</p>
+<p>Service description: Forecasting mangrove responses to alterations in abiotic conditions</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 169</p>
+<p>TITLE: KiWi model</p>
+<p>ID: 169</p>
+<p>Name: KiWi model</p>
+<p>Technology: Individual-based modelling</p>
+<p>Type: Model</p>
+<p>Data used as input: Mangrove data, abiotic conditions</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 247514</p>
+<p>Project Acronym (if available): CREC</p>
+<p>Service description: Forecasting mangrove responses to alterations in abiotic conditions</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 170</p>
+<p>TITLE: mesoFON model</p>
+<p>ID: 170</p>
+<p>Name: mesoFON model</p>
+<p>Technology: Individual-based modelling</p>
+<p>Type: Model</p>
+<p>Data used as input: Mangrove data, abiotic conditions</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 247514</p>
+<p>Project Acronym (if available): CREC</p>
+<p>Service description: Forecasting mangrove responses to alterations in abiotic conditions</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 171</p>
+<p>TITLE: Mangrove reference database and herbarium</p>
+<p>ID: 171</p>
+<p>Name: Mangrove reference database and herbarium</p>
+<p>Technology: Database and Herbarium</p>
+<p>Type: Database and Collection</p>
+<p>Data used as input: Mangrove data, species information</p>
+<p>Produced datasets (openly available): www.vliz.be/vmdcdata/mangroves</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 247514</p>
+<p>Project Acronym (if available): CREC</p>
+<p>Service description: Reference data for mangrove species</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 172</p>
+<p>TITLE: FISOC</p>
+<p>ID: 172</p>
+<p>Name: FISOC</p>
+<p>Technology: Ice sheet-ocean coupling framework</p>
+<p>Type: Software</p>
+<p>Data used as input: Ice sheet model data, ocean circulation model data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 299035</p>
+<p>Project Acronym (if available): CRAG</p>
+<p>Service description: Coupling framework for ice sheet and ocean models. Currently couples Elmer/Ice and ROMS. Planned to be extended to ISSM and MIT-GCM.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 173</p>
+<p>TITLE: Gisser-Sánchez revisited model</p>
+<p>ID: 173</p>
+<p>Name: Gisser-Sánchez revisited model</p>
+<p>Technology: Mathematical model</p>
+<p>Type: Groundwater model</p>
+<p>Data used as input: Irrigation data, surface-groundwater interaction data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1016/j.jhydrol.2024.131145</p>
+<p>Project ID (if available): 101019185</p>
+<p>Project Acronym (if available): GEOWAT</p>
+<p>Service description: Optimal groundwater withdrawal model under irrigation</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 174</p>
+<p>TITLE: Global hyper-resolution hydrological model</p>
+<p>ID: 174</p>
+<p>Name: Global hyper-resolution hydrological model</p>
+<p>Technology: Hydrological model</p>
+<p>Type: Global hydrological model</p>
+<p>Data used as input: High-resolution meteorological data, topographic data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5194/egusphere-2024-1025</p>
+<p>Project ID (if available): 101019185</p>
+<p>Project Acronym (if available): GEOWAT</p>
+<p>Service description: Hyper-resolution hydrological modeling for improved water management</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 175</p>
+<p>TITLE: 2D coastal groundwater models</p>
+<p>ID: 175</p>
+<p>Name: 2D coastal groundwater models</p>
+<p>Technology: Groundwater model</p>
+<p>Type: Coastal groundwater model</p>
+<p>Data used as input: Sea level rise scenarios, coastal groundwater data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1029/2023ef003581</p>
+<p>Project ID (if available): 101019185</p>
+<p>Project Acronym (if available): GEOWAT</p>
+<p>Service description: Assessment of sea level rise impact on coastal groundwater</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 176</p>
+<p>TITLE: High-resolution global groundwater model</p>
+<p>ID: 176</p>
+<p>Name: High-resolution global groundwater model</p>
+<p>Technology: Groundwater model</p>
+<p>Type: Global groundwater model</p>
+<p>Data used as input: Groundwater depth observations, climate data, socioeconomic data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5194/hess-2024-112</p>
+<p>Project ID (if available): 101019185</p>
+<p>Project Acronym (if available): GEOWAT</p>
+<p>Service description: Mapping groundwater dependent ecosystems</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 177</p>
+<p>TITLE: GLOBGM v1.0</p>
+<p>ID: 177</p>
+<p>Name: GLOBGM v1.0</p>
+<p>Technology: Parallel implementation of PCR-GLOBWB-MODFLOW</p>
+<p>Type: Global-scale groundwater model</p>
+<p>Data used as input: PCR-GLOBWB data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5194/gmd-2022-226</p>
+<p>Project ID (if available): 101019185</p>
+<p>Project Acronym (if available): GEOWAT</p>
+<p>Service description: Parallel global-scale groundwater model at 30 arcsec resolution</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 178</p>
+<p>TITLE: Water management analytical platform (WMAP)</p>
+<p>ID: 178</p>
+<p>Name: Water management analytical platform (WMAP)</p>
+<p>Technology: AI-based platform</p>
+<p>Type: Data analytics platform</p>
+<p>Data used as input: Heterogeneous water management data streams</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Computer Architectures for Incremental Learning in Water Management</p>
+<p>Paper DOI (if available): 10.3390/su14052886</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Real-time data flow solutions and data-driven predictive analytics for smart water management.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 179</p>
+<p>TITLE: Water Consumption Awareness Apps and Dashboards</p>
+<p>ID: 179</p>
+<p>Name: Water Consumption Awareness Apps and Dashboards</p>
+<p>Technology: Web application, mobile app</p>
+<p>Type: Software application</p>
+<p>Data used as input: Water consumption data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Enhance end-user awareness on water consumption for water management companies officials, public employees, and water consumers.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 180</p>
+<p>TITLE: AI-based models and DSS for improved water management</p>
+<p>ID: 180</p>
+<p>Name: AI-based models and DSS for improved water management</p>
+<p>Technology: AI models, Decision Support Systems</p>
+<p>Type: Software application</p>
+<p>Data used as input: Water data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Improved water management through situational, operational, and asset intelligence.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 181</p>
+<p>TITLE: Leak detection system</p>
+<p>ID: 181</p>
+<p>Name: Leak detection system</p>
+<p>Technology: Machine learning, physically-based models</p>
+<p>Type: Software application</p>
+<p>Data used as input: Water pressure data, flowrate data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Multiple leaks location in water distribution networks combining physically-based and machine learning approaches using high-performance computing</p>
+<p>Paper DOI (if available): 10.5281/zenodo.7702275</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Locates leaks in water distribution networks.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 182</p>
+<p>TITLE: Single and double-leak location system</p>
+<p>ID: 182</p>
+<p>Name: Single and double-leak location system</p>
+<p>Technology: Machine learning</p>
+<p>Type: Software application</p>
+<p>Data used as input: Flowrate-dependent pressure residuals vectors</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A methodology for single and double-leak location in pressurised water distribution networks using flowrate-dependent pressure residuals vectors.</p>
+<p>Paper DOI (if available): 10.4995/wdsa-ccwi2022.2022.14749</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Locates single and double leaks in pressurized water distribution networks.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 183</p>
+<p>TITLE: Pump scheduling optimization system</p>
+<p>ID: 183</p>
+<p>Name: Pump scheduling optimization system</p>
+<p>Technology: Optimization algorithms</p>
+<p>Type: Software application</p>
+<p>Data used as input: Water distribution system data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Optimising Pump Scheduling in Water Distribution Systems to Minimize Leakage</p>
+<p>Paper DOI (if available): 10.5281/zenodo.7909360</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Optimizes pump scheduling to minimize leakage.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 184</p>
+<p>TITLE: Real-time drinking water quality monitoring system</p>
+<p>ID: 184</p>
+<p>Name: Real-time drinking water quality monitoring system</p>
+<p>Technology: Sensors, data analytics</p>
+<p>Type: Monitoring system</p>
+<p>Data used as input: Water quality data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Real time drinking water quality monitoring</p>
+<p>Paper DOI (if available): 10.5281/zenodo.7698464</p>
+<p>Project ID (if available): 820985</p>
+<p>Project Acronym (if available): NAIADES</p>
+<p>Service description: Monitors drinking water quality in real-time.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 185</p>
+<p>TITLE: Integrated Exploitation Platform</p>
+<p>ID: 185</p>
+<p>Name: Integrated Exploitation Platform</p>
+<p>Technology: Online GIS Decision Support System</p>
+<p>Type: Platform</p>
+<p>Data used as input: EO data, weather forecasts, crop models</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 642258</p>
+<p>Project Acronym (if available): MOSES</p>
+<p>Service description: Provides integrated water management information</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 186</p>
+<p>TITLE: Crop mapping package</p>
+<p>ID: 186</p>
+<p>Name: Crop mapping package</p>
+<p>Technology: Remote Sensing</p>
+<p>Type: Software Package</p>
+<p>Data used as input: EO data</p>
+<p>Produced datasets (openly available): Irrigated crop maps</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 642258</p>
+<p>Project Acronym (if available): MOSES</p>
+<p>Service description: Early-season irrigated crop mapping</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 187</p>
+<p>TITLE: In-season water demand monitoring package</p>
+<p>ID: 187</p>
+<p>Name: In-season water demand monitoring package</p>
+<p>Technology: Software Package</p>
+<p>Type: Software Package</p>
+<p>Data used as input: EO data, weather data, soil data</p>
+<p>Produced datasets (openly available): Water demand maps, soil water balance</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 642258</p>
+<p>Project Acronym (if available): MOSES</p>
+<p>Service description: In-season monitoring of crop water requirements and soil water balance</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 188</p>
+<p>TITLE: Seasonal probabilistic forecasting package</p>
+<p>ID: 188</p>
+<p>Name: Seasonal probabilistic forecasting package</p>
+<p>Technology: Software Package</p>
+<p>Type: Software Package</p>
+<p>Data used as input: Weather data</p>
+<p>Produced datasets (openly available): Seasonal weather forecasts</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 642258</p>
+<p>Project Acronym (if available): MOSES</p>
+<p>Service description: Seasonal weather forecasting and downscaling</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 189</p>
+<p>TITLE: Irrigation forecasting package</p>
+<p>ID: 189</p>
+<p>Name: Irrigation forecasting package</p>
+<p>Technology: Software Package</p>
+<p>Type: Software Package</p>
+<p>Data used as input: Weather forecasts, crop water requirements</p>
+<p>Produced datasets (openly available): Irrigation forecasts</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 642258</p>
+<p>Project Acronym (if available): MOSES</p>
+<p>Service description: Medium and short term crop water demand and irrigation forecasting</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 190</p>
+<p>TITLE: UAV-based glacier monitoring system</p>
+<p>ID: 190</p>
+<p>Name: UAV-based glacier monitoring system</p>
+<p>Technology: Unmanned Aerial Vehicle (UAV), Structure from Motion (SfM)</p>
+<p>Type: Remote Sensing</p>
+<p>Data used as input: UAV imagery</p>
+<p>Produced datasets (openly available): Seasonal surface velocity data</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Seasonal surface velocities of a Himalayan glacier derived by automated correlation of unmanned aerial vehicle imagery</p>
+<p>Paper DOI (if available): 10.3189/2016AoG71A072</p>
+<p>Project ID (if available): 676819</p>
+<p>Project Acronym (if available): CAT</p>
+<p>Service description: Monitoring glacier dynamics</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 191</p>
+<p>TITLE: 3-D ice cliff evolution model</p>
+<p>ID: 191</p>
+<p>Name: 3-D ice cliff evolution model</p>
+<p>Technology: Physical model</p>
+<p>Type: Numerical model</p>
+<p>Data used as input: High-resolution digital elevation models (DEMs) from UAV surveys</p>
+<p>Produced datasets (openly available): Ice cliff volume losses</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A physically based 3-D model of ice cliff evolution over debris-covered glaciers</p>
+<p>Paper DOI (if available): 10.1002/2016JF004039</p>
+<p>Project ID (if available): 676819</p>
+<p>Project Acronym (if available): CAT</p>
+<p>Service description: Simulating ice cliff evolution</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 192</p>
+<p>TITLE: Snow model with data assimilation</p>
+<p>ID: 192</p>
+<p>Name: Snow model with data assimilation</p>
+<p>Technology: Snow model, Ensemble Kalman filter (EnKF)</p>
+<p>Type: Numerical model</p>
+<p>Data used as input: Remotely sensed snow cover (Landsat 8, MOD10A2), in situ snow depth measurements</p>
+<p>Produced datasets (openly available): Snow water equivalent (SWE), snowmelt runoff</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Assimilation of snow cover and snow depth into a snow model to estimate snow water equivalent and snowmelt runoff in a Himalayan catchment</p>
+<p>Paper DOI (if available): 10.5194/tc-11-1647-2017</p>
+<p>Project ID (if available): 676819</p>
+<p>Project Acronym (if available): CAT</p>
+<p>Service description: Estimating SWE and snowmelt runoff</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 193</p>
+<p>TITLE: Object-based image analysis for glacier feature mapping</p>
+<p>ID: 193</p>
+<p>Name: Object-based image analysis for glacier feature mapping</p>
+<p>Technology: Object-based image analysis</p>
+<p>Type: Image processing</p>
+<p>Data used as input: Unmanned Aerial Vehicle (UAV) imagery</p>
+<p>Produced datasets (openly available): Maps of surface features on debris-covered glacier</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Object-based analysis of unmanned aerial vehicle imagery to map and characterise surface features on a debris-covered glacier</p>
+<p>Paper DOI (if available): 10.1016/j.rse.2016.09.013</p>
+<p>Project ID (if available): 676819</p>
+<p>Project Acronym (if available): CAT</p>
+<p>Service description: Mapping glacier surface features</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 194</p>
+<p>TITLE: MCDA-based EBM framework</p>
+<p>ID: 194</p>
+<p>Name: MCDA-based EBM framework</p>
+<p>Technology: Multi-Criteria Decision Analysis (MCDA)</p>
+<p>Type: Decision Support Framework</p>
+<p>Data used as input: Ecological, socio-economic, and cultural values</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): On the use of multicriteria decision analysis to formally integrate community values into ecosystem-based freshwater management</p>
+<p>Paper DOI (if available): 10.1002/rra.3388</p>
+<p>Project ID (if available): 748625</p>
+<p>Project Acronym (if available): SABER CULTURAL</p>
+<p>Service description: Prioritizes freshwater management strategies by integrating diverse stakeholder values.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 195</p>
+<p>TITLE: ARIES modelling approach</p>
+<p>ID: 195</p>
+<p>Name: ARIES modelling approach</p>
+<p>Technology: Ecological Modelling</p>
+<p>Type: Predictive Model</p>
+<p>Data used as input: Environmental data, management scenarios</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Not explicitly mentioned in provided papers.</p>
+<p>Paper DOI (if available): Not Available</p>
+<p>Project ID (if available): 748625</p>
+<p>Project Acronym (if available): SABER CULTURAL</p>
+<p>Service description: Forecasts ecosystem services flow under different management alternatives.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 196</p>
+<p>TITLE: Spatially explicit SDMs</p>
+<p>ID: 196</p>
+<p>Name: Spatially explicit SDMs</p>
+<p>Technology: Bayesian spatially explicit and non‐spatial SDMs</p>
+<p>Type: Predictive Model</p>
+<p>Data used as input: Species occurrence data, environmental variables</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Spatially explicit species distribution models: A missed opportunity in conservation planning?</p>
+<p>Paper DOI (if available): 10.1111/ddi.12891</p>
+<p>Project ID (if available): 748625</p>
+<p>Project Acronym (if available): SABER CULTURAL</p>
+<p>Service description: Predicts species habitat suitability and probability of occurrence, accounting for spatial dependencies.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 197</p>
+<p>TITLE: Advanced glacier mass balance model</p>
+<p>ID: 197</p>
+<p>Name: Advanced glacier mass balance model</p>
+<p>Technology: Numerical modelling</p>
+<p>Type: Glacier mass balance model</p>
+<p>Data used as input: Field data, remote sensing observations</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Multiple papers</p>
+<p>Paper DOI (if available): Multiple DOIs</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Calculates mass balance of debris-covered and debris-free glaciers, including cliff and pond ablation and evolution.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 198</p>
+<p>TITLE: Physically-based models of cliff and pond ablation</p>
+<p>ID: 198</p>
+<p>Name: Physically-based models of cliff and pond ablation</p>
+<p>Technology: Numerical modelling</p>
+<p>Type: Energy balance models</p>
+<p>Data used as input: Field data, remote sensing observations</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Multiple papers</p>
+<p>Paper DOI (if available): Multiple DOIs</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Quantifies cliff and pond ablation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 199</p>
+<p>TITLE: Stochastic birth-death model</p>
+<p>ID: 199</p>
+<p>Name: Stochastic birth-death model</p>
+<p>Technology: Stochastic modelling</p>
+<p>Type: Cliff population dynamics model</p>
+<p>Data used as input: High-resolution multi-spectral satellite imagery</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Interannual dynamics of ice cliff populations on debris-covered glaciers from remote sensing observations and stochastic modeling</p>
+<p>Paper DOI (if available): 10.1029/2021jf006179</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Represents ice cliff population dynamics.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 200</p>
+<p>TITLE: Method to infer altitudinal glacier mass balance from satellite imagery</p>
+<p>ID: 200</p>
+<p>Name: Method to infer altitudinal glacier mass balance from satellite imagery</p>
+<p>Technology: Remote Sensing</p>
+<p>Type: Image processing</p>
+<p>Data used as input: Satellite imagery</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Multiple papers</p>
+<p>Paper DOI (if available): Multiple DOIs</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Infers altitudinal glacier mass balance from satellite imagery.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 201</p>
+<p>TITLE: Automated ice cliff detection method</p>
+<p>ID: 201</p>
+<p>Name: Automated ice cliff detection method</p>
+<p>Technology: Image Processing</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Digital elevation model (DEM) data</p>
+<p>Produced datasets (openly available): Ice cliff probability map</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Automated detection of ice cliffs within supraglacial debris cover</p>
+<p>Paper DOI (if available): 10.5194/tc-12-1811-2018</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Maps ice cliff geometry.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 202</p>
+<p>TITLE: Updated anisotropy correction model for glacier albedo retrieval</p>
+<p>ID: 202</p>
+<p>Name: Updated anisotropy correction model for glacier albedo retrieval</p>
+<p>Technology: Remote sensing</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Airborne datasets of Bidirectional Reflectance Distribution Function (BRDF), Landsat 5 TM, Landsat 8 OLI, MODIS imagery</p>
+<p>Produced datasets (openly available): Glacier albedo data</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Anisotropy Parameterization Development and Evaluation for Glacier Surface Albedo Retrieval from Satellite Observations</p>
+<p>Paper DOI (if available): 10.3390/rs13091714</p>
+<p>Project ID (if available): 772751</p>
+<p>Project Acronym (if available): RAVEN</p>
+<p>Service description: Retrieves glacier surface albedo from multispectral satellite imagery.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 203</p>
+<p>TITLE: FREEWAT</p>
+<p>ID: 203</p>
+<p>Name: FREEWAT</p>
+<p>Technology: QGIS plugin</p>
+<p>Type: GIS-integrated modeling environment</p>
+<p>Data used as input: Groundwater and solute transport data, spatial datasets</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): FREEWAT: FREE and open source software tools for WATer resource management</p>
+<p>Paper DOI (if available): 10.3301/ROL.2015.113</p>
+<p>Project ID (if available): 642224</p>
+<p>Project Acronym (if available): FREEWAT</p>
+<p>Service description: Simulation of water quantity and quality in surface water and groundwater; integrated water management and planning module. Includes modules for solute transport, calibration, uncertainty and sensitivity analysis, management of water in agriculture, and analysis of groundwater quality issues.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 204</p>
+<p>TITLE: Observation Analysis Tool</p>
+<p>ID: 204</p>
+<p>Name: Observation Analysis Tool</p>
+<p>Technology: Open source tool</p>
+<p>Type: Time series analysis</p>
+<p>Data used as input: Time series data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): The Observation AnalysisTool: a free and open sourcetool for time series analysis for groundwater modelling</p>
+<p>Paper DOI (if available): No DOI available</p>
+<p>Project ID (if available): 642224</p>
+<p>Project Acronym (if available): FREEWAT</p>
+<p>Service description: Time series analysis for groundwater modelling.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 205</p>
+<p>TITLE: DIANA platform</p>
+<p>ID: 205</p>
+<p>Name: DIANA platform</p>
+<p>Technology: Web-GIS</p>
+<p>Type: Service platform</p>
+<p>Data used as input: Copernicus EO data, other data sources, state-of-the-art models</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Remote Sensing for Crop Water Management: From ET Modelling to Services for the End Users</p>
+<p>Paper DOI (if available): 10.3390/s17051104</p>
+<p>Project ID (if available): 730109</p>
+<p>Project Acronym (if available): DIANA</p>
+<p>Service description: Optimise the identification and inspection of non-authorised water abstractions for irrigation; improve water management policies and practices.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 206</p>
+<p>TITLE: Turbinator</p>
+<p>ID: 206</p>
+<p>Name: Turbinator</p>
+<p>Technology: Sensor</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Liquid turbidity</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 820751</p>
+<p>Project Acronym (if available): SCOREwater</p>
+<p>Service description: Measures turbidity in liquid without contact.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 207</p>
+<p>TITLE: SCOREwater platform</p>
+<p>ID: 207</p>
+<p>Name: SCOREwater platform</p>
+<p>Technology: Digital platform</p>
+<p>Type: Software</p>
+<p>Data used as input: Various water data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 820751</p>
+<p>Project Acronym (if available): SCOREwater</p>
+<p>Service description: Adaptive digital platform for smart water management.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 208</p>
+<p>TITLE: Sediment level prediction models</p>
+<p>ID: 208</p>
+<p>Name: Sediment level prediction models</p>
+<p>Technology: Machine learning models</p>
+<p>Type: Software</p>
+<p>Data used as input: Historical sediment level and inspection data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Sediment Level Prediction of a Combined Sewer System Using Spatial Features</p>
+<p>Paper DOI (if available): 10.3390/su13074013</p>
+<p>Project ID (if available): 820751</p>
+<p>Project Acronym (if available): SCOREwater</p>
+<p>Service description: Predicts sediment levels in combined sewer systems.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 209</p>
+<p>TITLE: Wastewater-based epidemiology tool</p>
+<p>ID: 209</p>
+<p>Name: Wastewater-based epidemiology tool</p>
+<p>Technology: Analytical tool</p>
+<p>Type: Software</p>
+<p>Data used as input: Wastewater samples</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Showcasing the potential of wastewater-based epidemiology to track pharmaceuticals consumption in cities: Comparison against prescription data collected at fine spatial resolution</p>
+<p>Paper DOI (if available): 10.1016/j.envint.2021.106404</p>
+<p>Project ID (if available): 820751</p>
+<p>Project Acronym (if available): SCOREwater</p>
+<p>Service description: Tracks pharmaceuticals consumption in cities using wastewater data.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 210</p>
+<p>TITLE: Decision support tool for media selection to mitigate drainage waters</p>
+<p>ID: 210</p>
+<p>Name: Decision support tool for media selection to mitigate drainage waters</p>
+<p>Technology: Unspecified</p>
+<p>Type: Decision Support System</p>
+<p>Data used as input: Drainage water characteristics, media properties</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Developing and validating a decision support tool for media selection to mitigate drainage waters</p>
+<p>Paper DOI (if available): 10.1016/j.ecoena.2019.100010</p>
+<p>Project ID (if available): 675120</p>
+<p>Project Acronym (if available): INSPIRATION</p>
+<p>Service description: Assists in selecting appropriate media for mitigating drainage water impacts.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 211</p>
+<p>TITLE: Spatial approach to identify priority areas for pesticide pollution mitigation</p>
+<p>ID: 211</p>
+<p>Name: Spatial approach to identify priority areas for pesticide pollution mitigation</p>
+<p>Technology: GIS-based</p>
+<p>Type: Spatial analysis tool</p>
+<p>Data used as input: Pesticide concentration data, environmental factors</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A spatial approach to identify priority areas for pesticide pollution mitigation</p>
+<p>Paper DOI (if available): 10.1016/J.JENVMAN.2019.04.120</p>
+<p>Project ID (if available): 675120</p>
+<p>Project Acronym (if available): INSPIRATION</p>
+<p>Service description: Identifies priority areas for pesticide pollution mitigation efforts.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 212</p>
+<p>TITLE: Data Assimilation and Online Parameter Optimization in Groundwater Modeling Using Nested Particle Filters</p>
+<p>ID: 212</p>
+<p>Name: Data Assimilation and Online Parameter Optimization in Groundwater Modeling Using Nested Particle Filters</p>
+<p>Technology: Nested Particle Filters</p>
+<p>Type: Groundwater model</p>
+<p>Data used as input: Groundwater data, model parameters</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Data Assimilation and Online Parameter Optimization in Groundwater Modeling Using Nested Particle Filters</p>
+<p>Paper DOI (if available): 10.1029/2018wr024408</p>
+<p>Project ID (if available): 675120</p>
+<p>Project Acronym (if available): INSPIRATION</p>
+<p>Service description: Improves groundwater model accuracy and prediction through data assimilation and parameter optimization.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 213</p>
+<p>TITLE: High-frequency monitoring system for DOC load reduction</p>
+<p>ID: 213</p>
+<p>Name: High-frequency monitoring system for DOC load reduction</p>
+<p>Technology: High-frequency monitoring</p>
+<p>Type: Monitoring system</p>
+<p>Data used as input: Water quality data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): High-frequency monitoring enables operational opportunities to reduce the dissolved organic carbon (DOC) load in Germany’s largest drinking water reservoir</p>
+<p>Paper DOI (if available): 10.1080/20442041.2021.1987796</p>
+<p>Project ID (if available): 956623</p>
+<p>Project Acronym (if available): inventWater</p>
+<p>Service description: Reduces dissolved organic carbon load in drinking water reservoirs</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 214</p>
+<p>TITLE: Causal network for eutrophication assessment</p>
+<p>ID: 214</p>
+<p>Name: Causal network for eutrophication assessment</p>
+<p>Technology: Causal network model</p>
+<p>Type: Assessment tool</p>
+<p>Data used as input: Nutrient loading data, climate data, land-use data, hydrological data, socio-economic data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Recent advancement in water quality indicators for eutrophication in global freshwater lakes</p>
+<p>Paper DOI (if available): 10.5194/egusphere-egu23-7565</p>
+<p>Project ID (if available): 956623</p>
+<p>Project Acronym (if available): inventWater</p>
+<p>Service description: Provides a holistic perspective on nutrient dynamics in freshwater lake basins for improved water quality management.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 215</p>
+<p>TITLE: Spatiotemporal connectivity (STcon) and Spatiotemporal connectivity matrix (STconmat)</p>
+<p>ID: 215</p>
+<p>Name: Spatiotemporal connectivity (STcon) and Spatiotemporal connectivity matrix (STconmat)</p>
+<p>Technology: Methodological framework</p>
+<p>Type: Analytical tool</p>
+<p>Data used as input: Stream flow data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Navigating through space and time</p>
+<p>Paper DOI (if available): 10.1111/2041-210x.14105</p>
+<p>Project ID (if available): 869226</p>
+<p>Project Acronym (if available): DRYvER</p>
+<p>Service description: Quantifies spatiotemporal connectivity in dynamic systems.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 216</p>
+<p>TITLE: Generic models for TSAI response to hydrological changes</p>
+<p>ID: 216</p>
+<p>Name: Generic models for TSAI response to hydrological changes</p>
+<p>Technology: Conceptual model</p>
+<p>Type: Analytical tool</p>
+<p>Data used as input: Data from Australia and France</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): The terrestrial and semi-aquatic invertebrates of intermittent rivers and ephemeral streams</p>
+<p>Paper DOI (if available): 10.1111/brv.12848</p>
+<p>Project ID (if available): 869226</p>
+<p>Project Acronym (if available): DRYvER</p>
+<p>Service description: Describes how terrestrial and semi-aquatic invertebrates respond to hydrological changes in IRES.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 217</p>
+<p>TITLE: Meta-system framework for river management</p>
+<p>ID: 217</p>
+<p>Name: Meta-system framework for river management</p>
+<p>Technology: Conceptual framework</p>
+<p>Type: Management tool</p>
+<p>Data used as input: Regional-scale ecological processes data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): From meta-system theory to the sustainable management of rivers in the Anthropocene</p>
+<p>Paper DOI (if available): 10.1002/fee.2417</p>
+<p>Project ID (if available): 869226</p>
+<p>Project Acronym (if available): DRYvER</p>
+<p>Service description: Integrates regional processes into river conservation and management.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 218</p>
+<p>TITLE: Wetland Suitability Modelling Tool</p>
+<p>ID: 218</p>
+<p>Name: Wetland Suitability Modelling Tool</p>
+<p>Technology: Spatial analysis, LiDAR DEM</p>
+<p>Type: Suitability modelling</p>
+<p>Data used as input: LiDAR data, topographic information, geology, soils, hydrology, drainage, land ownership</p>
+<p>Produced datasets (openly available): Spatially explicit suitability map</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Identifying Feasible Locations for Wetland Creation or Restoration in Catchments by Suitability Modelling Using Light Detection and Ranging (LiDAR) Digital Elevation Model (DEM)</p>
+<p>Paper DOI (if available): 10.3390/w10040464</p>
+<p>Project ID (if available): 660391</p>
+<p>Project Acronym (if available): OPTWET</p>
+<p>Service description: Identifies potential wetland creation/restoration sites.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 219</p>
+<p>TITLE: Geo-referencing of Journal Articles Platform</p>
+<p>ID: 219</p>
+<p>Name: Geo-referencing of Journal Articles Platform</p>
+<p>Technology: Geographic search method</p>
+<p>Type: Knowledge inventory</p>
+<p>Data used as input: Geoscientific journal articles (titles, abstracts, full texts)</p>
+<p>Produced datasets (openly available): Metadata records with spatial references, map visualizing research article locations</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Enhancing Location-Related Hydrogeological Knowledge</p>
+<p>Paper DOI (if available): 10.3390/ijgi7040132</p>
+<p>Project ID (if available): 660391</p>
+<p>Project Acronym (if available): OPTWET</p>
+<p>Service description: Provides a searchable catalogue of geoscientific articles based on spatial location.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 220</p>
+<p>TITLE: SMARTQUA</p>
+<p>ID: 220</p>
+<p>Name: SMARTQUA</p>
+<p>Technology: Advanced ICT Risk Assessment Tool</p>
+<p>Type: Web/Mobile Application</p>
+<p>Data used as input: Climate scenarios, water management data, agricultural management data, farmer objectives, soil samples, field sensor data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Project ID (if available): 744140</p>
+<p>Project Acronym (if available): SMARTQUA</p>
+<p>Service description: Provides timely information increasing farmer&#39;s operation efficiency by 20%-35% and enables rapid and accurate decision-making.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 221</p>
+<p>TITLE: IvoriFEM v0.1.0</p>
+<p>ID: 221</p>
+<p>Name: IvoriFEM v0.1.0</p>
+<p>Technology: Finite-element program (Python)</p>
+<p>Type: Snowpack model</p>
+<p>Data used as input: Heat conduction, water vapor diffusion, settlement in dry snow</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): A finite-element framework to explore the numerical solution of the coupled problem of heat conduction, water vapor diffusion and settlement in dry snow (IvoriFEM v0.1.0)</p>
+<p>Paper DOI (if available): 10.5194/gmd-2023-97</p>
+<p>Project ID (if available): 949516</p>
+<p>Project Acronym (if available): IVORI</p>
+<p>Service description: Simulates heat conduction, vapor diffusion and settlement in dry snow.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 222</p>
+<p>TITLE: VALHALLA v1.0</p>
+<p>ID: 222</p>
+<p>Name: VALHALLA v1.0</p>
+<p>Technology: Spectral snow albedo calculation method</p>
+<p>Type: Snow albedo model</p>
+<p>Data used as input: Spectral characteristics of incident radiation, optical properties of snow</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): A versatile method for computing optimized snow albedo from spectrally fixed radiative variables: VALHALLA v1.0</p>
+<p>Paper DOI (if available): 10.5194/gmd-14-7329-2021</p>
+<p>Project ID (if available): 949516</p>
+<p>Project Acronym (if available): IVORI</p>
+<p>Service description: Optimizes spectral snow albedo calculation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 223</p>
+<p>TITLE: CrocO ensemble data assimilation system</p>
+<p>ID: 223</p>
+<p>Name: CrocO ensemble data assimilation system</p>
+<p>Technology: Ensemble data assimilation framework</p>
+<p>Type: Snow cover model</p>
+<p>Data used as input: Snow depth observations from in situ network, meteorological observations</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Propagating information from snow observations with CrocO ensemble data assimilation system : a 10-years case study over a snow depth observation network</p>
+<p>Paper DOI (if available): 10.5194/tc-16-1281-2022</p>
+<p>Project ID (if available): 949516</p>
+<p>Project Acronym (if available): IVORI</p>
+<p>Service description: Assimilates snow observations into a spatialized snow cover modeling framework.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 224</p>
+<p>TITLE: Heated needle</p>
+<p>ID: 224</p>
+<p>Name: Heated needle</p>
+<p>Technology: Experimental setup</p>
+<p>Type: Heat and vapor transport measurement</p>
+<p>Data used as input: Heat and Vapor Transport in snow</p>
+<p>Produced datasets (openly available): No</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Use of a heated needle to study the dynamics of heat and vapor transport in snow</p>
+<p>Paper DOI (if available): No DOI</p>
+<p>Project ID (if available): 949516</p>
+<p>Project Acronym (if available): IVORI</p>
+<p>Service description: Studies dynamics of heat and vapor transport in snow.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 225</p>
+<p>TITLE: Any Geometry Flume (AGF)</p>
+<p>ID: 225</p>
+<p>Name: Any Geometry Flume (AGF)</p>
+<p>Technology: Sewer flow monitoring</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Water level and velocity</p>
+<p>Project ID (if available): 697140</p>
+<p>Project Acronym (if available): VIGI-LEAK</p>
+<p>Service description: Measures water level and velocity to compute flowrate.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 226</p>
+<p>TITLE: VIGI-LEAK correlator system</p>
+<p>ID: 226</p>
+<p>Name: VIGI-LEAK correlator system</p>
+<p>Technology: Real-time flow measurement</p>
+<p>Type: Software</p>
+<p>Data used as input: Fluid level and velocity from AGF</p>
+<p>Project ID (if available): 697140</p>
+<p>Project Acronym (if available): VIGI-LEAK</p>
+<p>Service description: Monitors flowing volumes and alerts of faults, calculating leakage magnitude.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 227</p>
+<p>TITLE: Momentum and Energy Model for Backwater Rise Prediction</p>
+<p>ID: 227</p>
+<p>Name: Momentum and Energy Model for Backwater Rise Prediction</p>
+<p>Technology: Hydraulic model</p>
+<p>Type: Predictive model</p>
+<p>Data used as input: Jam geometry, discharge, channel slope</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Momentum and Energy Predict the Backwater Rise Generated by a Large Wood Jam</p>
+<p>Paper DOI (if available): 10.1029/2020gl089346</p>
+<p>Project ID (if available): 795348</p>
+<p>Project Acronym (if available): WoodJam</p>
+<p>Service description: Predicts backwater rise from unit discharge and a dimensionless structural parameter.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 228</p>
+<p>TITLE: Portable Microsensor Fusion System</p>
+<p>ID: 228</p>
+<p>Name: Portable Microsensor Fusion System</p>
+<p>Technology: Probabilistic neuromorphic VLSI architecture</p>
+<p>Type: Microsensor fusion system</p>
+<p>Data used as input: Multivariate, nonlinear, time-dependent and noisy signals from microsensors</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Live Demonstration (mentioned)</p>
+<p>Paper (if available): Live Demonstration: A Portable Microsensor Fusion System with Real-Time Measurement for On-Site Beverage Tasting</p>
+<p>Paper DOI (if available): 10.1109/iscas.2019.8702184</p>
+<p>Project ID (if available): 747848</p>
+<p>Project Acronym (if available): ProbSenS</p>
+<p>Service description: Real-time measurement for on-site beverage tasting</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 229</p>
+<p>TITLE: P-model v1.0</p>
+<p>ID: 229</p>
+<p>Name: P-model v1.0</p>
+<p>Technology: Optimality-based light use efficiency model</p>
+<p>Type: GPP model</p>
+<p>Data used as input: fAPAR, meteorological data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.5194/gmd-13-1545-2020</p>
+<p>Project ID (if available): 787203</p>
+<p>Project Acronym (if available): REALM</p>
+<p>Service description: Simulates terrestrial photosynthesis across a wide range of conditions.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 230</p>
+<p>TITLE: CPTDv2: The China Plant Trait Database Version 2</p>
+<p>ID: 230</p>
+<p>Name: CPTDv2: The China Plant Trait Database Version 2</p>
+<p>Technology: Plant trait database</p>
+<p>Type: Database</p>
+<p>Data used as input: Morphometric, physical, chemical, photosynthetic and hydraulic traits</p>
+<p>Produced datasets (openly available): Yes</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1038/s41597-022-01884-4</p>
+<p>Project ID (if available): 787203</p>
+<p>Project Acronym (if available): REALM</p>
+<p>Service description: Contains information on plant traits from 1529 unique species in 140 sites.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 231</p>
+<p>TITLE: Predictive model of direct effect of droughts on crop yields</p>
+<p>ID: 231</p>
+<p>Name: Predictive model of direct effect of droughts on crop yields</p>
+<p>Technology: Econometric modeling</p>
+<p>Type: Predictive model</p>
+<p>Data used as input: Meteorological and satellite indicators</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Comparison of meteorological and satellite-based drought indices as yield predictors of Spanish cereals</p>
+<p>Paper DOI (if available): 10.1016/j.agwat.2018.10.030</p>
+<p>Project ID (if available): 705408</p>
+<p>Project Acronym (if available): WATER DROP</p>
+<p>Service description: Predicts the direct impact of droughts on crop yields using meteorological and satellite data.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 232</p>
+<p>TITLE: Ice Thickness Mapping Procedure</p>
+<p>ID: 232</p>
+<p>Name: Ice Thickness Mapping Procedure</p>
+<p>Technology: Mass-conservation approach, multi-temporal satellite information</p>
+<p>Type: Ice thickness reconstruction</p>
+<p>Data used as input: Multi-temporal satellite information, direct thickness measurements</p>
+<p>Produced datasets (openly available): Potentially, depending on project dissemination plans</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): The foundations of the Patagonian icefields</p>
+<p>Paper DOI (if available): 10.1038/s43247-023-01193-7</p>
+<p>Project ID (if available): 948290</p>
+<p>Project Acronym (if available): FRAGILE</p>
+<p>Service description: Reconstructs basin-wide ice thickness for virtually any glacier.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 233</p>
+<p>TITLE: Transient 2D Assimilation with Stokes</p>
+<p>ID: 233</p>
+<p>Name: Transient 2D Assimilation with Stokes</p>
+<p>Technology: Ensemble Kalman filter</p>
+<p>Type: Data assimilation</p>
+<p>Data used as input: Surface elevation data, ice thickness observations</p>
+<p>Produced datasets (openly available): Potentially, depending on project dissemination plans</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Robust reconstruction of glacier beds using transient 2D assimilation with Stokes</p>
+<p>Paper DOI (if available): 10.1017/jog.2023.26</p>
+<p>Project ID (if available): 948290</p>
+<p>Project Acronym (if available): FRAGILE</p>
+<p>Service description: Robust retrieval of glacier bed using data assimilation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 234</p>
+<p>TITLE: Calving-front Detection Method</p>
+<p>ID: 234</p>
+<p>Name: Calving-front Detection Method</p>
+<p>Technology: Deep learning framework nnU-Net</p>
+<p>Type: Image segmentation</p>
+<p>Data used as input: Synthetic aperture radar (SAR) images</p>
+<p>Produced datasets (openly available): Potentially, depending on project dissemination plans</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Out-of-the-box calving-front detection method using deep learning</p>
+<p>Paper DOI (if available): 10.5194/tc-17-4957-2023</p>
+<p>Project ID (if available): 948290</p>
+<p>Project Acronym (if available): FRAGILE</p>
+<p>Service description: Automatic detection of glacier calving fronts in SAR images.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 235</p>
+<p>TITLE: A modelling tool for prediction of the future change of the GrIS supraglacial ecosystem</p>
+<p>ID: 235</p>
+<p>Name: A modelling tool for prediction of the future change of the GrIS supraglacial ecosystem</p>
+<p>Technology: Mathematical model</p>
+<p>Type: Predictive model</p>
+<p>Data used as input: Field measurements of surface reflectance and concentrations of light-absorbing impurities</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Ecological Modeling of the Supraglacial Ecosystem: A Process-based Perspective</p>
+<p>Paper DOI (if available): 10.3389/feart.2017.00052</p>
+<p>Project ID (if available): 657533</p>
+<p>Project Acronym (if available): EMoGrIS</p>
+<p>Service description: Predicting future changes in the Greenland Ice Sheet supraglacial ecosystem.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 236</p>
+<p>TITLE: LakeVap</p>
+<p>ID: 236</p>
+<p>Name: LakeVap</p>
+<p>Technology: Satellite-based</p>
+<p>Type: Evaporation mapping tool</p>
+<p>Data used as input: Satellite-derived Lake Surface Water Temperature (LSWT) maps and single-point/gridded meteorological data</p>
+<p>Produced datasets (openly available): Evaporation maps (instantaneous and daily)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A Satellite-Based Tool for Mapping Evaporation in Inland Water Bodies: Formulation, Application, and Operational Aspects</p>
+<p>Paper DOI (if available): 10.3390/rs14112636</p>
+<p>Project ID (if available): 870504</p>
+<p>Project Acronym (if available): HYPOS</p>
+<p>Service description: Mapping evaporation from lakes and reservoirs.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 237</p>
+<p>TITLE: Flow Control Device (FCD)</p>
+<p>ID: 237</p>
+<p>Name: Flow Control Device (FCD)</p>
+<p>Technology: Mechanical flow control</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Local in-sewer water level data</p>
+<p>Produced datasets (openly available): None mentioned</p>
+<p>Demo (video if available): None mentioned</p>
+<p>Paper (if available): None mentioned</p>
+<p>Project ID (if available): 641931</p>
+<p>Project Acronym (if available): CENTAUR</p>
+<p>Service description: Controls flow in sewers to reduce flood risk</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 238</p>
+<p>TITLE: Local Monitoring and Control System (LMCS)</p>
+<p>ID: 238</p>
+<p>Name: Local Monitoring and Control System (LMCS)</p>
+<p>Technology: Real-time control system</p>
+<p>Type: Software</p>
+<p>Data used as input: Live measured water level data</p>
+<p>Produced datasets (openly available): None mentioned</p>
+<p>Demo (video if available): None mentioned</p>
+<p>Paper (if available): None mentioned</p>
+<p>Project ID (if available): 641931</p>
+<p>Project Acronym (if available): CENTAUR</p>
+<p>Service description: Operates FCDs based on AI algorithm and water level data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 239</p>
+<p>TITLE: Artificial Intelligence (AI) algorithm</p>
+<p>ID: 239</p>
+<p>Name: Artificial Intelligence (AI) algorithm</p>
+<p>Technology: Data-driven distributed intelligence</p>
+<p>Type: Software</p>
+<p>Data used as input: Local in-sewer water level data</p>
+<p>Produced datasets (openly available): None mentioned</p>
+<p>Demo (video if available): None mentioned</p>
+<p>Paper (if available): None mentioned</p>
+<p>Project ID (if available): 641931</p>
+<p>Project Acronym (if available): CENTAUR</p>
+<p>Service description: Makes control decisions for FCDs autonomously</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 240</p>
+<p>TITLE: Automatic ice cliff delineation method</p>
+<p>ID: 240</p>
+<p>Name: Automatic ice cliff delineation method</p>
+<p>Technology: Optical satellite imagery analysis</p>
+<p>Type: Method</p>
+<p>Data used as input: Optical satellite imagery</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Debris cover and the thinning of Kennicott Glacier, Alaska: in situ measurements, automated ice cliff delineation and distributed melt estimates</p>
+<p>Paper DOI (if available): 10.5194/tc-15-265-2021</p>
+<p>Project ID (if available): 759639</p>
+<p>Project Acronym (if available): COLD</p>
+<p>Service description: Automated delineation of ice cliffs from optical satellite imagery.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 241</p>
+<p>TITLE: 1D numerical model of in-situ cosmogenic 10Be, 14C, and 3He concentrations</p>
+<p>ID: 241</p>
+<p>Name: 1D numerical model of in-situ cosmogenic 10Be, 14C, and 3He concentrations</p>
+<p>Technology: Cosmogenic nuclide geochemistry, numerical modeling</p>
+<p>Type: Model</p>
+<p>Data used as input: Cosmogenic nuclide concentrations, erosion rate, erosion style, ground surface temperature</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A Combined Cosmogenic Nuclides Approach for Determining the Temperature-Dependence of Erosion</p>
+<p>Paper DOI (if available): 10.1029/2021jf006580</p>
+<p>Project ID (if available): 759639</p>
+<p>Project Acronym (if available): COLD</p>
+<p>Service description: Model to simulate cosmogenic nuclide concentrations evolution as a function of erosion and temperature.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 242</p>
+<p>TITLE: Lagrangian particle tracing routine combined with numerical ice flow model</p>
+<p>ID: 242</p>
+<p>Name: Lagrangian particle tracing routine combined with numerical ice flow model</p>
+<p>Technology: Numerical ice flow modeling, Lagrangian particle tracing</p>
+<p>Type: Model</p>
+<p>Data used as input: Spatial and temporal variability in erosion rates and source areas, 10Be concentrations</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Production and Transport of Supraglacial Debris: Insights From Cosmogenic 10 Be and Numerical Modeling, Chhota Shigri Glacier, Indian Himalaya</p>
+<p>Paper DOI (if available): 10.1029/2020jf005586</p>
+<p>Project ID (if available): 759639</p>
+<p>Project Acronym (if available): COLD</p>
+<p>Service description: Model to simulate debris transport and the impact of erosion on cosmogenic nuclide concentrations.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 243</p>
+<p>TITLE: Debris thickness inversion method</p>
+<p>ID: 243</p>
+<p>Name: Debris thickness inversion method</p>
+<p>Technology: Data analysis, inversion</p>
+<p>Type: Method</p>
+<p>Data used as input: Debris thickness change, englacial debris content, surface velocity</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): The Causes of Debris-Covered Glacier Thinning: Evidence for the Importance of Ice Dynamics From Kennicott Glacier, Alaska</p>
+<p>Paper DOI (if available): 10.3389/feart.2021.680995</p>
+<p>Project ID (if available): 759639</p>
+<p>Project Acronym (if available): COLD</p>
+<p>Service description: Method to estimate debris thickness change and englacial debris content.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 244</p>
+<p>TITLE: Simple debris particle trajectory model</p>
+<p>ID: 244</p>
+<p>Name: Simple debris particle trajectory model</p>
+<p>Technology: Glacial debris transport modeling</p>
+<p>Type: Model</p>
+<p>Data used as input: 10Be concentrations, medial moraine debris samples</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Temporal evolution of headwall erosion rates derived from cosmogenic nuclide concentrations in the medial moraines of Glacier d&#39;Otemma, Switzerland</p>
+<p>Paper DOI (if available): 10.1002/esp.5386</p>
+<p>Project ID (if available): 759639</p>
+<p>Project Acronym (if available): COLD</p>
+<p>Service description: Model to simulate debris trajectories and correct 10Be concentrations for post-depositional accumulation.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 245</p>
+<p>TITLE: GROOPS</p>
+<p>ID: 245</p>
+<p>Name: GROOPS</p>
+<p>Technology: Gravity field recovery and GNSS processing</p>
+<p>Type: Software toolkit</p>
+<p>Data used as input: GNSS data, GRACE/GRACE-FO data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1016/j.cageo.2021.104864</p>
+<p>Project ID (if available): 870353</p>
+<p>Project Acronym (if available): G3P</p>
+<p>Service description: Gravity field recovery and GNSS processing</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 246</p>
+<p>TITLE: Python toolbox for computing uncertainties and covariance matrices</p>
+<p>ID: 246</p>
+<p>Name: Python toolbox for computing uncertainties and covariance matrices</p>
+<p>Technology: Spatial covariance modeling</p>
+<p>Type: Software toolkit</p>
+<p>Data used as input: GRACE/GRACE-FO TWS data</p>
+<p>Produced datasets (openly available): TWS uncertainties for global river basins (via GravIS portal)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1029/2021jb022081</p>
+<p>Project ID (if available): 870353</p>
+<p>Project Acronym (if available): G3P</p>
+<p>Service description: Computation of uncertainties and covariance matrices for terrestrial water storage data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 247</p>
+<p>TITLE: Groundwater storage anomaly (GWSA) downscaling tool</p>
+<p>ID: 247</p>
+<p>Name: Groundwater storage anomaly (GWSA) downscaling tool</p>
+<p>Technology: Random Forest</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: WGHM-based GWSA, ERA5-Land data, GPM-IMERG data</p>
+<p>Produced datasets (openly available): Downscaled GWSA (0.1-degree resolution)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.3390/hydrology9100179</p>
+<p>Project ID (if available): 870353</p>
+<p>Project Acronym (if available): G3P</p>
+<p>Service description: Downscaling of groundwater storage anomaly data from coarse to fine resolution</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 248</p>
+<p>TITLE: GRACE Follow-On Accelerometer Data Recovery Tool</p>
+<p>ID: 248</p>
+<p>Name: GRACE Follow-On Accelerometer Data Recovery Tool</p>
+<p>Technology: Non-gravitational force modeling</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: GRACE-FO accelerometer data</p>
+<p>Produced datasets (openly available): Improved GRACE-D ACT1B data</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Yes</p>
+<p>Paper DOI (if available): 10.1029/2020jb021297</p>
+<p>Project ID (if available): 870353</p>
+<p>Project Acronym (if available): G3P</p>
+<p>Service description: Recovery of GRACE-D accelerometer data</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 249</p>
+<p>TITLE: Hydrological Similar Pixels Algorithm</p>
+<p>ID: 249</p>
+<p>Name: Hydrological Similar Pixels Algorithm</p>
+<p>Technology: Machine Learning</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Satellite data, hydrological models, in-situ data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A novel evapotranspiration based irrigation quantification method using the hydrological similar pixels algorithm</p>
+<p>Paper DOI (if available): 10.1016/j.agwat.2022.107602</p>
+<p>Project ID (if available): 870344</p>
+<p>Project Acronym (if available): WaterSENSE</p>
+<p>Service description: Irrigation quantification</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 250</p>
+<p>TITLE: Soil Water Content Monitoring System</p>
+<p>ID: 250</p>
+<p>Name: Soil Water Content Monitoring System</p>
+<p>Technology: Data Fusion</p>
+<p>Type: System</p>
+<p>Data used as input: Satellite data, in-situ data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Towards near real-time national-scale soil water content monitoring using data fusion as a downscaling alternative</p>
+<p>Paper DOI (if available): 10.1016/j.jhydrol.2022.127705</p>
+<p>Project ID (if available): 870344</p>
+<p>Project Acronym (if available): WaterSENSE</p>
+<p>Service description: Soil moisture monitoring</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 251</p>
+<p>TITLE: On-farm Reservoir Volume Estimation Tool</p>
+<p>ID: 251</p>
+<p>Name: On-farm Reservoir Volume Estimation Tool</p>
+<p>Technology: Surface Reflectance and LiDAR data processing</p>
+<p>Type: Tool</p>
+<p>Data used as input: Surface reflectance data, LiDAR data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Volume and uncertainty estimates of on-farm reservoirs using surface reflectance and LiDAR data</p>
+<p>Paper DOI (if available): 10.1016/j.envsoft.2021.105095</p>
+<p>Project ID (if available): 870344</p>
+<p>Project Acronym (if available): WaterSENSE</p>
+<p>Service description: Reservoir volume estimation</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 252</p>
+<p>TITLE: LakeEnsemblR</p>
+<p>ID: 252</p>
+<p>Name: LakeEnsemblR</p>
+<p>Technology: R package</p>
+<p>Type: Software</p>
+<p>Data used as input: Lake data, meteorological data</p>
+<p>Produced datasets (openly available): Simulations of lake characteristics</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): LakeEnsemblR: An R package that facilitates ensemble modelling of lakes</p>
+<p>Paper DOI (if available): 10.1016/j.envsoft.2021.105101</p>
+<p>Project ID (if available): 722518</p>
+<p>Project Acronym (if available): MANTEL</p>
+<p>Service description: Facilitates ensemble modelling of lakes</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 253</p>
+<p>TITLE: Flipping Lakes</p>
+<p>ID: 253</p>
+<p>Name: Flipping Lakes</p>
+<p>Technology: Serious Game</p>
+<p>Type: Educational tool</p>
+<p>Data used as input: Catchment data, water quality data, climate scenarios</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): Flipping Lakes: Explaining concepts of catchment‐scale water management through a serious game</p>
+<p>Paper DOI (if available): 10.1002/lom3.10436</p>
+<p>Project ID (if available): 722518</p>
+<p>Project Acronym (if available): MANTEL</p>
+<p>Service description: Educational tool for lake water quality management.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 254</p>
+<p>TITLE: Long-term WEF optimization model</p>
+<p>ID: 254</p>
+<p>Name: Long-term WEF optimization model</p>
+<p>Technology: Unspecified</p>
+<p>Type: Optimization model</p>
+<p>Data used as input: WEF data for Tana and Volta river basins</p>
+<p>Produced datasets (openly available): Unspecified</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 101083763</p>
+<p>Project Acronym (if available): EPIC Africa</p>
+<p>Service description: Provides least-cost investment strategies across multiple future scenarios for WEF infrastructure up to 2063.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 255</p>
+<p>TITLE: WEF models</p>
+<p>ID: 255</p>
+<p>Name: WEF models</p>
+<p>Technology: Unspecified</p>
+<p>Type: Operational models</p>
+<p>Data used as input: Future climate and market scenarios</p>
+<p>Produced datasets (openly available): Unspecified</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 101083763</p>
+<p>Project Acronym (if available): EPIC Africa</p>
+<p>Service description: Operational WEF models with high spatial and temporal resolution to verify cost-optimized infrastructure investment plans.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 256</p>
+<p>TITLE: WEF nexus digital engagement tool</p>
+<p>ID: 256</p>
+<p>Name: WEF nexus digital engagement tool</p>
+<p>Technology: Unspecified</p>
+<p>Type: Digital engagement platform</p>
+<p>Data used as input: Stakeholder input</p>
+<p>Produced datasets (openly available): Unspecified</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 101083763</p>
+<p>Project Acronym (if available): EPIC Africa</p>
+<p>Service description: Supports governance of sustainable development through dialogue and information sharing.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 257</p>
+<p>TITLE: CLEWs Data Observatory</p>
+<p>ID: 257</p>
+<p>Name: CLEWs Data Observatory</p>
+<p>Technology: Unspecified</p>
+<p>Type: Data Observatory</p>
+<p>Data used as input: Various WEF data</p>
+<p>Produced datasets (openly available): Potentially openly available datasets</p>
+<p>Demo (video if available): No</p>
+<p>Paper (if available): No</p>
+<p>Paper DOI (if available): No</p>
+<p>Project ID (if available): 101083763</p>
+<p>Project Acronym (if available): EPIC Africa</p>
+<p>Service description: Supports data-driven decision-making.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 258</p>
+<p>TITLE: Calimnos</p>
+<p>ID: 258</p>
+<p>Name: Calimnos</p>
+<p>Technology: Satellite data processing chain</p>
+<p>Type: Software</p>
+<p>Data used as input: In situ data from various partners</p>
+<p>Produced datasets (openly available): Regional and global water quality products</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): MOVING TOWARDS GLOBAL SATELLITE BASED PRODUCTS FOR MONITORING OF INLAND AND COASTAL WATERS. REGIONAL EXAMPLES FROM EUROPE AND SOUTH AMERICA</p>
+<p>Paper DOI (if available): 10.5194/isprs-annals-iv-3-w2-2020-101-2020</p>
+<p>Project ID (if available): 870349</p>
+<p>Project Acronym (if available): CERTO</p>
+<p>Service description: Harmonised water quality data production from Copernicus services, extending support to transitional waters.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 259</p>
+<p>TITLE: Prototype system</p>
+<p>ID: 259</p>
+<p>Name: Prototype system</p>
+<p>Technology: Not specified</p>
+<p>Type: Software</p>
+<p>Data used as input: Satellite observations, in situ data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 870349</p>
+<p>Project Acronym (if available): CERTO</p>
+<p>Service description: Can be integrated into existing Copernicus services, cloud platforms, or open-source software (SNAP).</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 260</p>
+<p>TITLE: SPACE-O Platform</p>
+<p>ID: 260</p>
+<p>Name: SPACE-O Platform</p>
+<p>Technology: Satellite technology, in-situ monitoring, hydrological modelling, hydrodynamic and water quality modelling, ICT tools, Data Assimilation workflow</p>
+<p>Type: Decision Support System (DSS)</p>
+<p>Data used as input: EO data (chlorophyll-a, turbidity), in-situ sensor data, SCADA data</p>
+<p>Produced datasets (openly available): Water quantity and quality forecasts (up to 10 days)</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 730005</p>
+<p>Project Acronym (if available): SPACE-O</p>
+<p>Service description: Provides real-time, short to medium term forecasting of water flows and quality data in reservoirs for optimization of WTPs operations.</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 261</p>
+<p>TITLE: Optimized MD Modules</p>
+<p>ID: 261</p>
+<p>Name: Optimized MD Modules</p>
+<p>Technology: Membrane Distillation</p>
+<p>Type: Module</p>
+<p>Data used as input: Hydrodynamics data, energy recovery data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 101091915</p>
+<p>Project Acronym (if available): MEloDIZER</p>
+<p>Service description: Improved hydrodynamics and energy recovery in MD systems</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 262</p>
+<p>TITLE: Next-generation membranes (flat-sheet and hollow-fibre)</p>
+<p>ID: 262</p>
+<p>Name: Next-generation membranes (flat-sheet and hollow-fibre)</p>
+<p>Technology: Membrane Distillation</p>
+<p>Type: Membrane</p>
+<p>Data used as input: Not specified</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 101091915</p>
+<p>Project Acronym (if available): MEloDIZER</p>
+<p>Service description: High-performance, robust membranes made with green materials</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 263</p>
+<p>TITLE: Four MD prototypes (2-5 m3/day, 0.5-2 m3/day, 50-100 L/day, 10-20 L/day)</p>
+<p>ID: 263</p>
+<p>Name: Four MD prototypes (2-5 m3/day, 0.5-2 m3/day, 50-100 L/day, 10-20 L/day)</p>
+<p>Technology: Membrane Distillation</p>
+<p>Type: System</p>
+<p>Data used as input: Wastewater, saline water</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Not specified</p>
+<p>Paper DOI (if available): Not specified</p>
+<p>Project ID (if available): 101091915</p>
+<p>Project Acronym (if available): MEloDIZER</p>
+<p>Service description: Demonstrates MD performance in various applications</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 264</p>
+<p>TITLE: OMD System</p>
+<p>ID: 264</p>
+<p>Name: OMD System</p>
+<p>Technology: Osmotic Membrane Distillation</p>
+<p>Type: System</p>
+<p>Data used as input: Wastewater streams</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Process optimization of osmotic membrane distillation for the extraction of valuable resources from water streams</p>
+<p>Paper DOI (if available): 10.1038/s41545-023-00294-2</p>
+<p>Project ID (if available): 101091915</p>
+<p>Project Acronym (if available): MEloDIZER</p>
+<p>Service description: Concentrates valuable elements and substances in dilute feed streams</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 265</p>
+<p>TITLE: Pseudo-nitzschia bloom detection framework</p>
+<p>ID: 265</p>
+<p>Name: Pseudo-nitzschia bloom detection framework</p>
+<p>Technology: Remote sensing (MERIS)</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: MERIS satellite data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Pseudo-nitzschia Blooms in a Coastal Upwelling System: Remote Sensing Detection, Toxicity and Environmental Variables</p>
+<p>Paper DOI (if available): 10.3390/w11091954</p>
+<p>Project ID (if available): 776348</p>
+<p>Project Acronym (if available): CoastObs</p>
+<p>Service description: Detection of Pseudo-nitzschia blooms and prediction of toxicity</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 266</p>
+<p>TITLE: Remote sensing model for particulate domoic acid (pDA)</p>
+<p>ID: 266</p>
+<p>Name: Remote sensing model for particulate domoic acid (pDA)</p>
+<p>Technology: Remote sensing (MERIS)</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: MERIS satellite data</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Pseudo-nitzschia Blooms in a Coastal Upwelling System: Remote Sensing Detection, Toxicity and Environmental Variables</p>
+<p>Paper DOI (if available): 10.3390/w11091954</p>
+<p>Project ID (if available): 776348</p>
+<p>Project Acronym (if available): CoastObs</p>
+<p>Service description: Prediction of particulate domoic acid concentrations</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 267</p>
+<p>TITLE: Sentinel-2 based microphytobenthos water quality indices</p>
+<p>ID: 267</p>
+<p>Name: Sentinel-2 based microphytobenthos water quality indices</p>
+<p>Technology: Remote sensing (Sentinel-2)</p>
+<p>Type: Algorithm</p>
+<p>Data used as input: Sentinel-2 satellite imagery</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Using sentinel-2 satellite imagery to develop microphytobenthos-based water quality indices in estuaries</p>
+<p>Paper DOI (if available): 10.1016/j.ecolind.2020.107184</p>
+<p>Project ID (if available): 776348</p>
+<p>Project Acronym (if available): CoastObs</p>
+<p>Service description: Water quality assessment using microphytobenthos</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 268</p>
+<p>TITLE: CoastObs service platform</p>
+<p>ID: 268</p>
+<p>Name: CoastObs service platform</p>
+<p>Technology: Earth Observation data processing and service delivery platform</p>
+<p>Type: Platform</p>
+<p>Data used as input: Sentinel-2, Sentinel-3</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): COMMERCIAL SERVICE PLATFORM FOR USER-RELEVANT COASTAL WATER MONITORING SERVICES BASED ON EARTH OBSERVATION</p>
+<p>Paper DOI (if available): 10.5281/zenodo.5041169</p>
+<p>Project ID (if available): 776348</p>
+<p>Project Acronym (if available): CoastObs</p>
+<p>Service description: Coastal water quality monitoring and reporting</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 269</p>
+<p>TITLE: HydroColor</p>
+<p>ID: 269</p>
+<p>Name: HydroColor</p>
+<p>Technology: Smartphone app</p>
+<p>Type: Software</p>
+<p>Data used as input: RAW image data from smartphone camera</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Accuracy and Reproducibility of Above-Water Radiometry With Calibrated Smartphone Cameras Using RAW Data</p>
+<p>Paper DOI (if available): 10.3389/frsen.2022.940096</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Above-water radiometry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 270</p>
+<p>TITLE: EyeOnWater</p>
+<p>ID: 270</p>
+<p>Name: EyeOnWater</p>
+<p>Technology: Smartphone app</p>
+<p>Type: Software</p>
+<p>Data used as input: RAW image data from smartphone camera</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Accuracy and Reproducibility of Above-Water Radiometry With Calibrated Smartphone Cameras Using RAW Data</p>
+<p>Paper DOI (if available): 10.3389/frsen.2022.940096</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Above-water radiometry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 271</p>
+<p>TITLE: iSPEX 2</p>
+<p>ID: 271</p>
+<p>Name: iSPEX 2</p>
+<p>Technology: Smartphone add-on</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Light</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): A universal smartphone add-on for portable spectroscopy and polarimetry: iSPEX 2</p>
+<p>Paper DOI (if available): 10.1117/12.2558562</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Portable spectroscopy and polarimetry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 272</p>
+<p>TITLE: KduSTICK</p>
+<p>ID: 272</p>
+<p>Name: KduSTICK</p>
+<p>Technology: Low-cost Do-It-Yourself instrument</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Water samples</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Water quality monitoring program through the KduSTICK, a low-cost and Do-It-Yourself instrument connected by the Internet of Things</p>
+<p>Paper DOI (if available): No DOI available</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Water quality monitoring</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 273</p>
+<p>TITLE: MONOCLE reference sensor collection</p>
+<p>ID: 273</p>
+<p>Name: MONOCLE reference sensor collection</p>
+<p>Technology: Collection of sensors</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Various water parameters</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): D2.6 MONOCLE reference sensor collection</p>
+<p>Paper DOI (if available): 10.5281/zenodo.6949209</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Water quality monitoring</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 274</p>
+<p>TITLE: So-Rad</p>
+<p>ID: 274</p>
+<p>Name: So-Rad</p>
+<p>Technology: Solar-Tracking Radiometry Platform</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Solar irradiance, upwelling radiance</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): Incorporating a Hyperspectral Direct-Diffuse Pyranometer in an Above-Water Reflectance Algorithm</p>
+<p>Paper DOI (if available): 10.3390/rs14102491</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Above-water radiometry</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.2.2_Tools_and_Technologies</p>
+<p>ID: 275</p>
+<p>TITLE: Low-cost sensors</p>
+<p>ID: 275</p>
+<p>Name: Low-cost sensors</p>
+<p>Technology: Various sensors</p>
+<p>Type: Hardware</p>
+<p>Data used as input: Various water parameters</p>
+<p>Produced datasets (openly available): Not specified</p>
+<p>Demo (video if available): Not specified</p>
+<p>Paper (if available): D2.5 Low-cost sensors support package</p>
+<p>Paper DOI (if available): 10.5281/zenodo.3967123</p>
+<p>Project ID (if available): 776480</p>
+<p>Project Acronym (if available): MONOCLE</p>
+<p>Service description: Water quality monitoring</p>

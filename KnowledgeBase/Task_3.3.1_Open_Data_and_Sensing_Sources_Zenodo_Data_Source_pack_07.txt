@@ -1,0 +1,873 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_57</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Cambids</p>
+<p>ID: ice_57</p>
+<p>Dataset Page: https://zenodo.org/records/15481531</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481531</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Cambids</p>
+<p>DOI: 10.5281/zenodo.15481531</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Cambids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_58</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aquepts</p>
+<p>ID: ice_58</p>
+<p>Dataset Page: https://zenodo.org/records/15481421</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481421</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aquepts</p>
+<p>DOI: 10.5281/zenodo.15481421</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aquepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_59</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aquods</p>
+<p>ID: ice_59</p>
+<p>Dataset Page: https://zenodo.org/records/15481479</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481479</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aquods</p>
+<p>DOI: 10.5281/zenodo.15481479</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aquods Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_60</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Gelepts</p>
+<p>ID: ice_60</p>
+<p>Dataset Page: https://zenodo.org/records/15481449</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481449</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Gelepts</p>
+<p>DOI: 10.5281/zenodo.15481449</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Gelepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_61</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xeralfs</p>
+<p>ID: ice_61</p>
+<p>Dataset Page: https://zenodo.org/records/15481447</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481447</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xeralfs</p>
+<p>DOI: 10.5281/zenodo.15481447</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xeralfs Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_62</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Ustepts</p>
+<p>ID: ice_62</p>
+<p>Dataset Page: https://zenodo.org/records/15481455</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481455</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Ustepts</p>
+<p>DOI: 10.5281/zenodo.15481455</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Ustepts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_63</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Psamments</p>
+<p>ID: ice_63</p>
+<p>Dataset Page: https://zenodo.org/records/15481497</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481497</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Psamments</p>
+<p>DOI: 10.5281/zenodo.15481497</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Psamments Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wa</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_64</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Uderts</p>
+<p>ID: ice_64</p>
+<p>Dataset Page: https://zenodo.org/records/15481407</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481407</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Uderts</p>
+<p>DOI: 10.5281/zenodo.15481407</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Uderts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_65</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udolls</p>
+<p>ID: ice_65</p>
+<p>Dataset Page: https://zenodo.org/records/15481507</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481507</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udolls</p>
+<p>DOI: 10.5281/zenodo.15481507</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_66</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aquolls</p>
+<p>ID: ice_66</p>
+<p>Dataset Page: https://zenodo.org/records/15481481</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481481</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aquolls</p>
+<p>DOI: 10.5281/zenodo.15481481</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aquolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_67</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Gypsids</p>
+<p>ID: ice_67</p>
+<p>Dataset Page: https://zenodo.org/records/15481527</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481527</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Gypsids</p>
+<p>DOI: 10.5281/zenodo.15481527</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Gypsids Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_68</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Histels</p>
+<p>ID: ice_68</p>
+<p>Dataset Page: https://zenodo.org/records/15481439</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481439</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Histels</p>
+<p>DOI: 10.5281/zenodo.15481439</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Histels Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_69</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aquands</p>
+<p>ID: ice_69</p>
+<p>Dataset Page: https://zenodo.org/records/15481461</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481461</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aquands</p>
+<p>DOI: 10.5281/zenodo.15481461</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aquands Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_70</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Wassents</p>
+<p>ID: ice_70</p>
+<p>Dataset Page: https://zenodo.org/records/15481515</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481515</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Wassents</p>
+<p>DOI: 10.5281/zenodo.15481515</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Wassents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_71</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xerolls</p>
+<p>ID: ice_71</p>
+<p>Dataset Page: https://zenodo.org/records/15481465</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481465</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xerolls</p>
+<p>DOI: 10.5281/zenodo.15481465</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xerolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_72</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Torrerts</p>
+<p>ID: ice_72</p>
+<p>Dataset Page: https://zenodo.org/records/15481437</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481437</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Torrerts</p>
+<p>DOI: 10.5281/zenodo.15481437</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Torrerts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wal</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_73</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udox</p>
+<p>ID: ice_73</p>
+<p>Dataset Page: https://zenodo.org/records/15481489</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481489</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udox</p>
+<p>DOI: 10.5281/zenodo.15481489</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udox Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-to</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_74</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Udults</p>
+<p>ID: ice_74</p>
+<p>Dataset Page: https://zenodo.org/records/15481471</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481471</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Udults</p>
+<p>DOI: 10.5281/zenodo.15481471</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Udults Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall-</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_75</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Aquents</p>
+<p>ID: ice_75</p>
+<p>Dataset Page: https://zenodo.org/records/15481473</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481473</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Aquents</p>
+<p>DOI: 10.5281/zenodo.15481473</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Aquents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides wall</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_76</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Xererts</p>
+<p>ID: ice_76</p>
+<p>Dataset Page: https://zenodo.org/records/15481457</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481457</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Xererts</p>
+<p>DOI: 10.5281/zenodo.15481457</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Xererts Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_77</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2020-2022 60-100cm below ground</p>
+<p>ID: ice_77</p>
+<p>Dataset Page: https://zenodo.org/records/15471113</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471113</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2020-2022 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471113</p>
+<p>Description: Sub-dataset: soil pH in water 2020-2022 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provid</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_78</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2000-2005 60-100cm below ground</p>
+<p>ID: ice_78</p>
+<p>Dataset Page: https://zenodo.org/records/15471111</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471111</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2000-2005 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471111</p>
+<p>Description: Sub-dataset: soil pH in water 2000-2005 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provid</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_79</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2020-2022 30-60cm below ground</p>
+<p>ID: ice_79</p>
+<p>Dataset Page: https://zenodo.org/records/15471109</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471109</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2020-2022 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471109</p>
+<p>Description: Sub-dataset: soil pH in water 2020-2022 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provide</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_80</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2000-2005 30-60cm below ground</p>
+<p>ID: ice_80</p>
+<p>Dataset Page: https://zenodo.org/records/15471107</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471107</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2000-2005 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471107</p>
+<p>Description: Sub-dataset: soil pH in water 2000-2005 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provide</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_81</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2020-2022 0-30cm below ground</p>
+<p>ID: ice_81</p>
+<p>Dataset Page: https://zenodo.org/records/15471105</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471105</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2020-2022 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471105</p>
+<p>Description: Sub-dataset: soil pH in water 2020-2022 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_82</p>
+<p>TITLE: OpenLandMap-soildb: soil pH in water 2000-2005 0-30cm below ground</p>
+<p>ID: ice_82</p>
+<p>Dataset Page: https://zenodo.org/records/15471103</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471103</p>
+<p>Title: OpenLandMap-soildb: soil pH in water 2000-2005 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471103</p>
+<p>Description: Sub-dataset: soil pH in water 2000-2005 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_83</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 60-100cm below ground</p>
+<p>ID: ice_83</p>
+<p>Dataset Page: https://zenodo.org/records/15471063</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471063</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471063</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2020-2022 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_84</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 60-100cm below ground</p>
+<p>ID: ice_84</p>
+<p>Dataset Page: https://zenodo.org/records/15471061</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471061</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471061</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2000-2005 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_85</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 30-60cm below ground</p>
+<p>ID: ice_85</p>
+<p>Dataset Page: https://zenodo.org/records/15471059</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471059</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471059</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2020-2022 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the d</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_86</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 30-60cm below ground</p>
+<p>ID: ice_86</p>
+<p>Dataset Page: https://zenodo.org/records/15471057</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471057</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471057</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2000-2005 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the d</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_87</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 0-30cm below ground</p>
+<p>ID: ice_87</p>
+<p>Dataset Page: https://zenodo.org/records/15471055</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471055</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2020-2022 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471055</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2020-2022 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the da</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_88</p>
+<p>TITLE: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 0-30cm below ground</p>
+<p>ID: ice_88</p>
+<p>Dataset Page: https://zenodo.org/records/15471053</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471053</p>
+<p>Title: OpenLandMap-soildb: soil core bulk density (kg/m3) 2000-2005 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471053</p>
+<p>Description: Sub-dataset: soil core bulk density (kg/m3) 2000-2005 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the da</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_89</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -1</p>
+<p>ID: ice_89</p>
+<p>Dataset Page: https://zenodo.org/records/15535760</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535760</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -1</p>
+<p>DOI: 10.5281/zenodo.15535760</p>
+<p>Description: Sub-dataset: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -1 Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_90</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -2</p>
+<p>ID: ice_90</p>
+<p>Dataset Page: https://zenodo.org/records/15535758</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535758</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -2</p>
+<p>DOI: 10.5281/zenodo.15535758</p>
+<p>Description: Sub-dataset: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -2 Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_91</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -1</p>
+<p>ID: ice_91</p>
+<p>Dataset Page: https://zenodo.org/records/15535756</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535756</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -1</p>
+<p>DOI: 10.5281/zenodo.15535756</p>
+<p>Description: Sub-dataset: soil organic carbon content (g/kg) 2000-2005 0-30cm below ground -1 Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_92</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 60-100cm below ground</p>
+<p>ID: ice_92</p>
+<p>Dataset Page: https://zenodo.org/records/15471035</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471035</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471035</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2020-2022 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_93</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 60-100cm below ground</p>
+<p>ID: ice_93</p>
+<p>Dataset Page: https://zenodo.org/records/15471033</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471033</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 60-100cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471033</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2000-2005 60-100cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_94</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 30-60cm below ground</p>
+<p>ID: ice_94</p>
+<p>Dataset Page: https://zenodo.org/records/15471031</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471031</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471031</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2020-2022 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_95</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 30-60cm below ground</p>
+<p>ID: ice_95</p>
+<p>Dataset Page: https://zenodo.org/records/15471029</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471029</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 30-60cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471029</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2000-2005 30-60cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_96</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 0-30cm below ground</p>
+<p>ID: ice_96</p>
+<p>Dataset Page: https://zenodo.org/records/15471027</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15471027</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2020-2022 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15471027</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2020-2022 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_97</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 0-30cm below ground</p>
+<p>ID: ice_97</p>
+<p>Dataset Page: https://zenodo.org/records/15470432</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15470432</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon density (mg/cm3) 2000-2005 0-30cm below ground</p>
+<p>DOI: 10.5281/zenodo.15470432</p>
+<p>Description: Sub-dataset: soil organic carbon density (mg/cm3) 2000-2005 0-30cm below ground Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties,</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_98</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Arents</p>
+<p>ID: ice_98</p>
+<p>Dataset Page: https://zenodo.org/records/15481499</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481499</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Arents</p>
+<p>DOI: 10.5281/zenodo.15481499</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Arents Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_99</p>
+<p>TITLE: OpenLandMap-soildb: soil type probability - suborder: Borolls</p>
+<p>ID: ice_99</p>
+<p>Dataset Page: https://zenodo.org/records/15481509</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15481509</p>
+<p>Title: OpenLandMap-soildb: soil type probability - suborder: Borolls</p>
+<p>DOI: 10.5281/zenodo.15481509</p>
+<p>Description: Sub-dataset: soil type probability - suborder: Borolls Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil properties, the dataset provides</p>
+<p>Creators: Isik, Serkan, Tian, Xuemeng, Consoli, Davide, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250403</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: ice_100</p>
+<p>TITLE: OpenLandMap-soildb: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -2</p>
+<p>ID: ice_100</p>
+<p>Dataset Page: https://zenodo.org/records/15535762</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15535762</p>
+<p>Title: OpenLandMap-soildb: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -2</p>
+<p>DOI: 10.5281/zenodo.15535762</p>
+<p>Description: Sub-dataset: soil organic carbon content (g/kg) 2020-2022 0-30cm below ground -2 Description</p>
+<p>Global annual maps of soil properties for 2000—2022 produced within the scope of the Land &amp; Carbon Lab <a href="https://landcarbonlab.org">https://landcarbonlab.org</a>, integrating Digital surface/terrain model, vegetation/tillage indices, climatic/bioclimatic variables, and based on tree-based spatiotemporal Machine Learning. While the primary focus is on improving monitoring in global soil proper</p>
+<p>Creators: Consoli, Davide, Tian, Xuemeng, Isik, Serkan, Simoes, Rolf, Hengl, Tom</p>
+<p>Publication Date: 2025-05-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v20250204</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_1</p>
+<p>TITLE: Data for the paper &quot;Accurate water table modeling via IA-driven and iteratively-validating co-kriging algorithms&quot;</p>
+<p>ID: water transport_1</p>
+<p>Dataset Page: https://zenodo.org/records/15591074</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15591074</p>
+<p>Title: Data for the paper &quot;Accurate water table modeling via IA-driven and iteratively-validating co-kriging algorithms&quot;</p>
+<p>DOI: 10.5281/zenodo.15591074</p>
+<p>Description:</p>
+<ul>
+<li>
+<p>exemplary dataset for 2019 yearly water table measurements in Northeaster Italy</p>
+</li>
+<li>
+<p>MATLAB code for pre-processing AI-driven part</p>
+</li>
+<li>
+<p>MATLAB code for post-processing iterative validation part</p>
+</li>
+</ul>
+<p>Creators: Schiavo, Massimiliano</p>
+<p>Publication Date: 2024-11-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_2</p>
+<p>TITLE: Dataset of the Deep Potential Long Range Model and the Deep Wannier Model for Describing Solvated Glycine Tautomerism under Electric Field</p>
+<p>ID: water transport_2</p>
+<p>Dataset Page: https://zenodo.org/records/14469805</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14469805</p>
+<p>Title: Dataset of the Deep Potential Long Range Model and the Deep Wannier Model for Describing Solvated Glycine Tautomerism under Electric Field</p>
+<p>DOI: 10.5281/zenodo.14469805</p>
+<p>Description:</p>
+<p>The <em>&quot;dplr&quot;</em> dataset comprises configurations of glycine molecules in aqueous environments, including zwitterionic, neutral, anionic, and cationic forms, as well as pure water systems. All configurations are labeled using the M06-2X density functional and incorporate 0–1 pairs of hydronium and hydroxide ions to capture water autoionization effects through enhanced sampling techniques. This dataset is used to train the Deep Potential Long Range (DPLR) model to de</p>
+<p>Creators: Pengchao, Zhang</p>
+<p>Publication Date: 2024-12-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_3</p>
+<p>TITLE: Inflow to a Waste Water Treatment Plant: observations and processed data</p>
+<p>ID: water transport_3</p>
+<p>Dataset Page: https://zenodo.org/records/15301164</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15301164</p>
+<p>Title: Inflow to a Waste Water Treatment Plant: observations and processed data</p>
+<p>DOI: 10.5281/zenodo.15301164</p>
+<p>Description:</p>
+<p>This repository provides access to measurements of the combined sewage inflow to a Waste Water Treatment Plant (WWTP) located in Denmark. The data is accompanied by measurements of relevant metereological variables captured by a weather station near the WWTP and provided by the Danish Metereological Institute (DMI).</p>
+<p>The dataset contains approximately 15 months of hourly observations. The exact location of the WWTP and weather station are omitted.</p>
+<p>FilesCreators: DHI</p>
+<p>Publication Date: 2025-04-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-nc-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_4</p>
+<p>TITLE: Hygroscopicity and mixing state of submicron aerosols in the lower free troposphere over central China:local, regional and long-range transport influences</p>
+<p>ID: water transport_4</p>
+<p>Dataset Page: https://zenodo.org/records/15589884</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15589884</p>
+<p>Title: Hygroscopicity and mixing state of submicron aerosols in the lower free troposphere over central China:local, regional and long-range transport influences</p>
+<p>DOI: 10.5281/zenodo.15589884</p>
+<p>Description: Data for  “*Hygroscopicity and mixing state of submicron aerosols **in the lower free troposphere over central <strong>China</strong>:*<em>local, regional and long-range transport influences”</em></p>
+<p>Creators: Jingnan, Shi, Juan, Hong</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_5</p>
+<p>TITLE: IoT-Enabled Smart Watering System for Plant Productivity</p>
+<p>ID: water transport_5</p>
+<p>Dataset Page: https://zenodo.org/records/15588754</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15588754</p>
+<p>Title: IoT-Enabled Smart Watering System for Plant Productivity</p>
+<p>DOI: 10.5281/zenodo.15588754</p>
+<p>Description:</p>
+<p>Watering plants is an important aspect of ensuring optimal plant growth. Irregular watering, such as overwatering or underwatering, can hinder plant growth. Therefore, an automatic plant watering system can be a solution to enhance the efficiency of managing plant water needs. With this system, users can ensure that plants receive a sufficient water supply for their growth without having to water them manually.</p>
+<p>Creators: Florenta, Marcellus Geraldio, Adriel Jonathan, Reinhard Efraim, Koo, Vincent, Lukman, Selvi</p>
+<p>Publication Date: 2025-06-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_6</p>
+<p>TITLE: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>ID: water transport_6</p>
+<p>Dataset Page: https://zenodo.org/records/15587084</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15587084</p>
+<p>Title: Nevada Climate-ecohydrological Assessment Network (NevCAN) Snake Range Quality Controlled Dataset</p>
+<p>DOI: 10.5281/zenodo.15587084</p>
+<p>Description:</p>
+<p>This dataset utilizes data from the Western Regional Climate Center <a href="https://wrcc.dri.edu/GBtransect/">https://wrcc.dri.edu/GBtransect/</a> for the Nevada Climate-ecohydrological Assessment Network (NevCAN) <a href="https://nevcan.dri.edu/">https://nevcan.dri.edu/</a> transect in the Snake Range for water years 2012-2022. The list of parameters and other metadata can be found in the README.txt.</p>
+<p>This data implements 3 levels of quality control, each level can be requested b</p>
+<p>Creators: Heggli, Anne, Strachan, Scotty, Greg, McCrudy</p>
+<p>Publication Date: 2025-06-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Great Basin, Ecology, Meteorology, Energy Balance, Snow</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: water transport_7</p>
+<p>TITLE: Ultraviolet Photooxidation of Carbonate-bearing Aqueous Ferrous Iron within Open and Closed Experimental Systems – Implications for Sunlit Surface Water Bodies on Early Mars</p>
+<p>ID: water transport_7</p>
+<p>Dataset Page: https://zenodo.org/records/15399913</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15399913</p>
+<p>Title: Ultraviolet Photooxidation of Carbonate-bearing Aqueous Ferrous Iron within Open and Closed Experimental Systems – Implications for Sunlit Surface Water Bodies on Early Mars</p>
+<p>DOI: 10.5281/zenodo.15399913</p>
+<p>Description:</p>
+<p>The datasets included are Microsoft Excel files. The file names that include &quot;Main&quot; refer to those that are plotted in the main text of the paper and &quot;SI&quot; pertains to those plotted in the supporting information.</p>
+<p><em>&quot;Main_ATRFTIR&quot;: ATR-FTIR spectra for minerals precipitated from experiments O-UV_pHi7.46, C-UV_pHi6.54, and C-UV_pHi7.44</em></p>

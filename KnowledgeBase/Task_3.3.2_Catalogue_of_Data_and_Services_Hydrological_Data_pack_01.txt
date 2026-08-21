@@ -1,0 +1,372 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 1</p>
+<p>TITLE: Multi-model seasonal reforecasts of river discharge for Europe</p>
+<p>ID: 1</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Multi-model seasonal reforecasts of river discharge for Europe</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-seasonal-reforecast?tab=download</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: monthly</p>
+<p>Description : This dataset provides hydrological seasonal reforecasts of monthly mean river discharge across Europe for the period 1993 to 2016 based on two models. The first is an E-HYPE multi-model system comprising eight model realisations using a catchment-based resolution. The second comprises the E-HYPEgrid, VIC-WUR and LISFLOOD-EFAS hydrological models at a 5km gridded resolution.</p>
+<p>Variable(s): River discharge and related statistics (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 5 km grid and catchments</p>
+<p>Temporal coverage: 1993-2016</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-seasonal-reforecast?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 2</p>
+<p>TITLE: Multi-model seasonal forecasts of river discharge for Europe from January 2021 to present</p>
+<p>ID: 2</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Multi-model seasonal forecasts of river discharge for Europe from January 2021 to present</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-seasonal-forecast?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: monthly</p>
+<p>Description : This dataset provides hydrological seasonal forecasts of monthly mean river discharge across Europe. Two hydrological model ensembles are provided. The first is an E-HYPE multi-model system comprising eight model realisations using a catchment-based resolution. The second comprises the E-HYPEgrid, VIC-WUR and EFAS (LISFLOOD) hydrological models at a 5km gridded resolution.</p>
+<p>Variable(s): River discharge and related statistics (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 5 km grid and catchments</p>
+<p>Temporal coverage: 2021 - present</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-seasonal-forecast?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 3</p>
+<p>TITLE: Hydrology-related climate impact indicators from 1970 to 2100 derived from bias adjusted European climate projections</p>
+<p>ID: 3</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Hydrology-related climate impact indicators from 1970 to 2100 derived from bias adjusted European climate projections</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-projections?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Irregular</p>
+<p>Description : This dataset provides water variables and indicators based on hydrological impact modelling, forced by bias adjusted regional climate simulations from the European Coordinated Regional Climate Downscaling Experiment (EURO-CORDEX). The dataset contains Essential Climate Variable (ECV) data in the form of daily mean river discharge and a set of climate impact indicators (CIIs) for both water quantity and quality.</p>
+<p>Variable(s): River discharge, runoff, aridity and related variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Pan-European</p>
+<p>Spatial resolution: 5 km grid and catchments</p>
+<p>Temporal coverage: 1970-2100</p>
+<p>Temporal resolution: Daily and 30 year annual and monthly means</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/sis-hydrology-variables-derived-projections?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 4</p>
+<p>TITLE: Lake water levels from 1992 to present derived from satellite observations</p>
+<p>ID: 4</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Lake water levels from 1992 to present derived from satellite observations</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/satellite-lake-water-level?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Annually</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : This dataset provides lake water levels for 251 selected lakes on four continents derived from satellite radar altimetry.</p>
+<p>Variable(s): Water surface height and uncertainty</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: point</p>
+<p>Temporal coverage: 1992-present</p>
+<p>Temporal resolution: 1 to 27 days</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/satellite-lake-water-level?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 5</p>
+<p>TITLE: Lake surface water temperature from 1995 to present derived from satellite observations</p>
+<p>ID: 5</p>
+<p>Source Organisation: C3S-CDS</p>
+<p>Name: Lake surface water temperature from 1995 to present derived from satellite observations</p>
+<p>Type: data (format: NetCDF-4)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://cds.climate.copernicus.eu/datasets/satellite-lake-water-temperature?tab=documentation</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: Annually</p>
+<p>Legal restrictions: CC-4.0-BY</p>
+<p>Description : This dataset provides mid-morning daily values for lake surface water temperature (LSWT) retrieved from satellite over a regular grid together with associated LSWT uncertainty and quality levels based on statistical confidence levels. The data represent current state-of-the-art for LSWT record production.</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.05°</p>
+<p>Temporal coverage: 1995-2023</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://cds.climate.copernicus.eu/datasets/satellite-lake-water-temperature?tab=overview</p>
+<p>API Protocol: https://cds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 6</p>
+<p>TITLE: Medium- and extended-range deterministic and ensemble forecasts for GloFAS 30-day</p>
+<p>ID: 6</p>
+<p>Source Organisation: Copernicus, Emergency Management Service</p>
+<p>Name: Medium- and extended-range deterministic and ensemble forecasts for GloFAS 30-day</p>
+<p>Type: data (format: unkown), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://extwiki.eodc.eu/GFM/PDD</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: daily</p>
+<p>Description : GloFAS medium-range flood forecasts provide a global overview of upcoming flood events for the next 30 days. The forecasts are updated every day and they include the potential socio-economic impacts.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: ~9 km resolution up to 15 days, increasing to 36 km from day 16 to 30</p>
+<p>Temporal coverage: NA-present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://global-flood.emergency.copernicus.eu/technical-information/glofas-30day/</p>
+<p>API Protocol: https://extwiki.eodc.eu/GFM/PUM/DataAccess</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 7</p>
+<p>TITLE: Long-range SEAS5 ensemble forecasts for GloFAS Seasonal</p>
+<p>ID: 7</p>
+<p>Source Organisation: Copernicus, Emergency Management Service</p>
+<p>Name: Long-range SEAS5 ensemble forecasts for GloFAS Seasonal</p>
+<p>Type: data (format: unkown), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://extwiki.eodc.eu/GFM/PDD</p>
+<p>Availability: Open, to be requested</p>
+<p>Update frequency: monthly</p>
+<p>Description : SEAS5 is the ensemble seasonal forecast of ECMWF (operational since 5 November 2017), and one of the seasonal forecast models of the Copernicus Climate Change Service. It consists of 51 members at ~36 km horizontal resolution, generated each month (from the 1st of the month) with 7 months lead time (extended to 13 months once a season).</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: ~36 km</p>
+<p>Temporal coverage: 2017(nov)-present</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://global-flood.emergency.copernicus.eu/technical-information/glofas-seasonal/</p>
+<p>API Protocol: https://extwiki.eodc.eu/GFM/PUM/DataAccess</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 8</p>
+<p>TITLE: River discharge and related forecasted data by the European Flood Awareness System (EFAS)</p>
+<p>ID: 8</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: River discharge and related forecasted data by the European Flood Awareness System (EFAS)</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-forecast?tab=documentation</p>
+<p>Availability: 30-day delay data open; real-time data only available to EFAS partners</p>
+<p>Update frequency: Regular</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides gridded modelled hydrological time series forced with medium-range meteorological forecasts. The data is a consistent representation of the most important hydrological variables across the European Flood Awareness System (EFAS) domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: 10 October 2018 to 19 September 2023 and 29 May 2024 to near real-time with a 30-day delay.</p>
+<p>Temporal resolution: 12 hours</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/efas-forecast?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 9</p>
+<p>TITLE: River discharge and related historical data from the European Flood Awareness System</p>
+<p>ID: 9</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: River discharge and related historical data from the European Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2)</p>
+<p>Area: hydrological data</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-historical?tab=documentation</p>
+<p>Availability: 6-day delay data open; real-time data only available to EFAS partners</p>
+<p>Update frequency: Regular</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides gridded modelled sub-daily and daily hydrological time series forced with meteorological observations. The data set is a consistent representation of the most important hydrological variables across the European Flood Awareness System (EFAS) domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: 1992-present</p>
+<p>Temporal resolution: 24 hours up to version 4.0, now 6 hours</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/cems-glofas-historical?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 10</p>
+<p>TITLE: River discharge and related forecasted data by the European Flood Awareness System (EFAS)</p>
+<p>ID: 10</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: River discharge and related forecasted data by the European Flood Awareness System (EFAS)</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-forecast?tab=documentation</p>
+<p>Availability: 30-day delay data open; real-time data only available to EFAS partners</p>
+<p>Update frequency: Regular</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides gridded modelled hydrological time series forced with medium-range meteorological forecasts. The data is a consistent representation of the most important hydrological variables across the European Flood Awareness System (EFAS) domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: 10 October 2018 to 19 September 2023 and 29 May 2024 to near real-time with a 30-day delay.</p>
+<p>Temporal resolution: 12 hours</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/efas-forecast?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 11</p>
+<p>TITLE: Seasonal forecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>ID: 11</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Seasonal forecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-seasonal?tab=documentation</p>
+<p>Availability: Open</p>
+<p>Update frequency: monthly</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides gridded modelled daily hydrological time series forced with seasonal meteorological forecasts. The dataset is a consistent representation of the most important hydrological variables across the European Flood Awareness (EFAS) domain. The forecasts are initialised on the first of each month with a lead time of 215 days at 24-hour time steps.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: 1 November 2020 to 1 september 2023 and 1 May 2024 to near real-time.</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/efas-seasonal?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 12</p>
+<p>TITLE: Seasonal reforecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>ID: 12</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Seasonal reforecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-seasonal-reforecast?tab=documentation</p>
+<p>Availability: open</p>
+<p>Update frequency: monthly</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides modelled daily hydrological time series forced with seasonal meteorological reforecasts. The dataset is a consistent representation of the most important hydrological variables across the European Flood Awareness (EFAS) domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: 1991-present</p>
+<p>Temporal resolution: monthly</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/efas-seasonal-reforecast?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 13</p>
+<p>TITLE: Reforecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>ID: 13</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Reforecasts of river discharge and related data by the European Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/efas-reforecast?tab=documentation</p>
+<p>Availability: open</p>
+<p>Update frequency: weekly</p>
+<p>Legal restrictions: https://european-flood.emergency.copernicus.eu/en/efas-conditions-access#/home</p>
+<p>Description : This dataset provides gridded modelled hydrological time series forced with medium- to sub-seasonal range meteorological reforecasts. The data is a consistent representation of the most important hydrological variables across the European Flood Awareness System (EFAS) domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: pan-European</p>
+<p>Spatial resolution: 5 km up to version 4.0, now ~1.5 km (1 arcmin)</p>
+<p>Temporal coverage: For the operational version, reforecasts are generated in near real time for each Monday and Thursday as reference dates. For each reference date, reforecasts are produced for the past 20 years from 2003 to 2022 (inclusive). The first available reforecast reference date is the 2023-03-27.</p>
+<p>Temporal resolution: 6-hour time step and 46-day lead time</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/efas-reforecast?tab=overview</p>
+<p>API Protocol: https://european-flood.emergency.copernicus.eu/en/efas-web-services or https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 14</p>
+<p>TITLE: River discharge and related historical data from the Global Flood Awareness System</p>
+<p>ID: 14</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: River discharge and related historical data from the Global Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/cems-glofas-historical?tab=documentation</p>
+<p>Availability: Open</p>
+<p>Update frequency: daily</p>
+<p>Legal restrictions: See at the resource URL</p>
+<p>Description : This dataset provides gridded modelled daily hydrological time series forced with meteorological reanalysis data. The data set is a product of the Global Flood Awareness System (GloFAS) and offers a consistent representation of key hydrological variables across the global domain.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global (except Antarctica)</p>
+<p>Spatial resolution: 0.1° up to version 3.1, now 0.05°</p>
+<p>Temporal coverage: 1979-present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/cems-glofas-historical?tab=overview</p>
+<p>API Protocol: https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 15</p>
+<p>TITLE: Reforecasts of river discharge and related data by the Global Flood Awareness System</p>
+<p>ID: 15</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Reforecasts of river discharge and related data by the Global Flood Awareness System</p>
+<p>Type: data (format: GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/cems-glofas-reforecast?tab=documentation</p>
+<p>Availability: Open</p>
+<p>Update frequency: weekly</p>
+<p>Legal restrictions: See at the resource URL</p>
+<p>Description : This dataset provides a gridded modelled time series of river discharge, forced with medium- to sub-seasonal range meteorological reforecasts. The data is a consistent representation of a key hydrological variable across the global domain, and is a product of the Global Flood Awareness System (GloFAS). Reforecasts are initialised at 00 UTC twice weekly with a 24-hour time step and 46-day lead time.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global (except Antarctica)</p>
+<p>Spatial resolution: 0.1° up to version 3.1, now 0.05°</p>
+<p>Temporal coverage: For the operational version, reforecasts are generated in near real time for each Monday and Thursday as reference dates. For each reference date, reforecasts are produced for the past 20 years from 2003 to 2022 (inclusive). The first available reforecast reference date is the 2023-03-27.</p>
+<p>Temporal resolution: twice weekly</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/cems-glofas-reforecast?tab=overview</p>
+<p>API Protocol: https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 16</p>
+<p>TITLE: Seasonal forecasts of river discharge and related data by the Global Flood Awareness System</p>
+<p>ID: 16</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Seasonal forecasts of river discharge and related data by the Global Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/cems-glofas-seasonal?tab=documentation</p>
+<p>Availability: Open</p>
+<p>Update frequency: monthly</p>
+<p>Legal restrictions: See at the resource URL</p>
+<p>Description : This dataset provides an ensemble of forecasted time series of gridded hydrological data forced with seasonal meteorological forecasts. The data set is a product of the Global Flood Awareness System (GloFAS) and offers a consistent representation of key hydrological variables across the global domain. Forecasts are initialised the first of each month with a 24-hourly time step, and cover 123 days.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global (except Antarctica)</p>
+<p>Spatial resolution: 0.1° up to version 3.1, now 0.05°</p>
+<p>Temporal coverage: 2020(dec) - present</p>
+<p>Temporal resolution: 24 hours</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/cems-glofas-seasonal?tab=overview</p>
+<p>API Protocol: https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 17</p>
+<p>TITLE: Seasonal reforecasts of river discharge and related data from the Global Flood Awareness System</p>
+<p>ID: 17</p>
+<p>Source Organisation: CEMS Early Warning Data Store</p>
+<p>Name: Seasonal reforecasts of river discharge and related data from the Global Flood Awareness System</p>
+<p>Type: data (format: netCDF, GRIB2), service (forecast)</p>
+<p>Area: hydrological forecast</p>
+<p>Quality: https://ewds.climate.copernicus.eu/datasets/cems-glofas-seasonal-reforecast?tab=documentation</p>
+<p>Availability: Open</p>
+<p>Update frequency: monthly</p>
+<p>Legal restrictions: See at the resource URL</p>
+<p>Description : This dataset provides a gridded modelled time series of river discharge forced with seasonal range meteorological reforecasts. The data is a consistent representation of a key hydrological variable across the global domain, and is a product of the Global Flood Awareness System (GloFAS). Reforecasts are initialised on the first of each month and run for 123 days, with a 24-hourly time step.</p>
+<p>Variable(s): River discharge and related variables (see complete list at the source URL)</p>
+<p>Spatial coverage: Global (except Antarctica)</p>
+<p>Spatial resolution: 0.1° up to version 3.1, now 0.05°</p>
+<p>Temporal coverage: 1981 - present</p>
+<p>Temporal resolution: 25 hours</p>
+<p>Resource: https://ewds.climate.copernicus.eu/datasets/cems-glofas-seasonal-reforecast?tab=overview</p>
+<p>API Protocol: https://ewds.climate.copernicus.eu/how-to-api</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.2_Catalogue_of_Data_and_Services_Hydrological_Data</p>
+<p>ID: 18</p>
+<p>TITLE: GloFAS Global Flood Monitoring (GFM)</p>
+<p>ID: 18</p>
+<p>Source Organisation: Copernicus, Emergency Management Service</p>
+<p>Name: GloFAS Global Flood Monitoring (GFM)</p>
+<p>Type: data (format: geoTIFF, shapefile), service (forecast)</p>
+<p>Area: hydrological data, hydrological forecast</p>
+<p>Quality: https://extwiki.eodc.eu/GFM/PDD/QualityControl</p>
+<p>Availability: Open</p>
+<p>Update frequency: daily</p>
+<p>Legal restrictions: GFM data can be used for commercial purposes as long as the source of the data (CEMS) is acknowledged.</p>
+<p>Description : The GloFAS Global Flood Monitoring (GFM) computes 11 flood-related products on a regualr basis, based on Sentinel-1 products.</p>
+<p>Variable(s): Flooded area and other variables (complete list at the resource URL)</p>
+<p>Spatial coverage: Global</p>
+<p>Spatial resolution: 0.1° up to GloFAS v3.5,now 0.05°</p>
+<p>Temporal coverage: 2015-present</p>
+<p>Temporal resolution: daily</p>
+<p>Resource: https://extwiki.eodc.eu/en/GFM</p>
+<p>API Protocol: https://extwiki.eodc.eu/GFM/PUM/DataAccess/REST-APIs</p>

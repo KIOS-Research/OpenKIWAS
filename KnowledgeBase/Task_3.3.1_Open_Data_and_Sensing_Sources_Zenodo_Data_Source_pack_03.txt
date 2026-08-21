@@ -1,0 +1,1452 @@
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_51</p>
+<p>TITLE: ACS-based MO1. MTO production (314kt/y Ethylene)</p>
+<p>ID: flow_51</p>
+<p>Dataset Page: https://zenodo.org/records/14894523</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14894523</p>
+<p>Title: ACS-based MO1. MTO production (314kt/y Ethylene)</p>
+<p>DOI: 10.5281/zenodo.14894523</p>
+<p>Description:</p>
+<p>The repository contains process data for Methanol to Olefin production modelled in Aspen Plus v12. Data is presented in the form of an Excel file, which includes details of the process, a process flow diagram, an Aspen simulation diagram, Aspen inputs and assumptions, simulation equipment details, and mass and energy balance information.</p>
+<ul>
+<li>
+<p>Process name: MO1. Methanol to Olefin</p>
+</li>
+<li>
+<p>Process type: ACS-based</p>
+</li>
+<li>
+<p>Chemical type: Chemical building block</p>
+</li>
+<li>
+<p>Feedstock: Metha</p>
+</li>
+</ul>
+<p>Creators: Manalal, James Tonny, Pérez-Fortes, Mar, Ramirez, Andrea</p>
+<p>Publication Date: 2025-02-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: propylene</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_52</p>
+<p>TITLE: ACS-based PO1. Plastic pyrolysis (1055kt/y Naphtha)</p>
+<p>ID: flow_52</p>
+<p>Dataset Page: https://zenodo.org/records/14894590</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14894590</p>
+<p>Title: ACS-based PO1. Plastic pyrolysis (1055kt/y Naphtha)</p>
+<p>DOI: 10.5281/zenodo.14894590</p>
+<p>Description:</p>
+<p>The repository contains process data for plastic pyrolysis based naphtha production modelled in Aspen Plus v12. Data is presented in the form of an Excel file, which includes details of the process, a process flow diagram, an Aspen simulation diagram, Aspen inputs and assumptions, simulation equipment details, and mass and energy balance information.</p>
+<ul>
+<li>
+<p>Process name: PO1. Plastic pyrolysis</p>
+</li>
+<li>
+<p>Process type: ACS-based</p>
+</li>
+<li>
+<p>Chemical type: Chemical building block</p>
+</li>
+<li>
+<p>Feed</p>
+</li>
+</ul>
+<p>Creators: Manalal, James Tonny, Pérez-Fortes, Mar, Ramirez, Andrea</p>
+<p>Publication Date: 2025-02-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Naphtha, Vacuum gas oil</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_53</p>
+<p>TITLE: ACS-based CO1. CO2 to olefin production (329kt/y Ethylene)</p>
+<p>ID: flow_53</p>
+<p>Dataset Page: https://zenodo.org/records/14894342</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14894342</p>
+<p>Title: ACS-based CO1. CO2 to olefin production (329kt/y Ethylene)</p>
+<p>DOI: 10.5281/zenodo.14894342</p>
+<p>Description:</p>
+<p>The repository contains process data for CO2 based direct electrochemical reduction to ethylene production modelled in Aspen Plus v12. Data is presented in the form of an Excel file, which includes details of the process, a process flow diagram, an Aspen simulation diagram, Aspen inputs and assumptions, simulation equipment details, and mass and energy balance information.</p>
+<ul>
+<li>
+<p>Process name: CO1. CO2 direct electrochemical reduction to ethylene</p>
+</li>
+<li>
+<p>Process type: ACS-based Creators: Manalal, James Tonny, Pérez-Fortes, Mar, Ramirez, Andrea</p>
+</li>
+</ul>
+<p>Publication Date: 2025-02-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_54</p>
+<p>TITLE: WECC ADS 2034 Hydropower Generation Datasets</p>
+<p>ID: flow_54</p>
+<p>Dataset Page: https://zenodo.org/records/15420290</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15420290</p>
+<p>Title: WECC ADS 2034 Hydropower Generation Datasets</p>
+<p>DOI: 10.5281/zenodo.15420290</p>
+<p>Description:</p>
+<p>Every two years the WECC (Western Electricity Coordinating Council) releases an Anchor Data Set (ADS) to be analyzed with a Production Cost Models (PCM) and which represents the expected loads, resources, and transmission topology 10 years in the future from a given reference year. For hydropower resources, the WECC relies on members to provide data to parameterize the hydropower representation in production cost models. The datasets consist of plant-level hydropower generation, flexibility,</p>
+<p>Creators: Voisin, Nathalie, Broman, Daniel, Abernethy-Cannella, Kerry, Bracken, Cameron, Son, Youngjun, Harris, Kevin</p>
+<p>Publication Date: 2025-05-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 3.2.1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_55</p>
+<p>TITLE: Benchmark dataset KF256 for Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction</p>
+<p>ID: flow_55</p>
+<p>Dataset Page: https://zenodo.org/records/14801580</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14801580</p>
+<p>Title: Benchmark dataset KF256 for Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction</p>
+<p>DOI: 10.5281/zenodo.14801580</p>
+<p>Description:</p>
+<p>We present the dataset accompanying the ICML 2025 paper “Chaos Meets Attention: Transformers for Large-Scale Dynamical Prediction.” In this work, we proposed a novel architecture of attention for spatial correlation in modelling high-dimensional chaotic systems, with a focus on achieving faithful long-time statistical behaviour.</p>
+<p>This dataset addresses a benchmark on the 2D Kolmogorov flow, a canonical setting for studying turbulence and spatiotemporal chaos. The vorticity f</p>
+<p>Creators: He, Yi</p>
+<p>Publication Date: 2025-05-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_56</p>
+<p>TITLE: Extensive ancestral gene flow and complex evolutionary dynamics among eastern Tibetan Plateau populations</p>
+<p>ID: flow_56</p>
+<p>Dataset Page: https://zenodo.org/records/15410955</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15410955</p>
+<p>Title: Extensive ancestral gene flow and complex evolutionary dynamics among eastern Tibetan Plateau populations</p>
+<p>DOI: 10.5281/zenodo.15410955</p>
+<p>Description: No Description</p>
+<p>Creators: He, Guanglin</p>
+<p>Publication Date: 2100-05-13 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_57</p>
+<p>TITLE: A double-staining automated flow cytometry method for real-time monitoring of bacteria in continuous bioreactors</p>
+<p>ID: flow_57</p>
+<p>Dataset Page: https://zenodo.org/records/15472408</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15472408</p>
+<p>Title: A double-staining automated flow cytometry method for real-time monitoring of bacteria in continuous bioreactors</p>
+<p>DOI: 10.5281/zenodo.15472408</p>
+<p>Description: No Description</p>
+<p>Creators: Lopez Galvez, Juan</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_58</p>
+<p>TITLE: Supplementary material for: &quot;LiDAR-derived high resolution vegetation structure and selection patterns of the Common Nightingale (Luscinia megarhynchos) in riparian habitats&quot;</p>
+<p>ID: flow_58</p>
+<p>Dataset Page: https://zenodo.org/records/15409534</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15409534</p>
+<p>Title: Supplementary material for: &quot;LiDAR-derived high resolution vegetation structure and selection patterns of the Common Nightingale (Luscinia megarhynchos) in riparian habitats&quot;</p>
+<p>DOI: 10.5281/zenodo.15409534</p>
+<p>Description:</p>
+<p><em>Abstract</em></p>
+<p>Human-induced alterations in natural water flow have seriously impaired the integrity of riverine ecosystems. Nonetheless, even in human-altered riverine and adjacent terrestrial habitats, there is considerable potential for the protection of rare species if management practices prioritize biodiversity conservation. However, the management of such areas often presents complex challenges. On the one hand, efforts to mitigate na</p>
+<p>Creators: Pradervand, Jean-Nicolas, Zellweger, Florian, Gremion, Jérémy, Parisod, Aristide, Posse, Bertrand, Revaz, Emmanuel, Jacot, Alain</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: LiDAR, Riparian habitat, Nightingale, Habitat preference</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_59</p>
+<p>TITLE: Dome A Inverse Model</p>
+<p>ID: flow_59</p>
+<p>Dataset Page: https://zenodo.org/records/15469644</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15469644</p>
+<p>Title: Dome A Inverse Model</p>
+<p>DOI: 10.5281/zenodo.15469644</p>
+<p>Description:</p>
+<p>This is the result of a geophysical inversion for the ice sheet and basal hydrological state around Dome A, East Antarctica. The datasets used to constrain the inversion are observations of basal water, basal freeze-on, internal layers, and a geothermal flux prior. The inversion solved for best-fit geothermal flux and accumulation rate fields, along with their respective uncertainty and skewness, and also partitioned the fractional contribution of each individual data type towards constrainin</p>
+<p>Creators: Wolovick, Michael</p>
+<p>Publication Date: 2020-10-07 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Glaciology, Dome A, East Antarctica, Ice Age, Ice core, basal hydrology, geothermal flux, accumulation rate, inverse model, ice model</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_60</p>
+<p>TITLE: Dataset for &quot;Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn3Si2Te6&quot;</p>
+<p>ID: flow_60</p>
+<p>Dataset Page: https://zenodo.org/records/15468596</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15468596</p>
+<p>Title: Dataset for &quot;Electrothermal manipulation of current-induced phase transitions in ferrimagnetic Mn3Si2Te6&quot;</p>
+<p>DOI: 10.5281/zenodo.15468596</p>
+<p>Description:</p>
+<p><em>Abstract</em></p>
+<p>Phase transitions driven by external parameters are fundamental to condensed matter physics, providing critical insights into symmetry breaking and emergent phenomena. Recently, ferrimagnetic (FiM) Mn3Si2Te6 has attracted considerable attention for its magnetic-field-induced insulator-metal transitions (IMTs) and currentdriven phase transitions, but the role of applied currents in the magnetic phase remains poorly understood. Here, we emplo</p>
+<p>Creators: Fang, Jiaqi, Hu, Jiawei, Chen, Xintian, Liu, Yaotian, Yin, Zheng, Ying, Zhe, Wang, Yunhao, Wang, Ziqiang, Li, Zhilin, Zhu, Shiyu, Xu, Yang, Pantelides, Sokrates T., Gao, Hong-Jun</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_61</p>
+<p>TITLE: Dataset for &quot;Slab temperature beneath the Tohoku region, Northeast Japan, constrained from surface heat flow and the location of the blueschist-out boundary&quot;</p>
+<p>ID: flow_61</p>
+<p>Dataset Page: https://zenodo.org/records/15467787</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15467787</p>
+<p>Title: Dataset for &quot;Slab temperature beneath the Tohoku region, Northeast Japan, constrained from surface heat flow and the location of the blueschist-out boundary&quot;</p>
+<p>DOI: 10.5281/zenodo.15467787</p>
+<p>Description:</p>
+<p>This is the dataset for &quot;Slab temperature beneath the Tohoku region, Northeast Japan, constrained from surface heat flow and the location of the blueschist-out boundary&quot; by M. Morishige.</p>
+<p>Creators: Morishige, Manabu</p>
+<p>Publication Date: 2025-03-11 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_62</p>
+<p>TITLE: Transonic Cascade TEAMAero - Numerical Data Repository</p>
+<p>ID: flow_62</p>
+<p>Dataset Page: https://zenodo.org/records/15391509</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15391509</p>
+<p>Title: Transonic Cascade TEAMAero - Numerical Data Repository</p>
+<p>DOI: 10.5281/zenodo.15391509</p>
+<p>Description:</p>
+<p><em>Background</em></p>
+<p>The Transonic Cascade TEAMAero (TCTA) is a compressor cascade test case designed at the German Aerospace Center (DLR) via numerical optimization for the TEAMAero research consortium. The cascade has a pitch of 65 mm and a stagger angle of 45.8° with respect to the chord axis joining its leading and trailing edges. The shape is provided in this dataset as a .csv file. The cascade&#39;s aerodynamic design point has been computed by applying the DLR&#39;s TRACE dis</p>
+<p>Creators: Munoz Lopez, Edwin Joseph, Klose, Bjoern F.</p>
+<p>Publication Date: 2025-05-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Aerodynamics, Large eddy simulation, Shock-boundary layer interactions</p>
+<p>License: cc-by-nc-nd-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_63</p>
+<p>TITLE: Congo River Repository</p>
+<p>ID: flow_63</p>
+<p>Dataset Page: https://zenodo.org/records/15465069</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15465069</p>
+<p>Title: Congo River Repository</p>
+<p>DOI: 10.5281/zenodo.15465069</p>
+<p>Description: Repository contents:</p>
+<ul>
+<li></li>
+</ul>
+<p><em>ADCP Transects (Acoustic Doppler Current Profiler):</em></p>
+<p>Raw and processed velocity and backscatter profiles acquired across multiple transects within the Malebo Pool, used to evaluate flow structure and sediment transport.</p>
+<ul>
+<li></li>
+</ul>
+<p><em>MATLAB inversion model scripts:</em></p>
+<p>Source code for estimating Suspended Sediment Concentration (SSC) from ADCP backscatter signals. Includes calibration routines and error analysis to</p>
+<p>Creators: Yépez, Santiago</p>
+<p>Publication Date: 2025-05-19 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_64</p>
+<p>TITLE: Servicescape perception in restuarants and related TripAdvisor ratings</p>
+<p>ID: flow_64</p>
+<p>Dataset Page: https://zenodo.org/records/15181440</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15181440</p>
+<p>Title: Servicescape perception in restuarants and related TripAdvisor ratings</p>
+<p>DOI: 10.5281/zenodo.15181440</p>
+<p>Description:</p>
+<p>Eating is no longer merely a matter of survival for those with access to food. On the contrary, it has evolved into one of the most popular leisure activities, accompanied by a desire to share these experiences through various forms of communication, from postcards in the past to online reviews today. Today, countless reviews inundate the web, contributing to a vast flow of information consumers rely heavily on for their decisions. The significance of this electronic word-o</p>
+<p>Creators: Mason, Michela Cesarina</p>
+<p>Publication Date: 2025-04-09 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_65</p>
+<p>TITLE: cytoFlagR: Spectral flow cytometry dataset</p>
+<p>ID: flow_65</p>
+<p>Dataset Page: https://zenodo.org/records/15388817</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15388817</p>
+<p>Title: cytoFlagR: Spectral flow cytometry dataset</p>
+<p>DOI: 10.5281/zenodo.15388817</p>
+<p>Description:</p>
+<p>Recent advancements in flow and mass cytometry techniques have led to the generation of high-parameter (&gt;40 markers) single-cell datasets, often used to create large scale, longitudinal studies with possible technical variabilities occurring between experimental runs. Many state of the art computational methods to correct for these batch effects exist but do not provide an automated assessment of batch effects before correction. Here, we developed cytoFlagR, an automated computation framew</p>
+<p>Creators: Koenig, Zachary, Andorf, Sandra, Tilburgs, Tamara, Eswar, Shruti</p>
+<p>Publication Date: 2025-05-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_66</p>
+<p>TITLE: Supplementary material for the study &quot;Inverse Predictor-Corrector Data Assimilation (IPCDA): A One-dimensional Numerical Methodology for Discharge and Bathymetry Estimation from Surface Flow Measurements&quot;</p>
+<p>ID: flow_66</p>
+<p>Dataset Page: https://zenodo.org/records/15446510</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15446510</p>
+<p>Title: Supplementary material for the study &quot;Inverse Predictor-Corrector Data Assimilation (IPCDA): A One-dimensional Numerical Methodology for Discharge and Bathymetry Estimation from Surface Flow Measurements&quot;</p>
+<p>DOI: 10.5281/zenodo.15446510</p>
+<p>Description:</p>
+<p>Supplementary material for the study &quot;Inverse Predictor-Corrector Data Assimilation (IPCDA): A One-dimensional Numerical Methodology for Discharge and Bathymetry Estimation from Surface Flow Measurements&quot; submitted to the Geoscientific Model Development <a href="https://www.geoscientific-model-development.net/">https://www.geoscientific-model-development.net/</a>journal.</p>
+<p>The dataset contains two files:</p>
+<ol>
+<li>
+<p>Output data from the HEC-RAS simulations (merged files from the HEC-RAS results into a single csv file).</p>
+</li>
+<li>
+<p>Re</p>
+</li>
+</ol>
+<p>Creators: Meneses, Rodrigo, Poblete, David</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: river discharge estimations</p>
+<p>License: gpl-3.0-or-later</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_67</p>
+<p>TITLE: A West Antarctic grounding zone environment shaped by episodic water flow</p>
+<p>ID: flow_67</p>
+<p>Dataset Page: https://zenodo.org/records/14942664</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14942664</p>
+<p>Title: A West Antarctic grounding zone environment shaped by episodic water flow</p>
+<p>DOI: 10.5281/zenodo.14942664</p>
+<p>Description:</p>
+<p>These data support the following publication: https://doi.org/10.1038/s41561-025-01687-3</p>
+<p>Creators: Horgan, Huw, Stewart, Craig, Werder, Mauro, Stevens, Craig, Sauthoff, Wilson, Washam, Peter, Siegfried, Matthew, Schmidt, Britney Elyce</p>
+<p>Publication Date: 2025-02-28 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_68</p>
+<p>TITLE: Measurement Data From: Towards Detecting Traffic Changes in Real-World Heterogeneous Multi-Cloud Environments</p>
+<p>ID: flow_68</p>
+<p>Dataset Page: https://zenodo.org/records/15431804</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15431804</p>
+<p>Title: Measurement Data From: Towards Detecting Traffic Changes in Real-World Heterogeneous Multi-Cloud Environments</p>
+<p>DOI: 10.5281/zenodo.15431804</p>
+<p>Description:</p>
+<p>This repository contains a description and the dataset associated with the paper Towards Detecting Traffic Changes in Real-World Heterogeneous Multi-Cloud Environments (RNDM 2025)</p>
+<p>The dataset, collected from April 2024 to January 2025, originates from a nationwide enterprise’s heterogeneous multi-cloud infrastructure in Germany. It focuses on traffic from a Virtual Desktop Service (VDS) used by thousands of remote users via Citrix. Traffic was captured via NetFlow at edge routers</p>
+<p>Creators: Sichermann, Marleen, Dietz, Katharina, Serejo Kunz, Leticia, Kögel, Jochen, Geissler, Stefan, Hoßfeld, Tobias</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_69</p>
+<p>TITLE: Dataset of &quot;Modeling and Testing of a Phasor Measurement Unit under Normal and Abnormal Conditions Using Real-time Simulator&quot;</p>
+<p>ID: flow_69</p>
+<p>Dataset Page: https://zenodo.org/records/15437920</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15437920</p>
+<p>Title: Dataset of &quot;Modeling and Testing of a Phasor Measurement Unit under Normal and Abnormal Conditions Using Real-time Simulator&quot;</p>
+<p>DOI: 10.5281/zenodo.15437920</p>
+<p>Description:</p>
+<p>Abnormal operations, such as faults occurring in an electrical power system (EPS), disrupt its balanced operation, posing potential hazards to human lives and the system&#39;s equipment. Effective monitoring, control, protection, and coordination are essential to mitigate these risks. The complexity of these processes is further com-pounded by the presence of intermittent distributed energy resources (DERs) in active distribution networks (ADNs) with bidirectional power flow, which introduces a f</p>
+<p>Creators: Vrtal, Matěj, Paušová, Šárka, Bouzek, Karel</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: VZ6, VZ 6.1, VUT, 214 021, 214 023, Phasor Measurement Unit, Real-time simulator, Fault conditions, Real controller, Hardware-in-the-loop</p>
+<p>License: cc-by-4.0</p>
+<p>Version: version 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_70</p>
+<p>TITLE: Extracted dataset for: &quot;Experiment and modeling of concentration-dependent diffusion in a solution with dual transport-phase flow for paper-based sensing&quot;</p>
+<p>ID: flow_70</p>
+<p>Dataset Page: https://zenodo.org/records/15437190</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15437190</p>
+<p>Title: Extracted dataset for: &quot;Experiment and modeling of concentration-dependent diffusion in a solution with dual transport-phase flow for paper-based sensing&quot;</p>
+<p>DOI: 10.5281/zenodo.15437190</p>
+<p>Description: No Description</p>
+<p>Creators: Khan, Mohammad Ryyan, Md. Saykat Hassan, Sajib, Sakif, Rafid</p>
+<p>Publication Date: 2025-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v2</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_71</p>
+<p>TITLE: Event-based Lunar OPtical flow Egomotion estimation (ELOPE) dataset</p>
+<p>ID: flow_71</p>
+<p>Dataset Page: https://zenodo.org/records/15421707</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15421707</p>
+<p>Title: Event-based Lunar OPtical flow Egomotion estimation (ELOPE) dataset</p>
+<p>DOI: 10.5281/zenodo.15421707</p>
+<p>Description:</p>
+<p>The &quot;ELOPE&quot; dataset is the official dataset of <em>ESA&#39;s Kelvins</em>  <a href="https://kelvins.esa.int/elope">https://kelvins.esa.int/elope</a>*ELOPE challenge <a href="https://kelvins.esa.int/elope">https://kelvins.esa.int/elope</a>, *created in collaboration with:</p>
+<ul>
+<li>
+<p><em>European Space Agency (ESA)</em></p>
+</li>
+<li>
+<p><em>Delft University of Technology (TU Delft)</em></p>
+</li>
+<li>
+<p><em>University of Adelaide (UoA)</em></p>
+</li>
+</ul>
+<p>The Purpose of ELOPE is to investigate to what degree it</p>
+<p>Creators: Dvořák, Ondřej, Märtens, Marcus, Izzo, Dario</p>
+<p>Publication Date: 2025-05-20 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_72</p>
+<p>TITLE: Extracellular Vesicles from Glycolytic Mesenchymal Stromal Cells protect from arthritis through the generation of IL-10-producing T cells</p>
+<p>ID: flow_72</p>
+<p>Dataset Page: https://zenodo.org/records/15426189</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15426189</p>
+<p>Title: Extracellular Vesicles from Glycolytic Mesenchymal Stromal Cells protect from arthritis through the generation of IL-10-producing T cells</p>
+<p>DOI: 10.5281/zenodo.15426189</p>
+<p>Description:</p>
+<p>Mesenchymal stromal cells (MSCs) possess broad immunoregulatory capabilities, positioning them as promising candidates for treating autoimmune diseases. Their immunoregulatory properties are primarily mediated by the release of paracrine factors, including extracellular vesicles (EVs). We previously demonstrated that the glycolytic reprogramming of human umbilical cord MSCs (UC-MSCs) enhances their ability to inhibit proinflammatory T cell proliferation and reduce the secretion of pro-inflamm</p>
+<p>Creators: Carril Pardo, Claudio, Farkas, Carlos, Oyarce, Karina, Elizondo, Roberto</p>
+<p>Publication Date: 2025-05-14 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_73</p>
+<p>TITLE: Pockmarks of the Mediterranean and Black Sea</p>
+<p>ID: flow_73</p>
+<p>Dataset Page: https://zenodo.org/records/15425907</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15425907</p>
+<p>Title: Pockmarks of the Mediterranean and Black Sea</p>
+<p>DOI: 10.5281/zenodo.15425907</p>
+<p>Description:</p>
+<p>The database is a structured and up-to-date collection of over 7,500 georeferenced pockmarks, compiled from published literature, and designed to support comparative analysis and scientific interpretation of these seafloor morphologies.</p>
+<p>Creators: Spatola, Daniele, Rovere, Marzia, Casalbore, Daniele, Chiocci, Francesco Latino</p>
+<p>Publication Date: 2025-05-15 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Pockmarks, Fluid Flow, Database, Mediterranean Sea</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_74</p>
+<p>TITLE: EXIOBASE-hybrid - Consequential System</p>
+<p>ID: flow_74</p>
+<p>Dataset Page: https://zenodo.org/records/15421526</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15421526</p>
+<p>Title: EXIOBASE-hybrid - Consequential System</p>
+<p>DOI: 10.5281/zenodo.15421526</p>
+<p>Description:</p>
+<p><em>Introduction</em></p>
+<p>The Consequential System of EXIOBASE hybrid is an extended version of EXIOBASE hybrid &lt;../records/7244919&gt; (Merciai &amp; Schmidt, 2018), a multi-regional hybrid input-output database. This system is particularly notable for its incorporation of models that address indirect land use changes (iLUC) and marginal electricity generation mix, alongside the inclusion of capital goods in its core input-ou</p>
+<p>Creators: Merciai, Stefano, F. Astudillo, Miguel, Budzinski, Maik, Schmidt, Jannick, Yang, Fan</p>
+<p>Publication Date: 2025-05-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-sa-4.0</p>
+<p>Version: 3.8-beta2 (bw)</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_75</p>
+<p>TITLE: Raw Data Time Pressure Flow Experience Impulse Buying</p>
+<p>ID: flow_75</p>
+<p>Dataset Page: https://zenodo.org/records/15423786</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15423786</p>
+<p>Title: Raw Data Time Pressure Flow Experience Impulse Buying</p>
+<p>DOI: 10.5281/zenodo.15423786</p>
+<p>Description: No Description</p>
+<p>Creators: Subekti, Nadya Salma, Munawar, Mutiah, Putri, Nasywa Aura, Bayu Putra, Okta Prihatma</p>
+<p>Publication Date: 2025-05-15 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_76</p>
+<p>TITLE: Microfluidic Platform for Automatic Quantification of Malaria Invasion Under Physiological Flow Conditions</p>
+<p>ID: flow_76</p>
+<p>Dataset Page: https://zenodo.org/records/15423134</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15423134</p>
+<p>Title: Microfluidic Platform for Automatic Quantification of Malaria Invasion Under Physiological Flow Conditions</p>
+<p>DOI: 10.5281/zenodo.15423134</p>
+<p>Description:</p>
+<p>Understanding the impact that the forces generated by blood flow have on biological processes that take place in the circulatory system, such as malaria parasite replication, is currently limited by the lack of experimental systems to integrate them. Malaria kills over 600,000 people annually, with the blood stage responsible for all the clinical symptoms. Recent quantification of growth, of \textit{Plasmodium falciparum}, the deadliest malaria strain of malaria, under conditions of fluid mot</p>
+<p>Creators: Kals, Emma, Kals, Morten</p>
+<p>Publication Date: 2025-05-15 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_77</p>
+<p>TITLE: Ammonoid conch ornamentation: 3D models, CFD, and PIV</p>
+<p>ID: flow_77</p>
+<p>Dataset Page: https://zenodo.org/records/15415736</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15415736</p>
+<p>Title: Ammonoid conch ornamentation: 3D models, CFD, and PIV</p>
+<p>DOI: 10.5281/zenodo.15415736</p>
+<p>Description:</p>
+<p>Current version (V3): This zip folder contains supplementary data for a project involving the functional morphology and hydromechanics of ammonoid conch ornamentation. Dataset S1 contains morphological measurements of ammonoid ornamentation patterns. Dataset S2 contains 3D meshes (in STL format) of all physical model components, and all virtual hydrostatic model components. Dataset S3 contains flow visualization videos (colormap = fluid vorticity), resulting from Particle Image Velocimetry (P</p>
+<p>Creators: Peterman, David</p>
+<p>Publication Date: 2025-05-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: ammonoid, cephalopod, conch ornamentation, functional morphology, hydrostatics, hydrodynamics, particle image velocimetry, computational fluid dynamics</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_78</p>
+<p>TITLE: A novel view of the flavor-singlet spectrum from multi-flavor QCD on the lattice—Data release</p>
+<p>ID: flow_78</p>
+<p>Dataset Page: https://zenodo.org/records/11048484</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11048484</p>
+<p>Title: A novel view of the flavor-singlet spectrum from multi-flavor QCD on the lattice—Data release</p>
+<p>DOI: 10.5281/zenodo.11048484</p>
+<p>Description:</p>
+<p>This release contains the raw data used to prepare the plots and tables included in A novel view of the flavor-singlet spectrum from multi-flavor QCD on the lattice <a href="https://arxiv.org/abs/2505.08658">https://arxiv.org/abs/2505.08658</a>, and all analysed data presented in that paper.</p>
+<p>Included are:</p>
+<ul>
+<li>
+<p>Data that are the output of HPC workloads enabling this work:</p>
+</li>
+<li>
+<p>Correlation functions and vacuum expectation values of the energy density and topological charge operators for the ensembles analyse</p>
+</li>
+</ul>
+<p>Creators: Bennett, Ed</p>
+<p>Publication Date: 2024-05-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_79</p>
+<p>TITLE: Supplementary materials used for the development of the TIDO ontology</p>
+<p>ID: flow_79</p>
+<p>Dataset Page: https://zenodo.org/records/15400486</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15400486</p>
+<p>Title: Supplementary materials used for the development of the TIDO ontology</p>
+<p>DOI: 10.5281/zenodo.15400486</p>
+<p>Description:</p>
+<p>The repository contains the suplimentary materials used for to development the Threat Intelligence Decision Ontology (TIDO).</p>
+<p>File structure:</p>
+<ul>
+<li>
+<p>Ontology requirement specification document (ORSD):</p>
+</li>
+<li>
+<p>Use case sheet: Descriptions of the identified use cases, along with an example in the form of a flow description.</p>
+</li>
+<li>
+<p>Indentified concepts sheet: An overview of the terms highlighted from the use case examples, along with a specification of how they are integrate</p>
+</li>
+</ul>
+<p>Creators: Roothaert, Ritten</p>
+<p>Publication Date: 2025-05-14 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Threat Intelligence, Ontology Engineering, Requirement Specification</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_80</p>
+<p>TITLE: Zooplankton Chile upwelling</p>
+<p>ID: flow_80</p>
+<p>Dataset Page: https://zenodo.org/records/15397049</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15397049</p>
+<p>Title: Zooplankton Chile upwelling</p>
+<p>DOI: 10.5281/zenodo.15397049</p>
+<p>Description:</p>
+<p>This dataset was collected from three coastal stations in the Southeast Pacific: two in the northern upwelling region off Iquique (Stations T3 and T5) and one in the southern upwelling area off Concepción (Station T39). Sampling was conducted during austral summer onboard RV <em>Cabo de Hornos</em> (2018, cruise: LowpHox II) and RV <em>Sonne</em> (2023, cruise: So296/2). Hydrographic profiles were obtained using a Seabird SBE-9 plus CTD system equipped with oxygen an</p>
+<p>Creators: Cabrera-Nuñez, Susana, Fernández-Urruzola, Igor</p>
+<p>Publication Date: 2025-05-13 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_81</p>
+<p>TITLE: Lateral Carbon and Water Chemistry Data from a Small Arctic Coastal Catchment near Churchill, Manitoba, Late Summer 2022</p>
+<p>ID: flow_81</p>
+<p>Dataset Page: https://zenodo.org/records/15396375</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15396375</p>
+<p>Title: Lateral Carbon and Water Chemistry Data from a Small Arctic Coastal Catchment near Churchill, Manitoba, Late Summer 2022</p>
+<p>DOI: 10.5281/zenodo.15396375</p>
+<p>Description:</p>
+<p>This dataset accompanies the study <em>&quot;Lateral carbon flow in an Arctic coastal catchment in late summer.&quot;</em> It includes water chemistry and hydrological data collected in a small coastal catchment near Churchill, Manitoba, Canada (~10 km inland from Hudson Bay). The study focused on surface water and soil pore water sampling between August 12 and September 5, 2022. Parameters measured include pH, dissolved organic carbon (DOC), dissolved inorganic carbon (DIC), particulate organic carbon</p>
+<p>Creators: Martyn Rosco, Melanie, Hensgens, Geert, Weedon, James, Dean, Joshua</p>
+<p>Publication Date: 2025-12-15 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: arctic carbon cycling, lateral carbon export, dissolved organic carbon, dissolved inorganic carbon, Hudson Bay Lowlands, Arctic catchment, Precipitation event, Churchill, arctic hydrology</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_82</p>
+<p>TITLE: EEAHR: EEG-based Experience in Auditory Human-Rhythm interaction</p>
+<p>ID: flow_82</p>
+<p>Dataset Page: https://zenodo.org/records/15388168</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15388168</p>
+<p>Title: EEAHR: EEG-based Experience in Auditory Human-Rhythm interaction</p>
+<p>DOI: 10.5281/zenodo.15388168</p>
+<p>Description:</p>
+<p>This dataset links back to conducted research evaluating the relationship between neural markers of entrainment and felt experience by individuals while they synchronise with rhythms. The base paradigm consisted of two human participants, who synchronised their tapping with auralised rhythms generated by a rhythmic partner (human or PC). Task complexity of performed rhythms by both participants was varied. Questionnaire responses were collected after each interaction from individuals</p>
+<p>Creators: Van Ransbeeck, Wannes</p>
+<p>Publication Date: 2025-05-13 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: experience, rhythm</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_83</p>
+<p>TITLE: Data from: Morph-specific selection pressures drive phenotypic divergence in a color polymorphic bird</p>
+<p>ID: flow_83</p>
+<p>Dataset Page: https://zenodo.org/records/15392703</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15392703</p>
+<p>Title: Data from: Morph-specific selection pressures drive phenotypic divergence in a color polymorphic bird</p>
+<p>DOI: 10.5281/zenodo.15392703</p>
+<p>Description:</p>
+<p>*Abstract *- There is a long tradition in using genetically based color polymorphisms in natural populations to study selection, gene flow, and other evolutionary processes. However, although there is increasing evidence for continuous variation within discrete morphs, it remains unclear how this affects selective dynamics and the persistence of color polymorphisms. Here we leverage 43 years of plumage color data from a Finnish population of tawny owls (Strix aluco) to show tha</p>
+<p>Creators: Passarotto, Arianna, Lürig, Moritz David, Aaltonen, Esa, Karell, Patrik</p>
+<p>Publication Date: 2025-05-13 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_84</p>
+<p>TITLE: Enhanced spray-wall interaction model for port fuel injection under medium load conditions</p>
+<p>ID: flow_84</p>
+<p>Dataset Page: https://zenodo.org/records/14873411</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14873411</p>
+<p>Title: Enhanced spray-wall interaction model for port fuel injection under medium load conditions</p>
+<p>DOI: 10.5281/zenodo.14873411</p>
+<p>Description:</p>
+<p>In the Eulerian-Lagrangian framework, the term consisting the drag force together with relative velocity (Eq. 13 in the paper), is an important expression which blends the aspects of both Eulerian (flow) and Lagrangian (particle ) regimes. The datasets in the csv format is related to drag coefficient.</p>
+<p>Datasets:</p>
+<ol>
+<li><em>A_dataset_fitted_Cd.csv</em>: The Reyonolds Number (Re) and Coefficient of Drag (C_D) are fitted in accordance to the equation provided by Morsi a</li>
+</ol>
+<p>Creators: Hamid, Mohammed O. A., Kunwar, Anil</p>
+<p>Publication Date: 2025-02-15 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Port fuel injection, Lagrangian wall film, Spray-wall interaction, Secondary droplets, Weber number, Evaporative heat transfer</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_85</p>
+<p>TITLE: 3D thermal and rheological model for the western US and East Asia and the associated thermal model function</p>
+<p>ID: flow_85</p>
+<p>Dataset Page: https://zenodo.org/records/15390785</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15390785</p>
+<p>Title: 3D thermal and rheological model for the western US and East Asia and the associated thermal model function</p>
+<p>DOI: 10.5281/zenodo.15390785</p>
+<p>Description:</p>
+<p>This repository contains the netCDF4 datasets of the thermal and rheological model for the western US and East Asia, and Python-based thermal model function for &quot;Lee et al., Building a thermal model of the continental lithosphere: Implications for solid Earth processes and beyond&quot; that is in review.</p>
+<p>ThermalModel_WUS.nc includes the thermal model for the western US and all the temperature proxies used to constrain the thermal model, including surface heat flow (Mordensky et al., 2023),</p>
+<p>Creators: Lee, Terry</p>
+<p>Publication Date: 2025-05-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Thermal Model, Rheological Model</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_86</p>
+<p>TITLE: Comparison of Fixed Single Cell RNA-seq Methods to Enable Transcriptome Profiling of Neutrophils in Clinical Samples</p>
+<p>ID: flow_86</p>
+<p>Dataset Page: https://zenodo.org/records/15373124</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15373124</p>
+<p>Title: Comparison of Fixed Single Cell RNA-seq Methods to Enable Transcriptome Profiling of Neutrophils in Clinical Samples</p>
+<p>DOI: 10.5281/zenodo.15373124</p>
+<p>Description:</p>
+<p>Monitoring neutrophil gene expression is a powerful tool for understanding disease mechanisms, developing new diagnostics, therapies and optimizing clinical trials. Neutrophils are sensitive to the processing, storage and transportation steps that are involved in clinical sample analysis. This study is the first to evaluate the capabilities of technologies from 10X Genomics, PARSE Biosciences, and HIVE (Honeycomb Biotechnologies) to generate high-quality RNA data from human blood-derived neut</p>
+<p>Creators: Hatje, Klas, Bell, Emma</p>
+<p>Publication Date: 2026-12-31 00:00:00</p>
+<p>Access: restricted</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_87</p>
+<p>TITLE: Experimental Results for &quot;Network Flow-Based Refinement for Multilevel Hypergraph Partitioning&quot;</p>
+<p>ID: flow_87</p>
+<p>Dataset Page: https://zenodo.org/records/15387181</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15387181</p>
+<p>Title: Experimental Results for &quot;Network Flow-Based Refinement for Multilevel Hypergraph Partitioning&quot;</p>
+<p>DOI: 10.5281/zenodo.15387181</p>
+<p>Description: No Description</p>
+<p>Creators: Heuer, Tobias, Schlag, Sebastian</p>
+<p>Publication Date: 2025-05-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_88</p>
+<p>TITLE: Dataset for Impacts of Spatial-Temporal Rainfall Structures and Antecedent Wetness on Flood Variability at the Catchment Scale</p>
+<p>ID: flow_88</p>
+<p>Dataset Page: https://zenodo.org/records/15383427</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15383427</p>
+<p>Title: Dataset for Impacts of Spatial-Temporal Rainfall Structures and Antecedent Wetness on Flood Variability at the Catchment Scale</p>
+<p>DOI: 10.5281/zenodo.15383427</p>
+<p>Description:</p>
+<p>Dataset for reproducing the results of Impacts of Spatial-Temporal Rainfall Structures and Antecedent Wetness on Flood Variability at the Catchment Scale.</p>
+<ul>
+<li>event_input.txt</li>
+</ul>
+<p>Event indicators in high flow samples with for all catchments to train the runoff prediction model.</p>
+<p>Observed streamflow data are removed due to the license issue.</p>
+<ul>
+<li>catchment_attributes.txt</li>
+</ul>
+<p>Catchment attributes.</p>
+<ul>
+<li>prediction_model/</li>
+</ul>
+<p>Trained runoff prediction model and its evaluation.</p>
+<p>Creators: Yang, Wencong, Li, Changming, Yang, Hanbo</p>
+<p>Publication Date: 2025-05-11 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_89</p>
+<p>TITLE: Congenital heart defects</p>
+<p>ID: flow_89</p>
+<p>Dataset Page: https://zenodo.org/records/15377767</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15377767</p>
+<p>Title: Congenital heart defects</p>
+<p>DOI: 10.5281/zenodo.15377767</p>
+<p>Description:</p>
+<p>Title: Congenital Heart Defects in Children: Understanding, Diagnosis, and Management</p>
+<p>Submitted to Muktarali kyzy begimai by Roshan Shinde of Group 32</p>
+<p>Abstract</p>
+<p>Congenital heart defects (CHDs) are structural abnormalities of the heart or great vessels present at birth, constituting the most common type of birth defect. Affecting nearly 1% of all live births, CHDs vary widely in severity, from minor asymp</p>
+<p>Creators: Roshan Shinde</p>
+<p>Publication Date: 2025-05-10 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_90</p>
+<p>TITLE: Separation of Indium Phosphide/Zinc Sulfide Core−Shell Quantum Dots from Shelling Byproducts through Multistep Agglomeration</p>
+<p>ID: flow_90</p>
+<p>Dataset Page: https://zenodo.org/records/15372983</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15372983</p>
+<p>Title: Separation of Indium Phosphide/Zinc Sulfide Core−Shell Quantum Dots from Shelling Byproducts through Multistep Agglomeration</p>
+<p>DOI: 10.5281/zenodo.15372983</p>
+<p>Description:</p>
+<p>The structure of the data set can be found in the word-file: Description</p>
+<p>This is the raw data associated to the manuscript &quot;Separation of Indium Phosphide/Zinc Sulfide Core−Shell Quantum Dots from Shelling Byproducts through Multistep Agglomeration&quot; published in ACS Nano.</p>
+<p>DOI journal article: https://doi.org/10.1021/acsnano.4c18530</p>
+<p>Creators: Rezvani, Azita, Wang, Zhuang, Wegner, Karl David, Soltanmoradi, Hadi, Kichigin, Alexander, Zhou, Xin, Gantenberg, Tobias, Schram, Juergen, Apeleo Zubiri, Benjamin, Spiecker, Erdmann, Walter, Johannes, Resch-Genger, Ute, Segets, Doris</p>
+<p>Publication Date: 2025-05-09 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: flow reactor synthesis, semiconductor nanoparticles, scalable separation, size and composition classification</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_91</p>
+<p>TITLE: Real-time tracking of energy flow in cluster formation</p>
+<p>ID: flow_91</p>
+<p>Dataset Page: https://zenodo.org/records/15363175</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15363175</p>
+<p>Title: Real-time tracking of energy flow in cluster formation</p>
+<p>DOI: 10.5281/zenodo.15363175</p>
+<p>Description: No Description</p>
+<p>Creators: Stadlhofer, Michael, Thaler, Bernhard, Heim, Pascal, Tiggesbäumker, Josef, Koch, Markus</p>
+<p>Publication Date: 2025-05-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_92</p>
+<p>TITLE: The System for Classification of Low-Pressure Systems (SyCLoPS) Dataset (Based on ERA5)</p>
+<p>ID: flow_92</p>
+<p>Dataset Page: https://zenodo.org/records/15368405</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15368405</p>
+<p>Title: The System for Classification of Low-Pressure Systems (SyCLoPS) Dataset (Based on ERA5)</p>
+<p>DOI: 10.5281/zenodo.15368405</p>
+<p>Description:</p>
+<p>This is the ERA5 System for Classification of Low-Pressure Systems (SyCLoPS) dataset* version 6*. Details of SyCLoPS algorithms are described in the paper titled <em>The System for Classification of Low-Pressure Systems (SyCLoPS): An All-in-One Objective Framework for Large-scale Data sets <em>published on <em>J. Geophys. Res. Atm.</em>:</em> https://doi.org/10.1029/2024JD041287 <a href="https://doi.org/10.1029/2024JD041287">https://doi.org/10.1029/2024JD041287</a></em></p>
+<p>We keep the most</p>
+<p>Creators: Han, Yushan, Ullrich, P. A.</p>
+<p>Publication Date: 2025-05-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_93</p>
+<p>TITLE: Global drivers of forest loss at 1 km resolution</p>
+<p>ID: flow_93</p>
+<p>Dataset Page: https://zenodo.org/records/15366671</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15366671</p>
+<p>Title: Global drivers of forest loss at 1 km resolution</p>
+<p>DOI: 10.5281/zenodo.15366671</p>
+<p>Description:</p>
+<p>The World Resources Institute and Google DeepMind created a global map of the dominant drivers of forest loss from 2001 to 2024 at 1 km spatial resolution (v1.2). We used a deep learning model to classify seven driver classes: permanent agriculture, hard commodities, shifting cultivation, logging, wildfires, settlements &amp; infrastructure, and other natural disturbances. As part of the study, we collected a set of training samples through interpretation of very high resolution sat</p>
+<p>Creators: Sims, Michelle, Stanimirova, Radost, Raichuk, Anton, Neumann, Maxim, Richter, Jessica, Follett, Forrest, MacCarthy, James, Lister, Kristine, Randle, Christopher, Sloat, Lindsey, Esipova, Elena, Jupiter, Jaelah, Stanton, Charlotte, Morris, Dan, Slay, Christy Melhart, Purves, Drew, Harris, Nancy</p>
+<p>Publication Date: 2025-05-21 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: forest decline, drivers of forest loss, permanent agriculture, neural network model</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_94</p>
+<p>TITLE: Easily available SCEC Community Model with SCEDC Earthquake catalog</p>
+<p>ID: flow_94</p>
+<p>Dataset Page: https://zenodo.org/records/15365193</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15365193</p>
+<p>Title: Easily available SCEC Community Model with SCEDC Earthquake catalog</p>
+<p>DOI: 10.5281/zenodo.15365193</p>
+<p>Description:</p>
+<p>Readme.pdf</p>
+<p>Detailed explanation of each data file.</p>
+<p>data_joined_all_SCEC.csv</p>
+<p>The full table containing spatially-varying physics-informed features is structured as an 20,975,691 (rows) by 38 (columns) dataframe. The first three columns – longitude, latitude, and depth – describe the position of a point, uniquely defining each row, at which values of other physical features in the row are described by all other columns in that row. Longitude, latit</p>
+<p>Creators: Ueda, Taku, Stockman, Samuel, Mirwald, Aron, Han, Marta, Campusano, Efrain, Corrado, Paola</p>
+<p>Publication Date: 2025-05-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Quakehack</p>
+<p>License: cc-by-4.0</p>
+<p>Version: V1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_95</p>
+<p>TITLE: Flight Planning with Traffic Flow Restrictions</p>
+<p>ID: flow_95</p>
+<p>Dataset Page: https://zenodo.org/records/15358409</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15358409</p>
+<p>Title: Flight Planning with Traffic Flow Restrictions</p>
+<p>DOI: 10.5281/zenodo.15358409</p>
+<p>Description:</p>
+<p>Results &amp; Data set for the paper &quot;Logic-Constrained Shortest Paths for Flight Planning&quot;.</p>
+<p>The data set consists of a real-world 3d airway network and a snapshot of ca. 20000 traffic flow restrictions.</p>
+<p>Creators: Euler, Ricardo, Maristany de las Casas, Pedro</p>
+<p>Publication Date: 2025-05-07 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-nc-nd-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_96</p>
+<p>TITLE: Data Supplement for &#39;Dynamic induction control for mitigation of wake-induced power losses: a wind tunnel study under different inflow conditions&#39;</p>
+<p>ID: flow_96</p>
+<p>Dataset Page: https://zenodo.org/records/15356141</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15356141</p>
+<p>Title: Data Supplement for &#39;Dynamic induction control for mitigation of wake-induced power losses: a wind tunnel study under different inflow conditions&#39;</p>
+<p>DOI: 10.5281/zenodo.15356141</p>
+<p>Description:</p>
+<p>This database contains experimental data from a wind tunnel investigation of dynamic induction control (DIC) in single- and two-turbine configurations, under baseline uniform inflow and two realistic atmospheric boundary layer inflows. A WindScanner lidar is used to remotely map the time-averaged wake characteristics of each turbine in vertical cross-sections at different downstream locations, while an active grid generates atmospheric-like inflows.</p>
+<p>Creators: Zúñiga Inestroza, Manuel Alejandro, Hulsman, Paul, Petrović, Vlaho, Kühn, Martin</p>
+<p>Publication Date: 2025-05-07 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Wind farm flow control, Active wake mixing, The pulse method, WindScanner lidar, Wind tunnel experiments</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_97</p>
+<p>TITLE: Survey on public observations of the flow state of temporary streams</p>
+<p>ID: flow_97</p>
+<p>Dataset Page: https://zenodo.org/records/15356462</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15356462</p>
+<p>Title: Survey on public observations of the flow state of temporary streams</p>
+<p>DOI: 10.5281/zenodo.15356462</p>
+<p>Description:</p>
+<p><em>Read me</em></p>
+<p>The data contains information about the Spot ID, the date and the answers of the participants. For the spot ID please refer to the following publication: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1352697/full https://doi.org/10.1039/D5GC00943J)</p>
+<p>Data related to Figure 1 and Figure S6:</p>
+<p>Fourier-transform infrared (FT-IR): FTIR spectra were recorded on a PerkinElmer ATR FTIR instrument, USA.</p>
+<p>Tensile test: The mechanical properties of</p>
+<p>Creators: Jaana, Vapaavuori, Zahra, Madani</p>
+<p>Publication Date: 2025-05-06 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_99</p>
+<p>TITLE: Material flow database adapted to the GTAP-CE 11c database</p>
+<p>ID: flow_99</p>
+<p>Dataset Page: https://zenodo.org/records/15343818</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15343818</p>
+<p>Title: Material flow database adapted to the GTAP-CE 11c database</p>
+<p>DOI: 10.5281/zenodo.15343818</p>
+<p>Description:</p>
+<p>Material flow database for the GTAP-CE 11c database (small aggregation) produced for the CIRCOMOD project</p>
+<p>Creators: Key, Ramon, Parrado, Ramiro, Bosello, Francesco</p>
+<p>Publication Date: 2025-05-05 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Version v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: flow_100</p>
+<p>TITLE: Seascape genomics uncovers complex connectivity patterns in reef corals</p>
+<p>ID: flow_100</p>
+<p>Dataset Page: https://zenodo.org/records/15340483</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15340483</p>
+<p>Title: Seascape genomics uncovers complex connectivity patterns in reef corals</p>
+<p>DOI: 10.5281/zenodo.15340483</p>
+<p>Description:</p>
+<p>Understanding how abiotic conditions shape biodiversity and population connectivity is essential for predicting future trends associated with climate change. Coral reefs face severe losses, making effective conservation strategies increasingly urgent. Success in these efforts relies on assessing genetic connectivity and identifying barriers and corridors to gene flow. The latter is influenced both by the environment and transport, but their relative importance can be non-intuitive and h</p>
+<p>Creators: Oury, Nicolas, Wang, Yixin, Ma, Jingyi, Terraneo, Tullia I., Marchese, Fabio, Barreca, Federica, Delgadillo, Nathalia, Vimercati, Silvia, Berumen, Michael L., Peixoto, Raquel, Paulay, Gustav, Hoteit, Ibrahim, Benzoni, Francesca</p>
+<p>Publication Date: 2027-12-31 00:00:00</p>
+<p>Access: embargoed</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_1</p>
+<p>TITLE: Dataset for the publication entitled &quot;An application of the Ecosystem Services Assessment approach to the provision of groundwater for human supply and to support aquifer management&quot;</p>
+<p>ID: aquifers_1</p>
+<p>Dataset Page: https://zenodo.org/records/15323735</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15323735</p>
+<p>Title: Dataset for the publication entitled &quot;An application of the Ecosystem Services Assessment approach to the provision of groundwater for human supply and to support aquifer management&quot;</p>
+<p>DOI: 10.5281/zenodo.15323735</p>
+<p>Description:</p>
+<p>This dataset contains spatially distributed nitrate concentration values derived from a groundwater flow and nitrate transport model developed for the Medina del Campo Groundwater Body (MCGB), in central Spain. The data were generated as part of the study entitled <em>&quot;An application of the Ecosystem Services Assessment approach to the provision of groundwater for human supply and to support aquifer management&quot;</em>, submitted to <em>Hydrology</em> (MDPI).</p>
+<p>Raster maps in CSV format rep</p>
+<p>Creators: Alcaraz, Mar, Manzano, Marisol, Borowiecka, Malgorzata</p>
+<p>Publication Date: 2025-05-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_2</p>
+<p>TITLE: Characterization of Hydraulic Parameters via Sensitivity Maps for Frequency-Based Oscillatory Pumping in 2D, Confined, Weakly Heterogeneous Aquifers</p>
+<p>ID: aquifers_2</p>
+<p>Dataset Page: https://zenodo.org/records/15199444</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15199444</p>
+<p>Title: Characterization of Hydraulic Parameters via Sensitivity Maps for Frequency-Based Oscillatory Pumping in 2D, Confined, Weakly Heterogeneous Aquifers</p>
+<p>DOI: 10.5281/zenodo.15199444</p>
+<p>Description:</p>
+<p>2D OHT <a href="https://github.com/woshizj123/2D_OHT#2d-oht">https://github.com/woshizj123/2D_OHT#2d-oht</a></p>
+<p>The author of this repository is Jiong Zhu. <a href="https://github.com/woshizj123/2D_OHT#the-author-of-this-repository-is-jiong-zhu">https://github.com/woshizj123/2D_OHT#the-author-of-this-repository-is-jiong-zhu</a></p>
+<p>This repository contains data related to the use of IES inversion, including reference random fields and 100 initial random fields generated for a two-dimensional OHT model.</p>
+<p>The data is shared as par</p>
+<p>Creators: Zhu, Jiong</p>
+<p>Publication Date: 2025-04-11 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_3</p>
+<p>TITLE: Dataset for &quot;Mechanisms of dispersion and mixing in heterogeneous compressible aquifers under transient forcing&quot;</p>
+<p>ID: aquifers_3</p>
+<p>Dataset Page: https://zenodo.org/records/13751939</p>
+<p>Metadata API URL: https://zenodo.org/api/records/13751939</p>
+<p>Title: Dataset for &quot;Mechanisms of dispersion and mixing in heterogeneous compressible aquifers under transient forcing&quot;</p>
+<p>DOI: 10.5281/zenodo.13751939</p>
+<p>Description: No Description</p>
+<p>Creators: Tajima, Satoshi, Dentz, Marco</p>
+<p>Publication Date: 2025-04-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_4</p>
+<p>TITLE: TABLE 1 in The role of allopatric speciation and ancient origins of Bathynellidae (Crustacea) in the Pilbara (Western Australia): two new genera from the De Grey River catchment</p>
+<p>ID: aquifers_4</p>
+<p>Dataset Page: https://zenodo.org/records/15140798</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15140798</p>
+<p>Title: TABLE 1 in The role of allopatric speciation and ancient origins of Bathynellidae (Crustacea) in the Pilbara (Western Australia): two new genera from the De Grey River catchment</p>
+<p>DOI: 10.5281/zenodo.15140798</p>
+<p>Description:</p>
+<p>TABLE 1 List of markers and primers with relative sequences utilised</p>
+<p><em>Marker</em> <em>Primer</em> <em>Sequence</em> <em>Reference/Designed by</em> <em>No of specimens amplified</em></p>
+<p>COI C1-J-1718 F 5’ GGAGGATTTGGAAATTGATTAGTTCC 3’ (Simon et al., 1994) 21</p>
+<p>C1-J-2329 R 5’ ACTGTAAATATATGATGAGCTCA 3’ &lt;</p>
+<p>Creators: Perina, Giulia, Camacho, Ana I., Huey, Joel, Horwitz, Pierre, Koenders, Annette</p>
+<p>Publication Date: 2019-10-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_5</p>
+<p>TITLE: TABLE 3 in Woznikella triradiata n. gen., n. sp. - a new kannemeyeriiform dicynodont from the Late Triassic of northern Pangea and the global distribution of Triassic dicynodonts</p>
+<p>ID: aquifers_5</p>
+<p>Dataset Page: https://zenodo.org/records/15137644</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15137644</p>
+<p>Title: TABLE 3 in Woznikella triradiata n. gen., n. sp. - a new kannemeyeriiform dicynodont from the Late Triassic of northern Pangea and the global distribution of Triassic dicynodonts</p>
+<p>DOI: 10.5281/zenodo.15137644</p>
+<p>Description:</p>
+<p>TABLE 3. — Occurrences of Triassic tracks possibly produced by dicynodonts.Note that the list is not comprehensive and likely numerous other mentions exist, particularly in local, non-English literature. The Country column includes all mentions deemed significant (i.e., not merely listing taxa from original literature, but providing mentions, descriptions, and/or images of new specimens, original data or reinterpretations of morphology, confirming the geographical and/or temporal presen</p>
+<p>Creators: Szczygielski, Tomasz, Sulej, Tomasz</p>
+<p>Publication Date: 2023-05-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_6</p>
+<p>TITLE: Tab. 3 - Distribuzione degli Idrobiidi s. l in Nuovi idrobiidi freatobi e stigobi dell&#39;Appennino Settentrionale in Piemonte, Liguria ed Emilia-Romagna (Gastropoda: Caenogastropoda: Hydrobiidae)</p>
+<p>ID: aquifers_6</p>
+<p>Dataset Page: https://zenodo.org/records/15135526</p>
+<p>Metadata API URL: https://zenodo.org/api/records/15135526</p>
+<p>Title: Tab. 3 - Distribuzione degli Idrobiidi s. l in Nuovi idrobiidi freatobi e stigobi dell&#39;Appennino Settentrionale in Piemonte, Liguria ed Emilia-Romagna (Gastropoda: Caenogastropoda: Hydrobiidae)</p>
+<p>DOI: 10.5281/zenodo.15135526</p>
+<p>Description:</p>
+<p>Tab. 3 - Distribuzione degli Idrobiidi s.l. nei principali sottobacini di destra idrografica del Fiume Po, dal Fiume Bormida di Millesimo al Fiume Panaro e nel bacino del Torrente Polcevera. Ecologia: Sb stigobio (esclusivo di acque sotterranee in acquiferi carsici o fratturati), Sf stigofilo (comunemente di acque sotterranee in acquiferi carsici o fratturati), Fb freatobio (esclusivo di acque sotterranee in acquiferi porosi), Ff freatofilo (comunemente di acque sotterranee in acquiferi poros</p>
+<p>Creators: Bodon, Marco, Cianfanelli, Simone</p>
+<p>Publication Date: 2022-03-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Biodiversity, Taxonomy</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_7</p>
+<p>TITLE: Groundwater dynamics in multi-layered aquifers of semi-arid alluvial plains of Gujarat, western India: insights from radiocarbon dating, stable isotope ratios and geochemical analysis</p>
+<p>ID: aquifers_7</p>
+<p>Dataset Page: https://zenodo.org/records/14857801</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14857801</p>
+<p>Title: Groundwater dynamics in multi-layered aquifers of semi-arid alluvial plains of Gujarat, western India: insights from radiocarbon dating, stable isotope ratios and geochemical analysis</p>
+<p>DOI: 10.5281/zenodo.14857801</p>
+<p>Description:</p>
+<p>This dataset  comprises radiocarbon measurements, stable isotope ratios, and geochemical parameters from groundwater in multi-layered aquifers of Gujarat, Western India</p>
+<p>Creators: Laskar, Amzad</p>
+<p>Publication Date: 2025-02-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Radiocarbon, stable isotope ratio, dissolved inorganic carbon, semi-arid, alluvial plain</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_8</p>
+<p>TITLE: Global Natural Gas Storage Market 2025 To 2034</p>
+<p>ID: aquifers_8</p>
+<p>Dataset Page: https://zenodo.org/records/14715858</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14715858</p>
+<p>Title: Global Natural Gas Storage Market 2025 To 2034</p>
+<p>DOI: 10.5281/zenodo.14715858</p>
+<p>Description:</p>
+<p>Natural Gas Storage Market Size, Trends and Insights By Storage Type (Underground, Floating, Others), By Application (Residential, Commercial, Others), and By Region - Global Industry Overview, Statistical Data, Competitive Analysis, Share, Outlook, and Forecast 2025–2034.</p>
+<p><em>Reports Description</em></p>
+<p>*Global Natural Gas Storage * <a href="https://www.custommarketinsights.com/report/natural-gas-storage-market/">https://www.custommarketinsights.com/report/natural-gas-storage-market/</a>Creators: Sirsat, Nitin</p>
+<p>Publication Date: 2025-01-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Natural Gas Storage Market, Natural Gas Storage Market Size, Natural Gas Storage Market Share, Natural Gas Storage Market Trends, Natural Gas Storage Market Research, Natural Gas Storage Market Report</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_9</p>
+<p>TITLE: Dataset for &quot;Tides and heterogeneity persistently trap contaminants1 and enhance mixing in coastal aquifers&quot;</p>
+<p>ID: aquifers_9</p>
+<p>Dataset Page: https://zenodo.org/records/14715754</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14715754</p>
+<p>Title: Dataset for &quot;Tides and heterogeneity persistently trap contaminants1 and enhance mixing in coastal aquifers&quot;</p>
+<p>DOI: 10.5281/zenodo.14715754</p>
+<p>Description: No Description</p>
+<p>Creators: Tajima, Satoshi, Marco, Dentz</p>
+<p>Publication Date: 2025-01-22 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_10</p>
+<p>TITLE: Groundwater levels at IGPVN and GW1 monitoring sites in the southern Vietnamese Mekong Delta, including calculated Earth and ocean tide strains and barometric data at IGPVN</p>
+<p>ID: aquifers_10</p>
+<p>Dataset Page: https://zenodo.org/records/14671298</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14671298</p>
+<p>Title: Groundwater levels at IGPVN and GW1 monitoring sites in the southern Vietnamese Mekong Delta, including calculated Earth and ocean tide strains and barometric data at IGPVN</p>
+<p>DOI: 10.5281/zenodo.14671298</p>
+<p>Description:</p>
+<p>Hourly data on groundwater levels in in three aquifers (qp2-3, qp1 and n22) at the monitoring sites IGPVN and GW1 in the southern Vietnamese Mekong Delta, as well as Earth tide strains calculated with PyGTide, ocean tide strains calculated with SPOTL, as well as barometric pressure data for IGPVN.</p>
+<p>Creators: Dörr, Felix</p>
+<p>Publication Date: 2025-01-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_11</p>
+<p>TITLE: Dataset for Unveiling trends in migration of iron-based nanoparticles in saturated porous media</p>
+<p>ID: aquifers_11</p>
+<p>Dataset Page: https://zenodo.org/records/14514467</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14514467</p>
+<p>Title: Dataset for Unveiling trends in migration of iron-based nanoparticles in saturated porous media</p>
+<p>DOI: 10.5281/zenodo.14514467</p>
+<p>Description:</p>
+<p><em>This repository contains data from the manuscript:</em></p>
+<p>Veselská, V., Magherini, L., Bianco, C., Šembera, J., Parma, P., Víchová, V., ... &amp; Filip, J. (2024). Unveiling trends in migration of iron-based nanoparticles in saturated porous media. <em>Journal of Environmental Management</em>, <em>370</em>, 122552. https://doi.org/10.1016/j.scitotenv.2024.175509</p>
+<p>Creators: Frascari, Dario</p>
+<p>Publication Date: 2024-12-17 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Adsorption, Hydrotalcite, Municipal wastewater, Phosphorous recovery, Seawater intrusion in coastal aquifers</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_14</p>
+<p>TITLE: MCG GPR dataset</p>
+<p>ID: aquifers_14</p>
+<p>Dataset Page: https://zenodo.org/records/14270869</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14270869</p>
+<p>Title: MCG GPR dataset</p>
+<p>DOI: 10.5281/zenodo.14270869</p>
+<p>Description:</p>
+<p>MCG GPR dataset</p>
+<p>The MCG GPR (Mixed Cropped Ground Penetrating Radar) dataset consists of randomly cropped and curated GPR images sourced from publicly available data. This dataset was initially developed for machine learning applications, with images processed using multiple segmentation techniques including Gabor filters, Histogram of Oriented Gradient (HOG), Eigenvector analysis, Clustering (K-means), and Gradient of Texture approaches, to create initial labels for each</p>
+<p>Creators: Freire, Marcos</p>
+<p>Publication Date: 2024-12-03 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: GPR, Ground Penetrating Radar images, Geophysics</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_15</p>
+<p>TITLE: A Database of Water Stable Isotopes in Iran&#39;s Strategic Aquifers</p>
+<p>ID: aquifers_15</p>
+<p>Dataset Page: https://zenodo.org/records/14261931</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14261931</p>
+<p>Title: A Database of Water Stable Isotopes in Iran&#39;s Strategic Aquifers</p>
+<p>DOI: 10.5281/zenodo.14261931</p>
+<p>Description: No Description</p>
+<p>Creators: Karimi, Omid, Noori, Roohollah, Javadi, Saman, Jun, Changhyun, Bateni, Sayed M, Choubin, Bahram, Noury, Mojtaba, Heydarzadeh, Mojtaba, Kianmehr, Peiman, Tang, Qiuhong, Huneau, Frederic, Pistre, Severin</p>
+<p>Publication Date: 2024-12-02 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_16</p>
+<p>TITLE: Global monthly sectoral water withdrawal and allocation datasets (QUAlloc, water use and allocation model) at 10 km spatial resolution</p>
+<p>ID: aquifers_16</p>
+<p>Dataset Page: https://zenodo.org/records/14009352</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14009352</p>
+<p>Title: Global monthly sectoral water withdrawal and allocation datasets (QUAlloc, water use and allocation model) at 10 km spatial resolution</p>
+<p>DOI: 10.5281/zenodo.14009352</p>
+<p>Description:</p>
+<p>Output data of water withdrawals and water allocation per water source from the sectoral water use and allocation model (QUAlloc).</p>
+<p>Dataset properties:</p>
+<ul>
+<li>
+<p>spatial resolution: 10 km (global-scale)</p>
+</li>
+<li>
+<p>temporal resolution: monthly time-step</p>
+</li>
+<li>
+<p>period: 1980 - 2019</p>
+</li>
+<li>
+<p>units: m3/month</p>
+</li>
+</ul>
+<p>Output datasets:</p>
+<p>&lt;data_type&gt;_&lt;sector_name&gt;<em>allocated_to</em>&lt;source_type&gt;_monthlyTot_1980_2019.nc</p>
+<ul>
+<li>&lt;data_type&gt;</li>
+</ul>
+<p>Creators: Cárdenas Belleza, Gabriel Antonio, van Beek, Rens, Bierkens, Marc F.P., Marinelli, Bryan, van Vliet, Michelle T.H.</p>
+<p>Publication Date: 2024-11-29 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Sectoral water use, Water demands, Global analysis, Water withdrawals, Water allocation</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_17</p>
+<p>TITLE: Impact of surface water-groundwater interactions on residual saltwater desalinization behind subsurface dams in coastal aquifers</p>
+<p>ID: aquifers_17</p>
+<p>Dataset Page: https://zenodo.org/records/14230019</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14230019</p>
+<p>Title: Impact of surface water-groundwater interactions on residual saltwater desalinization behind subsurface dams in coastal aquifers</p>
+<p>DOI: 10.5281/zenodo.14230019</p>
+<p>Description: No Description</p>
+<p>Creators: Gao, Shaobo</p>
+<p>Publication Date: 2024-11-27 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_18</p>
+<p>TITLE: Geological areas of interest for Geothermal District Heating utilization in Europe - GeoDH project</p>
+<p>ID: aquifers_18</p>
+<p>Dataset Page: https://zenodo.org/records/14044110</p>
+<p>Metadata API URL: https://zenodo.org/api/records/14044110</p>
+<p>Title: Geological areas of interest for Geothermal District Heating utilization in Europe - GeoDH project</p>
+<p>DOI: 10.5281/zenodo.14044110</p>
+<p>Description:</p>
+<p>The dataset includes four shapefiles showing the location data of geological areas of interest for Geothermal District Heating, including hot sedimentary aquifers and Neogene basins. The hot sedimentary aquifers layer represents areas where Neogene basin contours (sourced from the IGME Europe geological map at a scale of 1:5,000,000) overlap with regions where subsurface temperatures exceed 50°C at 1000m depth and/or 100°C at 2000m depth.</p>
+<p>This dataset was developed for assessin</p>
+<p>Creators: Nador, Annamaria</p>
+<p>Publication Date: 2024-11-06 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_19</p>
+<p>TITLE: Data for: Temporal consistency and spatial variability in detection: implications for monitoring of macroinvertebrates from shallow groundwater aquifers (Subterranean Biology, 2024)</p>
+<p>ID: aquifers_19</p>
+<p>Dataset Page: https://zenodo.org/records/13828713</p>
+<p>Metadata API URL: https://zenodo.org/api/records/13828713</p>
+<p>Title: Data for: Temporal consistency and spatial variability in detection: implications for monitoring of macroinvertebrates from shallow groundwater aquifers (Subterranean Biology, 2024)</p>
+<p>DOI: 10.5281/zenodo.13828713</p>
+<p>Description:</p>
+<p>Original research article: Knüsel M., Alther R., Couton M. &amp; Altermatt F. (2024) Temporal consistency and spatial variability in detection: implications for monitoring of macroinvertebrates from shallow groundwater aquifers. Subterranean Biology 49: 139-161. https://doi.org/10.3897/subtbiol.49.132515</p>
+<p>Creators: Knüsel, Mara, Alther, Roman, Couton, Marjorie, Altermatt, Florian</p>
+<p>Publication Date: 2024-10-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_20</p>
+<p>TITLE: Supplementary material 1 from: Knüsel M, Alther R, Couton M, Altermatt F (2024) Temporal consistency and spatial variability in detection: implications for monitoring of macroinvertebrates from shallow groundwater aquifers. Subterranean Biology 49: 139-161. https://doi.org/10.3897/subtbiol.49.132515</p>
+<p>ID: aquifers_20</p>
+<p>Dataset Page: https://zenodo.org/records/13911179</p>
+<p>Metadata API URL: https://zenodo.org/api/records/13911179</p>
+<p>Title: Supplementary material 1 from: Knüsel M, Alther R, Couton M, Altermatt F (2024) Temporal consistency and spatial variability in detection: implications for monitoring of macroinvertebrates from shallow groundwater aquifers. Subterranean Biology 49: 139-161. https://doi.org/10.3897/subtbiol.49.132515</p>
+<p>DOI: 10.3897/subtbiol.49.132515.suppl1</p>
+<p>Description: Supplementary information</p>
+<p>Creators: Knüsel, Mara, Alther, Roman, Couton, Marjorie, Altermatt, Florian</p>
+<p>Publication Date: 2024-10-08 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Citizen science, detection, Niphargus, occurrence, seasonality, stygofauna, subterranean</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_21</p>
+<p>TITLE: Data for: Terrestrial land use signals on groundwater fauna beyond current protection buffers (Ecological Applications, 2024)</p>
+<p>ID: aquifers_21</p>
+<p>Dataset Page: https://zenodo.org/records/12731054</p>
+<p>Metadata API URL: https://zenodo.org/api/records/12731054</p>
+<p>Title: Data for: Terrestrial land use signals on groundwater fauna beyond current protection buffers (Ecological Applications, 2024)</p>
+<p>DOI: 10.5281/zenodo.12731054</p>
+<p>Description:</p>
+<p>Original research article: Knüsel M., Alther R. &amp; Altermatt F. (2024). Terrestrial land use signals on groundwater fauna beyond current protection buffers. <em>Ecological Applications.</em></p>
+<p>Creators: Knüsel, Mara, Alther, Roman, Altermatt, Florian</p>
+<p>Publication Date: 2024-09-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: v1.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_22</p>
+<p>TITLE: Flux of density-driven convective dissolution in heterogeneous porous media</p>
+<p>ID: aquifers_22</p>
+<p>Dataset Page: https://zenodo.org/records/12752710</p>
+<p>Metadata API URL: https://zenodo.org/api/records/12752710</p>
+<p>Title: Flux of density-driven convective dissolution in heterogeneous porous media</p>
+<p>DOI: 10.5281/zenodo.12752710</p>
+<p>Description:</p>
+<p>Dissolution of CO2 in to brine can increase the density of CO2 rich brine and can cause density driven convection, which can enhance the dissolution of CO2 into brine. Permeability heterogeneity in natural saline aquifers cuases uncertaintis in dissolutio rates, which is measured with mass flux at the  CO2-brine interface. Both laboratory experiments and numerical simiulations were conducted to investigate the impact of permeability heterogeneity on convective dissolution. This dat</p>
+<p>Creators: Guo, Ruichang</p>
+<p>Publication Date: 2024-07-16 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_23</p>
+<p>TITLE: Raised bogs are the key source of methane in West Siberia terrestrial seeps</p>
+<p>ID: aquifers_23</p>
+<p>Dataset Page: https://zenodo.org/records/12543359</p>
+<p>Metadata API URL: https://zenodo.org/api/records/12543359</p>
+<p>Title: Raised bogs are the key source of methane in West Siberia terrestrial seeps</p>
+<p>DOI: 10.5061/dryad.31zcrjdr4</p>
+<p>Description:</p>
+<p>The expansive plains of western Siberia contain globally significant carbon stocks, with the largest peatland complex in the world overlying the planet&#39;s largest known hydrocarbon basin. Numerous terrestrial methane seeps have been recently discovered on this landscape, located along the Ob and Irtysh River floodplains in hotspots covering more than 2,500 km2. The origin of methane from these seeps is a matter of both practical and academic interest. The release of even negligible</p>
+<p>Creators: Sabrekov, Aleksandr, Terentieva, Irina, McDermid, Gregory, Litti, Yuriy, Prokushkin, Anatoly, Glagolev, Mikhail, Petrozhitskiy, Alexey, Kalinkin, Peter, Kuleshov, Dmitry, Parkhomchuk, Ekaterina</p>
+<p>Publication Date: 2024-06-26 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: methane biogeochemistry, stable isotope, Metabolic pathways, groundwater methane, northern peatlands</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_24</p>
+<p>TITLE: Isogeochemical characterization of mountain system recharge processes in the Sierra Nevada, California</p>
+<p>ID: aquifers_24</p>
+<p>Dataset Page: https://zenodo.org/records/11613722</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11613722</p>
+<p>Title: Isogeochemical characterization of mountain system recharge processes in the Sierra Nevada, California</p>
+<p>DOI: 10.5061/dryad.0cfxpnw9t</p>
+<p>Description:</p>
+<p>Mountain System Recharge processes are significant natural recharge pathways in many arid and semi-arid mountainous regions. However, Mountain System Recharge processes are often poorly understood and characterized in hydrologic models. Mountains are the primary water supply source to valley aquifers via lateral groundwater flow from the mountain block (Mountain Block Recharge) and focused recharge from mountain streams contributing to focused Mountain Front Recharge at the piedmont zone. Her</p>
+<p>Creators: Armengol Vall, Sandra, Ajami, Hoori, Acero Triana, Juan S., O&#39;Sickman, James, Ortega, Lucia</p>
+<p>Publication Date: 2024-06-12 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Sierra (mountain range), Mountain System Recharge, Hydrogeochemisty, End-Member Mixing Analysis, Mountain Front Recharge, Mountain Block Recharge</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_25</p>
+<p>TITLE: Spatial analysis of the potential impact of contaminated areas on wells and aquifers in the Upper Tietê Basin, São Paulo, Brazil</p>
+<p>ID: aquifers_25</p>
+<p>Dataset Page: https://zenodo.org/records/11407132</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11407132</p>
+<p>Title: Spatial analysis of the potential impact of contaminated areas on wells and aquifers in the Upper Tietê Basin, São Paulo, Brazil</p>
+<p>DOI: 10.5281/zenodo.11407132</p>
+<p>Description:</p>
+<p>Upper Tietê stands out as the basin with the highest concentration of contaminated areas in São Paulo, Brazil, thereby exerting a pronounced impact on the quality of groundwater and directly affecting the resident population. Recognizing the importance of developing indicators for effective aquifer management, this study proposed to identify and assess the degree of risk, vulnerability, and contamination of aquifers and wells in the Upper Tietê Basin. Were applied the</p>
+<p>Creators: Vieira Vasconcelos, Vitor, Medeiros de Camargo, Ana Carolina, Nehara Moreira, Rodrigo, Baptista Benedito Leite, Claudio</p>
+<p>Publication Date: 2024-06-01 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_26</p>
+<p>TITLE: The dataset for the manuscript entitled &quot;Seawater intrusion inhibits nitrate removal in tidal marsh aquifers&quot;</p>
+<p>ID: aquifers_26</p>
+<p>Dataset Page: https://zenodo.org/records/11392959</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11392959</p>
+<p>Title: The dataset for the manuscript entitled &quot;Seawater intrusion inhibits nitrate removal in tidal marsh aquifers&quot;</p>
+<p>DOI: 10.5281/zenodo.11392959</p>
+<p>Description:</p>
+<p>This is the dataset for the manuscript entitled &quot;Seawater intrusion inhibits nitrate removal in tidal marsh aquifers&quot;.</p>
+<p>Creators: Luo, Zhaoyang, Kong, Jun, Yu, Xiayang, Gao, Chao, Barry, D., Fatichi, Simone</p>
+<p>Publication Date: 2024-05-30 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_27</p>
+<p>TITLE: Data from: Extensive admixture among karst-obligate salamanders reveals evidence of recent divergence and gene exchange through aquifers</p>
+<p>ID: aquifers_27</p>
+<p>Dataset Page: https://zenodo.org/records/11260909</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11260909</p>
+<p>Title: Data from: Extensive admixture among karst-obligate salamanders reveals evidence of recent divergence and gene exchange through aquifers</p>
+<p>DOI: 10.5061/dryad.3r2280gpx</p>
+<p>Description:</p>
+<p>Karst ecosystems often contain extraordinary biodiversity, but the complex underground aquifers of karst regions present challenges for assessing and conserving stygobiont diversity and investigating their evolutionary history. We examined the karst-obligate salamanders of the Eurycea neotenes species complex in the Edwards Plateau region of central Texas using population genomics data to address questions about population connectivity and the potential for gene exchange within the underlying</p>
+<p>Creators: Nice, Chris, Bell, Katherine, Gompert, Zachariah, Lucas, Lauren, Ott, James, Tovar, Ruben, Crump, Paul, Diaz, Peter</p>
+<p>Publication Date: 2024-05-23 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Genomic differentiation, Gene flow, population genomics, Eurycea, Plethodontidae</p>
+<p>License: cc-zero</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_28</p>
+<p>TITLE: Data set for: Pore-scale simulation of salt precipitation during CO2 injection into saline aquifers, Water Resources Research</p>
+<p>ID: aquifers_28</p>
+<p>Dataset Page: https://zenodo.org/records/11158212</p>
+<p>Metadata API URL: https://zenodo.org/api/records/11158212</p>
+<p>Title: Data set for: Pore-scale simulation of salt precipitation during CO2 injection into saline aquifers, Water Resources Research</p>
+<p>DOI: 10.5281/zenodo.11158212</p>
+<p>Description:</p>
+<p>This dataset includes output data used for analyses presented in the paper titled: Pore-scale simulation of salt precipitation during CO2 injection into saline aquifers and submitted to Water Resources Research.</p>
+<p>Creators: Ding, Kaiyue, Liu, Shanchao, Zhang, Yulin, Yao, Jun, Sun, Hai, Yang, Yongfei, Zhang, Lei, Zhong, Junjie</p>
+<p>Publication Date: 2024-05-15 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: No Keywords</p>
+<p>License: cc-by-4.0</p>
+<p>Version: Unknown Version</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_29</p>
+<p>TITLE: Land Subsidence in Iran Estimated from a Nationwide InSAR Analysis of Sentinel-1 Observations 2014-2020</p>
+<p>ID: aquifers_29</p>
+<p>Dataset Page: https://zenodo.org/records/10815578</p>
+<p>Metadata API URL: https://zenodo.org/api/records/10815578</p>
+<p>Title: Land Subsidence in Iran Estimated from a Nationwide InSAR Analysis of Sentinel-1 Observations 2014-2020</p>
+<p>DOI: 10.5281/zenodo.10815578</p>
+<p>Description:</p>
+<p><em>Overview</em></p>
+<p>This dataset is a supplementary material to the paper &quot;Haghighi and Motagh, 2024. Uncovering the Impacts of Depleting Aquifers: A Remote Sensing Analysis of Land Subsidence in Iran, Science Advances&quot;. It provides detailed insights into land subsidence across Iran, derived from Sentinel-1 InSAR observations. This dataset is intended for use by researchers, policymakers, and practitioners interested in land subsidence, groundwater depletion, and related fields.&lt;</p>
+<p>Creators: H Haghighi, Mahmud, Motagh, Mahdi</p>
+<p>Publication Date: 2024-04-04 00:00:00</p>
+<p>Access: open</p>
+<p>Keywords: Land subsidence, Iran, InSAR, Sentinel-1, Small Baselines, SBAS, Large scale, Groundwater</p>
+<p>License: cc-by-4.0</p>
+<p>Version: 1.0.0</p>
+<p>=== ENTRY ===</p>
+<p>CATALOGUE: Task_3.3.1_Open_Data_and_Sensing_Sources_Zenodo_Data_Source</p>
+<p>ID: aquifers_30</p>
+<p>TITLE: X-ray diffraction laboratory investigation for the Eptachori, Pentalofos and Tsotyli formations in West Macedonia</p>
+<p>ID: aquifers_30</p>
+<p>Dataset Page: https://zenodo.org/records/10891027</p>
+<p>Metadata API URL: https://zenodo.org/api/records/10891027</p>
+<p>Title: X-ray diffraction laboratory investigation for the Eptachori, Pentalofos and Tsotyli formations in West Macedonia</p>
+<p>DOI: 10.5281/zenodo.10891027</p>
+<p>Description:</p>
+<p>The data comprises work under the Project Pilot Strategy GA No. 101022664, funded by the European Union.</p>
+<p>The work relates to rock samples collected in 2022 in West Macedonia, Greece. For full details, please refer to the following:</p>
+<ol>
+<li>Tsotyli formation: https://app.geosamples.org/sample/igsn/IE5770001 - *WGS84 Lat : 40.3075, *</li>
+</ol>
